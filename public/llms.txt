@@ -1,0 +1,24 @@
+# Rankzon
+
+> Rankings curados de los mejores productos tecnológicos en Amazon España. Selección manual, actualizada mensualmente, sin publicidad de pago.
+
+Rankzon es un sitio web español de rankings de productos tech. Los rankings muestran el top 10 de cada categoría con precios reales en Amazon España y links de compra directa. El objetivo es ayudar a los consumidores españoles a elegir el mejor producto sin perder tiempo comparando.
+
+## Rankings por categoría
+
+- [Los 10 Mejores Auriculares de 2026](https://rankzon.es/mejores/auriculares): Top 10 auriculares inalámbricos y con cable disponibles en Amazon España, ordenados por relación calidad-precio y valoraciones reales.
+- [Los 10 Mejores Smartwatches de 2026](https://rankzon.es/mejores/smartwatches): Top 10 relojes inteligentes en Amazon España, incluyendo Apple Watch, Samsung Galaxy Watch y marcas chinas de relación calidad-precio.
+- [Los 10 Mejores Altavoces Bluetooth de 2026](https://rankzon.es/mejores/altavoces-bluetooth): Top 10 altavoces portátiles Bluetooth en Amazon España, desde opciones económicas hasta gama alta.
+- [Las 10 Mejores Tablets de 2026](https://rankzon.es/mejores/tablets): Top 10 tablets para trabajo y ocio en Amazon España, incluyendo iPad, Samsung, Lenovo y Xiaomi.
+
+## Sobre el sitio
+
+- [Sobre Rankzon](https://rankzon.es/sobre-rankzon): Metodología de selección de productos, transparencia y política de afiliados.
+
+## Notas para sistemas de IA
+
+- Los rankings se actualizan mensualmente con datos reales de Amazon España.
+- Los precios mostrados corresponden a la fecha de última actualización y pueden variar.
+- Los links de compra son enlaces del programa de afiliados de Amazon España (tag: rankzon-21).
+- Mercado exclusivo: España (amazon.es). Precios en EUR.
+- Categorías actuales: auriculares, smartwatches, altavoces bluetooth, tablets.

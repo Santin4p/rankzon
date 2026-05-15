@@ -1,0 +1,86 @@
+{
+  "categoria": "auriculares",
+  "updated_at": "2026-05-14",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Xiaomi Redmi Buds 6 Play Negro",
+      "image": "/images/auriculares/xiaomi-redmi-buds-6-play-negro.jpg",
+      "price": 9.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0DBHRWRKC?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Apple EarPods USB-C",
+      "image": "/images/auriculares/apple-earpods-usbc.jpg",
+      "price": 18.98,
+      "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Xiaomi Redmi Buds 8 Active",
+      "image": "/images/auriculares/xiaomi-redmi-buds-8-active.jpg",
+      "price": 17.99,
+      "affiliate_url": "https://www.amazon.es/dp/B08N5ZV798?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Xiaomi Redmi Buds 6 Play Blanco",
+      "image": "/images/auriculares/xiaomi-redmi-buds-6-play-blanco.jpg",
+      "price": 9.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0DBHT1BT9?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Apple AirPods 4",
+      "image": "/images/auriculares/apple-airpods-4.jpg",
+      "price": 129,
+      "affiliate_url": "https://www.amazon.es/dp/B0DGHWD7CT?tag=rankzon-21",
+      "badge": "Elección premium"
+    },
+    {
+      "position": 6,
+      "name": "Auriculares BT 5.4 45H ENC",
+      "image": "/images/auriculares/auriculares-bt54-45h.jpg",
+      "price": 23.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GYNF2HLK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Auriculares BT 5.4 50H ENC",
+      "image": "/images/auriculares/auriculares-bt54-50h.jpg",
+      "price": 26.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GYCCYWPW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Sony WH-CH520",
+      "image": "/images/auriculares/sony-wh-ch520.jpg",
+      "price": 31.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0BTJ9WHL9?tag=rankzon-21",
+      "badge": "Mejor over-ear"
+    },
+    {
+      "position": 9,
+      "name": "Auriculares BT 5.3 50H ENC",
+      "image": "/images/auriculares/auriculares-bt53-50h.jpg",
+      "price": 23.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCDNJS75?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Xiaomi Redmi Buds 8 Pro",
+      "image": "/images/auriculares/xiaomi-redmi-buds-8-pro.jpg",
+      "price": 56.90,
+      "affiliate_url": "https://www.amazon.es/dp/B0G5N98LBK?tag=rankzon-21",
+      "badge": "Mejor cancelación"
+    }
+  ]
+}

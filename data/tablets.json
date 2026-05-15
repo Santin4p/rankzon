@@ -1,0 +1,86 @@
+{
+  "categoria": "tablets",
+  "updated_at": "2026-05-14",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Apple iPad 11 (A16)",
+      "image": "/images/tablets/apple-ipad-11-a16.jpg",
+      "price": 349,
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Lenovo Idea Tab 11",
+      "image": "/images/tablets/lenovo-idea-tab-11.jpg",
+      "price": 189,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKH7MNLW?tag=rankzon-21",
+      "badge": "Mejor calidad-precio"
+    },
+    {
+      "position": 3,
+      "name": "BIEGEDY Tablet 10\" Android 15",
+      "image": "/images/tablets/biegedy-tablet-10-android15.jpg",
+      "price": 109.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GVN4LSPP?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Lenovo Tab 10.1",
+      "image": "/images/tablets/lenovo-tab-101.jpg",
+      "price": 139,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKH8F6YB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "BIEGEDY Tablet 10\" 20GB",
+      "image": "/images/tablets/biegedy-tablet-10-20gb.jpg",
+      "price": 75.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GTDNBS1B?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "SANNUO Tablet Niños 7\"",
+      "image": "/images/tablets/sannuo-tablet-ninos-7.jpg",
+      "price": 46.98,
+      "affiliate_url": "https://www.amazon.es/dp/B0FP5C2V1R?tag=rankzon-21",
+      "badge": "Mejor para niños"
+    },
+    {
+      "position": 7,
+      "name": "Apple iPad Air 11 M3",
+      "image": "/images/tablets/apple-ipad-air-11-m3.jpg",
+      "price": 589,
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ76441X?tag=rankzon-21",
+      "badge": "Elección premium"
+    },
+    {
+      "position": 8,
+      "name": "Xiaomi Redmi Pad 2",
+      "image": "/images/tablets/xiaomi-redmi-pad-2.jpg",
+      "price": 181.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0FBRC83SX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Tablet Android 15 10\" 24GB",
+      "image": "/images/tablets/tablet-android15-10-24gb.jpg",
+      "price": 89.35,
+      "affiliate_url": "https://www.amazon.es/dp/B0GCZSR8J1?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Lenovo Idea Tab Pro 12.7\"",
+      "image": "/images/tablets/lenovo-idea-tab-pro-127.jpg",
+      "price": 299,
+      "affiliate_url": "https://www.amazon.es/dp/B0DT4ZHQGQ?tag=rankzon-21",
+      "badge": "Mayor pantalla"
+    }
+  ]
+}

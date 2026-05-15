@@ -1,0 +1,86 @@
+{
+  "categoria": "altavoces-bluetooth",
+  "updated_at": "2026-05-14",
+  "productos": [
+    {
+      "position": 1,
+      "name": "JBL Go 4",
+      "image": "/images/altavoces-bluetooth/jbl-go-4.jpg",
+      "price": 36.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0CX5F5QXQ?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "JBL Charge 6",
+      "image": "/images/altavoces-bluetooth/jbl-charge-6.jpg",
+      "price": 155.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0DXKNBQS6?tag=rankzon-21",
+      "badge": "Mayor batería"
+    },
+    {
+      "position": 3,
+      "name": "JBL Flip 7",
+      "image": "/images/altavoces-bluetooth/jbl-flip-7.jpg",
+      "price": 109,
+      "affiliate_url": "https://www.amazon.es/dp/B0DXKMXPXW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "UOHHBOE BT 30W LED",
+      "image": "/images/altavoces-bluetooth/uohhboe-30w.jpg",
+      "price": 19.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0CMTLN7F9?tag=rankzon-21",
+      "badge": "Mejor precio"
+    },
+    {
+      "position": 5,
+      "name": "Sony SRS-XB100",
+      "image": "/images/altavoces-bluetooth/sony-srs-xb100.jpg",
+      "price": 36.70,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCYFP62W?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Altavoz BT 5.4 15W IPX7",
+      "image": "/images/altavoces-bluetooth/altavoz-bt-15w-ipx7.jpg",
+      "price": 21.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GLGCCHWW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "UOHHBOE BT RGB IPX5",
+      "image": "/images/altavoces-bluetooth/uohhboe-rgb.jpg",
+      "price": 17.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0DV3NR5WN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Soundcore Anker 2",
+      "image": "/images/altavoces-bluetooth/soundcore-anker-2.jpg",
+      "price": 31.99,
+      "affiliate_url": "https://www.amazon.es/dp/B01MTB55WH?tag=rankzon-21",
+      "badge": "Calidad-precio"
+    },
+    {
+      "position": 9,
+      "name": "JBL Clip 5",
+      "image": "/images/altavoces-bluetooth/jbl-clip-5.jpg",
+      "price": 45.50,
+      "affiliate_url": "https://www.amazon.es/dp/B0CX94G62T?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "JBL Grip",
+      "image": "/images/altavoces-bluetooth/jbl-grip.jpg",
+      "price": 77.90,
+      "affiliate_url": "https://www.amazon.es/dp/B0FMGXH38Q?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}
