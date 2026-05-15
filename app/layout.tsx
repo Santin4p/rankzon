@@ -1,9 +1,9 @@
 import type { Metadata } from "next"
 import { Plus_Jakarta_Sans } from "next/font/google"
-import { GoogleAnalytics } from "@next/third-parties/google"
 import "./globals.css"
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
+import CookieConsent from "@/components/CookieConsent"
 
 const jakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
@@ -39,8 +39,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />
+        <CookieConsent />
       </body>
-      <GoogleAnalytics gaId="G-6L4KEDLXCZ" />
     </html>
   )
 }
