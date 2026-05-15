@@ -13,8 +13,8 @@ export default function AvisoLegal() {
         </p>
         <p>
           Para cualquier consulta, puede contactar a través del correo electrónico:{" "}
-          <a href="mailto:hola@rankzon.es" className="text-[#2563EB] hover:underline">
-            hola@rankzon.es
+          <a href="mailto:contacto@rankzon.es" className="text-[#2563EB] hover:underline">
+            contacto@rankzon.es
           </a>
         </p>
         <p>

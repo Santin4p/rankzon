@@ -54,8 +54,8 @@ export default function Footer() {
           </p>
           <p className="text-xs text-[#64748B]">
             © {new Date().getFullYear()} Rankzon · Contacto:{" "}
-            <a href="mailto:hola@rankzon.es" className="hover:text-[#2563EB] transition-colors">
-              hola@rankzon.es
+            <a href="mailto:contacto@rankzon.es" className="hover:text-[#2563EB] transition-colors">
+              contacto@rankzon.es
             </a>
           </p>
         </div>

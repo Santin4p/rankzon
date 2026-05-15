@@ -18,8 +18,8 @@ export default function Privacidad() {
         <h2 className="text-xl font-bold mt-6">Derechos del usuario</h2>
         <p>
           Puede ejercer sus derechos de acceso, rectificación, supresión y oposición enviando un correo a{" "}
-          <a href="mailto:hola@rankzon.es" className="text-[#2563EB] hover:underline">
-            hola@rankzon.es
+          <a href="mailto:contacto@rankzon.es" className="text-[#2563EB] hover:underline">
+            contacto@rankzon.es
           </a>.
         </p>
       </div>
