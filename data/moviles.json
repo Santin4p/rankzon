@@ -1,0 +1,115 @@
+{
+  "categoria": "moviles",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "XIAOMI Redmi Note 14 - Smartphone de 8+256GB",
+      "image": "/images/moviles/xiaomi-redmi-note-14-smartphone-de-8-256gb.jpg",
+      "price": 148.99,
+      "rating": 4,
+      "reviews": 3449,
+      "affiliate_url": "https://www.amazon.es/dp/B0DRCX34LQ?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Pantalla AMOLED 6.67\" con 120Hz y colores vivos", "Batería 5500mAh con carga rápida 33W", "Cámara trasera 108MP con fotos muy nítidas", "Excelente relación calidad-precio"],
+      "cons": ["No incluye cargador en la caja", "Cámara frontal con nitidez mejorable"],
+      "user_summary": "Los compradores destacan su fluidez, buena batería y excelente relación calidad-precio. El inconveniente más repetido es que no trae cargador en la caja."
+    },
+    {
+      "position": 2,
+      "name": "XIAOMI REDMI Note 15 - Smartphone de 8+256GB",
+      "image": "/images/moviles/xiaomi-redmi-note-15-smartphone-de-8-256gb.jpg",
+      "price": 199.99,
+      "rating": 4,
+      "reviews": 1978,
+      "affiliate_url": "https://www.amazon.es/dp/B0FX9Y2PBR?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Pantalla AMOLED mejorada con alta tasa de refresco", "Procesador más potente que el Note 14", "8GB RAM + 256GB: fluidez y almacenamiento amplio", "Carga rápida para recuperar batería en minutos"],
+      "cons": ["Sin cargador incluido en la caja", "Listado reciente con pocas reseñas verificadas aún"],
+      "user_summary": "Evolución directa del bestseller Note 14, con mayor potencia y pantalla actualizada. Ideal para quien quiere lo mejor de Xiaomi por debajo de 200€."
+    },
+    {
+      "position": 3,
+      "name": "XIAOMI POCO C85 - Smartphone de 6+128GB",
+      "image": "/images/moviles/xiaomi-poco-c85-smartphone-de-6-128gb.jpg",
+      "price": 109,
+      "rating": 4,
+      "reviews": 1434,
+      "affiliate_url": "https://www.amazon.es/dp/B0FHQHML5J?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Batería de 6000mAh con autonomía de varios días", "Pantalla grande de 6.9\" con experiencia inmersiva", "Octa-core + 8GB RAM: fluido en el uso diario", "El más asequible con 256GB de almacenamiento"],
+      "cons": ["Sin cargador incluido en la caja", "Cámara de 50MP sin zoom óptico"],
+      "user_summary": "Aclamado como el 'rey de las tres B: bueno, bonito y barato'. Su enorme batería y pantalla amplia lo hacen ideal para quien busca mucho teléfono por muy poco dinero."
+    },
+    {
+      "position": 4,
+      "name": "XIAOMI POCO X8 Pro - Smartphone de 12+512GB",
+      "image": "/images/moviles/xiaomi-poco-x8-pro-smartphone-de-12-512gb.jpg",
+      "price": 369.99,
+      "rating": 4,
+      "reviews": 682,
+      "affiliate_url": "https://www.amazon.es/dp/B0GHNGFXP5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "iPhone 14",
+      "image": "/images/moviles/iphone-14.jpg",
+      "price": 323,
+      "rating": 3,
+      "reviews": 5406,
+      "affiliate_url": "https://www.amazon.es/dp/B0BNLZ14Z2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Apple iPhone 17 de 256 GB: Pantalla de 6",
+      "image": "/images/moviles/apple-iphone-17-de-256-gb-pantalla-de-6.jpg",
+      "price": 919,
+      "rating": 4,
+      "reviews": 796,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQFJRZNZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "XIAOMI POCO M8 5G - Smartphone de 8+512GB",
+      "image": "/images/moviles/xiaomi-poco-m8-5g-smartphone-de-8-512gb.jpg",
+      "price": 229.99,
+      "rating": 4,
+      "reviews": 463,
+      "affiliate_url": "https://www.amazon.es/dp/B0G269WF6V?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Google Pixel 9a – Smartphone Android Libre con c",
+      "image": "/images/moviles/google-pixel-9a-smartphone-android-libre-con-c.jpg",
+      "price": 379.9,
+      "rating": 4,
+      "reviews": 2424,
+      "affiliate_url": "https://www.amazon.es/dp/B0DSWFHTL2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Redmi Note 15 Pro 8+256 Black (No Power Adapter",
+      "image": "/images/moviles/redmi-note-15-pro-8-256-black-no-power-adapter.jpg",
+      "price": 216.98,
+      "rating": 4,
+      "reviews": 68,
+      "affiliate_url": "https://www.amazon.es/dp/B0G2BHGW1D?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Samsung Galaxy A36 5G 256GB Teléfono Móvil",
+      "image": "/images/moviles/samsung-galaxy-a36-5g-256gb-telefono-movil.jpg",
+      "price": 299,
+      "rating": 4,
+      "reviews": 100,
+      "affiliate_url": "https://www.amazon.es/dp/B0DWFYQPJN?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

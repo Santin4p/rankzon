@@ -30,5 +30,13 @@
   "aspiradoras": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165707031",
     "name": "Aspiradoras"
+  },
+  "moviles": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/934197031",
+    "name": "Móviles"
+  },
+  "portatiles": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/938008031",
+    "name": "Portátiles"
   }
 }

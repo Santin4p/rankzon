@@ -1,15 +1,24 @@
 # Rankzon
 
-> Rankings curados de los mejores productos tecnológicos en Amazon España. Selección manual, actualizada mensualmente, sin publicidad de pago.
+> Rankings de los mejores productos de Amazon España por categoría. Selección basada en los más vendidos de Amazon, actualizada mensualmente, sin publicidad de pago.
 
-Rankzon es un sitio web español de rankings de productos tech. Los rankings muestran el top 10 de cada categoría con precios reales en Amazon España y links de compra directa. El objetivo es ayudar a los consumidores españoles a elegir el mejor producto sin perder tiempo comparando.
+Rankzon es un sitio web español de rankings de productos. Los rankings muestran el top 10 de los más vendidos de cada categoría en Amazon España con precios reales y links de compra directa. El objetivo es ayudar a los consumidores españoles a elegir el mejor producto sin perder tiempo comparando.
 
 ## Rankings por categoría
 
-- [Los 10 Mejores Auriculares de 2026](https://rankzon.es/mejores/auriculares): Top 10 auriculares inalámbricos y con cable disponibles en Amazon España, ordenados por relación calidad-precio y valoraciones reales.
-- [Los 10 Mejores Smartwatches de 2026](https://rankzon.es/mejores/smartwatches): Top 10 relojes inteligentes en Amazon España, incluyendo Apple Watch, Samsung Galaxy Watch y marcas chinas de relación calidad-precio.
-- [Los 10 Mejores Altavoces Bluetooth de 2026](https://rankzon.es/mejores/altavoces-bluetooth): Top 10 altavoces portátiles Bluetooth en Amazon España, desde opciones económicas hasta gama alta.
-- [Las 10 Mejores Tablets de 2026](https://rankzon.es/mejores/tablets): Top 10 tablets para trabajo y ocio en Amazon España, incluyendo iPad, Samsung, Lenovo y Xiaomi.
+### Tecnología
+- [Los 10 Mejores Auriculares de Amazon en 2026](https://rankzon.es/mejores/tecnologia/auriculares): Top 10 auriculares inalámbricos y con cable más vendidos en Amazon España.
+- [Los 10 Mejores Smartwatches de Amazon en 2026](https://rankzon.es/mejores/tecnologia/smartwatches): Top 10 relojes inteligentes más vendidos en Amazon España, incluyendo Apple Watch, Samsung y Xiaomi.
+- [Los 10 Mejores Altavoces Bluetooth de Amazon en 2026](https://rankzon.es/mejores/tecnologia/altavoces-bluetooth): Top 10 altavoces portátiles Bluetooth más vendidos en Amazon España.
+- [Las 10 Mejores Tablets de Amazon en 2026](https://rankzon.es/mejores/tecnologia/tablets): Top 10 tablets más vendidas en Amazon España, incluyendo iPad, Samsung, Lenovo y Xiaomi.
+- [Los 10 Mejores Móviles de Amazon en 2026](https://rankzon.es/mejores/tecnologia/moviles): Top 10 smartphones más vendidos en Amazon España.
+- [Los 10 Mejores Portátiles de Amazon en 2026](https://rankzon.es/mejores/tecnologia/portatiles): Top 10 portátiles más vendidos en Amazon España.
+
+### Electrodomésticos
+- [Las 10 Mejores Freidoras de Aire de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/freidoras-aire): Top 10 freidoras de aire más vendidas en Amazon España.
+- [Los 10 Mejores Robots Aspirador de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/robots-aspirador): Top 10 robots aspiradores más vendidos en Amazon España.
+- [Las 10 Mejores Cafeteras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/cafeteras): Top 10 cafeteras más vendidas en Amazon España.
+- [Las 10 Mejores Aspiradoras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/aspiradoras): Top 10 aspiradoras más vendidas en Amazon España.
 
 ## Sobre el sitio
 
@@ -17,8 +26,9 @@ Rankzon es un sitio web español de rankings de productos tech. Los rankings mue
 
 ## Notas para sistemas de IA
 
+- Los rankings se basan en los productos más vendidos de Amazon España en cada categoría.
 - Los rankings se actualizan mensualmente con datos reales de Amazon España.
 - Los precios mostrados corresponden a la fecha de última actualización y pueden variar.
 - Los links de compra son enlaces del programa de afiliados de Amazon España (tag: rankzon-21).
 - Mercado exclusivo: España (amazon.es). Precios en EUR.
-- Categorías actuales: auriculares, smartwatches, altavoces bluetooth, tablets.
+- Secciones activas: tecnologia (6 categorías), electrodomesticos (4 categorías).

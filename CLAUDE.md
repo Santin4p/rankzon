@@ -71,7 +71,7 @@ Campos reservados para fase 2 (PA API): `asin`, `description`, `pros[]`, `cons[]
 ## Convenciones
 
 - **URLs:** `/mejores/[categoria]` — slug en español, sin artículos. Ej: `/mejores/auriculares`
-- **Title tag:** `Los 10 Mejores [Categoría] de 2026 — Rankzon`
+- **Title tag:** `Los 10 Mejores [Categoría] de Amazon en 2026 — Rankzon`
 - **Meta description:** única por categoría, incluye keyword principal
 - **Imágenes:** WebP, guardadas localmente en `/public/images/`. Fuente: press kits del fabricante (no screenshots de Amazon)
 - **Links afiliado:** siempre con `?tag=rankzon-21`, atributo `rel="nofollow sponsored"`, abrir en nueva pestaña

@@ -42,6 +42,18 @@ export const sections: Section[] = [
         description: "Las mejores tablets para trabajo y ocio",
         previewImage: "/images/tablets/apple-ipad-de-11-pulgadas-chip-a16.jpg",
       },
+      {
+        slug: "moviles",
+        name: "Móviles",
+        description: "Los mejores smartphones del mercado",
+        previewImage: "/images/moviles/xiaomi-redmi-note-14-smartphone-de-8-256gb.jpg",
+      },
+      {
+        slug: "portatiles",
+        name: "Portátiles",
+        description: "Los mejores portátiles para trabajo y estudio",
+        previewImage: "/images/portatiles/apple-macbook-air-de-13.jpg",
+      },
     ],
   },
   {

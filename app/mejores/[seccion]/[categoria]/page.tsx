@@ -9,6 +9,8 @@ import auriculares from "@/data/auriculares.json"
 import smartwatches from "@/data/smartwatches.json"
 import altavoces from "@/data/altavoces-bluetooth.json"
 import tablets from "@/data/tablets.json"
+import moviles from "@/data/moviles.json"
+import portatiles from "@/data/portatiles.json"
 import freidorasAire from "@/data/freidoras-aire.json"
 import robotsAspirador from "@/data/robots-aspirador.json"
 import cafeteras from "@/data/cafeteras.json"
@@ -39,6 +41,8 @@ const rankingMap: Record<string, RankingData> = {
   smartwatches: smartwatches as unknown as RankingData,
   "altavoces-bluetooth": altavoces as unknown as RankingData,
   tablets: tablets as unknown as RankingData,
+  moviles: moviles as unknown as RankingData,
+  portatiles: portatiles as unknown as RankingData,
   "freidoras-aire": freidorasAire as unknown as RankingData,
   "robots-aspirador": robotsAspirador as unknown as RankingData,
   cafeteras: cafeteras as unknown as RankingData,
@@ -60,8 +64,8 @@ export async function generateMetadata({
   const { seccion, categoria } = await params
   const category = getCategoryBySlug(categoria, seccion)
   if (!category) return {}
-  const title = `Los 10 Mejores ${category.name} de 2026`
-  const description = `Ranking actualizado de los 10 mejores ${category.name.toLowerCase()} en Amazon España. Curación manual, sin publicidad de pago.`
+  const title = `Los 10 Mejores ${category.name} de Amazon en 2026`
+  const description = `Ranking actualizado de los 10 mejores ${category.name.toLowerCase()} de Amazon España. Curación manual, sin publicidad de pago.`
   return {
     title,
     description,
@@ -89,7 +93,7 @@ export default async function CategoryPage({
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `Los 10 Mejores ${category.name} de 2026`,
+    name: `Los 10 Mejores ${category.name} de Amazon en 2026`,
     description: category.description,
     numberOfItems: data.productos.length,
     itemListElement: data.productos.map((p) => ({
@@ -140,7 +144,7 @@ export default async function CategoryPage({
       </nav>
 
       <h1 className="text-3xl md:text-4xl font-bold text-[#1E293B]">
-        Los 10 Mejores {category.name} de 2026
+        Los 10 Mejores {category.name} de Amazon en 2026
       </h1>
       <p className="mt-3 text-[#64748B]">
         {category.description}. Selección actualizada el {data.updated_at}, sin publicidad de pago.
