@@ -1,10 +1,14 @@
 "use client"
+
 import { useState } from "react"
 import Link from "next/link"
-import { categories } from "@/lib/categories"
+import { sections } from "@/lib/categories"
 
 export default function NavbarMobileMenu() {
   const [open, setOpen] = useState(false)
+  const [openSection, setOpenSection] = useState<string | null>(null)
+
+  const activeSections = sections.filter((s) => s.categories.length > 0)
 
   return (
     <div className="md:hidden ml-auto">
@@ -28,15 +32,44 @@ export default function NavbarMobileMenu() {
       {open && (
         <div className="absolute top-16 left-0 right-0 bg-white border-b border-[#E2E8F0] shadow-md z-50 px-4 py-4">
           <ul className="flex flex-col gap-1">
-            {categories.map((cat) => (
-              <li key={cat.slug}>
-                <Link
-                  href={`/mejores/${cat.slug}`}
-                  onClick={() => setOpen(false)}
-                  className="block px-3 py-2.5 rounded-lg text-sm font-medium text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] transition-colors"
+            {activeSections.map((section) => (
+              <li key={section.slug}>
+                <button
+                  onClick={() => setOpenSection(openSection === section.slug ? null : section.slug)}
+                  className="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-semibold text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] transition-colors cursor-pointer"
                 >
-                  {cat.name}
-                </Link>
+                  {section.name}
+                  <svg
+                    className={`w-4 h-4 transition-transform duration-200 ${openSection === section.slug ? "rotate-180" : ""}`}
+                    fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+                {openSection === section.slug && (
+                  <ul className="mt-1 ml-3 space-y-0.5">
+                    <li>
+                      <Link
+                        href={`/mejores/${section.slug}`}
+                        onClick={() => setOpen(false)}
+                        className="block px-3 py-2 rounded-lg text-sm font-medium text-[#2563EB] hover:bg-[#F8FAFC] transition-colors"
+                      >
+                        Ver todos →
+                      </Link>
+                    </li>
+                    {section.categories.map((cat) => (
+                      <li key={cat.slug}>
+                        <Link
+                          href={`/mejores/${section.slug}/${cat.slug}`}
+                          onClick={() => setOpen(false)}
+                          className="block px-3 py-2 rounded-lg text-sm text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] transition-colors"
+                        >
+                          {cat.name}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </li>
             ))}
           </ul>

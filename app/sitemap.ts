@@ -1,12 +1,20 @@
 import { MetadataRoute } from "next"
-import { categories } from "@/lib/categories"
+import { sections, getAllCategories } from "@/lib/categories"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://rankzon.es"
+  const activeSections = sections.filter((s) => s.categories.length > 0)
+
   return [
     { url: base, lastModified: new Date(), changeFrequency: "monthly", priority: 1 },
-    ...categories.map((cat) => ({
-      url: `${base}/mejores/${cat.slug}`,
+    ...activeSections.map((s) => ({
+      url: `${base}/mejores/${s.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.85,
+    })),
+    ...getAllCategories().map((cat) => ({
+      url: `${base}/mejores/${cat.sectionSlug}/${cat.slug}`,
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.9,

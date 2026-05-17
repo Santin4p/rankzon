@@ -2,8 +2,10 @@
 
 ## Glosario
 
+- **Sección:** agrupación de categorías del mismo ámbito (`tecnologia`, `electrodomesticos`, `gaming`, `videojuegos`). Tiene URL propia (`/mejores/[seccion]/`) con página hub indexable.
+- **Hub page:** página de sección que lista sus categorías. URL: `/mejores/[seccion]/`. Tiene H1 y meta propios para SEO de nivel superior.
 - **Ranking:** lista de los 10 mejores productos de una categoría, ordenada por posición (1-10)
-- **Categoría:** agrupación de productos del mismo tipo (auriculares, smartwatches, etc.)
+- **Categoría:** agrupación de productos del mismo tipo dentro de una sección (auriculares, smartwatches, etc.). URL: `/mejores/[seccion]/[categoria]/`.
 - **Posición:** número del 1 al 10 que indica el lugar de un producto en su ranking
 - **Badge:** etiqueta opcional sobre un producto ("Mejor valorado", "Mejor calidad-precio", "Elección premium")
 - **Link de afiliado:** URL a Amazon con el tag `?tag=rankzon-21` que genera comisión si el usuario compra
@@ -18,6 +20,8 @@
 
 ## Relaciones clave
 
+- Una **sección** contiene una o más **categorías**
+- Una **categoría** pertenece a exactamente una **sección**
 - Un **ranking** pertenece a una **categoría**
 - Un **ranking** contiene exactamente 10 **productos**
 - Cada **producto** tiene una **posición** única dentro de su ranking
@@ -25,9 +29,24 @@
 - El **Top 3** son los productos en posición 1, 2 y 3
 - La **lista compacta** son los productos en posición 4 a 10
 
+## Secciones definidas
+
+| Slug | Nombre | Contenido |
+|---|---|---|
+| `tecnologia` | Tecnología | auriculares, smartwatches, altavoces, tablets, móviles, portátiles... |
+| `electrodomesticos` | Electrodomésticos | freidoras de aire, robots aspirador, cafeteras... |
+| `gaming` | Gaming | sillas, auriculares gaming, mandos, monitores, periféricos — todo lo del hobby declarado como gaming |
+| `videojuegos` | Videojuegos | títulos: mejores juegos PS5, Switch, PC, más vendidos... |
+
+**Regla de clasificación Gaming vs Tecnología:** si el fabricante lo vende como "gaming", va a `gaming`. Si no lleva ese descriptor, va a `tecnologia`. La intención de búsqueda es diferente y justifica rankings independientes.
+
 ## Decisiones de diseño relevantes
 
 - El usuario llega por búsqueda SEO ("mejores auriculares 2026") — no por brand
 - La conversión es el click en "Ver en Amazon" — no hay carrito ni checkout
 - La actualización es mensual (manual) → semanal (automatizada con PA API)
 - Los datos viven en JSON, no en base de datos — simplicidad primero
+- URLs jerárquicas `/mejores/[seccion]/[categoria]/` — permite hub pages por sección y escala a 20+ categorías
+- Home: grid mixto — bloques por sección con sus categorías destacadas debajo (un clic hasta el ranking)
+- Navbar: dropdown por sección en desktop, secciones colapsables en móvil
+- Formato de `videojuegos` (títulos): decidir cuando se implemente — puede requerir campo `platform`

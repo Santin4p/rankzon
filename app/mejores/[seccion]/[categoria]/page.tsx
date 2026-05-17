@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation"
 import Image from "next/image"
 import Link from "next/link"
-import { categories, getCategoryBySlug } from "@/lib/categories"
+import { getAllCategories, getCategoryBySlug, getSectionBySlug } from "@/lib/categories"
 import type { Metadata } from "next"
 import StarRating from "@/components/StarRating"
 import ProductTop3Card from "@/components/ProductTop3Card"
@@ -9,6 +9,10 @@ import auriculares from "@/data/auriculares.json"
 import smartwatches from "@/data/smartwatches.json"
 import altavoces from "@/data/altavoces-bluetooth.json"
 import tablets from "@/data/tablets.json"
+import freidorasAire from "@/data/freidoras-aire.json"
+import robotsAspirador from "@/data/robots-aspirador.json"
+import cafeteras from "@/data/cafeteras.json"
+import aspiradoras from "@/data/aspiradoras.json"
 
 interface Producto {
   position: number
@@ -35,43 +39,46 @@ const rankingMap: Record<string, RankingData> = {
   smartwatches: smartwatches as unknown as RankingData,
   "altavoces-bluetooth": altavoces as unknown as RankingData,
   tablets: tablets as unknown as RankingData,
+  "freidoras-aire": freidorasAire as unknown as RankingData,
+  "robots-aspirador": robotsAspirador as unknown as RankingData,
+  cafeteras: cafeteras as unknown as RankingData,
+  aspiradoras: aspiradoras as unknown as RankingData,
 }
 
 export function generateStaticParams() {
-  return categories.map((cat) => ({ categoria: cat.slug }))
+  return getAllCategories().map((cat) => ({
+    seccion: cat.sectionSlug,
+    categoria: cat.slug,
+  }))
 }
 
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ categoria: string }>
+  params: Promise<{ seccion: string; categoria: string }>
 }): Promise<Metadata> {
-  const { categoria } = await params
-  const category = getCategoryBySlug(categoria)
+  const { seccion, categoria } = await params
+  const category = getCategoryBySlug(categoria, seccion)
   if (!category) return {}
   const title = `Los 10 Mejores ${category.name} de 2026`
   const description = `Ranking actualizado de los 10 mejores ${category.name.toLowerCase()} en Amazon España. Curación manual, sin publicidad de pago.`
   return {
     title,
     description,
-    alternates: { canonical: `/mejores/${categoria}` },
-    openGraph: {
-      title,
-      description,
-      type: "website",
-      url: `/mejores/${categoria}`,
-    },
+    alternates: { canonical: `/mejores/${seccion}/${categoria}` },
+    openGraph: { title, description, type: "website", url: `/mejores/${seccion}/${categoria}` },
   }
 }
 
 export default async function CategoryPage({
   params,
 }: {
-  params: Promise<{ categoria: string }>
+  params: Promise<{ seccion: string; categoria: string }>
 }) {
-  const { categoria } = await params
-  const category = getCategoryBySlug(categoria)
-  if (!category) notFound()
+  const { seccion, categoria } = await params
+  const section = getSectionBySlug(seccion)
+  const category = getCategoryBySlug(categoria, seccion)
+  if (!section || !category) notFound()
 
   const data = rankingMap[categoria]
   if (!data) notFound()
@@ -110,7 +117,8 @@ export default async function CategoryPage({
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Inicio", item: "https://rankzon.es/" },
-      { "@type": "ListItem", position: 2, name: category.name, item: `https://rankzon.es/mejores/${categoria}` },
+      { "@type": "ListItem", position: 2, name: section.name, item: `https://rankzon.es/mejores/${seccion}` },
+      { "@type": "ListItem", position: 3, name: category.name, item: `https://rankzon.es/mejores/${seccion}/${categoria}` },
     ],
   }
 
@@ -118,11 +126,13 @@ export default async function CategoryPage({
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      {/* Breadcrumb */}
+
       <nav aria-label="Ruta de navegación" className="flex items-center gap-1.5 text-sm text-[#64748B] mb-6">
-        <Link href="/" className="hover:text-[#2563EB] transition-colors">
-          Inicio
-        </Link>
+        <Link href="/" className="hover:text-[#2563EB] transition-colors">Inicio</Link>
+        <svg className="w-3 h-3 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+        </svg>
+        <Link href={`/mejores/${seccion}`} className="hover:text-[#2563EB] transition-colors">{section.name}</Link>
         <svg className="w-3 h-3 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
           <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
         </svg>
@@ -136,14 +146,12 @@ export default async function CategoryPage({
         {category.description}. Selección actualizada el {data.updated_at}, sin publicidad de pago.
       </p>
 
-      {/* Top 3 */}
       <div className="mt-8 space-y-4">
         {top3.map((producto) => (
           <ProductTop3Card key={producto.position} producto={producto} />
         ))}
       </div>
 
-      {/* Lista compacta #4–10 */}
       <p className="mt-8 mb-3 text-xs font-semibold text-[#64748B] uppercase tracking-wide">
         Posiciones 4 – 10
       </p>
@@ -157,14 +165,7 @@ export default async function CategoryPage({
               {producto.position}
             </span>
             <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-white rounded-lg overflow-hidden">
-              <Image
-                src={producto.image}
-                alt={producto.name}
-                fill
-                className="object-contain"
-                sizes="56px"
-                loading="lazy"
-              />
+              <Image src={producto.image} alt={producto.name} fill className="object-contain" sizes="56px" loading="lazy" />
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-semibold text-[#1E293B] text-sm sm:text-base">{producto.name}</p>
@@ -174,9 +175,7 @@ export default async function CategoryPage({
                     ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
                     : "Ver precio"}
                 </p>
-                {producto.rating != null && (
-                  <StarRating rating={producto.rating} size="sm" />
-                )}
+                {producto.rating != null && <StarRating rating={producto.rating} size="sm" />}
               </div>
             </div>
             <Link

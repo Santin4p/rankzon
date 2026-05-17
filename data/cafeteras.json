@@ -1,0 +1,115 @@
+{
+  "categoria": "cafeteras",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Nespresso De'Longhi Inissia EN80.B - Cafetera mo",
+      "image": "/images/cafeteras/nespresso-de-longhi-inissia-en80-b-cafetera-mo.jpg",
+      "price": 85.24,
+      "rating": 4,
+      "reviews": 50613,
+      "affiliate_url": "https://www.amazon.es/dp/B00G5YOVZA?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Lista en 25 segundos — café consistente cada vez sin aprender nada", "Compacta: ocupa menos que un tostador en la encimera", "Compatible con toda la gama de cápsulas Nespresso Original Line"],
+      "cons": ["Coste recurrente de cápsulas — más caro por taza que café molido", "No incluye espumador de leche", "Solo funciona con cápsulas formato Nespresso Original"],
+      "user_summary": "La cafetera de cápsulas más vendida en España por algo: café perfecto en 30 segundos, sin ensuciar ni medir nada. El punto débil es el coste recurrente de las cápsulas — pero para quien valora la comodidad y el sabor constante por encima del precio por taza, es difícil de superar."
+    },
+    {
+      "position": 2,
+      "name": "Cecotec Cafetera Express Manual Power Espresso 2",
+      "image": "/images/cafeteras/cecotec-cafetera-express-manual-power-espresso-2.jpg",
+      "price": 62.9,
+      "rating": 4,
+      "reviews": 14209,
+      "affiliate_url": "https://www.amazon.es/dp/B0763N7WMP?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Café con crema real a precio de cafetera básica — 20 bares de presión", "Vaporizador para espumar leche y hacer capuchinos", "Depósito extraíble de 1,5L y partes metálicas en acero inoxidable"],
+      "cons": ["No para sola — hay que vigilar durante la extracción para no aguarlo", "Vibra bastante durante el uso", "El vaporizador puede fallar si no se purga tras cada uso"],
+      "user_summary": "Miles de compradores la definen como \"la cafetera de bar en casa por 60€\". El truco está en la técnica: purgar antes de empezar, vigilar la extracción y limpiar el vaporizador siempre. Los que se quejan suelen saltarse estos pasos. Para quien los sigue, el café sorprende."
+    },
+    {
+      "position": 3,
+      "name": "De'Longhi Dedica - Cafetera de Bomba de Acero In",
+      "image": "/images/cafeteras/de-longhi-dedica-cafetera-de-bomba-de-acero-in.jpg",
+      "price": 141.44,
+      "rating": 4,
+      "reviews": 20829,
+      "affiliate_url": "https://www.amazon.es/dp/B06WGTZ874?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Café con crema profesional en casa — solo 15cm de ancho en la encimera", "Bomba de 15 bares + vaporizador con varilla para cappuccino", "Calentamiento rápido y temperatura estable"],
+      "cons": ["Las instrucciones son escasas — requiere investigar la técnica de prensado", "El vaporizador se daña si no se purga con regularidad", "Sin pantalla: ajuste de temperatura por ensayo y error"],
+      "user_summary": "El modelo preferido de quienes quieren dar el salto al espresso \"de verdad\" sin gastar 300€. El resultado en taza sorprende a muchos: crema densa y sabor equilibrado. El aprendizaje inicial requiere paciencia con el prensado — luego el proceso se vuelve mecánico."
+    },
+    {
+      "position": 4,
+      "name": "Cecotec Cafetera de Goteo Coffee 66 Heat. 950 W",
+      "image": "/images/cafeteras/cecotec-cafetera-de-goteo-coffee-66-heat-950-w.jpg",
+      "price": 29.89,
+      "rating": 4,
+      "reviews": 3960,
+      "affiliate_url": "https://www.amazon.es/dp/B07MQ23F7Q?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "De’Longhi Nescafé Dolce Gusto Mini Me 2 – Cafete",
+      "image": "/images/cafeteras/de-longhi-nescafe-dolce-gusto-mini-me-2-cafete.jpg",
+      "price": 63.99,
+      "rating": 4,
+      "reviews": 9579,
+      "affiliate_url": "https://www.amazon.es/dp/B0GK928SQ4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Krups Nescafé Dolce Gusto Piccolo XS - Cafetera",
+      "image": "/images/cafeteras/krups-nescafe-dolce-gusto-piccolo-xs-cafetera.jpg",
+      "price": 48.99,
+      "rating": 4,
+      "reviews": 7655,
+      "affiliate_url": "https://www.amazon.es/dp/B08HSJY2JT?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "De'Longhi Nescafé Dolce Gusto Piccolo XS EDG110.",
+      "image": "/images/cafeteras/de-longhi-nescafe-dolce-gusto-piccolo-xs-edg110.jpg",
+      "price": 53.99,
+      "rating": 4,
+      "reviews": 987,
+      "affiliate_url": "https://www.amazon.es/dp/B0CL6KFMR5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Krups Nescafé Dolce Gusto Piccolo XS",
+      "image": "/images/cafeteras/krups-nescafe-dolce-gusto-piccolo-xs.jpg",
+      "price": 54,
+      "rating": 4,
+      "reviews": 581,
+      "affiliate_url": "https://www.amazon.es/dp/B0CG6FZZGX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Orbegozo KFN 610 - Cafetera italiana de aluminio",
+      "image": "/images/cafeteras/orbegozo-kfn-610-cafetera-italiana-de-aluminio.jpg",
+      "price": 7.9,
+      "rating": 4,
+      "reviews": 8298,
+      "affiliate_url": "https://www.amazon.es/dp/B00791DSM0?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Cecotec Cafetera Espresso Compacta Power Espress",
+      "image": "/images/cafeteras/cecotec-cafetera-espresso-compacta-power-espress.jpg",
+      "price": 67.06,
+      "rating": 4,
+      "reviews": 815,
+      "affiliate_url": "https://www.amazon.es/dp/B0BQ1JD74H?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

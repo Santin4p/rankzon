@@ -14,5 +14,21 @@
   "tablets": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/938010031",
     "name": "Tablets"
+  },
+  "freidoras-aire": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/26956509031",
+    "name": "Freidoras de Aire"
+  },
+  "robots-aspirador": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165706031",
+    "name": "Robots Aspirador"
+  },
+  "cafeteras": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/13713554031",
+    "name": "Cafeteras"
+  },
+  "aspiradoras": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165707031",
+    "name": "Aspiradoras"
   }
 }
