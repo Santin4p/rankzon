@@ -10,7 +10,10 @@
       "rating": 4,
       "reviews": 23578,
       "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": ["Hasta 18 días de batería real, confirmado por compradores", "Pantalla LCD de 2\" muy visible incluso al sol", "Llamadas Bluetooth funcionales y fáciles de usar"],
+      "cons": ["Algo grande para muñecas pequeñas", "Medición del sueño no muy exacta", "Configuración inicial requiere algo de paciencia"],
+      "user_summary": "Los compradores coinciden en que es el smartwatch más completo por menos de 30€: pantalla grande, batería que aguanta semanas y llamadas desde la muñeca. La única pega habitual es que resulta algo voluminoso para muñecas pequeñas."
     },
     {
       "position": 2,
@@ -20,7 +23,10 @@
       "rating": 4,
       "reviews": 340,
       "affiliate_url": "https://www.amazon.es/dp/B0FPQS8J1X?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Diseño redondo elegante con 3 correas incluidas", "Llamadas Bluetooth y notificaciones en la muñeca", "Seguimiento de salud completo: SpO2, sueño y pulso"],
+      "cons": ["App FitCloudPro con problemas de sincronización en iPhone", "Sonido en llamadas pierde calidad con ruido de fondo", "No incluye cargador en la caja"],
+      "user_summary": "Los compradores valoran el diseño elegante y las funciones para el precio, especialmente el seguimiento de salud y las llamadas. La queja más repetida es la app FitCloudPro, que da problemas de conexión especialmente en iPhone."
     },
     {
       "position": 3,
@@ -30,7 +36,10 @@
       "rating": 4,
       "reviews": 2450,
       "affiliate_url": "https://www.amazon.es/dp/B0DSPVK9QJ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Pantalla AMOLED brillante visible bajo el sol directo", "NFC para pagos y GPS con mapas incluidos sin suscripción", "160+ modos deportivos y cristal de zafiro"],
+      "cons": ["Configuración del NFC para pagos requiere app externa y tiempo", "Más orientado a running que a rutinas de gimnasio", "Batería algo menor que modelos Amazfit anteriores"],
+      "user_summary": "Los compradores lo describen como el smartwatch \"infravalorado\" del mercado: funciones de gama alta —AMOLED, GPS libre, NFC, mapas de esquí— a precio razonable. Configurar el pago NFC es el punto débil más mencionado, aunque una vez hecho funciona muy bien."
     },
     {
       "position": 4,

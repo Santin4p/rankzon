@@ -14,12 +14,12 @@ export default function CategoryCard({ category, previewImage }: Props) {
       className="group bg-white rounded-2xl border border-[#E2E8F0] p-6 flex flex-col hover:border-[#2563EB] hover:shadow-md transition-all cursor-pointer"
     >
       {previewImage && (
-        <div className="relative w-full aspect-square mb-4 rounded-xl overflow-hidden bg-[#F8FAFC]">
+        <div className="relative w-full aspect-square mb-4 rounded-xl overflow-hidden bg-white">
           <Image
             src={previewImage}
             alt={`Mejor ${category.name}`}
             fill
-            className="object-contain p-4"
+            className="object-contain"
             sizes="(max-width: 768px) 50vw, 25vw"
           />
         </div>

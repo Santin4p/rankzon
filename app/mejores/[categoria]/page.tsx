@@ -4,6 +4,7 @@ import Link from "next/link"
 import { categories, getCategoryBySlug } from "@/lib/categories"
 import type { Metadata } from "next"
 import StarRating from "@/components/StarRating"
+import ProductTop3Card from "@/components/ProductTop3Card"
 import auriculares from "@/data/auriculares.json"
 import smartwatches from "@/data/smartwatches.json"
 import altavoces from "@/data/altavoces-bluetooth.json"
@@ -18,6 +19,9 @@ interface Producto {
   reviews: number | null
   affiliate_url: string
   badge: string | null
+  pros?: string[]
+  cons?: string[]
+  user_summary?: string
 }
 
 interface RankingData {
@@ -31,18 +35,6 @@ const rankingMap: Record<string, RankingData> = {
   smartwatches: smartwatches as unknown as RankingData,
   "altavoces-bluetooth": altavoces as unknown as RankingData,
   tablets: tablets as unknown as RankingData,
-}
-
-const positionBadge: Record<number, string> = {
-  1: "bg-amber-400 text-amber-900",
-  2: "bg-slate-300 text-slate-700",
-  3: "bg-amber-700 text-white",
-}
-
-const cardHighlight: Record<number, string> = {
-  1: "border-amber-200 bg-amber-50/30",
-  2: "border-[#E2E8F0]",
-  3: "border-[#E2E8F0]",
 }
 
 export function generateStaticParams() {
@@ -147,53 +139,7 @@ export default async function CategoryPage({
       {/* Top 3 */}
       <div className="mt-8 space-y-4">
         {top3.map((producto) => (
-          <article
-            key={producto.position}
-            className={`bg-white border rounded-2xl p-5 sm:p-6 flex gap-4 sm:gap-6 items-start hover:shadow-md transition-all ${cardHighlight[producto.position] ?? "border-[#E2E8F0]"}`}
-          >
-            <div
-              className={`shrink-0 w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg ${positionBadge[producto.position] ?? "bg-[#2563EB] text-white"}`}
-              aria-label={`Posición ${producto.position}`}
-            >
-              {producto.position}
-            </div>
-            <div className="relative w-24 h-24 sm:w-28 sm:h-28 shrink-0 bg-[#F8FAFC] rounded-xl overflow-hidden">
-              <Image
-                src={producto.image}
-                alt={producto.name}
-                fill
-                className="object-contain p-2"
-                sizes="(max-width: 640px) 96px, 112px"
-                priority={producto.position === 1}
-              />
-            </div>
-            <div className="flex-1 min-w-0">
-              {producto.badge && (
-                <span className="inline-block text-xs font-semibold text-[#2563EB] bg-blue-50 px-2 py-0.5 rounded-full mb-2">
-                  {producto.badge}
-                </span>
-              )}
-              <h2 className="text-base sm:text-lg font-bold text-[#1E293B]">{producto.name}</h2>
-              {producto.rating != null && (
-                <div className="mt-1.5">
-                  <StarRating rating={producto.rating} reviews={producto.reviews} size="md" />
-                </div>
-              )}
-              <p className="mt-1 text-[#64748B] font-medium tabular-nums">
-                {producto.price != null
-                  ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
-                  : "Ver precio"}
-              </p>
-              <Link
-                href={producto.affiliate_url}
-                target="_blank"
-                rel="nofollow sponsored noopener noreferrer"
-                className="mt-3 inline-block w-full sm:w-auto text-center bg-[#EA580C] hover:bg-[#c2410c] active:scale-95 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-all cursor-pointer"
-              >
-                Ver en Amazon
-              </Link>
-            </div>
-          </article>
+          <ProductTop3Card key={producto.position} producto={producto} />
         ))}
       </div>
 
@@ -210,12 +156,12 @@ export default async function CategoryPage({
             <span className="shrink-0 w-8 h-8 rounded-full bg-[#F8FAFC] border border-[#E2E8F0] text-[#64748B] flex items-center justify-center font-bold text-sm">
               {producto.position}
             </span>
-            <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-[#F8FAFC] rounded-lg overflow-hidden">
+            <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-white rounded-lg overflow-hidden">
               <Image
                 src={producto.image}
                 alt={producto.name}
                 fill
-                className="object-contain p-1"
+                className="object-contain"
                 sizes="56px"
                 loading="lazy"
               />
