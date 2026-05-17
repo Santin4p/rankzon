@@ -5,8 +5,8 @@
  * Requires: APIFY_TOKEN in .env.local or env
  *
  * What it does:
- *   1. Calls Apify actor to scrape Amazon.es best sellers for the category
- *   2. Filters kids products, takes top 10 adults
+ *   1. Calls Apify bestsellers actor → top 50 items with ASINs
+ *   2. Filters kids/duplicates, takes top 10 adults
  *   3. Downloads new product images to /public/images/<category>/
  *   4. Writes updated data/<category>.json
  */
