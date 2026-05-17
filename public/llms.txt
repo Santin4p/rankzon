@@ -20,6 +20,18 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - [Las 10 Mejores Cafeteras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/cafeteras): Top 10 cafeteras más vendidas en Amazon España.
 - [Las 10 Mejores Aspiradoras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/aspiradoras): Top 10 aspiradoras más vendidas en Amazon España.
 
+### Gaming
+- [Los 10 Mejores Mandos Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/mandos-gaming): Top 10 mandos gaming para PC más vendidos en Amazon España.
+- [Los 10 Mejores Auriculares Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/auriculares-gaming): Top 10 auriculares gaming más vendidos en Amazon España.
+- [Los 10 Mejores Ratones Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/ratones-gaming): Top 10 ratones gaming más vendidos en Amazon España.
+- [Los 10 Mejores Teclados Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/teclados-gaming): Top 10 teclados gaming más vendidos en Amazon España.
+
+### Videojuegos
+- [Los 10 Mejores Juegos PS5 de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-ps5): Top 10 juegos PlayStation 5 más vendidos en Amazon España.
+- [Los 10 Mejores Juegos Nintendo Switch de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-switch): Top 10 juegos Nintendo Switch más vendidos en Amazon España.
+- [Los 10 Mejores Juegos Xbox de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-xbox): Top 10 juegos Xbox Series X/S más vendidos en Amazon España.
+- [Los 10 Mejores Juegos Nintendo Switch 2 de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-switch-2): Top 10 juegos Nintendo Switch 2 más vendidos en Amazon España.
+
 ## Sobre el sitio
 
 - [Sobre Rankzon](https://rankzon.es/sobre-rankzon): Metodología de selección de productos, transparencia y política de afiliados.
@@ -31,4 +43,4 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - Los precios mostrados corresponden a la fecha de última actualización y pueden variar.
 - Los links de compra son enlaces del programa de afiliados de Amazon España (tag: rankzon-21).
 - Mercado exclusivo: España (amazon.es). Precios en EUR.
-- Secciones activas: tecnologia (6 categorías), electrodomesticos (4 categorías).
+- Secciones activas: tecnologia (6 categorías), electrodomesticos (4 categorías), gaming (4 categorías), videojuegos (4 categorías).

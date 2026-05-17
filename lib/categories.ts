@@ -91,13 +91,63 @@ export const sections: Section[] = [
     slug: "gaming",
     name: "Gaming",
     description: "Los mejores productos para gamers",
-    categories: [],
+    categories: [
+      {
+        slug: "mandos-gaming",
+        name: "Mandos Gaming",
+        description: "Los mejores mandos para PC y consolas",
+        previewImage: "/images/mandos-gaming/gamesir-nova-lite-controlador-inalambrico.jpg",
+      },
+      {
+        slug: "auriculares-gaming",
+        name: "Auriculares Gaming",
+        description: "Los mejores auriculares para gaming",
+        previewImage: "/images/auriculares-gaming/jbl-quantum-100m2-cascos-circumaurales-para-gami.jpg",
+      },
+      {
+        slug: "ratones-gaming",
+        name: "Ratones Gaming",
+        description: "Los mejores ratones para gaming",
+        previewImage: "/images/ratones-gaming/logitech-g-g203-lightsync-raton-gaming-con-ilumi.jpg",
+      },
+      {
+        slug: "teclados-gaming",
+        name: "Teclados Gaming",
+        description: "Los mejores teclados para gaming",
+        previewImage: "/images/teclados-gaming/krom-kalista-teclado-gaming-de-membrana-rgb-ra.jpg",
+      },
+    ],
   },
   {
     slug: "videojuegos",
     name: "Videojuegos",
     description: "Los mejores videojuegos y títulos más vendidos",
-    categories: [],
+    categories: [
+      {
+        slug: "juegos-ps5",
+        name: "Juegos PS5",
+        description: "Los juegos más vendidos para PlayStation 5",
+        previewImage: "/images/juegos-ps5/star-wars-outlaws-limited-edition-exclusive-to.jpg",
+      },
+      {
+        slug: "juegos-switch",
+        name: "Juegos Nintendo Switch",
+        description: "Los juegos más vendidos para Nintendo Switch",
+        previewImage: "/images/juegos-switch/minecraft-nintendo-switch-edition.jpg",
+      },
+      {
+        slug: "juegos-xbox",
+        name: "Juegos Xbox",
+        description: "Los juegos más vendidos para Xbox Series X/S",
+        previewImage: "/images/juegos-xbox/forza-horizon-6-xbox-series-x.jpg",
+      },
+      {
+        slug: "juegos-switch-2",
+        name: "Juegos Nintendo Switch 2",
+        description: "Los juegos más vendidos para Nintendo Switch 2",
+        previewImage: "/images/juegos-switch-2/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
+      },
+    ],
   },
 ]
 

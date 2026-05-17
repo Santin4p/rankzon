@@ -1,0 +1,102 @@
+{
+  "categoria": "juegos-xbox",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Forza Horizon 6",
+      "image": "/images/juegos-xbox/forza-horizon-6-xbox-series-x.jpg",
+      "price": 59.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GGCJRXSX?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["El referente absoluto en conducción arcade en mundo abierto", "Cientos de coches licenciados con física detallada", "Mapa gigantesco lleno de eventos, descubrimientos y secretos", "Perfecto para jugadores casuales y hardcore por igual"],
+      "cons": ["Exclusivo Xbox Series X/S y PC — no disponible en PlayStation", "Sin reseñas disponibles aún por ser lanzamiento reciente"],
+      "user_summary": "Basado en el perfil de la saga Forza Horizon. La sexta entrega de la serie que reinventó los juegos de conducción en mundo abierto. Con cada entrega, Playground Games supera su propio listón en entornos, diversidad de coches y contenido. El juego de Xbox por excelencia para 2026."
+    },
+    {
+      "position": 2,
+      "name": "Beast of Reincarnation",
+      "image": "/images/juegos-xbox/beast-of-reincarnation-xsrx.jpg",
+      "price": 59.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GY49KG2M?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "The Blood Of Dawnwalker Day 1 Edition",
+      "image": "/images/juegos-xbox/the-blood-of-dawnwalker-day-1-edition.jpg",
+      "price": 62.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GYV53T7C?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Desarrollado por veteranos de CD Projekt RED (The Witcher, Cyberpunk)", "RPG de vampiros en la Valaquia medieval de 1347 — ambientación única", "Mecánica de tiempo: 30 días para salvar a tu familia, cada acción importa", "Day 1 Edition con contenido adicional desde el primer día"],
+      "cons": ["IP totalmente nueva sin historial previo del estudio Rebel Wolves", "Sin reseñas disponibles aún por ser lanzamiento muy reciente"],
+      "user_summary": "Basado en el perfil del juego y el equipo creativo. Creado por ex-desarrolladores de CD Projekt RED, este RPG de vampiros con mecánicas de gestión del tiempo promete la profundidad narrativa de The Witcher en un escenario histórico oscuro. Alta expectativa de la comunidad gaming."
+    },
+    {
+      "position": 4,
+      "name": "Directive 8020 Deluxe Edition",
+      "image": "/images/juegos-xbox/directive-8020-deluxe-edition.jpg",
+      "price": 49.9,
+      "rating": 5,
+      "reviews": 2,
+      "affiliate_url": "https://www.amazon.es/dp/B0GMS5DTV1?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Silent Hill f - Day One Edition",
+      "image": "/images/juegos-xbox/silent-hill-f-day-one-edition-xbox.jpg",
+      "price": 39.99,
+      "rating": 4,
+      "reviews": 84,
+      "affiliate_url": "https://www.amazon.es/dp/B0F1G5C2YQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Sonic Racing CrossWorlds",
+      "image": "/images/juegos-xbox/sonic-racing-crossworlds-xsrx.jpg",
+      "price": 26.9,
+      "rating": 4,
+      "reviews": 51,
+      "affiliate_url": "https://www.amazon.es/dp/B0FC6S3SPZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "EA SPORTS FC 25 Standard Edition Xbox Series X",
+      "image": "/images/juegos-xbox/ea-sports-fc-25-standard-edition-xbox-series-x.jpg",
+      "price": 12.75,
+      "rating": 4,
+      "reviews": 111,
+      "affiliate_url": "https://www.amazon.es/dp/B0D989PC6Y?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Assassin's Creed Black Flag Re-Synced",
+      "image": "/images/juegos-xbox/assassin-s-creed-black-flag-re-synced-standard-e.jpg",
+      "price": 53.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GXKXMN3X?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "007 First Light Specialist Edition",
+      "image": "/images/juegos-xbox/007-first-light-specialist-edition-xsrx.jpg",
+      "price": 69.99,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0FPMNXV7V?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "categoria": "auriculares-gaming",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "JBL Quantum 100M2 cascos circumaurales para gami",
+      "image": "/images/auriculares-gaming/jbl-quantum-100m2-cascos-circumaurales-para-gami.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 4834,
+      "affiliate_url": "https://www.amazon.es/dp/B0D6NLHV8N?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Sonido JBL QuantumSOUND Signature", "Compatible con móvil, PC, consolas y Switch", "Micrófono boom arm extraíble", "Precio muy asequible para la marca"],
+      "cons": ["Solo conexión 3.5mm (sin USB ni inalámbrico)", "Sin cancelación activa de ruido"],
+      "user_summary": "Basado en especificaciones y perfil de producto. La línea Quantum de JBL es muy valorada por ofrecer sonido de calidad gaming a precios accesibles, con alta compatibilidad multiplataforma."
+    },
+    {
+      "position": 2,
+      "name": "Corsair Void v2 Auriculares Inalámbricos para Ju",
+      "image": "/images/auriculares-gaming/corsair-void-v2-auriculares-inalambricos-para-ju.jpg",
+      "price": 89.95,
+      "rating": 4,
+      "reviews": 1266,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYVD72P2?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Inalámbrico 2.4GHz de baja latencia", "Audio surround 7.1 virtual por software", "Micrófono con cancelación de ruido", "Batería de larga duración"],
+      "cons": ["Precio elevado respecto a la competencia", "Requiere software iCUE para funciones avanzadas"],
+      "user_summary": "Basado en especificaciones y perfil de producto. Elegido por gamers que quieren prescindir del cable con garantía de marca Corsair, valorando el surround virtual y la calidad del micrófono."
+    },
+    {
+      "position": 3,
+      "name": "JBL Quantum 100 Auriculares para gamers con soni",
+      "image": "/images/auriculares-gaming/jbl-quantum-100-auriculares-para-gamers-con-soni.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 26129,
+      "affiliate_url": "https://www.amazon.es/dp/B083X24CFF?tag=rankzon-21",
+      "badge": null,
+      "pros": ["26.000+ valoraciones positivas en Amazon", "Sonido envolvente QuantumSOUND", "Micrófono giratorio — silencio por volteo", "Compatible con todas las plataformas"],
+      "cons": ["Solo con cable 3.5mm", "Micrófono sin cancelación activa de ruido"],
+      "user_summary": "Basado en perfil de producto y valoraciones de Amazon. Con más de 26.000 reseñas, es uno de los auriculares gaming más probados del mercado, muy valorado por su sonido y versatilidad a precio contenido."
+    },
+    {
+      "position": 4,
+      "name": "Ozeino Cascos Gaming Inalámbricos para PC/Ps5/Ps",
+      "image": "/images/auriculares-gaming/ozeino-cascos-gaming-inalambricos-para-pc-ps5-ps.jpg",
+      "price": 35.14,
+      "rating": 4,
+      "reviews": 4274,
+      "affiliate_url": "https://www.amazon.es/dp/B0CSFRYL7C?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "SteelSeries Arctis Nova 5 Cascos gaming inalámbr",
+      "image": "/images/auriculares-gaming/steelseries-arctis-nova-5-cascos-gaming-inalambr.jpg",
+      "price": 94.99,
+      "rating": 4,
+      "reviews": 1145,
+      "affiliate_url": "https://www.amazon.es/dp/B0D1KBNWHF?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Razer Barracuda X - Auriculares Inalámbricos Mul",
+      "image": "/images/auriculares-gaming/razer-barracuda-x-auriculares-inalambricos-mul.jpg",
+      "price": 71.06,
+      "rating": 4,
+      "reviews": 2178,
+      "affiliate_url": "https://www.amazon.es/dp/B09X5G16ZM?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/P",
+      "image": "/images/auriculares-gaming/tatybo-cascos-gaming-inalambricos-7-1-para-ps5-p.jpg",
+      "price": 31.34,
+      "rating": 4,
+      "reviews": 838,
+      "affiliate_url": "https://www.amazon.es/dp/B0F3DFKKY8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Logitech G Pro X Auriculares Gaming con Cable y",
+      "image": "/images/auriculares-gaming/logitech-g-pro-x-auriculares-gaming-con-cable-y.jpg",
+      "price": 74.99,
+      "rating": 4,
+      "reviews": 24617,
+      "affiliate_url": "https://www.amazon.es/dp/B07TLX61W7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "HyperX Cloud III wired Auriculares para Juegos c",
+      "image": "/images/auriculares-gaming/hyperx-cloud-iii-wired-auriculares-para-juegos-c.jpg",
+      "price": 64.99,
+      "rating": 4,
+      "reviews": 10889,
+      "affiliate_url": "https://www.amazon.es/dp/B0C3BSZ56D?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Mars Gaming MH122",
+      "image": "/images/auriculares-gaming/mars-gaming-mh122.jpg",
+      "price": 10.9,
+      "rating": 4,
+      "reviews": 408,
+      "affiliate_url": "https://www.amazon.es/dp/B0BFWTFVZF?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

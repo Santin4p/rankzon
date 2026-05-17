@@ -1,0 +1,105 @@
+{
+  "categoria": "juegos-switch-2",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Tomodachi Life: Una vida de ensueño",
+      "image": "/images/juegos-switch-2/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
+      "price": 59.99,
+      "rating": 4,
+      "reviews": 8,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Regreso de la saga Tomodachi con Miis personalizables al detalle", "Humor Nintendo único: convivencia absurda, relaciones inesperadas, canciones", "Pensado para Switch 2 con gráficos y funciones renovadas", "Perfecto para jugar y compartir con familia y amigos"],
+      "cons": ["Pocos compradores han reseñado aún — juego reciente", "Estilo de simulación social muy específico, no es acción ni aventura"],
+      "user_summary": "Basado en el perfil del juego. La primera entrega de Tomodachi Life en consola de sobremesa/híbrida desde el 3DS. Lleva a tus Miis a una isla, obsérvalos vivir, enamorarse y protagonizar situaciones absurdas con el encanto Nintendo de siempre. Número 1 en ventas desde su lanzamiento."
+    },
+    {
+      "position": 2,
+      "name": "Donkey Kong Bananza",
+      "image": "/images/juegos-switch-2/donkey-kong-bananza-switch-2.jpg",
+      "price": 69.99,
+      "rating": 4,
+      "reviews": 492,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N91DQ8?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Primer DK en 3D en décadas — regreso épico del gran plataformero de Nintendo", "Mecánicas de destrucción del entorno totalmente nuevas", "Mundos subterráneos gigantes por explorar con total libertad", "Exclusivo Nintendo Switch 2 — muestra todo el poder de la consola"],
+      "cons": ["Solo compatible con Nintendo Switch 2 (no funciona en Switch original)", "A 69.99€ es uno de los juegos más caros del catálogo Switch 2"],
+      "user_summary": "Basado en el perfil del juego y valoraciones de compradores. El regreso de Donkey Kong a los juegos 3D por primera vez en décadas — con mecánicas de destrucción del terreno completamente nuevas. Con 492 valoraciones, ya es uno de los lanzamientos más vendidos de Nintendo Switch 2."
+    },
+    {
+      "position": 3,
+      "name": "Animal Crossing: New Horizons - Switch 2 Edition",
+      "image": "/images/juegos-switch-2/animal-crossing-new-horizons-nintendo-switch-2.jpg",
+      "price": 54.99,
+      "rating": 4,
+      "reviews": 52,
+      "affiliate_url": "https://www.amazon.es/dp/B0G1BDSJ52?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Animal Crossing New Horizons — uno de los 5 juegos más vendidos de la historia", "Versión Switch 2 con mejoras visuales y nuevo contenido incluido", "Sin presión de tiempo: juega a tu ritmo, relajante y adictivo", "Incluye todas las actualizaciones y el DLC Happy Home Paradise"],
+      "cons": ["Experiencia base similar si ya tienes la versión Switch original", "54.99€ para un juego de 2020, aunque con mejoras reales de Switch 2"],
+      "user_summary": "Basado en el perfil del juego. Animal Crossing New Horizons vendió más de 45 millones de copias en Switch — esta edición Switch 2 lo trae con mejoras visuales, rendimiento a 60fps y todo el contenido post-lanzamiento incluido. La referencia en juegos relajantes de construcción de isla."
+    },
+    {
+      "position": 4,
+      "name": "Hyrule Warriors: Age of Imprisonment",
+      "image": "/images/juegos-switch-2/hyrule-warriors-age-of-imprisonment-switch-2.jpg",
+      "price": 53.9,
+      "rating": 4,
+      "reviews": 151,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQWJV77Z?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Mario Kart World",
+      "image": "/images/juegos-switch-2/mario-kart-world-nintendo-switch-2.jpg",
+      "price": 74.9,
+      "rating": 4,
+      "reviews": 169,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N6V24N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Super Mario Party Jamboree - Switch 2 Edition",
+      "image": "/images/juegos-switch-2/super-mario-party-jamboree-nintendo-switch-2-e.jpg",
+      "price": 68.39,
+      "rating": 4,
+      "reviews": 65,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N6F62D?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Mario Tennis Fever",
+      "image": "/images/juegos-switch-2/mario-tennis-fever.jpg",
+      "price": 69.98,
+      "rating": 4,
+      "reviews": 53,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQWLSLQS?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Pokémon Legends: Z-A - Switch 2 Edition",
+      "image": "/images/juegos-switch-2/pokemon-legends-z-a-nintendo-switch-2-edition.jpg",
+      "price": 57.9,
+      "rating": 4,
+      "reviews": 265,
+      "affiliate_url": "https://www.amazon.es/dp/B0FBMLXK2D?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Hades II - Switch 2 Edition",
+      "image": "/images/juegos-switch-2/hades-ii-nintendo-switch-2-edition.jpg",
+      "price": 37.99,
+      "rating": 4,
+      "reviews": 60,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQWBC3ZT?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

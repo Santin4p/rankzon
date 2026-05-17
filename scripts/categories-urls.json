@@ -38,5 +38,37 @@
   "portatiles": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/938008031",
     "name": "Portátiles"
+  },
+  "mandos-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/911109031",
+    "name": "Mandos Gaming"
+  },
+  "auriculares-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/911106031",
+    "name": "Auriculares Gaming"
+  },
+  "ratones-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/911111031",
+    "name": "Ratones Gaming"
+  },
+  "teclados-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/911112031",
+    "name": "Teclados Gaming"
+  },
+  "juegos-ps5": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/20938003031",
+    "name": "Juegos PS5"
+  },
+  "juegos-switch": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/12366200031",
+    "name": "Juegos Nintendo Switch"
+  },
+  "juegos-xbox": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/20938020031",
+    "name": "Juegos Xbox"
+  },
+  "juegos-switch-2": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/206234155031",
+    "name": "Juegos Nintendo Switch 2"
   }
 }

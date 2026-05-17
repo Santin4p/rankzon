@@ -15,6 +15,14 @@ import freidorasAire from "@/data/freidoras-aire.json"
 import robotsAspirador from "@/data/robots-aspirador.json"
 import cafeteras from "@/data/cafeteras.json"
 import aspiradoras from "@/data/aspiradoras.json"
+import mandosGaming from "@/data/mandos-gaming.json"
+import auricularesGaming from "@/data/auriculares-gaming.json"
+import ratonesGaming from "@/data/ratones-gaming.json"
+import tecladosGaming from "@/data/teclados-gaming.json"
+import juegosPs5 from "@/data/juegos-ps5.json"
+import juegosSwitch from "@/data/juegos-switch.json"
+import juegosXbox from "@/data/juegos-xbox.json"
+import juegosSwitch2 from "@/data/juegos-switch-2.json"
 
 interface Producto {
   position: number
@@ -47,6 +55,14 @@ const rankingMap: Record<string, RankingData> = {
   "robots-aspirador": robotsAspirador as unknown as RankingData,
   cafeteras: cafeteras as unknown as RankingData,
   aspiradoras: aspiradoras as unknown as RankingData,
+  "mandos-gaming": mandosGaming as unknown as RankingData,
+  "auriculares-gaming": auricularesGaming as unknown as RankingData,
+  "ratones-gaming": ratonesGaming as unknown as RankingData,
+  "teclados-gaming": tecladosGaming as unknown as RankingData,
+  "juegos-ps5": juegosPs5 as unknown as RankingData,
+  "juegos-switch": juegosSwitch as unknown as RankingData,
+  "juegos-xbox": juegosXbox as unknown as RankingData,
+  "juegos-switch-2": juegosSwitch2 as unknown as RankingData,
 }
 
 export function generateStaticParams() {

@@ -23,6 +23,7 @@ const ACTOR = 'amazon-scraper~amazon-bestsellers-scraper'
 const TAG = 'rankzon-21'
 const MAX_ITEMS = 50 // first page only — enough to get 10 adults
 const KIDS_WORDS = ['niño', 'niña', 'niños', 'niñas', 'infantil', 'kid', 'child', 'bebé']
+const GIFT_CARD_WORDS = ['tarjeta regalo', 'tarjeta de regalo', 'gift card', 'suscripci', 'subscripci', 'membership', 'ps plus', 'xbox game pass', 'nintendo switch online', 'crédito digital', 'código digital']
 
 // --- Helpers ---
 
@@ -44,6 +45,11 @@ function loadCategories() {
 function isKids(title) {
   const t = title.toLowerCase()
   return KIDS_WORDS.some(w => t.includes(w))
+}
+
+function isGiftCard(title) {
+  const t = title.toLowerCase()
+  return GIFT_CARD_WORDS.some(w => t.includes(w))
 }
 
 function cleanName(title) {
@@ -160,7 +166,7 @@ async function main() {
   const seenAsins = new Set()
   const seenNames = new Set()
   const adults = items.filter(item => {
-    if (!item.title || isKids(item.title)) return false
+    if (!item.title || isKids(item.title) || isGiftCard(item.title)) return false
     if (seenAsins.has(item.asin)) return false
     const name = cleanName(item.title)
     if (seenNames.has(name)) return false

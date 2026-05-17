@@ -1,0 +1,112 @@
+{
+  "categoria": "juegos-ps5",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Star Wars Outlaws Limited Edition",
+      "image": "/images/juegos-ps5/star-wars-outlaws-limited-edition-exclusive-to.jpg",
+      "price": 18.9,
+      "rating": 4,
+      "reviews": 260,
+      "affiliate_url": "https://www.amazon.es/dp/B0CZTKY8TC?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Primera aventura de mundo abierto ambientada en el universo Star Wars", "Explora planetas icónicos como Tatooine y Akiva con total libertad", "Historia original con Kay Vess, contrabandista propia del universo", "Precio actual muy rebajado respecto al lanzamiento"],
+      "cons": ["IA enemiga a veces predecible en combate", "Diseño de misiones secundarias algo repetitivo"],
+      "user_summary": "Basado en análisis y valoraciones del juego. El primer mundo abierto de Star Wars a gran escala — planetas reales, espacio, estética fiel a la saga y una protagonista nueva. Actualmente al mejor precio desde su lanzamiento, es una oportunidad excelente para los fans."
+    },
+    {
+      "position": 2,
+      "name": "Beast of Reincarnation - PS5",
+      "image": "/images/juegos-ps5/beast-of-reincarnation-ps5.jpg",
+      "price": 59.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GY49HPXH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "The Blood Of Dawnwalker Day 1 Edition",
+      "image": "/images/juegos-ps5/the-blood-of-dawnwalker-day-1-edition.jpg",
+      "price": 62.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GYTZX1TW?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Desarrollado por veteranos de CD Projekt RED (The Witcher, Cyberpunk)", "RPG de vampiros en la Valaquia medieval de 1347 — ambientación única", "Mecánica de tiempo: 30 días para salvar a tu familia, cada acción importa", "Day 1 Edition con contenido adicional desde el primer día"],
+      "cons": ["IP totalmente nueva sin historial previo del estudio Rebel Wolves", "Sin reseñas disponibles aún por ser lanzamiento muy reciente"],
+      "user_summary": "Basado en el perfil del juego y el equipo creativo. Creado por ex-desarrolladores de CD Projekt RED, este RPG de vampiros con mecánicas de gestión del tiempo promete la profundidad narrativa de The Witcher en un escenario histórico oscuro. Alta expectativa de la comunidad gaming."
+    },
+    {
+      "position": 4,
+      "name": "007 First Light Specialist Edition - PS",
+      "image": "/images/juegos-ps5/007-first-light-specialist-edition-ps.jpg",
+      "price": 69.99,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0FPMMTJZM?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "NBA 2K26 PS5",
+      "image": "/images/juegos-ps5/nba-2k26-ps5.jpg",
+      "price": 17.99,
+      "rating": 4,
+      "reviews": 83,
+      "affiliate_url": "https://www.amazon.es/dp/B0FH7FZPSP?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "EA SPORTS FC 26 Standard Edition PS5",
+      "image": "/images/juegos-ps5/ea-sports-fc-26-standard-edition-ps5-disco-v.jpg",
+      "price": 46.99,
+      "rating": 4,
+      "reviews": 826,
+      "affiliate_url": "https://www.amazon.es/dp/B0FGK5M2BS?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Clair Obscur: Expedition 33",
+      "image": "/images/juegos-ps5/clair-obscur-expedition-33.jpg",
+      "price": 29.66,
+      "rating": 4,
+      "reviews": 240,
+      "affiliate_url": "https://www.amazon.es/dp/B0DLGNT4V3?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Minecraft - PS5",
+      "image": "/images/juegos-ps5/minecraft-ps5.jpg",
+      "price": 23.05,
+      "rating": 4,
+      "reviews": 239,
+      "affiliate_url": "https://www.amazon.es/dp/B0DCPB9J7K?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Resident Evil Requiem PS5",
+      "image": "/images/juegos-ps5/resident-evil-requiem-ps5.jpg",
+      "price": 64.9,
+      "rating": 4,
+      "reviews": 396,
+      "affiliate_url": "https://www.amazon.es/dp/B0FSSHFQ9R?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Directive 8020 Deluxe Edition",
+      "image": "/images/juegos-ps5/directive-8020-deluxe-edition.jpg",
+      "price": 49.9,
+      "rating": 5,
+      "reviews": 2,
+      "affiliate_url": "https://www.amazon.es/dp/B0GMTKT94L?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

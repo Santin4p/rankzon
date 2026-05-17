@@ -1,0 +1,115 @@
+{
+  "categoria": "teclados-gaming",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "KROM Kalista - Teclado Gaming de Membrana RGB Ra",
+      "image": "/images/teclados-gaming/krom-kalista-teclado-gaming-de-membrana-rgb-ra.jpg",
+      "price": 10.66,
+      "rating": 4,
+      "reviews": 4887,
+      "affiliate_url": "https://www.amazon.es/dp/B0D8TBPLD9?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Precio imbatible — menos de 11€", "Iluminación RGB con múltiples efectos", "Teclado tamaño completo con numpad", "Plug & play sin drivers"],
+      "cons": ["Membrana (no mecánico)", "Sin teclas programables extra"],
+      "user_summary": "Basado en especificaciones y valoraciones de Amazon. Con casi 5.000 reseñas, es el teclado gaming más vendido para quienes quieren iluminación RGB y un teclado fiable sin gastar más de 15€."
+    },
+    {
+      "position": 2,
+      "name": "Logitech G G413 TKL SE Teclado Mecánico Gaming",
+      "image": "/images/teclados-gaming/logitech-g-g413-tkl-se-teclado-mecanico-gaming.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "reviews": 411,
+      "affiliate_url": "https://www.amazon.es/dp/B07W7KMK4W?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Switches mecánicos táctiles de calidad Logitech", "Formato TKL compacto — más espacio para el ratón", "Estructura de aluminio resistente", "Muy preciso para gaming competitivo"],
+      "cons": ["Sin retroiluminación RGB (solo blanco)", "Precio mid-range sin extras avanzados"],
+      "user_summary": "Basado en especificaciones y perfil de producto. El formato TKL mecánico de Logitech es muy valorado por jugadores competitivos que priorizan la precisión y la durabilidad sobre los extras visuales."
+    },
+    {
+      "position": 3,
+      "name": "Mars Gaming MCPTKL",
+      "image": "/images/teclados-gaming/mars-gaming-mcptkl.jpg",
+      "price": 14.64,
+      "rating": 4,
+      "reviews": 952,
+      "affiliate_url": "https://www.amazon.es/dp/B08D99PFSD?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Formato compacto TKL — más espacio en el escritorio", "Precio muy económico", "Iluminación LED incluida", "Compatible con PC y consolas"],
+      "cons": ["Membrana (no mecánico)", "Sin software de personalización avanzada"],
+      "user_summary": "Basado en especificaciones y perfil de producto. Combina el formato compacto TKL (sin numpad) con un precio muy ajustado, siendo la opción para quienes quieren ahorrar espacio sin gastar mucho."
+    },
+    {
+      "position": 4,
+      "name": "RedThunder K10 Teclado Gaming Sensación Mecánico",
+      "image": "/images/teclados-gaming/redthunder-k10-teclado-gaming-sensacion-mecanico.jpg",
+      "price": 59.99,
+      "rating": 4,
+      "reviews": 2624,
+      "affiliate_url": "https://www.amazon.es/dp/B0BV2TQYSW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Logitech MX Keys S Combo",
+      "image": "/images/teclados-gaming/logitech-mx-keys-s-combo.jpg",
+      "price": 169.99,
+      "rating": 4,
+      "reviews": 637,
+      "affiliate_url": "https://www.amazon.es/dp/B07W5JKZ7Z?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Redragon K668 RGB Teclado Gaming Mecánico Cablea",
+      "image": "/images/teclados-gaming/redragon-k668-rgb-teclado-gaming-mecanico-cablea.jpg",
+      "price": 47.63,
+      "rating": 4,
+      "reviews": 134,
+      "affiliate_url": "https://www.amazon.es/dp/B0FCLXFQT5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Redragon K673 Pro 75% Gasket RGB Teclado Mecánic",
+      "image": "/images/teclados-gaming/redragon-k673-pro-75-gasket-rgb-teclado-mecanic.jpg",
+      "price": 69.99,
+      "rating": 4,
+      "reviews": 74,
+      "affiliate_url": "https://www.amazon.es/dp/B0FNWCQJSC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "RK ROYAL KLUDGE S98 ES Teclado Mecánico con Smar",
+      "image": "/images/teclados-gaming/rk-royal-kludge-s98-es-teclado-mecanico-con-smar.jpg",
+      "price": 97.49,
+      "rating": 4,
+      "reviews": 71,
+      "affiliate_url": "https://www.amazon.es/dp/B09BF55KR8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Corsair K55 Core RGB Teclado de Membrana con Cab",
+      "image": "/images/teclados-gaming/corsair-k55-core-rgb-teclado-de-membrana-con-cab.jpg",
+      "price": 29.77,
+      "rating": 4,
+      "reviews": 116,
+      "affiliate_url": "https://www.amazon.es/dp/B0CP6BWBF5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Logitech G G213 Prodigy Teclado Gaming",
+      "image": "/images/teclados-gaming/logitech-g-g213-prodigy-teclado-gaming.jpg",
+      "price": 58.32,
+      "rating": 4,
+      "reviews": 2002,
+      "affiliate_url": "https://www.amazon.es/dp/B01L6L44NU?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}
