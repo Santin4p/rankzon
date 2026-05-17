@@ -4,17 +4,21 @@
   "productos": [
     {
       "position": 1,
-      "name": "Xiaomi Redmi Watch 5 Active",
+      "name": "XIAOMI Redmi Watch 5 Active",
       "image": "/images/smartwatches/xiaomi-redmi-watch-5-active.jpg",
       "price": 29.49,
+      "rating": 4,
+      "reviews": 23578,
       "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
       "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Smartwatch Mujer BT 1.27\" IP68",
-      "image": "/images/smartwatches/smartwatch-mujer-127.jpg",
-      "price": 25.20,
+      "name": "Smartwatch",
+      "image": "/images/smartwatches/smartwatch.jpg",
+      "price": 25.2,
+      "rating": 4,
+      "reviews": 340,
       "affiliate_url": "https://www.amazon.es/dp/B0FPQS8J1X?tag=rankzon-21",
       "badge": null
     },
@@ -22,65 +26,81 @@
       "position": 3,
       "name": "Amazfit Active 2",
       "image": "/images/smartwatches/amazfit-active-2.jpg",
-      "price": 109.90,
+      "price": 109.9,
+      "rating": 4,
+      "reviews": 2450,
       "affiliate_url": "https://www.amazon.es/dp/B0DSPVK9QJ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 4,
-      "name": "Apple Watch SE 3 GPS 40mm",
-      "image": "/images/smartwatches/apple-watch-se3-40mm.jpg",
-      "price": 249.00,
+      "name": "Apple Watch SE 3 GPS con Caja de Aluminio en Bla",
+      "image": "/images/smartwatches/apple-watch-se-3-gps-con-caja-de-aluminio-en-bla.jpg",
+      "price": 249,
+      "rating": 4,
+      "reviews": 1053,
       "affiliate_url": "https://www.amazon.es/dp/B0FQG1VG1C?tag=rankzon-21",
-      "badge": "Elección Apple"
+      "badge": null
     },
     {
       "position": 5,
-      "name": "Smartwatch Mujer 1.95\" HD IP68",
-      "image": "/images/smartwatches/smartwatch-mujer-195.jpg",
+      "name": "Reloj Inteligente Mujer",
+      "image": "/images/smartwatches/reloj-inteligente-mujer.jpg",
       "price": 19.99,
+      "rating": 4,
+      "reviews": 110,
       "affiliate_url": "https://www.amazon.es/dp/B0GHN5FGKZ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Smartwatch BT 1.96\" IP68",
-      "image": "/images/smartwatches/smartwatch-196-ip68.jpg",
+      "name": "2026 Reloj Inteligente Hombre Mujer",
+      "image": "/images/smartwatches/2026-reloj-inteligente-hombre-mujer.jpg",
       "price": 19.99,
+      "rating": 4,
+      "reviews": 203,
       "affiliate_url": "https://www.amazon.es/dp/B0GQFWN12N?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Tensky Smartwatch Alexa 1.85\"",
-      "image": "/images/smartwatches/tensky-smartwatch-alexa.jpg",
+      "name": "Tensky Reloj Inteligente Hombre con Llamadas y V",
+      "image": "/images/smartwatches/tensky-reloj-inteligente-hombre-con-llamadas-y-v.jpg",
       "price": 45.12,
+      "rating": 4,
+      "reviews": 1826,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ69ZX92?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "HUAWEI Band 10",
-      "image": "/images/smartwatches/huawei-band-10.jpg",
-      "price": 29.00,
+      "name": "HUAWEI Band 10 Smartwatch",
+      "image": "/images/smartwatches/huawei-band-10-smartwatch.jpg",
+      "price": 29,
+      "rating": 4,
+      "reviews": 1945,
       "affiliate_url": "https://www.amazon.es/dp/B0DY1JKTRD?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Amazfit Active MAX 48mm",
+      "name": "Amazfit Active MAX",
       "image": "/images/smartwatches/amazfit-active-max.jpg",
       "price": 153.99,
+      "rating": 4,
+      "reviews": 670,
       "affiliate_url": "https://www.amazon.es/dp/B0G1ZGK7MV?tag=rankzon-21",
-      "badge": "Elección premium"
+      "badge": null
     },
     {
       "position": 10,
-      "name": "Samsung Galaxy Fit3",
+      "name": "Samsung Galaxy Fit3 -",
       "image": "/images/smartwatches/samsung-galaxy-fit3.jpg",
       "price": 36.95,
+      "rating": 4,
+      "reviews": 3092,
       "affiliate_url": "https://www.amazon.es/dp/B0CVMWY3CD?tag=rankzon-21",
-      "badge": "Mejor calidad-precio"
+      "badge": null
     }
   ]
 }

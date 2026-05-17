@@ -6,7 +6,9 @@
       "position": 1,
       "name": "XIAOMI Redmi Buds 6 Play - Auriculares inalámbri",
       "image": "/images/auriculares/xiaomi-redmi-buds-6-play-auriculares-inalambri.jpg",
-      "price": 9.99,
+      "price": 10.7,
+      "rating": 4,
+      "reviews": 9908,
       "affiliate_url": "https://www.amazon.es/dp/B0DBHRWRKC?tag=rankzon-21",
       "badge": "Más vendido"
     },
@@ -15,6 +17,8 @@
       "name": "Apple EarPods (USB-C) ​​​​​​​",
       "image": "/images/auriculares/apple-earpods-usb-c.jpg",
       "price": 18.98,
+      "rating": 4,
+      "reviews": 12544,
       "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
       "badge": null
     },
@@ -23,6 +27,8 @@
       "name": "XIAOMI REDMI Buds 8 Active - TWS Bluetooth Semi-",
       "image": "/images/auriculares/xiaomi-redmi-buds-8-active-tws-bluetooth-semi.jpg",
       "price": 17.99,
+      "rating": 4,
+      "reviews": 620,
       "affiliate_url": "https://www.amazon.es/dp/B08N5ZV798?tag=rankzon-21",
       "badge": null
     },
@@ -31,6 +37,8 @@
       "name": "Apple AirPods 4 cancelación Activa de Ruido",
       "image": "/images/auriculares/apple-airpods-4-cancelacion-activa-de-ruido.jpg",
       "price": 169,
+      "rating": 4,
+      "reviews": 11190,
       "affiliate_url": "https://www.amazon.es/dp/B0DGHYDYJL?tag=rankzon-21",
       "badge": null
     },
@@ -39,6 +47,8 @@
       "name": "Sony WH-CH520 Auriculares de diadema inalámbrico",
       "image": "/images/auriculares/sony-wh-ch520-auriculares-de-diadema-inalambrico.jpg",
       "price": 30.99,
+      "rating": 4,
+      "reviews": 42288,
       "affiliate_url": "https://www.amazon.es/dp/B0BTJ8ZXG5?tag=rankzon-21",
       "badge": null
     },
@@ -47,6 +57,8 @@
       "name": "Auriculares Inalámbricos Bluetooth",
       "image": "/images/auriculares/auriculares-inalambricos-bluetooth.jpg",
       "price": 22.79,
+      "rating": 4,
+      "reviews": 20562,
       "affiliate_url": "https://www.amazon.es/dp/B0CCDNJS75?tag=rankzon-21",
       "badge": null
     },
@@ -55,6 +67,8 @@
       "name": "Btootos Auriculares Inalámbricos",
       "image": "/images/auriculares/btootos-auriculares-inalambricos.jpg",
       "price": 25.99,
+      "rating": 4,
+      "reviews": 59763,
       "affiliate_url": "https://www.amazon.es/dp/B0BCKHQGJN?tag=rankzon-21",
       "badge": null
     },
@@ -63,6 +77,8 @@
       "name": "Soundcore Q20i Cascos Inalámbricos Bluetooth con",
       "image": "/images/auriculares/soundcore-q20i-cascos-inalambricos-bluetooth-con.jpg",
       "price": 39.9,
+      "rating": 4,
+      "reviews": 63109,
       "affiliate_url": "https://www.amazon.es/dp/B0C3HCD34R?tag=rankzon-21",
       "badge": null
     },
@@ -71,6 +87,8 @@
       "name": "Auriculares Inalambricos Bluetooth",
       "image": "/images/auriculares/auriculares-inalambricos-bluetooth.jpg",
       "price": null,
+      "rating": 4,
+      "reviews": 122,
       "affiliate_url": "https://www.amazon.es/dp/B0GYNF2HLK?tag=rankzon-21",
       "badge": null
     },
@@ -79,6 +97,8 @@
       "name": "XIAOMI Redmi Buds 8 Pro",
       "image": "/images/auriculares/xiaomi-redmi-buds-8-pro.jpg",
       "price": 58.88,
+      "rating": 4,
+      "reviews": 789,
       "affiliate_url": "https://www.amazon.es/dp/B0G5N98LBK?tag=rankzon-21",
       "badge": null
     }

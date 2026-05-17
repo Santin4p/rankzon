@@ -47,12 +47,12 @@ function isKids(title) {
 }
 
 function cleanName(title) {
-  return title
-    .split(/,|：|；/)[0]                          // cut at first comma or CJK colon
+  const base = title.split(/,|：|；/)[0].trim()
+  const stripped = base
     .replace(/\s+(Reloj Inteligente|Pulsera Actividad|para Android|para iOS).*$/i, '')
     .trim()
-    .slice(0, 48)
-    .trim()
+  // keep stripped only if it leaves something meaningful (>= 8 chars)
+  return (stripped.length >= 8 ? stripped : base).slice(0, 48).replace(/[\s\-–,]+$/, '').trim()
 }
 
 function toSlug(name) {
@@ -191,6 +191,8 @@ async function main() {
       name,
       image: `/images/${category}/${imgFilename}`,
       price: parsePrice(item.price),
+      rating: typeof item.stars === 'number' ? item.stars : null,
+      reviews: typeof item.reviewsCount === 'number' ? item.reviewsCount : null,
       affiliate_url: `https://www.amazon.es/dp/${item.asin}?tag=${TAG}`,
       badge: badge(i + 1),
     })

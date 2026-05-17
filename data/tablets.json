@@ -7,6 +7,8 @@
       "name": "Apple iPad de 11 Pulgadas: Chip A16",
       "image": "/images/tablets/apple-ipad-de-11-pulgadas-chip-a16.jpg",
       "price": 349,
+      "rating": 4,
+      "reviews": 8326,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH?tag=rankzon-21",
       "badge": "Más vendido"
     },
@@ -15,6 +17,8 @@
       "name": "Lenovo Idea Tab – Tablet 11\" 2.5K (MediaTek Dime",
       "image": "/images/tablets/lenovo-idea-tab-tablet-11-2-5k-mediatek-dime.jpg",
       "price": 189,
+      "rating": 4,
+      "reviews": 298,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH7MNLW?tag=rankzon-21",
       "badge": null
     },
@@ -23,6 +27,8 @@
       "name": "Apple iPad Air de 11 Pulgada con Chip M3 diseñad",
       "image": "/images/tablets/apple-ipad-air-de-11-pulgada-con-chip-m3-disenad.jpg",
       "price": 459,
+      "rating": 4,
+      "reviews": 2126,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ76441X?tag=rankzon-21",
       "badge": null
     },
@@ -31,6 +37,8 @@
       "name": "Lenovo Tab – Tablet 10.1\" WUXGA (MediaTek Helio",
       "image": "/images/tablets/lenovo-tab-tablet-10-1-wuxga-mediatek-helio.jpg",
       "price": 139,
+      "rating": 4,
+      "reviews": 159,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH8F6YB?tag=rankzon-21",
       "badge": null
     },
@@ -39,6 +47,8 @@
       "name": "Tablet 10 Pulgadas",
       "image": "/images/tablets/tablet-10-pulgadas.jpg",
       "price": 89.35,
+      "rating": 4,
+      "reviews": 76,
       "affiliate_url": "https://www.amazon.es/dp/B0GCZSR8J1?tag=rankzon-21",
       "badge": null
     },
@@ -47,6 +57,8 @@
       "name": "BIEGEDY Tablet 10 Pulgadas Android",
       "image": "/images/tablets/biegedy-tablet-10-pulgadas-android.jpg",
       "price": null,
+      "rating": 3,
+      "reviews": 62,
       "affiliate_url": "https://www.amazon.es/dp/B0GTDNBS1B?tag=rankzon-21",
       "badge": null
     },
@@ -55,6 +67,8 @@
       "name": "BIEGEDY 2026 último Tablet 10 Pulgadas Android 1",
       "image": "/images/tablets/biegedy-2026-ultimo-tablet-10-pulgadas-android-1.jpg",
       "price": null,
+      "rating": 4,
+      "reviews": 73,
       "affiliate_url": "https://www.amazon.es/dp/B0GVN4LSPP?tag=rankzon-21",
       "badge": null
     },
@@ -63,6 +77,8 @@
       "name": "XIAOMI Redmi Pad 2 Graphite Gray 8G RAM 256G ROM",
       "image": "/images/tablets/xiaomi-redmi-pad-2-graphite-gray-8g-ram-256g-rom.jpg",
       "price": 185,
+      "rating": 4,
+      "reviews": 706,
       "affiliate_url": "https://www.amazon.es/dp/B0FBRC83SX?tag=rankzon-21",
       "badge": null
     },
@@ -71,6 +87,8 @@
       "name": "Lenovo Idea Tab Pro – Tablet 12.7\" 3K (MediaTek",
       "image": "/images/tablets/lenovo-idea-tab-pro-tablet-12-7-3k-mediatek.jpg",
       "price": 299,
+      "rating": 4,
+      "reviews": 126,
       "affiliate_url": "https://www.amazon.es/dp/B0DT4ZHQGQ?tag=rankzon-21",
       "badge": null
     },
@@ -79,6 +97,8 @@
       "name": "XIAOMI Redmi Pad 2",
       "image": "/images/tablets/xiaomi-redmi-pad-2.jpg",
       "price": 185,
+      "rating": 4,
+      "reviews": 113,
       "affiliate_url": "https://www.amazon.es/dp/B0FDFV1C9J?tag=rankzon-21",
       "badge": null
     }

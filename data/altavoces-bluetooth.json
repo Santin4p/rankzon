@@ -7,6 +7,8 @@
       "name": "JBL GO 4",
       "image": "/images/altavoces-bluetooth/jbl-go-4.jpg",
       "price": 36.9,
+      "rating": 4,
+      "reviews": 21556,
       "affiliate_url": "https://www.amazon.es/dp/B0CX5F5QXQ?tag=rankzon-21",
       "badge": "Más vendido"
     },
@@ -15,6 +17,8 @@
       "name": "JBL Charge 6",
       "image": "/images/altavoces-bluetooth/jbl-charge-6.jpg",
       "price": 146,
+      "rating": 4,
+      "reviews": 3789,
       "affiliate_url": "https://www.amazon.es/dp/B0DXKNBQS6?tag=rankzon-21",
       "badge": null
     },
@@ -23,6 +27,8 @@
       "name": "JBL Flip 7",
       "image": "/images/altavoces-bluetooth/jbl-flip-7.jpg",
       "price": 109,
+      "rating": 4,
+      "reviews": 2647,
       "affiliate_url": "https://www.amazon.es/dp/B0DXKMXPXW?tag=rankzon-21",
       "badge": null
     },
@@ -31,6 +37,8 @@
       "name": "UOHHBOE Altavoz Bluetooth 5.3",
       "image": "/images/altavoces-bluetooth/uohhboe-altavoz-bluetooth-5-3.jpg",
       "price": 19.99,
+      "rating": 4,
+      "reviews": 5208,
       "affiliate_url": "https://www.amazon.es/dp/B0CMTLN7F9?tag=rankzon-21",
       "badge": null
     },
@@ -39,47 +47,59 @@
       "name": "Sony Altavoz Bluetooth SRS-XB100",
       "image": "/images/altavoces-bluetooth/sony-altavoz-bluetooth-srs-xb100.jpg",
       "price": 36.7,
+      "rating": 4,
+      "reviews": 4563,
       "affiliate_url": "https://www.amazon.es/dp/B0CCYFP62W?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "UOHHBOE Altavoz Bluetooth 5.3",
-      "image": "/images/altavoces-bluetooth/uohhboe-altavoz-bluetooth-5-3.jpg",
-      "price": 17.99,
-      "affiliate_url": "https://www.amazon.es/dp/B0DV3NR5WN?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "JBL GO 5 Altavoz Bluetooth ultraportátil con Son",
       "image": "/images/altavoces-bluetooth/jbl-go-5-altavoz-bluetooth-ultraportatil-con-son.jpg",
       "price": 49.9,
+      "rating": 4,
+      "reviews": 105,
       "affiliate_url": "https://www.amazon.es/dp/B0GPPRPRM5?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
+      "position": 7,
       "name": "TIMU Altavoz Bluetooth 5.4 Potente",
       "image": "/images/altavoces-bluetooth/timu-altavoz-bluetooth-5-4-potente.jpg",
       "price": 29.99,
+      "rating": 4,
+      "reviews": 141,
       "affiliate_url": "https://www.amazon.es/dp/B0GQSZLVWQ?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
+      "position": 8,
       "name": "Altavoz Bluetooth Potente 5.4",
       "image": "/images/altavoces-bluetooth/altavoz-bluetooth-potente-5-4.jpg",
       "price": 21.99,
+      "rating": 4,
+      "reviews": 47,
       "affiliate_url": "https://www.amazon.es/dp/B0GLGCCHWW?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
+      "position": 9,
       "name": "Soundcore Anker 2 Altavoz Bluetooth Portátil con",
       "image": "/images/altavoces-bluetooth/soundcore-anker-2-altavoz-bluetooth-portatil-con.jpg",
       "price": 31.99,
+      "rating": 4,
+      "reviews": 149014,
       "affiliate_url": "https://www.amazon.es/dp/B01MTB55WH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "RIENOK Altavoz Bluetooth 5.3 30W Altavoz Inalámb",
+      "image": "/images/altavoces-bluetooth/rienok-altavoz-bluetooth-5-3-30w-altavoz-inalamb.jpg",
+      "price": 33.99,
+      "rating": 4,
+      "reviews": 34171,
+      "affiliate_url": "https://www.amazon.es/dp/B09ZQF5GZW?tag=rankzon-21",
       "badge": null
     }
   ]

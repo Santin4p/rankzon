@@ -3,6 +3,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { categories, getCategoryBySlug } from "@/lib/categories"
 import type { Metadata } from "next"
+import StarRating from "@/components/StarRating"
 import auriculares from "@/data/auriculares.json"
 import smartwatches from "@/data/smartwatches.json"
 import altavoces from "@/data/altavoces-bluetooth.json"
@@ -13,6 +14,8 @@ interface Producto {
   name: string
   image: string
   price: number | null
+  rating: number | null
+  reviews: number | null
   affiliate_url: string
   badge: string | null
 }
@@ -171,6 +174,11 @@ export default async function CategoryPage({
                 </span>
               )}
               <h2 className="text-base sm:text-lg font-bold text-[#1E293B]">{producto.name}</h2>
+              {producto.rating != null && (
+                <div className="mt-1.5">
+                  <StarRating rating={producto.rating} reviews={producto.reviews} size="md" />
+                </div>
+              )}
               <p className="mt-1 text-[#64748B] font-medium tabular-nums">
                 {producto.price != null
                   ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
@@ -214,11 +222,16 @@ export default async function CategoryPage({
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-semibold text-[#1E293B] text-sm sm:text-base">{producto.name}</p>
-              <p className="text-sm text-[#64748B] tabular-nums">
-                {producto.price != null
-                  ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
-                  : "Ver precio"}
-              </p>
+              <div className="flex items-center gap-2 mt-0.5">
+                <p className="text-sm text-[#64748B] tabular-nums">
+                  {producto.price != null
+                    ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
+                    : "Ver precio"}
+                </p>
+                {producto.rating != null && (
+                  <StarRating rating={producto.rating} size="sm" />
+                )}
+              </div>
             </div>
             <Link
               href={producto.affiliate_url}
