@@ -1,6 +1,6 @@
 {
   "categoria": "smartwatches",
-  "updated_at": "2026-05-14",
+  "updated_at": "2026-05-17",
   "productos": [
     {
       "position": 1,
@@ -12,7 +12,7 @@
     },
     {
       "position": 2,
-      "name": "Smartwatch BT IP68 1.27\" Mujer",
+      "name": "Smartwatch Mujer BT 1.27\" IP68",
       "image": "/images/smartwatches/smartwatch-mujer-127.jpg",
       "price": 25.20,
       "affiliate_url": "https://www.amazon.es/dp/B0FPQS8J1X?tag=rankzon-21",
@@ -20,38 +20,6 @@
     },
     {
       "position": 3,
-      "name": "Apple Watch SE 3 GPS 40mm",
-      "image": "/images/smartwatches/apple-watch-se3-40mm.jpg",
-      "price": 255,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQG1VG1C?tag=rankzon-21",
-      "badge": "Elección Apple"
-    },
-    {
-      "position": 4,
-      "name": "Smartwatch BT 1.95\" IP68",
-      "image": "/images/smartwatches/smartwatch-mujer-195.jpg",
-      "price": 19.99,
-      "affiliate_url": "https://www.amazon.es/dp/B0GHN5FGKZ?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Samsung Galaxy Fit 3",
-      "image": "/images/smartwatches/samsung-galaxy-fit3.jpg",
-      "price": 36.95,
-      "affiliate_url": "https://www.amazon.es/dp/B0CVMWY3CD?tag=rankzon-21",
-      "badge": "Mejor calidad-precio"
-    },
-    {
-      "position": 6,
-      "name": "Tensky Smartwatch Alexa 1.85\"",
-      "image": "/images/smartwatches/tensky-smartwatch-alexa.jpg",
-      "price": 45.12,
-      "affiliate_url": "https://www.amazon.es/dp/B0DZ69ZX92?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Amazfit Active 2",
       "image": "/images/smartwatches/amazfit-active-2.jpg",
       "price": 109.90,
@@ -59,11 +27,43 @@
       "badge": null
     },
     {
+      "position": 4,
+      "name": "Apple Watch SE 3 GPS 40mm",
+      "image": "/images/smartwatches/apple-watch-se3-40mm.jpg",
+      "price": 249.00,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQG1VG1C?tag=rankzon-21",
+      "badge": "Elección Apple"
+    },
+    {
+      "position": 5,
+      "name": "Smartwatch Mujer 1.95\" HD IP68",
+      "image": "/images/smartwatches/smartwatch-mujer-195.jpg",
+      "price": 19.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GHN5FGKZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Smartwatch BT 1.96\" IP68",
+      "image": "/images/smartwatches/smartwatch-196-ip68.jpg",
+      "price": 19.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GQFWN12N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Tensky Smartwatch Alexa 1.85\"",
+      "image": "/images/smartwatches/tensky-smartwatch-alexa.jpg",
+      "price": 45.12,
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ69ZX92?tag=rankzon-21",
+      "badge": null
+    },
+    {
       "position": 8,
-      "name": "Smartwatch BT AI 1.85\" IP68",
-      "image": "/images/smartwatches/smartwatch-ai-185.jpg",
-      "price": 59.99,
-      "affiliate_url": "https://www.amazon.es/dp/B0FXX8VVQG?tag=rankzon-21",
+      "name": "HUAWEI Band 10",
+      "image": "/images/smartwatches/huawei-band-10.jpg",
+      "price": 29.00,
+      "affiliate_url": "https://www.amazon.es/dp/B0DY1JKTRD?tag=rankzon-21",
       "badge": null
     },
     {
@@ -76,11 +76,11 @@
     },
     {
       "position": 10,
-      "name": "Smartwatch BT 1.96\" IP68",
-      "image": "/images/smartwatches/smartwatch-196-ip68.jpg",
-      "price": 19.99,
-      "affiliate_url": "https://www.amazon.es/dp/B0GQFWN12N?tag=rankzon-21",
-      "badge": null
+      "name": "Samsung Galaxy Fit3",
+      "image": "/images/smartwatches/samsung-galaxy-fit3.jpg",
+      "price": 36.95,
+      "affiliate_url": "https://www.amazon.es/dp/B0CVMWY3CD?tag=rankzon-21",
+      "badge": "Mejor calidad-precio"
     }
   ]
 }

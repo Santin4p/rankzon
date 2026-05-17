@@ -1,12 +1,12 @@
 {
   "categoria": "altavoces-bluetooth",
-  "updated_at": "2026-05-14",
+  "updated_at": "2026-05-17",
   "productos": [
     {
       "position": 1,
-      "name": "JBL Go 4",
+      "name": "JBL GO 4",
       "image": "/images/altavoces-bluetooth/jbl-go-4.jpg",
-      "price": 36.99,
+      "price": 36.9,
       "affiliate_url": "https://www.amazon.es/dp/B0CX5F5QXQ?tag=rankzon-21",
       "badge": "Más vendido"
     },
@@ -14,9 +14,9 @@
       "position": 2,
       "name": "JBL Charge 6",
       "image": "/images/altavoces-bluetooth/jbl-charge-6.jpg",
-      "price": 155.99,
+      "price": 146,
       "affiliate_url": "https://www.amazon.es/dp/B0DXKNBQS6?tag=rankzon-21",
-      "badge": "Mayor batería"
+      "badge": null
     },
     {
       "position": 3,
@@ -28,58 +28,58 @@
     },
     {
       "position": 4,
-      "name": "UOHHBOE BT 30W LED",
-      "image": "/images/altavoces-bluetooth/uohhboe-30w.jpg",
+      "name": "UOHHBOE Altavoz Bluetooth 5.3",
+      "image": "/images/altavoces-bluetooth/uohhboe-altavoz-bluetooth-5-3.jpg",
       "price": 19.99,
       "affiliate_url": "https://www.amazon.es/dp/B0CMTLN7F9?tag=rankzon-21",
-      "badge": "Mejor precio"
+      "badge": null
     },
     {
       "position": 5,
-      "name": "Sony SRS-XB100",
-      "image": "/images/altavoces-bluetooth/sony-srs-xb100.jpg",
-      "price": 36.70,
+      "name": "Sony Altavoz Bluetooth SRS-XB100",
+      "image": "/images/altavoces-bluetooth/sony-altavoz-bluetooth-srs-xb100.jpg",
+      "price": 36.7,
       "affiliate_url": "https://www.amazon.es/dp/B0CCYFP62W?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Altavoz BT 5.4 15W IPX7",
-      "image": "/images/altavoces-bluetooth/altavoz-bt-15w-ipx7.jpg",
-      "price": 21.99,
-      "affiliate_url": "https://www.amazon.es/dp/B0GLGCCHWW?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
-      "name": "UOHHBOE BT RGB IPX5",
-      "image": "/images/altavoces-bluetooth/uohhboe-rgb.jpg",
+      "name": "UOHHBOE Altavoz Bluetooth 5.3",
+      "image": "/images/altavoces-bluetooth/uohhboe-altavoz-bluetooth-5-3.jpg",
       "price": 17.99,
       "affiliate_url": "https://www.amazon.es/dp/B0DV3NR5WN?tag=rankzon-21",
       "badge": null
     },
     {
+      "position": 7,
+      "name": "JBL GO 5 Altavoz Bluetooth ultraportátil con Son",
+      "image": "/images/altavoces-bluetooth/jbl-go-5-altavoz-bluetooth-ultraportatil-con-son.jpg",
+      "price": 49.9,
+      "affiliate_url": "https://www.amazon.es/dp/B0GPPRPRM5?tag=rankzon-21",
+      "badge": null
+    },
+    {
       "position": 8,
-      "name": "Soundcore Anker 2",
-      "image": "/images/altavoces-bluetooth/soundcore-anker-2.jpg",
-      "price": 31.99,
-      "affiliate_url": "https://www.amazon.es/dp/B01MTB55WH?tag=rankzon-21",
-      "badge": "Calidad-precio"
+      "name": "TIMU Altavoz Bluetooth 5.4 Potente",
+      "image": "/images/altavoces-bluetooth/timu-altavoz-bluetooth-5-4-potente.jpg",
+      "price": 29.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GQSZLVWQ?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 9,
-      "name": "JBL Clip 5",
-      "image": "/images/altavoces-bluetooth/jbl-clip-5.jpg",
-      "price": 45.50,
-      "affiliate_url": "https://www.amazon.es/dp/B0CX94G62T?tag=rankzon-21",
+      "name": "Altavoz Bluetooth Potente 5.4",
+      "image": "/images/altavoces-bluetooth/altavoz-bluetooth-potente-5-4.jpg",
+      "price": 21.99,
+      "affiliate_url": "https://www.amazon.es/dp/B0GLGCCHWW?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "JBL Grip",
-      "image": "/images/altavoces-bluetooth/jbl-grip.jpg",
-      "price": 77.90,
-      "affiliate_url": "https://www.amazon.es/dp/B0FMGXH38Q?tag=rankzon-21",
+      "name": "Soundcore Anker 2 Altavoz Bluetooth Portátil con",
+      "image": "/images/altavoces-bluetooth/soundcore-anker-2-altavoz-bluetooth-portatil-con.jpg",
+      "price": 31.99,
+      "affiliate_url": "https://www.amazon.es/dp/B01MTB55WH?tag=rankzon-21",
       "badge": null
     }
   ]

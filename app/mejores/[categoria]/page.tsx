@@ -12,7 +12,7 @@ interface Producto {
   position: number
   name: string
   image: string
-  price: number
+  price: number | null
   affiliate_url: string
   badge: string | null
 }
@@ -97,13 +97,15 @@ export default async function CategoryPage({
         "@type": "Product",
         name: p.name,
         image: `https://rankzon.es${p.image}`,
-        offers: {
-          "@type": "Offer",
-          priceCurrency: "EUR",
-          price: p.price.toFixed(2),
-          availability: "https://schema.org/InStock",
-          seller: { "@type": "Organization", name: "Amazon España" },
-        },
+        ...(p.price != null && {
+          offers: {
+            "@type": "Offer",
+            priceCurrency: "EUR",
+            price: p.price.toFixed(2),
+            availability: "https://schema.org/InStock",
+            seller: { "@type": "Organization", name: "Amazon España" },
+          },
+        }),
       },
     })),
   }
@@ -170,7 +172,9 @@ export default async function CategoryPage({
               )}
               <h2 className="text-base sm:text-lg font-bold text-[#1E293B]">{producto.name}</h2>
               <p className="mt-1 text-[#64748B] font-medium tabular-nums">
-                {producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €
+                {producto.price != null
+                  ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
+                  : "Ver precio"}
               </p>
               <Link
                 href={producto.affiliate_url}
@@ -211,7 +215,9 @@ export default async function CategoryPage({
             <div className="flex-1 min-w-0">
               <p className="font-semibold text-[#1E293B] text-sm sm:text-base">{producto.name}</p>
               <p className="text-sm text-[#64748B] tabular-nums">
-                {producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €
+                {producto.price != null
+                  ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
+                  : "Ver precio"}
               </p>
             </div>
             <Link

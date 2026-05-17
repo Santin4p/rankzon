@@ -1,0 +1,18 @@
+{
+  "smartwatches": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/3457446031",
+    "name": "Smartwatches"
+  },
+  "auriculares": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/934056031",
+    "name": "Auriculares"
+  },
+  "altavoces-bluetooth": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/16725714031",
+    "name": "Altavoces Bluetooth"
+  },
+  "tablets": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/938010031",
+    "name": "Tablets"
+  }
+}
