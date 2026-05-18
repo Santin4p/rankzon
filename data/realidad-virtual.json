@@ -10,7 +10,18 @@
       "rating": 4,
       "reviews": 2484,
       "affiliate_url": "https://www.amazon.es/dp/B0BRQMVCXL?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "5 metros de longitud: total libertad de movimiento jugando",
+        "Carga rápida mientras juegas, sin interrupciones",
+        "Cable trenzado duradero que no se dobla ni rompe",
+        "Compatible con Meta Quest 3/3S, Pico 4 y PC"
+      ],
+      "cons": [
+        "La carga simultánea puede dar avisos de humedad en el Quest",
+        "Algunos usuarios reportan incompatibilidad con ciertas tarjetas gráficas"
+      ],
+      "user_summary": "La mayoría destaca su excelente relación calidad-precio y que elimina los tirones de latencia. El principal punto de fricción es la carga simultánea, que genera avisos ocasionales en el headset, aunque INIU responde bien con reemplazos."
     },
     {
       "position": 2,
@@ -20,7 +31,18 @@
       "rating": 4,
       "reviews": 5408,
       "affiliate_url": "https://www.amazon.es/dp/B0CJLG9SBR?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Comodidad muy superior a la correa original del Meta Quest",
+        "Batería magnética intercambiable en caliente: hasta 2h extra",
+        "Rueda trasera de ajuste preciso para cualquier tamaño de cabeza",
+        "Instalación sencilla en menos de 5 minutos"
+      ],
+      "cons": [
+        "Puede generar leve vibración al cargar la batería mientras se juega",
+        "El diseño halo puede resultar inestable en movimientos bruscos"
+      ],
+      "user_summary": "Considerada por la comunidad VR el mejor accesorio para el Meta Quest 3. Los compradores destacan que transforma la experiencia: desaparece la presión facial y se doblan las horas de juego. La única queja recurrente es el ligero sonido al cargar."
     },
     {
       "position": 3,
@@ -30,7 +52,18 @@
       "rating": 4,
       "reviews": 497,
       "affiliate_url": "https://www.amazon.es/dp/B09N5CNS5T?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "512 GB de almacenamiento: biblioteca entera sin compromisos",
+        "Procesador Snapdragon XR2 Gen 2: el más potente en VR standalone",
+        "Passthrough a color real: mixed reality de alta calidad",
+        "Compatible con PCVR vía cable o Air Link inalámbrico"
+      ],
+      "cons": [
+        "Precio elevado respecto al modelo de 128 GB",
+        "Batería del headset de apenas 2-3 horas de autonomía standalone"
+      ],
+      "user_summary": "Los compradores que optan por la versión de 512 GB valoran no tener que gestionar el espacio jamás y disfrutar del rendimiento máximo de la plataforma. La autonomía limitada es el talón de Aquiles recurrente, lo que lleva a muchos a combinarlo con accesorios de batería."
     },
     {
       "position": 4,

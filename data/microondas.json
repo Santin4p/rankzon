@@ -10,7 +10,18 @@
       "rating": 4,
       "reviews": 4815,
       "affiliate_url": "https://www.amazon.es/dp/B07YFPZTY6?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Precio muy competitivo para sus prestaciones",
+        "Fácil de usar con controles intuitivos",
+        "Diseño compacto, ideal para cocinas pequeñas",
+        "Funciona sin problemas tras más de un año de uso"
+      ],
+      "cons": [
+        "Ligero: se desplaza al abrir la puerta con una mano",
+        "Algo más ruidoso que otros modelos similares"
+      ],
+      "user_summary": "Los compradores destacan su excelente relación calidad-precio como principal virtud, valorando que cumple todas las funciones básicas sin complicaciones. La mayoría lleva meses o más de un año sin incidencias, aunque advierten que pesa poco y conviene sujetarlo al abrir la puerta."
     },
     {
       "position": 2,
@@ -20,7 +31,18 @@
       "rating": 4,
       "reviews": 444,
       "affiliate_url": "https://www.amazon.es/dp/B09XDZHW6T?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Manejo muy sencillo, sin curva de aprendizaje",
+        "Silencioso comparado con otros microondas básicos",
+        "Iluminación interior potente, ver bien los alimentos",
+        "Marca española con buena relación calidad-precio"
+      ],
+      "cons": [
+        "Puerta de cristal negro, no traslúcido como indica la ficha",
+        "Muy básico: sin funciones avanzadas más allá de calentar"
+      ],
+      "user_summary": "Los usuarios valoran su sencillez extrema y lo recomiendan para quien solo necesita calentar sin complicaciones. El punto de fricción más citado es que el color del cristal de la puerta no coincide con la descripción del vendedor, aunque el funcionamiento en general satisface."
     },
     {
       "position": 3,
@@ -30,7 +52,18 @@
       "rating": 4,
       "reviews": 2508,
       "affiliate_url": "https://www.amazon.es/dp/B07HC8KZNV?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Revestimiento Ready2Clean: se limpia muy fácilmente",
+        "Diseño elegante con asa de acero inoxidable",
+        "8 programas automáticos para usos cotidianos",
+        "Fácil de usar una vez familiarizado con los botones"
+      ],
+      "cons": [
+        "Instrucciones poco claras para los modos de programación",
+        "Algunos usuarios reportan ruido elevado en funcionamiento"
+      ],
+      "user_summary": "La mayoría de compradores lo eligen por su diseño más cuidado respecto a modelos básicos y destacan lo fácil que resulta la limpieza gracias al revestimiento interior. Un pequeño grupo señala que el manual no explica bien los botones digitales, aunque una vez aprendido funciona sin problemas."
     },
     {
       "position": 4,

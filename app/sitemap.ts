@@ -2,7 +2,7 @@ import { MetadataRoute } from "next"
 import { sections, getAllCategories } from "@/lib/categories"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://rankzon.es"
+  const base = "https://www.rankzon.es"
   const activeSections = sections.filter((s) => s.categories.length > 0)
 
   return [

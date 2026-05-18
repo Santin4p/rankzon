@@ -1,6 +1,6 @@
 {
   "categoria": "televisores",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-18",
   "productos": [
     {
       "position": 1,
@@ -12,16 +12,15 @@
       "affiliate_url": "https://www.amazon.es/dp/B0F4548TCQ?tag=rankzon-21",
       "badge": "Más vendido",
       "pros": [
-        "Relación calidad-precio imbatible para 32 pulgadas",
-        "Imagen vibrante y colores vivos desde el primer encendido",
-        "Configuración muy sencilla con Fire OS y Alexa integrada"
+        "Imagen 4K nítida con colores vivos desde el primer encendido",
+        "Fire TV con Alexa integrada: fluido y fácil de usar",
+        "Relación calidad-precio imbatible para su gama"
       ],
       "cons": [
-        "El procesador puede ir algo lento al navegar por los menús",
-        "El sonido no es potente; se recomienda una barra de sonido",
-        "La imagen sale algo azulada de fábrica y requiere calibración"
+        "Altavoces poco potentes; se recomienda barra de sonido",
+        "Menús algo lentos y configuración poco intuitiva con Fire OS"
       ],
-      "user_summary": "El televisor más vendido en Amazon España en su rango de precio. Ideal para dormitorios o cocinas donde prima el presupuesto. La mayoría de compradores destacan la facilidad de uso y el ecosistema Amazon, aunque piden un sonido algo más potente."
+      "user_summary": "El televisor más vendido en Amazon España. Los compradores destacan su imagen nítida y la comodidad del Fire TV con Alexa, aunque casi todos coinciden en que el sonido interno es su punto débil y conviene añadir una barra de sonido."
     },
     {
       "position": 2,
@@ -33,15 +32,15 @@
       "affiliate_url": "https://www.amazon.es/dp/B0GQHRLGY8?tag=rankzon-21",
       "badge": null,
       "pros": [
-        "Configuración inicial rápida y guiada, sin complicaciones",
-        "Tizen OS 8 ofrece gran compatibilidad con apps y control por voz",
-        "Marca española con buen servicio posventa y soporte en castellano"
+        "Tizen OS con acceso directo a todas las apps de streaming",
+        "Configuración inicial muy sencilla e intuitiva",
+        "Colores vivos y buena nitidez para su rango de precio"
       ],
       "cons": [
-        "La calidad de imagen no alcanza el nivel de las marcas premium",
-        "El brillo máximo es limitado en habitaciones con mucha luz"
+        "Sonido muy plano y sin cuerpo; casi obligatorio añadir altavoz externo",
+        "Smart TV algo lento con lag al navegar entre aplicaciones"
       ],
-      "user_summary": "Buena opción si buscas un Smart TV de 40 pulgadas con sistema operativo solvente y respaldo de marca española. Los compradores valoran especialmente la facilidad de configuración y la fluidez de Tizen, aunque algunos esperaban una imagen más nítida por el precio."
+      "user_summary": "Opción económica de marca española con un Tizen OS que sorprende por su completud. Los compradores valoran lo fácil que es configurarla y la imagen, pero coinciden en que el sonido interno es muy justo y que el sistema puede ir algo lento."
     },
     {
       "position": 3,
@@ -53,15 +52,15 @@
       "affiliate_url": "https://www.amazon.es/dp/B0F2GH8L49?tag=rankzon-21",
       "badge": null,
       "pros": [
-        "Resolución 4K UHD con soporte HDR10 y HLG para imágenes detalladas",
-        "webOS con ThinQ AI para búsqueda inteligente y control por voz",
-        "Diseño elegante y construcción sólida típica de LG"
+        "Panel 4K con colores bien calibrados de fábrica sin ajustes",
+        "webOS 25 muy fluido e intuitivo con Super Upscaling para contenido HD",
+        "Sonido Dolby Digital Plus por encima de la media en su gama"
       ],
       "cons": [
-        "Sin Dolby Vision ni OLED; el procesador α5 AI es más básico que modelos superiores",
-        "Precio algo superior a la competencia en este tamaño"
+        "El mando no incluye teclado numérico, lo que incomoda a algunos usuarios",
+        "Puntualmente se queda colgada al cambiar entre aplicaciones"
       ],
-      "user_summary": "El LG 43\" es una apuesta segura para salones medianos que quieran dar el salto a 4K. Basado en especificaciones del fabricante: procesador α5 AI Gen7, webOS 24, 4K a 60 Hz y múltiples entradas HDMI 2.0. Ideal si valoras la fiabilidad de la marca y un ecosistema Smart TV maduro."
+      "user_summary": "El LG de la lista es el que más satisface en conjunto. Los compradores destacan que la imagen llega bien calibrada de fábrica, que webOS es el sistema más fluido de los tres y que el sonido supera expectativas para su precio. La queja más repetida es el mando sin números."
     },
     {
       "position": 4,

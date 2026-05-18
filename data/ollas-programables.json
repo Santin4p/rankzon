@@ -10,7 +10,19 @@
       "rating": 4,
       "reviews": 2175,
       "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Muy versátil: guisos, caldos, sous vide, repostería y más",
+        "Consumo energético muy bajo durante la cocción",
+        "Funciona sin ruido ni necesidad de vigilancia constante",
+        "Cubeta apta para horno y lavavajillas",
+        "Gran capacidad (7,5L): ideal para familias numerosas"
+      ],
+      "cons": [
+        "Calidad de materiales inferior a modelos anteriores de la marca",
+        "Servicio técnico reportado como muy deficiente por usuarios"
+      ],
+      "user_summary": "Los compradores valoran su versatilidad y bajo consumo, destacando que los guisos salen con sabor excepcional sin esfuerzo. El principal punto negativo es la bajada de calidad en materiales respecto a versiones antiguas y un servicio postventa que deja bastante que desear."
     },
     {
       "position": 2,
@@ -20,7 +32,19 @@
       "rating": 4,
       "reviews": 13548,
       "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sabor de los guisos muy superior a métodos tradicionales",
+        "Consumo eléctrico bajísimo (180-210W frente a 1800W habituales)",
+        "Cubeta de cerámica antiadherente, fácil de limpiar",
+        "Función warm mantiene la comida caliente sin pasarse",
+        "Sin ruido ni vapor en la cocina durante la cocción"
+      ],
+      "cons": [
+        "No se apaga sola: requiere programador externo para automatizar",
+        "Algunas unidades antiguas con problemas de temperatura en la carcasa"
+      ],
+      "user_summary": "Con más de 13.000 valoraciones es el modelo más consolidado del mercado. Los usuarios repiten compra y destacan el ahorro energético y los sabores intensos. El único inconveniente real es que no incluye temporizador de inicio, por lo que muchos compran un programador de enchufe adicional."
     },
     {
       "position": 3,
@@ -30,7 +54,19 @@
       "rating": 4,
       "reviews": 35,
       "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Programable hasta 24 horas con pantalla LCD clara",
+        "Dos temperaturas ajustables y función keep warm incluida",
+        "Vasija cerámica oval apta para horno",
+        "Incluye espátula de silicona en el pack",
+        "Muy buena relación calidad-precio según compradores"
+      ],
+      "cons": [
+        "Producto reciente con pocos compradores: durabilidad aún por confirmar",
+        "Algún caso aislado de grieta en la vasija cerámica con el uso"
+      ],
+      "user_summary": "Modelo recién llegado con valoraciones muy positivas (4,8★ sobre 35 reseñas). Los compradores destacan su facilidad de uso, la opción de temperatura alta para pochar y el precio ajustado. La poca antigüedad en el mercado genera cierta incertidumbre sobre su durabilidad a largo plazo."
     },
     {
       "position": 4,

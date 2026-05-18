@@ -12,7 +12,7 @@ const jakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rankzon.es"),
+  metadataBase: new URL("https://www.rankzon.es"),
   title: {
     default: "Rankzon — Los mejores productos tech en Amazon España",
     template: "%s — Rankzon",

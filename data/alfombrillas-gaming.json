@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 99155,
       "affiliate_url": "https://www.amazon.es/dp/B06X3W3TM4?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Soporte de gel ergonómico alivia el dolor de muñeca",
+        "Base antideslizante que no se mueve al usarla",
+        "Precio muy asequible para la calidad que ofrece"
+      ],
+      "cons": [
+        "El gel puede volverse duro con el tiempo para algunos usuarios",
+        "La costura del reposamuñecas puede abrirse tras varios meses"
+      ],
+      "user_summary": "Los compradores destacan su excelente relación calidad-precio y el notable alivio que proporciona el reposamuñecas de gel durante jornadas largas de trabajo. Una minoría señala que la durabilidad varía: algunos la usan sin problemas durante años mientras otros reportan deterioro del gel en pocos meses."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 7684,
       "affiliate_url": "https://www.amazon.es/dp/B07W7LTQ4B?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Superficie de tela suave con deslizamiento preciso del ratón",
+        "Diseño minimalista y elegante con variedad de colores",
+        "Base de goma antideslizante que mantiene la posición"
+      ],
+      "cons": [
+        "Tamaño estándar, sin opción XL para setups grandes",
+        "Sin reposamuñecas, poco adecuada para uso prolongado"
+      ],
+      "user_summary": "Los usuarios valoran el acabado de calidad típico de Logitech y el deslizamiento suave y controlado de la superficie. Es una alfombrilla sencilla y fiable para uso diario y gaming casual, aunque quienes buscan ergonomía o gran superficie deberán considerar otras opciones."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 13474,
       "affiliate_url": "https://www.amazon.es/dp/B08T1MQJ2J?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Tamaño XXL (90x43 cm) cubre teclado y ratón a la vez",
+        "Superficie de piel PU impermeable y muy fácil de limpiar",
+        "Base antideslizante que no se mueve; bordes cosidos reforzados"
+      ],
+      "cons": [
+        "Ligero olor a plástico al desempacar que tarda unos días en disiparse",
+        "Material sintético, no cuero genuino pese a la apariencia premium"
+      ],
+      "user_summary": "Los compradores destacan su gran tamaño, el aspecto elegante que aporta al escritorio y lo fácil que es limpiarla. Funciona bien tanto como alfombrilla de ratón como superficie de escritura. El leve olor inicial desaparece en pocos días y la relación calidad-precio se considera muy buena."
     },
     {
       "position": 4,
