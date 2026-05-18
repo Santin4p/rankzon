@@ -110,5 +110,21 @@
   "ollas-programables": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165428031",
     "name": "Ollas Programables"
+  },
+  "impresoras": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/17482570031",
+    "name": "Impresoras"
+  },
+  "routers-wifi": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/937958031",
+    "name": "Routers WiFi"
+  },
+  "discos-duros-externos": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/17478027031",
+    "name": "Discos Duros Externos"
+  },
+  "lectores-ebook": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/15424901031",
+    "name": "Lectores eBook"
   }
 }

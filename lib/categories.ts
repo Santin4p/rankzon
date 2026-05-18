@@ -66,6 +66,30 @@ export const sections: Section[] = [
         description: "Los mejores monitores para trabajo, estudio y gaming",
         previewImage: "/images/monitores/philips-27e1n1100a-monitor-27-pulgadas-fhd.jpg",
       },
+      {
+        slug: "impresoras",
+        name: "Cartuchos de Impresora",
+        description: "Los cartuchos de tinta más vendidos para impresoras HP y Epson",
+        previewImage: "/images/impresoras/epson-ecotank-et-2870-impresora-de-deposito-de-t.jpg",
+      },
+      {
+        slug: "routers-wifi",
+        name: "Redes y WiFi",
+        description: "Los mejores repetidores WiFi, routers y adaptadores de red",
+        previewImage: "/images/routers-wifi/nuevo-tp-link-deco-x1500-2-pack-sistema-wi.jpg",
+      },
+      {
+        slug: "discos-duros-externos",
+        name: "Almacenamiento",
+        description: "Las mejores tarjetas de memoria, pendrives y discos externos",
+        previewImage: "/images/discos-duros-externos/sandisk-extreme-ssd-externo-portatil-1tb-disco.jpg",
+      },
+      {
+        slug: "lectores-ebook",
+        name: "Lectores eBook",
+        description: "Los mejores lectores digitales y tabletas e-Ink para leer",
+        previewImage: "/images/lectores-ebook/kindle-scribe-2022.jpg",
+      },
     ],
   },
   {
