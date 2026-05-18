@@ -1,0 +1,106 @@
+{
+  "categoria": "purificadores-aire",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Ventilador de techo con luz con mando 3 aspas",
+      "image": "/images/purificadores-aire/ventilador-de-techo-con-luz-con-mando-3-aspas.jpg",
+      "price": 48.5,
+      "rating": 4,
+      "reviews": 233,
+      "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "M mimotec - White Olga Ventilador de Techo LED 6",
+      "image": "/images/purificadores-aire/m-mimotec-white-olga-ventilador-de-techo-led-6.jpg",
+      "price": 42.99,
+      "rating": 4,
+      "reviews": 318,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYP9N5CJ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "DRYBOSS Pack x 10 Deshumidificador Absorbente An",
+      "image": "/images/purificadores-aire/dryboss-pack-x-10-deshumidificador-absorbente-an.jpg",
+      "price": 19.99,
+      "rating": 4,
+      "reviews": 454,
+      "affiliate_url": "https://www.amazon.es/dp/B0CWHDZZF1?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Philips Purificador de Aire Serie 600",
+      "image": "/images/purificadores-aire/philips-purificador-de-aire-serie-600.jpg",
+      "price": 89.99,
+      "rating": 4,
+      "reviews": 1687,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCF2NKCW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "LEVOIT Purificador de Aire con Filtro HEPA para",
+      "image": "/images/purificadores-aire/levoit-purificador-de-aire-con-filtro-hepa-para.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "reviews": 3185,
+      "affiliate_url": "https://www.amazon.es/dp/B0CGDJHJP6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Mellerware - Ventilador de Techo con Mando a Dis",
+      "image": "/images/purificadores-aire/mellerware-ventilador-de-techo-con-mando-a-dis.jpg",
+      "price": 99.99,
+      "rating": 4,
+      "reviews": 2870,
+      "affiliate_url": "https://www.amazon.es/dp/B092ZJVC82?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Orbegozo SF 0147",
+      "image": "/images/purificadores-aire/orbegozo-sf-0147.jpg",
+      "price": 22.49,
+      "rating": 4,
+      "reviews": 14974,
+      "affiliate_url": "https://www.amazon.es/dp/B01D4YVY80?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Errecom Evaporator Cleaner Foam",
+      "image": "/images/purificadores-aire/errecom-evaporator-cleaner-foam.jpg",
+      "price": 13,
+      "rating": 4,
+      "reviews": 3957,
+      "affiliate_url": "https://www.amazon.es/dp/B06XWRVPMZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "CREATE/WINDCALM S/Ventilador de techo ABS con lu",
+      "image": "/images/purificadores-aire/create-windcalm-s-ventilador-de-techo-abs-con-lu.jpg",
+      "price": 80.95,
+      "rating": 4,
+      "reviews": 223,
+      "affiliate_url": "https://www.amazon.es/dp/B0F4DKL4XQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Dreo 20dB Ventilador de Pie Silencioso",
+      "image": "/images/purificadores-aire/dreo-20db-ventilador-de-pie-silencioso.jpg",
+      "price": 71.99,
+      "rating": 4,
+      "reviews": 44287,
+      "affiliate_url": "https://www.amazon.es/dp/B09MKPDJRT?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

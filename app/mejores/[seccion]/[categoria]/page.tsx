@@ -23,6 +23,16 @@ import juegosPs5 from "@/data/juegos-ps5.json"
 import juegosSwitch from "@/data/juegos-switch.json"
 import juegosXbox from "@/data/juegos-xbox.json"
 import juegosSwitch2 from "@/data/juegos-switch-2.json"
+import televisores from "@/data/televisores.json"
+import monitores from "@/data/monitores.json"
+import realidadVirtual from "@/data/realidad-virtual.json"
+import alfombrillasGaming from "@/data/alfombrillas-gaming.json"
+import webcams from "@/data/webcams.json"
+import microfonosGaming from "@/data/microfonos-gaming.json"
+import microondas from "@/data/microondas.json"
+import batidoras from "@/data/batidoras.json"
+import purificadoresAire from "@/data/purificadores-aire.json"
+import ollasProgramables from "@/data/ollas-programables.json"
 
 interface Producto {
   position: number
@@ -63,6 +73,16 @@ const rankingMap: Record<string, RankingData> = {
   "juegos-switch": juegosSwitch as unknown as RankingData,
   "juegos-xbox": juegosXbox as unknown as RankingData,
   "juegos-switch-2": juegosSwitch2 as unknown as RankingData,
+  televisores: televisores as unknown as RankingData,
+  monitores: monitores as unknown as RankingData,
+  "realidad-virtual": realidadVirtual as unknown as RankingData,
+  "alfombrillas-gaming": alfombrillasGaming as unknown as RankingData,
+  webcams: webcams as unknown as RankingData,
+  "microfonos-gaming": microfonosGaming as unknown as RankingData,
+  microondas: microondas as unknown as RankingData,
+  batidoras: batidoras as unknown as RankingData,
+  "purificadores-aire": purificadoresAire as unknown as RankingData,
+  "ollas-programables": ollasProgramables as unknown as RankingData,
 }
 
 export function generateStaticParams() {

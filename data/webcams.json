@@ -1,0 +1,136 @@
+{
+  "categoria": "webcams",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "UGREEN Webcam Full HD 1080P 30FPS USB A PC Cámar",
+      "image": "/images/webcams/ugreen-webcam-full-hd-1080p-30fps-usb-a-pc-camar.jpg",
+      "price": 19.59,
+      "rating": 4,
+      "reviews": 5599,
+      "affiliate_url": "https://www.amazon.es/dp/B0C76ZD7KV?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": [
+        "Imagen nítida y bien iluminada para videollamadas de trabajo",
+        "Plug and play sin instalar drivers, funciona al instante",
+        "Precio muy competitivo para la calidad que ofrece"
+      ],
+      "cons": [
+        "Micrófono capta bastante ruido ambiental",
+        "El clip de sujeción puede ser inestable en monitores finos"
+      ],
+      "user_summary": "Los compradores destacan que por menos de 20€ ofrece una imagen 1080p decente y sin complicaciones. La mayoría la usa para teletrabajo y Zoom sin quejas serias, aunque el micrófono integrado decepciona a quienes necesitan audio limpio."
+    },
+    {
+      "position": 2,
+      "name": "Logitech C270 Webcam HD",
+      "image": "/images/webcams/logitech-c270-webcam-hd.jpg",
+      "price": 17.94,
+      "rating": 4,
+      "reviews": 24555,
+      "affiliate_url": "https://www.amazon.es/dp/B01BGBJ8Y0?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Marca de confianza con años de fiabilidad demostrada",
+        "Instalación instantánea, compatible con Windows, Mac y Linux",
+        "Imagen estable y consistente en condiciones de luz normal"
+      ],
+      "cons": [
+        "Resolución 720p se queda corta respecto a rivales actuales",
+        "Sin corrección automática de luz en entornos oscuros"
+      ],
+      "user_summary": "Con más de 24.000 reseñas es la webcam más probada del mercado. Los usuarios valoran su fiabilidad total y la facilidad de uso, pero reconocen que la imagen 720p ya muestra su edad frente a modelos 1080p del mismo precio."
+    },
+    {
+      "position": 3,
+      "name": "EMEET Webcam 1080P con Micrófono C960 Cámara Web",
+      "image": "/images/webcams/emeet-webcam-1080p-con-microfono-c960-camara-web.jpg",
+      "price": 22.79,
+      "rating": 4,
+      "reviews": 4423,
+      "affiliate_url": "https://www.amazon.es/dp/B0002HAHUY?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Micrófono con reducción de ruido notablemente mejor que la competencia",
+        "Campo visual amplio que facilita reuniones grupales",
+        "Software EMEET con ajustes de imagen fáciles de usar"
+      ],
+      "cons": [
+        "Precio ligeramente superior a alternativas similares",
+        "El cable USB es más corto de lo deseable"
+      ],
+      "user_summary": "Los compradores la eligen principalmente por el micrófono integrado, que destacan como el punto diferencial frente a otras webcams baratas. La calidad de imagen 1080p cumple bien, aunque el cable corto genera comentarios negativos recurrentes."
+    },
+    {
+      "position": 4,
+      "name": "VIZOLINK W2N Webcam HD 1080P/30FPS 2 Micrófono C",
+      "image": "/images/webcams/vizolink-w2n-webcam-hd-1080p-30fps-2-microfono-c.jpg",
+      "price": 9.49,
+      "rating": 3,
+      "reviews": 43,
+      "affiliate_url": "https://www.amazon.es/dp/B0FRSKVQ7R?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Webcam PC Camara Web",
+      "image": "/images/webcams/webcam-pc-camara-web.jpg",
+      "price": 11.99,
+      "rating": 4,
+      "reviews": 3389,
+      "affiliate_url": "https://www.amazon.es/dp/B0BG1YJWFN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Creative Live Cam Sync 1080p V2 - Webcam USB (gr",
+      "image": "/images/webcams/creative-live-cam-sync-1080p-v2-webcam-usb-gr.jpg",
+      "price": 27.99,
+      "rating": 4,
+      "reviews": 4299,
+      "affiliate_url": "https://www.amazon.es/dp/B091C3P6ZD?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Logitech C920 HD Pro Webcam",
+      "image": "/images/webcams/logitech-c920-hd-pro-webcam.jpg",
+      "price": 61.65,
+      "rating": 4,
+      "reviews": 2744,
+      "affiliate_url": "https://www.amazon.es/dp/B006A2Q81M?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "UGREEN Webcam 4K 30FPS Ultra HD USB Webcam Enfoq",
+      "image": "/images/webcams/ugreen-webcam-4k-30fps-ultra-hd-usb-webcam-enfoq.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "reviews": 1674,
+      "affiliate_url": "https://www.amazon.es/dp/B0DT9MMZTL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "VIZOLINK W8GS Webcam 4K Full HD Webcam con Micro",
+      "image": "/images/webcams/vizolink-w8gs-webcam-4k-full-hd-webcam-con-micro.jpg",
+      "price": 26.05,
+      "rating": 4,
+      "reviews": 1720,
+      "affiliate_url": "https://www.amazon.es/dp/B0BBRGXD5Q?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "N newline Webcam 4K para PC con Sensor Sony de 1",
+      "image": "/images/webcams/n-newline-webcam-4k-para-pc-con-sensor-sony-de-1.jpg",
+      "price": 35.53,
+      "rating": 4,
+      "reviews": 436,
+      "affiliate_url": "https://www.amazon.es/dp/B0DSKDM2ZG?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

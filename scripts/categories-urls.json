@@ -70,5 +70,45 @@
   "juegos-switch-2": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/206234155031",
     "name": "Juegos Nintendo Switch 2"
+  },
+  "televisores": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/934359031",
+    "name": "Televisores"
+  },
+  "monitores": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/937992031",
+    "name": "Monitores"
+  },
+  "realidad-virtual": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/videogames/22649661031",
+    "name": "Realidad Virtual"
+  },
+  "alfombrillas-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/937818031",
+    "name": "Alfombrillas Gaming"
+  },
+  "webcams": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/28133665031",
+    "name": "Webcams"
+  },
+  "microfonos-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/938013031",
+    "name": "Micrófonos Gaming"
+  },
+  "microondas": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165413031",
+    "name": "Microondas"
+  },
+  "batidoras": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/3578779031",
+    "name": "Batidoras"
+  },
+  "purificadores-aire": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/3605952031",
+    "name": "Purificadores de Aire"
+  },
+  "ollas-programables": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/kitchen/2165428031",
+    "name": "Ollas Programables"
   }
 }

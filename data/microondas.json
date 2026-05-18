@@ -1,0 +1,106 @@
+{
+  "categoria": "microondas",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Cecotec Microondas ProClean 2010. 700 W de Poten",
+      "image": "/images/microondas/cecotec-microondas-proclean-2010-700-w-de-poten.jpg",
+      "price": 49.9,
+      "rating": 4,
+      "reviews": 4815,
+      "affiliate_url": "https://www.amazon.es/dp/B07YFPZTY6?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Corberó CMICM4020W Microondas 20L 700W Blanco",
+      "image": "/images/microondas/corbero-cmicm4020w-microondas-20l-700w-blanco.jpg",
+      "price": 45.62,
+      "rating": 4,
+      "reviews": 444,
+      "affiliate_url": "https://www.amazon.es/dp/B09XDZHW6T?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Cecotec Microondas ProClean 5010. 700 W",
+      "image": "/images/microondas/cecotec-microondas-proclean-5010-700-w.jpg",
+      "price": 64.9,
+      "rating": 4,
+      "reviews": 2508,
+      "affiliate_url": "https://www.amazon.es/dp/B07HC8KZNV?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Midea Microondas 20 litros y 700 W de potencia |",
+      "image": "/images/microondas/midea-microondas-20-litros-y-700-w-de-potencia.jpg",
+      "price": 52.99,
+      "rating": 4,
+      "reviews": 2176,
+      "affiliate_url": "https://www.amazon.es/dp/B0GFX58XMH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Orbegozo MI 2115",
+      "image": "/images/microondas/orbegozo-mi-2115.jpg",
+      "price": 51.35,
+      "rating": 4,
+      "reviews": 11157,
+      "affiliate_url": "https://www.amazon.es/dp/B082WXLF59?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Cecotec Microondas de 20 Litros ProClean 3050. 7",
+      "image": "/images/microondas/cecotec-microondas-de-20-litros-proclean-3050-7.jpg",
+      "price": 54.9,
+      "rating": 4,
+      "reviews": 2331,
+      "affiliate_url": "https://www.amazon.es/dp/B07JZD2KGH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Cecotec Microondas Digital Proclean 5005 Black.",
+      "image": "/images/microondas/cecotec-microondas-digital-proclean-5005-black.jpg",
+      "price": 59.9,
+      "rating": 4,
+      "reviews": 13,
+      "affiliate_url": "https://www.amazon.es/dp/B0GJ62PD4S?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Cecotec Microondas Mecánico de 20 L Proclean 301",
+      "image": "/images/microondas/cecotec-microondas-mecanico-de-20-l-proclean-301.jpg",
+      "price": 59.9,
+      "rating": 4,
+      "reviews": 3252,
+      "affiliate_url": "https://www.amazon.es/dp/B0BQ2MHMW8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Cecotec Microondas negro ProClean 6010. 800 W",
+      "image": "/images/microondas/cecotec-microondas-negro-proclean-6010-800-w.jpg",
+      "price": 69.9,
+      "rating": 3,
+      "reviews": 1271,
+      "affiliate_url": "https://www.amazon.es/dp/B07KJF1F3G?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Cecotec Microondas de 20L Proclean 3130 Flatbed.",
+      "image": "/images/microondas/cecotec-microondas-de-20l-proclean-3130-flatbed.jpg",
+      "price": 62.9,
+      "rating": 4,
+      "reviews": 144,
+      "affiliate_url": "https://www.amazon.es/dp/B0DLLJ5JGT?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

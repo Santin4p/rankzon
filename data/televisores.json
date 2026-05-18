@@ -1,0 +1,137 @@
+{
+  "categoria": "televisores",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "XIAOMI TV F 32",
+      "image": "/images/televisores/xiaomi-tv-f-32.jpg",
+      "price": 139,
+      "rating": 4,
+      "reviews": 5345,
+      "affiliate_url": "https://www.amazon.es/dp/B0F4548TCQ?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": [
+        "Relación calidad-precio imbatible para 32 pulgadas",
+        "Imagen vibrante y colores vivos desde el primer encendido",
+        "Configuración muy sencilla con Fire OS y Alexa integrada"
+      ],
+      "cons": [
+        "El procesador puede ir algo lento al navegar por los menús",
+        "El sonido no es potente; se recomienda una barra de sonido",
+        "La imagen sale algo azulada de fábrica y requiere calibración"
+      ],
+      "user_summary": "El televisor más vendido en Amazon España en su rango de precio. Ideal para dormitorios o cocinas donde prima el presupuesto. La mayoría de compradores destacan la facilidad de uso y el ecosistema Amazon, aunque piden un sonido algo más potente."
+    },
+    {
+      "position": 2,
+      "name": "TD Systems - Smart TV 40 Pulgadas con Tizen OS 8",
+      "image": "/images/televisores/td-systems-smart-tv-40-pulgadas-con-tizen-os-8.jpg",
+      "price": 169.89,
+      "rating": 4,
+      "reviews": 2269,
+      "affiliate_url": "https://www.amazon.es/dp/B0GQHRLGY8?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Configuración inicial rápida y guiada, sin complicaciones",
+        "Tizen OS 8 ofrece gran compatibilidad con apps y control por voz",
+        "Marca española con buen servicio posventa y soporte en castellano"
+      ],
+      "cons": [
+        "La calidad de imagen no alcanza el nivel de las marcas premium",
+        "El brillo máximo es limitado en habitaciones con mucha luz"
+      ],
+      "user_summary": "Buena opción si buscas un Smart TV de 40 pulgadas con sistema operativo solvente y respaldo de marca española. Los compradores valoran especialmente la facilidad de configuración y la fluidez de Tizen, aunque algunos esperaban una imagen más nítida por el precio."
+    },
+    {
+      "position": 3,
+      "name": "LG 43UA73006LA - TV 43\"",
+      "image": "/images/televisores/lg-43ua73006la-tv-43.jpg",
+      "price": 269,
+      "rating": 4,
+      "reviews": 671,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2GH8L49?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Resolución 4K UHD con soporte HDR10 y HLG para imágenes detalladas",
+        "webOS con ThinQ AI para búsqueda inteligente y control por voz",
+        "Diseño elegante y construcción sólida típica de LG"
+      ],
+      "cons": [
+        "Sin Dolby Vision ni OLED; el procesador α5 AI es más básico que modelos superiores",
+        "Precio algo superior a la competencia en este tamaño"
+      ],
+      "user_summary": "El LG 43\" es una apuesta segura para salones medianos que quieran dar el salto a 4K. Basado en especificaciones del fabricante: procesador α5 AI Gen7, webOS 24, 4K a 60 Hz y múltiples entradas HDMI 2.0. Ideal si valoras la fiabilidad de la marca y un ecosistema Smart TV maduro."
+    },
+    {
+      "position": 4,
+      "name": "Samsung TV 55 Pulgadas QLED QE1F 4K Smart TV con",
+      "image": "/images/televisores/samsung-tv-55-pulgadas-qled-qe1f-4k-smart-tv-con.jpg",
+      "price": 389,
+      "rating": 4,
+      "reviews": 486,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2265H4F?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "TCL 55Q6C Televisor 55 Pulgadas QD-Mini LED 4K S",
+      "image": "/images/televisores/tcl-55q6c-televisor-55-pulgadas-qd-mini-led-4k-s.jpg",
+      "price": 499,
+      "rating": 4,
+      "reviews": 982,
+      "affiliate_url": "https://www.amazon.es/dp/B0DX185Q23?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Samsung TV 43 Pulgadas Crystal UHD U8075F 4K Sma",
+      "image": "/images/televisores/samsung-tv-43-pulgadas-crystal-uhd-u8075f-4k-sma.jpg",
+      "price": 278.98,
+      "rating": 4,
+      "reviews": 298,
+      "affiliate_url": "https://www.amazon.es/dp/B0F9Q1YQSQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "TCL 50V6C Televisor 50 Pulgadas 4K Smart TV LED",
+      "image": "/images/televisores/tcl-50v6c-televisor-50-pulgadas-4k-smart-tv-led.jpg",
+      "price": 319,
+      "rating": 4,
+      "reviews": 2726,
+      "affiliate_url": "https://www.amazon.es/dp/B0DV9JL61N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Hisense 50E7Q - QLED Smart TV 50 Pulgadas",
+      "image": "/images/televisores/hisense-50e7q-qled-smart-tv-50-pulgadas.jpg",
+      "price": 319,
+      "rating": 4,
+      "reviews": 962,
+      "affiliate_url": "https://www.amazon.es/dp/B0F1MQRCGF?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Telefunken 40FTV825",
+      "image": "/images/televisores/telefunken-40ftv825.jpg",
+      "price": 159.99,
+      "rating": 4,
+      "reviews": 40,
+      "affiliate_url": "https://www.amazon.es/dp/B0FRKCV56V?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Metz TV 32 Pulgadas Smart TV",
+      "image": "/images/televisores/metz-tv-32-pulgadas-smart-tv.jpg",
+      "price": 134.99,
+      "rating": 4,
+      "reviews": 2003,
+      "affiliate_url": "https://www.amazon.es/dp/B0FDW68FQ3?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "categoria": "microfonos-gaming",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "TONOR PC Microfono Dinámico Gaming con Brazo Sop",
+      "image": "/images/microfonos-gaming/tonor-pc-microfono-dinamico-gaming-con-brazo-sop.jpg",
+      "price": 59.99,
+      "rating": 4,
+      "reviews": 1305,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCVBQRFX?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": [
+        "Incluye brazo articulado y antipop — listo para usar de inmediato",
+        "Micrófono dinámico: capta la voz y filtra el ruido ambiente",
+        "Conexión XLR + adaptador USB, compatible con PC y consolas"
+      ],
+      "cons": [
+        "Requiere interfaz de audio para sacar el máximo partido al XLR",
+        "El brazo puede ser rígido y difícil de ajustar al principio"
+      ],
+      "user_summary": "El TONOR es el favorito de quienes buscan un kit completo sin complicaciones. Los compradores valoran que todo venga incluido y el salto de calidad respecto a micrófonos de auriculares, aunque señalan que la curva de aprendizaje del XLR puede despistar a los que empiezan."
+    },
+    {
+      "position": 2,
+      "name": "Micrófono USB para Conferencias",
+      "image": "/images/microfonos-gaming/microfono-usb-para-conferencias.jpg",
+      "price": 13.89,
+      "rating": 4,
+      "reviews": 10,
+      "affiliate_url": "https://www.amazon.es/dp/B0FY38DKFD?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Plug & Play por USB — sin drivers ni configuración",
+        "Precio muy bajo, ideal como solución de entrada",
+        "Compacto y fácil de transportar"
+      ],
+      "cons": [
+        "Pocas reseñas: historial de fiabilidad aún sin contrastar",
+        "Calidad de audio limitada para grabación o streaming exigente"
+      ],
+      "user_summary": "Basado en especificaciones del fabricante. Opción económica para videollamadas o uso esporádico en juegos online. Su precio por debajo de 14 € lo convierte en una compra de bajo riesgo, pero la escasez de reseñas impide confirmar su durabilidad a largo plazo."
+    },
+    {
+      "position": 3,
+      "name": "Trust Primo Micrófono PC con Cable 180 cm",
+      "image": "/images/microfonos-gaming/trust-primo-microfono-pc-con-cable-180-cm.jpg",
+      "price": 3.99,
+      "rating": 4,
+      "reviews": 2845,
+      "affiliate_url": "https://www.amazon.es/dp/B01LWYIDDN?tag=rankzon-21",
+      "badge": null,
+      "pros": [
+        "Precio imbatible — menos de 4 € para empezar",
+        "Cable largo de 180 cm, cómodo en escritorios con torre alejada",
+        "Conexión jack 3,5 mm universal, funciona en cualquier PC"
+      ],
+      "cons": [
+        "Capta ruido ambiente con facilidad al no tener filtro",
+        "Calidad de voz básica: notoria en llamadas largas o grabaciones"
+      ],
+      "user_summary": "Con casi 3.000 reseñas, el Trust Primo es el micrófono de iniciación más probado de Amazon España. Los usuarios lo recomiendan sin dudarlo para uso casual y chatear en juegos, pero coinciden en que el ruido ambiente es su talón de Aquiles y que merece la pena subir de gama si se usa a diario."
+    },
+    {
+      "position": 4,
+      "name": "GXTrust 236 Yami Micrófono PC USB para Streaming",
+      "image": "/images/microfonos-gaming/gxtrust-236-yami-microfono-pc-usb-para-streaming.jpg",
+      "price": 24.99,
+      "rating": 4,
+      "reviews": 966,
+      "affiliate_url": "https://www.amazon.es/dp/B0D8KYFX7Y?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "HOTUT Micrófono USB para computadora",
+      "image": "/images/microfonos-gaming/hotut-microfono-usb-para-computadora.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "reviews": 118,
+      "affiliate_url": "https://www.amazon.es/dp/B0DNW6KBLB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Mars Gaming MMIC-SC",
+      "image": "/images/microfonos-gaming/mars-gaming-mmic-sc.jpg",
+      "price": 30,
+      "rating": 4,
+      "reviews": 14,
+      "affiliate_url": "https://www.amazon.es/dp/B0F79KY45N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "HyperX Quadcast 2 Frost - Micrófono USB para Gam",
+      "image": "/images/microfonos-gaming/hyperx-quadcast-2-frost-microfono-usb-para-gam.jpg",
+      "price": 99.99,
+      "rating": 4,
+      "reviews": 986,
+      "affiliate_url": "https://www.amazon.es/dp/B0DXW278KB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "KLIM Talk - Micrófono USB para PC y Mac - Amplia",
+      "image": "/images/microfonos-gaming/klim-talk-microfono-usb-para-pc-y-mac-amplia.jpg",
+      "price": 22.97,
+      "rating": 4,
+      "reviews": 6267,
+      "affiliate_url": "https://www.amazon.es/dp/B072V56NKC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Ewent EW3550 - Micrófono multimedia",
+      "image": "/images/microfonos-gaming/ewent-ew3550-microfono-multimedia.jpg",
+      "price": 2.95,
+      "rating": 3,
+      "reviews": 668,
+      "affiliate_url": "https://www.amazon.es/dp/B002F2BEBU?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Audio-Technica 2020 Micrófono de Condensador Car",
+      "image": "/images/microfonos-gaming/audio-technica-2020-microfono-de-condensador-car.jpg",
+      "price": 90,
+      "rating": 4,
+      "reviews": 15798,
+      "affiliate_url": "https://www.amazon.es/dp/B0006H92QK?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

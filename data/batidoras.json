@@ -1,0 +1,106 @@
+{
+  "categoria": "batidoras",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Cecotec Batidora de mano Power TitanBlack 1500 X",
+      "image": "/images/batidoras/cecotec-batidora-de-mano-power-titanblack-1500-x.jpg",
+      "price": 34.99,
+      "rating": 4,
+      "reviews": 1198,
+      "affiliate_url": "https://www.amazon.es/dp/B08P3Q3566?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Cecotec Batidora de Vaso Power Black Titanium 20",
+      "image": "/images/batidoras/cecotec-batidora-de-vaso-power-black-titanium-20.jpg",
+      "price": 32.99,
+      "rating": 4,
+      "reviews": 305,
+      "affiliate_url": "https://www.amazon.es/dp/B0BPYX2KMP?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Ibergrif M501 - Picadora manual de alimentos",
+      "image": "/images/batidoras/ibergrif-m501-picadora-manual-de-alimentos.jpg",
+      "price": 7.99,
+      "rating": 4,
+      "reviews": 1647,
+      "affiliate_url": "https://www.amazon.es/dp/B0DQXQML6M?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Moulinex QuickChef",
+      "image": "/images/batidoras/moulinex-quickchef.jpg",
+      "price": 39.99,
+      "rating": 4,
+      "reviews": 16306,
+      "affiliate_url": "https://www.amazon.es/dp/B071VNC7N7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Moulinex Blend & Go",
+      "image": "/images/batidoras/moulinex-blend-go.jpg",
+      "price": 36.99,
+      "rating": 4,
+      "reviews": 5539,
+      "affiliate_url": "https://www.amazon.es/dp/B07BCNS9YB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Bonsenkitchen batidora de mano multifunción 4 en",
+      "image": "/images/batidoras/bonsenkitchen-batidora-de-mano-multifuncion-4-en.jpg",
+      "price": 24.21,
+      "rating": 4,
+      "reviews": 12515,
+      "affiliate_url": "https://www.amazon.es/dp/B09SHN8F2Y?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "H.Koenig Mini batidora Smoothie maker Compacto 5",
+      "image": "/images/batidoras/h-koenig-mini-batidora-smoothie-maker-compacto-5.jpg",
+      "price": 29.9,
+      "rating": 4,
+      "reviews": 13571,
+      "affiliate_url": "https://www.amazon.es/dp/B08PVD8KSC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Braun MultiQuick 5 MQ 50001 M",
+      "image": "/images/batidoras/braun-multiquick-5-mq-50001-m.jpg",
+      "price": 31.2,
+      "rating": 4,
+      "reviews": 11892,
+      "affiliate_url": "https://www.amazon.es/dp/B0D9VYRDT2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Ninja Batidora de vaso 2 en 1",
+      "image": "/images/batidoras/ninja-batidora-de-vaso-2-en-1.jpg",
+      "price": 91,
+      "rating": 4,
+      "reviews": 2052,
+      "affiliate_url": "https://www.amazon.es/dp/B08CRTKLX4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Philips Serie 5000 Batidora - Motor de 450 W",
+      "image": "/images/batidoras/philips-serie-5000-batidora-motor-de-450-w.jpg",
+      "price": 24.99,
+      "rating": 4,
+      "reviews": 19517,
+      "affiliate_url": "https://www.amazon.es/dp/B06XB9XS7T?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "categoria": "ollas-programables",
+  "updated_at": "2026-05-17",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Crockpot Olla de Cocción Lenta Digital 7",
+      "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-digital-7.jpg",
+      "price": 63.2,
+      "rating": 4,
+      "reviews": 2175,
+      "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Crockpot Olla de Cocción Lenta | 4.7 Litros (has",
+      "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-4-7-litros-has.jpg",
+      "price": 49.95,
+      "rating": 4,
+      "reviews": 13548,
+      "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Cecotec Olla de Cocción Lenta 5",
+      "image": "/images/ollas-programables/cecotec-olla-de-coccion-lenta-5.jpg",
+      "price": 49.9,
+      "rating": 4,
+      "reviews": 35,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Swan Retro SF17021CNEU Olla Cocción Lenta 3",
+      "image": "/images/ollas-programables/swan-retro-sf17021cneu-olla-coccion-lenta-3.jpg",
+      "price": 44.48,
+      "rating": 4,
+      "reviews": 820,
+      "affiliate_url": "https://www.amazon.es/dp/B0BN94D5GD?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Russell Hobbs Olla de Cocción Lenta Sous Vide",
+      "image": "/images/ollas-programables/russell-hobbs-olla-de-coccion-lenta-sous-vide.jpg",
+      "price": 92.39,
+      "rating": 4,
+      "reviews": 1651,
+      "affiliate_url": "https://www.amazon.es/dp/B07VZYRX1R?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Swan Retro SF17031YELNEU Olla Cocción Lenta 6",
+      "image": "/images/ollas-programables/swan-retro-sf17031yelneu-olla-coccion-lenta-6.jpg",
+      "price": 56.47,
+      "rating": 4,
+      "reviews": 479,
+      "affiliate_url": "https://www.amazon.es/dp/B0BM4PJCHJ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Olvy Slow Cooker 6L - Olla interior de cerámica",
+      "image": "/images/ollas-programables/olvy-slow-cooker-6l-olla-interior-de-ceramica.jpg",
+      "price": 39.99,
+      "rating": 4,
+      "reviews": 6,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWQRSG1P?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Crock-Pot Turbo Express olla a presión y olla mu",
+      "image": "/images/ollas-programables/crock-pot-turbo-express-olla-a-presion-y-olla-mu.jpg",
+      "price": 135,
+      "rating": 4,
+      "reviews": 1506,
+      "affiliate_url": "https://www.amazon.es/dp/B09CZ41892?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Russell Hobbs Olla de Cocción Lenta Cook@Home",
+      "image": "/images/ollas-programables/russell-hobbs-olla-de-coccion-lenta-cook-home.jpg",
+      "price": 48,
+      "rating": 4,
+      "reviews": 2959,
+      "affiliate_url": "https://www.amazon.es/dp/B019DWKF0A?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Crock-Pot Olla digital de cocción lenta | 3",
+      "image": "/images/ollas-programables/crock-pot-olla-digital-de-coccion-lenta-3.jpg",
+      "price": 76.26,
+      "rating": 4,
+      "reviews": 86,
+      "affiliate_url": "https://www.amazon.es/dp/B0D6R413D3?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}
