@@ -10,7 +10,10 @@
       "rating": 4,
       "reviews": 19037,
       "affiliate_url": "https://www.amazon.es/dp/B0CCYPDLCQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": ["Temperatura fija de 185°C optimizada para el pelo — menos daño que ajustando alto manualmente", "Placas flotantes de cerámica que se deslizan sin tirones ni enganches", "Se apaga automáticamente a los 30 minutos — seguridad sin tener que acordarse"],
+      "cons": ["Precio premium — una de las planchas más caras del mercado de consumo", "Temperatura no ajustable, puede no ser ideal para pelo muy grueso o muy dañado", "Tarda unos 25 segundos en alcanzar la temperatura de trabajo"],
+      "user_summary": "Las compradoras la consideran la mejor plancha doméstica del mercado: resultados lisos y brillantes con un solo pase sin dañar el pelo. La única pega frecuente es el precio, aunque la mayoría coincide en que merece la inversión a largo plazo."
     },
     {
       "position": 2,
@@ -20,7 +23,10 @@
       "rating": 4,
       "reviews": 18079,
       "affiliate_url": "https://www.amazon.es/dp/B007BJEKIQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Barril de 32 mm ideal para ondas naturales y rizos amplios y definidos", "Se calienta en menos de 30 segundos — lista para usar enseguida", "Precio muy competitivo para la calidad y el nombre de la marca BaByliss"],
+      "cons": ["No incluye guante de protección — el barril quema si lo tocas accidentalmente", "Temperatura fija sin posibilidad de ajuste para distintos tipos de pelo", "El cable podría ser más largo para mayor libertad de movimiento"],
+      "user_summary": "Las compradoras la adoran para crear ondas naturales y rizos amplios de forma rápida y a buen precio. El aviso más repetido: ten cuidado al usarla, el barril se calienta mucho y no incluye guante de protección."
     },
     {
       "position": 3,
@@ -30,7 +36,10 @@
       "rating": 4,
       "reviews": 13015,
       "affiliate_url": "https://www.amazon.es/dp/B09RN8Q4CW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Pantalla digital con temperatura exacta — control preciso entre 150°C y 230°C", "Placas de cerámica con turmalina para menos frizz y más brillo en el acabado", "Precio razonable para las prestaciones que ofrece en gama media-alta"],
+      "cons": ["Algo más pesada que modelos sin pantalla, se nota en sesiones largas", "El cuerpo se calienta ligeramente con uso prolongado", "Cable fijo sin rotación de 360°, puede resultar incómodo al girar"],
+      "user_summary": "Las compradoras la valoran por el control preciso de temperatura y los resultados lisos y brillantes. La queja más habitual es el peso y el cable no giratorio, que pueden resultar incómodos en sesiones de alisado largas."
     },
     {
       "position": 4,

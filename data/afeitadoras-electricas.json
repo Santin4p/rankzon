@@ -10,7 +10,10 @@
       "rating": 4,
       "reviews": 4666,
       "affiliate_url": "https://www.amazon.es/dp/B0CVXRFT15?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": ["Recorta, perfila y afeita en un solo aparato sin cambiar accesorios", "La cuchilla 360° se adapta a todos los contornos de la cara y el cuerpo", "Funciona igual de bien en seco y en la ducha sin irritación"],
+      "cons": ["No consigue el afeitado al ras de una máquina de láminas tradicional", "La cuchilla hay que reemplazarla cada 4 meses, suma coste con el tiempo", "Autonomía de unos 45 minutos — no tiene carga rápida"],
+      "user_summary": "Los compradores lo eligen como la solución todo-en-uno para la barba de pocos días: fácil de usar, cómodo en la ducha y sin irritación. La queja más habitual es que no deja la piel tan lisa como una afeitadora de láminas, y el coste recurrente de las cuchillas de repuesto."
     },
     {
       "position": 2,
@@ -20,7 +23,10 @@
       "rating": 4,
       "reviews": 1975,
       "affiliate_url": "https://www.amazon.es/dp/B0F3XFC3YH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Diseñada para contornos femeninos con cabezal flotante suave sin irritación", "Funciona en seco y bajo el agua — fácil de limpiar y usar en la ducha", "Incluye accesorios para distintas zonas: cuerpo, axilas y línea del bikini"],
+      "cons": ["Autonomía limitada respecto a marcas de gama alta", "Algo ruidosa comparada con las afeitadoras de mayor precio", "El resultado no es tan apurado como con depiladora tradicional o cera"],
+      "user_summary": "Las compradoras la valoran por la comodidad de usar bajo la ducha y los accesorios incluidos para distintas zonas. La crítica más frecuente es que el resultado no iguala al de una depiladora, pero para un afeitado rápido y sin irritación cumple bien a su precio."
     },
     {
       "position": 3,
@@ -30,7 +36,10 @@
       "rating": 4,
       "reviews": 20398,
       "affiliate_url": "https://www.amazon.es/dp/B0BS747TYL?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Pack de 5 cuchillas originales Philips — el precio por unidad más bajo disponible", "Compatibles con todos los modelos OneBlade; cada cuchilla de doble cara dura ~4 meses", "Mantener el filo en buen estado mejora notablemente el resultado del afeitado"],
+      "cons": ["Son consumibles — necesitas el mango OneBlade por separado para usarlas", "Con uso diario intensivo, la duración puede ser inferior a los 4 meses indicados", "El pack de 5 puede superar el precio de un OneBlade nuevo con cuchilla incluida"],
+      "user_summary": "Los compradores lo describen como la forma más económica de mantener el OneBlade a punto. El aviso más repetido: si usas el OneBlade a diario con barba cerrada, las cuchillas se embotan antes de los 4 meses, así que el pack de 5 es una compra inteligente."
     },
     {
       "position": 4,

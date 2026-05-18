@@ -38,6 +38,20 @@ const sectionContent: Record<string, SectionContent> = {
       },
     ],
   },
+  belleza: {
+    intro:
+      "Afeitadoras eléctricas, secadores de pelo, planchas y rizadores. Los productos de belleza y cuidado personal más vendidos en Amazon España según compradores reales. Tanto si buscas una solución para el día a día como un acabado profesional en casa, aquí tienes los bestsellers de cada categoría actualizados periódicamente.",
+    guide: [
+      {
+        heading: "¿Cómo elegir entre marcas de belleza en Amazon España?",
+        body: "Philips domina en afeitadoras gracias a la durabilidad de sus componentes y el ecosistema OneBlade. En secadores y planchas, Cecotec y Remington ofrecen la mejor relación calidad-precio en gama baja y media; ghd y BaByliss son la referencia en resultados profesionales. Prioriza siempre modelos vendidos directamente por Amazon o el fabricante para garantizar la garantía oficial de 2 años.",
+      },
+      {
+        heading: "Cuidado del pelo y la piel: qué temperatura usar",
+        body: "La temperatura es el factor más determinante para no dañar el pelo. Para pelo fino o teñido, mantente entre 150°C y 180°C. El pelo grueso o resistente puede tolerar hasta 210°C. Planchas como la ghd Gold fijan automáticamente 185°C, la temperatura óptima para la mayoría. En afeitadoras, la diferencia entre rotativas (más suaves) y de láminas (más apuradas) marca el resultado final.",
+      },
+    ],
+  },
   gaming: {
     intro:
       "Mandos, auriculares, ratones, teclados y más. Los periféricos gaming más vendidos en Amazon España según compradores reales. Tanto si juegas en PC como en consola, aquí encontrarás los productos más valorados en cada categoría, actualizados periódicamente con los bestsellers del momento.",

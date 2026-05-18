@@ -10,7 +10,10 @@
       "rating": 4,
       "reviews": 1674,
       "affiliate_url": "https://www.amazon.es/dp/B0814YP958?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": ["2300 W a menos de 20€ — seca rápido sin pagar de más", "Tecnología iónica que reduce el encrespamiento en pelo fino y normal", "Ligero y compacto, cómodo de sostener en sesiones de secado largas"],
+      "cons": ["Acabados de plástico básicos, nada premium en el tacto", "No incluye difusor — hay que comprarlo aparte si tienes pelo rizado", "El cable es corto, puede resultar incómodo frente al espejo"],
+      "user_summary": "Los compradores lo valoran como la opción más equilibrada por menos de 20€: seca rápido, reduce el frizz y es fácil de manejar. El punto débil más repetido es la calidad de los acabados y que no incluye difusor para pelo rizado."
     },
     {
       "position": 2,
@@ -20,7 +23,10 @@
       "rating": 4,
       "reviews": 1769,
       "affiliate_url": "https://www.amazon.es/dp/B07ZRR8LJF?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Dos velocidades y tres temperaturas para adaptar el secado a cada tipo de pelo", "Precio por debajo de los 25€ para uso doméstico diario", "Diseño compacto que ocupa poco espacio al guardar"],
+      "cons": ["Motor de carbono, menos duradero que motores AC de gama alta", "Algo ruidoso a máxima potencia comparado con secadores profesionales", "El difusor se vende por separado"],
+      "user_summary": "Los compradores lo destacan como un secador fiable y asequible para el día a día. La observación más habitual: funciona bien durante meses, pero para uso muy intensivo, los secadores con motor AC de marcas como Remington o Rowenta aguantan más tiempo."
     },
     {
       "position": 3,
@@ -30,7 +36,10 @@
       "rating": 4,
       "reviews": 412,
       "affiliate_url": "https://www.amazon.es/dp/B0FKT97153?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": ["Motor de bajo consumo que gasta menos sin sacrificar la potencia de secado", "Tamaño compacto ideal para llevar de viaje o guardar en espacios pequeños", "Tecnología iónica para menos frizz y más brillo en el resultado final"],
+      "cons": ["Producto reciente — todavía con pocas reseñas para valorar la durabilidad a largo plazo", "Ajustes de temperatura limitados frente a modelos de gamas superiores", "No incluye difusor ni concentrador adicional en la caja"],
+      "user_summary": "Los primeros compradores valoran el equilibrio entre consumo energético y rendimiento, y lo destacan como una buena opción para viajar. Al ser un lanzamiento reciente, hay menos historial sobre su durabilidad a largo plazo."
     },
     {
       "position": 4,
