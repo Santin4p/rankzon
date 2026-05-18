@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next"
 import { sections, getAllCategories } from "@/lib/categories"
+import { guides } from "@/lib/guides"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://www.rankzon.es"
@@ -18,6 +19,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.9,
+    })),
+    { url: `${base}/guias`, lastModified: new Date(), changeFrequency: "monthly" as const, priority: 0.8 },
+    ...guides.map((guide) => ({
+      url: `${base}/guias/${guide.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.75,
     })),
     { url: `${base}/sobre-rankzon`, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${base}/aviso-legal`, changeFrequency: "yearly" as const, priority: 0.1 },

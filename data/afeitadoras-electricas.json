@@ -1,0 +1,106 @@
+{
+  "categoria": "afeitadoras-electricas",
+  "updated_at": "2026-05-18",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Philips OneBlade Original 360 cuchillas",
+      "image": "/images/afeitadoras-electricas/philips-oneblade-original-360-cuchillas.jpg",
+      "price": 27.99,
+      "rating": 4,
+      "reviews": 4666,
+      "affiliate_url": "https://www.amazon.es/dp/B0CVXRFT15?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "afeitadora eléctrica para mujer cortapelos corpo",
+      "image": "/images/afeitadoras-electricas/afeitadora-electrica-para-mujer-cortapelos-corpo.jpg",
+      "price": 24.99,
+      "rating": 4,
+      "reviews": 1975,
+      "affiliate_url": "https://www.amazon.es/dp/B0F3XFC3YH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Philips OneBlade 5 cuchillas de repuesto origina",
+      "image": "/images/afeitadoras-electricas/philips-oneblade-5-cuchillas-de-repuesto-origina.jpg",
+      "price": 55.65,
+      "rating": 4,
+      "reviews": 20398,
+      "affiliate_url": "https://www.amazon.es/dp/B0BS747TYL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Philips TT2000/43",
+      "image": "/images/afeitadoras-electricas/philips-tt2000-43.jpg",
+      "price": 7.76,
+      "rating": 4,
+      "reviews": 28282,
+      "affiliate_url": "https://www.amazon.es/dp/B004QO97PA?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Philips OneBlade 360 con Bluetooth",
+      "image": "/images/afeitadoras-electricas/philips-oneblade-360-con-bluetooth.jpg",
+      "price": 43.99,
+      "rating": 4,
+      "reviews": 4805,
+      "affiliate_url": "https://www.amazon.es/dp/B0CHZ5WN26?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Philips Serie X3000 Afeitadora Eléctrica Hombre",
+      "image": "/images/afeitadoras-electricas/philips-serie-x3000-afeitadora-electrica-hombre.jpg",
+      "price": 42.89,
+      "rating": 4,
+      "reviews": 3354,
+      "affiliate_url": "https://www.amazon.es/dp/B0CHMN6377?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Philips SH71/50",
+      "image": "/images/afeitadoras-electricas/philips-sh71-50.jpg",
+      "price": 14.86,
+      "rating": 4,
+      "reviews": 6635,
+      "affiliate_url": "https://www.amazon.es/dp/B08FDWPMP6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Lima eléctrica para pedicura de Dr. Scholl's: ex",
+      "image": "/images/afeitadoras-electricas/lima-electrica-para-pedicura-de-dr-scholl-s-ex.jpg",
+      "price": 11.99,
+      "rating": 4,
+      "reviews": 73,
+      "affiliate_url": "https://www.amazon.es/dp/B0G6K6FV2Q?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Beanify Afeitadora Eléctrica para Mujer y Hombre",
+      "image": "/images/afeitadoras-electricas/beanify-afeitadora-electrica-para-mujer-y-hombre.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "reviews": 84,
+      "affiliate_url": "https://www.amazon.es/dp/B0GCMYNNVL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Philips Cartuchos de Recarga para Centro de Limp",
+      "image": "/images/afeitadoras-electricas/philips-cartuchos-de-recarga-para-centro-de-limp.jpg",
+      "price": 18.79,
+      "rating": 4,
+      "reviews": 12045,
+      "affiliate_url": "https://www.amazon.es/dp/B08FDX1NYP?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

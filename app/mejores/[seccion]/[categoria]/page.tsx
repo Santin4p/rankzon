@@ -37,6 +37,9 @@ import impresoras from "@/data/impresoras.json"
 import routersWifi from "@/data/routers-wifi.json"
 import discosExternos from "@/data/discos-duros-externos.json"
 import lectoresEbook from "@/data/lectores-ebook.json"
+import afeitadorasElectricas from "@/data/afeitadoras-electricas.json"
+import secadoresPelo from "@/data/secadores-pelo.json"
+import planchasPelo from "@/data/planchas-pelo.json"
 
 interface Producto {
   position: number
@@ -91,6 +94,9 @@ const rankingMap: Record<string, RankingData> = {
   "routers-wifi": routersWifi as unknown as RankingData,
   "discos-duros-externos": discosExternos as unknown as RankingData,
   "lectores-ebook": lectoresEbook as unknown as RankingData,
+  "afeitadoras-electricas": afeitadorasElectricas as unknown as RankingData,
+  "secadores-pelo": secadoresPelo as unknown as RankingData,
+  "planchas-pelo": planchasPelo as unknown as RankingData,
 }
 
 export function generateStaticParams() {

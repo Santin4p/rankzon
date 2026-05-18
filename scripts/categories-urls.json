@@ -126,5 +126,17 @@
   "lectores-ebook": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/15424901031",
     "name": "Lectores eBook"
+  },
+  "afeitadoras-electricas": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/4346891031",
+    "name": "Afeitadoras Eléctricas"
+  },
+  "secadores-pelo": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/4347755031",
+    "name": "Secadores de Pelo"
+  },
+  "planchas-pelo": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/27064681031",
+    "name": "Planchas de Pelo"
   }
 }

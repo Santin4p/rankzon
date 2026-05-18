@@ -1,0 +1,106 @@
+{
+  "categoria": "planchas-pelo",
+  "updated_at": "2026-05-18",
+  "productos": [
+    {
+      "position": 1,
+      "name": "ghd Gold - Plancha de Pelo Profesional Para un C",
+      "image": "/images/planchas-pelo/ghd-gold-plancha-de-pelo-profesional-para-un-c.jpg",
+      "price": 157.08,
+      "rating": 4,
+      "reviews": 19037,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCYPDLCQ?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "BaByliss Tenacilla 32 mm - Rizador de pelo",
+      "image": "/images/planchas-pelo/babyliss-tenacilla-32-mm-rizador-de-pelo.jpg",
+      "price": 23.9,
+      "rating": 4,
+      "reviews": 18079,
+      "affiliate_url": "https://www.amazon.es/dp/B007BJEKIQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Remington Plancha Pelo pantalla digital",
+      "image": "/images/planchas-pelo/remington-plancha-pelo-pantalla-digital.jpg",
+      "price": 44.99,
+      "rating": 4,
+      "reviews": 13015,
+      "affiliate_url": "https://www.amazon.es/dp/B09RN8Q4CW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Cecotec Rizador de Pelo Automático con Cable Sur",
+      "image": "/images/planchas-pelo/cecotec-rizador-de-pelo-automatico-con-cable-sur.jpg",
+      "price": 29.9,
+      "rating": 4,
+      "reviews": 144,
+      "affiliate_url": "https://www.amazon.es/dp/B0F6CL4W3K?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Rizador de Pelo Automatico - TYMO Curlpro Plus R",
+      "image": "/images/planchas-pelo/rizador-de-pelo-automatico-tymo-curlpro-plus-r.jpg",
+      "price": 89.99,
+      "rating": 4,
+      "reviews": 8301,
+      "affiliate_url": "https://www.amazon.es/dp/B0DPZLWX8J?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Remington Plancha Pelo tecnología iónica triple:",
+      "image": "/images/planchas-pelo/remington-plancha-pelo-tecnologia-ionica-triple.jpg",
+      "price": 22.23,
+      "rating": 4,
+      "reviews": 17607,
+      "affiliate_url": "https://www.amazon.es/dp/B00MCSW8VC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Rowenta Tenacilla rizadora de 16 mm para el pelo",
+      "image": "/images/planchas-pelo/rowenta-tenacilla-rizadora-de-16-mm-para-el-pelo.jpg",
+      "price": 16.34,
+      "rating": 4,
+      "reviews": 2347,
+      "affiliate_url": "https://www.amazon.es/dp/B0B9HT4MLL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "ghd Platinum+ - Plancha de Pelo Profesional Inte",
+      "image": "/images/planchas-pelo/ghd-platinum-plancha-de-pelo-profesional-inte.jpg",
+      "price": 180.99,
+      "rating": 4,
+      "reviews": 21316,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCYSB19S?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Cecotec Plancha de Pelo de Ondas RitualCare 1000",
+      "image": "/images/planchas-pelo/cecotec-plancha-de-pelo-de-ondas-ritualcare-1000.jpg",
+      "price": 19.9,
+      "rating": 4,
+      "reviews": 363,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKT75FS5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Remington Plancha de Pelo Ceramic Slim - Placas",
+      "image": "/images/planchas-pelo/remington-plancha-de-pelo-ceramic-slim-placas.jpg",
+      "price": 23.56,
+      "rating": 4,
+      "reviews": 16158,
+      "affiliate_url": "https://www.amazon.es/dp/B005EFZUO2?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

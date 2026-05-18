@@ -3,6 +3,7 @@
 import { useState } from "react"
 import Link from "next/link"
 import { sections } from "@/lib/categories"
+import { guides } from "@/lib/guides"
 
 export default function NavbarMobileMenu() {
   const [open, setOpen] = useState(false)
@@ -73,6 +74,44 @@ export default function NavbarMobileMenu() {
                 )}
               </li>
             ))}
+            <li>
+              <button
+                onClick={() => setOpenSection(openSection === "__guias" ? null : "__guias")}
+                className="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-semibold text-foreground hover:bg-background hover:text-primary transition-colors cursor-pointer"
+              >
+                Guías de Compra
+                <svg
+                  className={`w-4 h-4 transition-transform duration-200 ${openSection === "__guias" ? "rotate-180" : ""}`}
+                  fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              {openSection === "__guias" && (
+                <ul className="mt-1 ml-3 space-y-0.5">
+                  <li>
+                    <Link
+                      href="/guias"
+                      onClick={() => { setOpen(false); setOpenSection(null) }}
+                      className="block px-3 py-2 rounded-lg text-sm font-medium text-primary hover:bg-background transition-colors"
+                    >
+                      Ver todas →
+                    </Link>
+                  </li>
+                  {guides.map((guide) => (
+                    <li key={guide.slug}>
+                      <Link
+                        href={`/guias/${guide.slug}`}
+                        onClick={() => { setOpen(false); setOpenSection(null) }}
+                        className="block px-3 py-2 rounded-lg text-sm text-foreground hover:bg-background hover:text-primary transition-colors"
+                      >
+                        {guide.shortTitle}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
           </ul>
         </div>
       )}

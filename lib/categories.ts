@@ -203,6 +203,31 @@ export const sections: Section[] = [
     ],
   },
   {
+    slug: "belleza",
+    name: "Belleza",
+    description: "Los mejores productos de belleza y cuidado personal",
+    categories: [
+      {
+        slug: "afeitadoras-electricas",
+        name: "Afeitadoras Eléctricas",
+        description: "Las mejores afeitadoras eléctricas y recortadoras de barba",
+        previewImage: "/images/afeitadoras-electricas/philips-oneblade-original-360-cuchillas.jpg",
+      },
+      {
+        slug: "secadores-pelo",
+        name: "Secadores de Pelo",
+        description: "Los mejores secadores de pelo para uso doméstico y profesional",
+        previewImage: "/images/secadores-pelo/cecotec-secador-de-pelo-ionico-bamba-ionicare-54.jpg",
+      },
+      {
+        slug: "planchas-pelo",
+        name: "Planchas de Pelo",
+        description: "Las mejores planchas de pelo para alisado y ondulado",
+        previewImage: "/images/planchas-pelo/ghd-gold-plancha-de-pelo-profesional-para-un-c.jpg",
+      },
+    ],
+  },
+  {
     slug: "videojuegos",
     name: "Videojuegos",
     description: "Los mejores videojuegos y títulos más vendidos",

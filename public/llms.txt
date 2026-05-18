@@ -13,24 +13,55 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - [Las 10 Mejores Tablets de Amazon en 2026](https://rankzon.es/mejores/tecnologia/tablets): Top 10 tablets más vendidas en Amazon España, incluyendo iPad, Samsung, Lenovo y Xiaomi.
 - [Los 10 Mejores Móviles de Amazon en 2026](https://rankzon.es/mejores/tecnologia/moviles): Top 10 smartphones más vendidos en Amazon España.
 - [Los 10 Mejores Portátiles de Amazon en 2026](https://rankzon.es/mejores/tecnologia/portatiles): Top 10 portátiles más vendidos en Amazon España.
+- [Los 10 Mejores Televisores de Amazon en 2026](https://rankzon.es/mejores/tecnologia/televisores): Top 10 televisores Smart TV más vendidos en Amazon España.
+- [Los 10 Mejores Monitores de Amazon en 2026](https://rankzon.es/mejores/tecnologia/monitores): Top 10 monitores para trabajo y gaming más vendidos en Amazon España.
+- [Los 10 Mejores Cartuchos de Impresora de Amazon en 2026](https://rankzon.es/mejores/tecnologia/impresoras): Top 10 cartuchos de tinta más vendidos para impresoras HP y Epson en Amazon España.
+- [Los 10 Mejores Routers WiFi de Amazon en 2026](https://rankzon.es/mejores/tecnologia/routers-wifi): Top 10 repetidores WiFi y routers más vendidos en Amazon España.
+- [Los 10 Mejores Discos Duros Externos de Amazon en 2026](https://rankzon.es/mejores/tecnologia/discos-duros-externos): Top 10 discos duros externos, pendrives y tarjetas de memoria más vendidos en Amazon España.
+- [Los 10 Mejores Lectores eBook de Amazon en 2026](https://rankzon.es/mejores/tecnologia/lectores-ebook): Top 10 lectores de libros electrónicos más vendidos en Amazon España.
 
 ### Electrodomésticos
 - [Las 10 Mejores Freidoras de Aire de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/freidoras-aire): Top 10 freidoras de aire más vendidas en Amazon España.
 - [Los 10 Mejores Robots Aspirador de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/robots-aspirador): Top 10 robots aspiradores más vendidos en Amazon España.
 - [Las 10 Mejores Cafeteras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/cafeteras): Top 10 cafeteras más vendidas en Amazon España.
 - [Las 10 Mejores Aspiradoras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/aspiradoras): Top 10 aspiradoras más vendidas en Amazon España.
+- [Los 10 Mejores Microondas de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/microondas): Top 10 microondas más vendidos en Amazon España.
+- [Las 10 Mejores Batidoras de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/batidoras): Top 10 batidoras y robots de cocina más vendidos en Amazon España.
+- [Los 10 Mejores Climatizadores de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/purificadores-aire): Top 10 ventiladores, purificadores de aire y deshumidificadores más vendidos en Amazon España.
+- [Las 10 Mejores Ollas Programables de Amazon en 2026](https://rankzon.es/mejores/electrodomesticos/ollas-programables): Top 10 ollas de cocción lenta y programables más vendidas en Amazon España.
+
+### Belleza
+- [Las 10 Mejores Afeitadoras Eléctricas de Amazon en 2026](https://rankzon.es/mejores/belleza/afeitadoras-electricas): Top 10 afeitadoras eléctricas y recortadoras de barba más vendidas en Amazon España.
+- [Los 10 Mejores Secadores de Pelo de Amazon en 2026](https://rankzon.es/mejores/belleza/secadores-pelo): Top 10 secadores de pelo más vendidos en Amazon España.
+- [Las 10 Mejores Planchas de Pelo de Amazon en 2026](https://rankzon.es/mejores/belleza/planchas-pelo): Top 10 planchas de pelo y rizadores más vendidos en Amazon España.
 
 ### Gaming
 - [Los 10 Mejores Mandos Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/mandos-gaming): Top 10 mandos gaming para PC más vendidos en Amazon España.
 - [Los 10 Mejores Auriculares Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/auriculares-gaming): Top 10 auriculares gaming más vendidos en Amazon España.
 - [Los 10 Mejores Ratones Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/ratones-gaming): Top 10 ratones gaming más vendidos en Amazon España.
 - [Los 10 Mejores Teclados Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/teclados-gaming): Top 10 teclados gaming más vendidos en Amazon España.
+- [La Mejor Realidad Virtual de Amazon en 2026](https://rankzon.es/mejores/gaming/realidad-virtual): Top 10 visores de realidad virtual más vendidos en Amazon España.
+- [Las 10 Mejores Alfombrillas Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/alfombrillas-gaming): Top 10 alfombrillas gaming más vendidas en Amazon España.
+- [Las 10 Mejores Webcams de Amazon en 2026](https://rankzon.es/mejores/gaming/webcams): Top 10 webcams para streaming y videollamadas más vendidas en Amazon España.
+- [Los 10 Mejores Micrófonos Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/microfonos-gaming): Top 10 micrófonos gaming y streaming más vendidos en Amazon España.
 
 ### Videojuegos
 - [Los 10 Mejores Juegos PS5 de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-ps5): Top 10 juegos PlayStation 5 más vendidos en Amazon España.
 - [Los 10 Mejores Juegos Nintendo Switch de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-switch): Top 10 juegos Nintendo Switch más vendidos en Amazon España.
 - [Los 10 Mejores Juegos Xbox de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-xbox): Top 10 juegos Xbox Series X/S más vendidos en Amazon España.
 - [Los 10 Mejores Juegos Nintendo Switch 2 de Amazon en 2026](https://rankzon.es/mejores/videojuegos/juegos-switch-2): Top 10 juegos Nintendo Switch 2 más vendidos en Amazon España.
+
+## Guías de Compra
+
+- [Cómo Elegir Auriculares](https://rankzon.es/guias/como-elegir-auriculares): Tipos, cancelación de ruido, autonomía y conectividad.
+- [Cómo Elegir Móvil](https://rankzon.es/guias/como-elegir-movil): Procesador, cámara, batería y qué esperar por precio.
+- [Cómo Elegir Portátil](https://rankzon.es/guias/como-elegir-portatil): Procesador, RAM, pantalla y diferencias Windows vs macOS.
+- [Cómo Elegir Televisor](https://rankzon.es/guias/como-elegir-television): Panel OLED vs LED, resolución 4K vs 8K y HDR.
+- [Cómo Elegir Freidora de Aire](https://rankzon.es/guias/como-elegir-freidora-aire): Capacidad, potencia y funciones reales vs marketing.
+- [Cómo Elegir Robot Aspirador](https://rankzon.es/guias/como-elegir-robot-aspirador): LiDAR, succión y base de vaciado automático.
+- [Cómo Elegir Afeitadora Eléctrica](https://rankzon.es/guias/como-elegir-afeitadora-electrica): Rotativas vs láminas, húmedo vs seco y autonomía.
+- [Cómo Elegir Secador de Pelo](https://rankzon.es/guias/como-elegir-secador-pelo): Potencia, motor CA vs CC y tecnología iónica.
+- [Cómo Elegir Plancha de Pelo](https://rankzon.es/guias/como-elegir-plancha-pelo): Placas de cerámica vs titanio, temperatura variable y tamaño.
 
 ## Sobre el sitio
 
@@ -43,4 +74,4 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - Los precios mostrados corresponden a la fecha de última actualización y pueden variar.
 - Los links de compra son enlaces del programa de afiliados de Amazon España (tag: rankzon-21).
 - Mercado exclusivo: España (amazon.es). Precios en EUR.
-- Secciones activas: tecnologia (6 categorías), electrodomesticos (4 categorías), gaming (4 categorías), videojuegos (4 categorías).
+- Secciones activas: tecnologia (12 categorías), electrodomesticos (8 categorías), belleza (3 categorías), gaming (8 categorías), videojuegos (4 categorías).

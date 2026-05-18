@@ -7,6 +7,7 @@ import { sections } from "@/lib/categories"
 export default function NavbarDesktopMenu() {
   const pathname = usePathname()
   const activeSections = sections.filter((s) => s.categories.length > 0)
+  const guidesActive = pathname.startsWith("/guias")
 
   return (
     <ul className="hidden md:flex items-center gap-1">
@@ -44,6 +45,18 @@ export default function NavbarDesktopMenu() {
           </li>
         )
       })}
+      <li>
+        <Link
+          href="/guias"
+          className={`text-sm font-medium px-3 py-2 rounded-lg transition-colors ${
+            guidesActive
+              ? "text-primary bg-primary-tint"
+              : "text-foreground hover:text-primary hover:bg-background"
+          }`}
+        >
+          Guías
+        </Link>
+      </li>
     </ul>
   )
 }
