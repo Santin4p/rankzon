@@ -126,6 +126,14 @@ export default async function CategoryPage({
   const top3 = data.productos.slice(0, 3)
   const rest = data.productos.slice(3)
 
+  const valuePickPosition = (() => {
+    const eligible = top3.filter((p) => p.price != null && p.rating != null)
+    if (eligible.length < 2) return -1
+    return eligible.reduce((best, p) =>
+      p.rating! / p.price! > best.rating! / best.price! ? p : best
+    ).position
+  })()
+
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -188,7 +196,11 @@ export default async function CategoryPage({
 
       <div className="mt-8 space-y-4">
         {top3.map((producto) => (
-          <ProductTop3Card key={producto.position} producto={producto} />
+          <ProductTop3Card
+            key={producto.position}
+            producto={producto}
+            valuePick={producto.position === valuePickPosition}
+          />
         ))}
       </div>
 

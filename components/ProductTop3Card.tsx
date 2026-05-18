@@ -34,14 +34,51 @@ const cardHighlight: Record<number, string> = {
 const hasDetails = (p: Producto) =>
   (p.pros && p.pros.length > 0) || (p.cons && p.cons.length > 0) || !!p.user_summary
 
-export default function ProductTop3Card({ producto }: { producto: Producto }) {
+export default function ProductTop3Card({
+  producto,
+  valuePick = false,
+}: {
+  producto: Producto
+  valuePick?: boolean
+}) {
   const [open, setOpen] = useState(false)
   const showToggle = hasDetails(producto)
+
+  const ctaLink = (fullWidth: boolean) => (
+    <Link
+      href={producto.affiliate_url}
+      target="_blank"
+      rel="nofollow sponsored noopener noreferrer"
+      className={`${fullWidth ? "block w-full" : "inline-block"} text-center bg-[#EA580C] hover:bg-[#c2410c] active:scale-95 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-all cursor-pointer`}
+    >
+      Ver en Amazon →
+    </Link>
+  )
+
+  const toggleBtn = (extraClass = "") => showToggle && (
+    <button
+      onClick={() => setOpen((v) => !v)}
+      className={`inline-flex items-center gap-1.5 text-sm font-medium text-[#2563EB] hover:text-[#1d4ed8] transition-colors cursor-pointer ${extraClass}`}
+      aria-expanded={open}
+    >
+      {open ? "Ocultar detalles" : "Ver pros y contras"}
+      <svg
+        className={`w-4 h-4 transition-transform duration-300 ${open ? "rotate-180" : ""}`}
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+        aria-hidden="true"
+      >
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+      </svg>
+    </button>
+  )
 
   return (
     <article
       className={`bg-white border rounded-2xl p-5 sm:p-6 hover:shadow-md transition-all ${cardHighlight[producto.position] ?? "border-[#E2E8F0]"}`}
     >
+      {/* Main row */}
       <div className="flex gap-4 sm:gap-6 items-start">
         <div
           className={`shrink-0 w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg ${positionBadge[producto.position] ?? "bg-[#2563EB] text-white"}`}
@@ -49,6 +86,7 @@ export default function ProductTop3Card({ producto }: { producto: Producto }) {
         >
           {producto.position}
         </div>
+
         <div className="relative w-24 h-24 sm:w-28 sm:h-28 shrink-0 bg-white rounded-xl overflow-hidden">
           <Image
             src={producto.image}
@@ -59,51 +97,48 @@ export default function ProductTop3Card({ producto }: { producto: Producto }) {
             priority={producto.position === 1}
           />
         </div>
+
         <div className="flex-1 min-w-0">
-          {producto.badge && (
-            <span className="inline-block text-xs font-semibold text-[#2563EB] bg-blue-50 px-2 py-0.5 rounded-full mb-2">
-              {producto.badge}
-            </span>
-          )}
+          <div className="flex flex-wrap gap-1.5 mb-2">
+            {producto.badge && (
+              <span className="text-xs font-semibold text-[#2563EB] bg-blue-50 px-2 py-0.5 rounded-full">
+                {producto.badge}
+              </span>
+            )}
+            {valuePick && (
+              <span className="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full">
+                Mejor relación calidad/precio
+              </span>
+            )}
+          </div>
+
           <h2 className="text-base sm:text-lg font-bold text-[#1E293B]">{producto.name}</h2>
+
           {producto.rating != null && (
             <div className="mt-1.5">
               <StarRating rating={producto.rating} reviews={producto.reviews} size="md" />
             </div>
           )}
+
           <p className="mt-1 text-[#64748B] font-medium tabular-nums">
             {producto.price != null
               ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
               : "Ver precio"}
           </p>
-          <div className="mt-3 flex flex-wrap gap-2">
-            <Link
-              href={producto.affiliate_url}
-              target="_blank"
-              rel="nofollow sponsored noopener noreferrer"
-              className="inline-block w-full sm:w-auto text-center bg-[#EA580C] hover:bg-[#c2410c] active:scale-95 text-white font-semibold px-5 py-2.5 rounded-lg text-sm transition-all cursor-pointer"
-            >
-              Ver en Amazon
-            </Link>
-            {showToggle && (
-              <button
-                onClick={() => setOpen((v) => !v)}
-                className="inline-flex items-center gap-1.5 text-sm font-medium text-[#2563EB] hover:text-[#1d4ed8] transition-colors cursor-pointer"
-                aria-expanded={open}
-              >
-                {open ? "Ocultar detalles" : "Ver pros y contras"}
-                <svg
-                  className={`w-4 h-4 transition-transform duration-300 ${open ? "rotate-180" : ""}`}
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                  aria-hidden="true"
-                >
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </button>
-            )}
+
+          {/* Desktop buttons — hidden on mobile */}
+          <div className="hidden sm:flex mt-3 flex-wrap gap-2 items-center">
+            {ctaLink(false)}
+            {toggleBtn()}
           </div>
+        </div>
+      </div>
+
+      {/* Mobile buttons — full card width, hidden on desktop */}
+      <div className="sm:hidden mt-4 space-y-2">
+        {ctaLink(true)}
+        <div className="flex justify-center">
+          {toggleBtn()}
         </div>
       </div>
 
@@ -135,7 +170,7 @@ export default function ProductTop3Card({ producto }: { producto: Producto }) {
                   <ul className="space-y-1.5">
                     {producto.cons.map((con, i) => (
                       <li key={i} className="flex items-start gap-2 text-sm text-[#1E293B]">
-                        <svg className="w-4 h-4 text-rose-400 shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <svg className="w-4 h-4 text-rose-400 shrink-0 mt-0.5" fill="none" stroke="currentColor" aria-hidden="true" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M6 18L18 6M6 6l12 12" />
                         </svg>
                         {con}
