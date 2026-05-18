@@ -5,15 +5,16 @@ import { Category } from "@/lib/categories"
 interface Props {
   category: Category
   sectionSlug: string
+  headingAs?: "h2" | "h3"
 }
 
-export default function CategoryCard({ category, sectionSlug }: Props) {
+export default function CategoryCard({ category, sectionSlug, headingAs: Heading = "h2" }: Props) {
   return (
     <Link
       href={`/mejores/${sectionSlug}/${category.slug}`}
-      className="group bg-white rounded-2xl border border-[#E2E8F0] p-6 flex flex-col hover:border-[#2563EB] hover:shadow-md transition-all cursor-pointer"
+      className="group bg-card rounded-2xl border border-border p-6 flex flex-col hover:border-primary hover:shadow-md transition-[colors,shadow] cursor-pointer"
     >
-      <div className="relative w-full aspect-square mb-4 rounded-xl overflow-hidden bg-white">
+      <div className="relative w-full aspect-square mb-4 rounded-xl overflow-hidden bg-card">
         <Image
           src={category.previewImage}
           alt={`Mejor ${category.name}`}
@@ -22,12 +23,12 @@ export default function CategoryCard({ category, sectionSlug }: Props) {
           sizes="(max-width: 768px) 50vw, 25vw"
         />
       </div>
-      <p className="text-xs font-semibold text-[#2563EB] uppercase tracking-wide mb-1">Top 10</p>
-      <h2 className="text-lg font-bold text-[#1E293B] group-hover:text-[#2563EB] transition-colors">
+      <p className="text-xs font-semibold text-primary uppercase tracking-wide mb-1">Top 10</p>
+      <Heading className="text-lg font-bold text-foreground group-hover:text-primary transition-colors">
         {category.name}
-      </h2>
-      <p className="mt-1 text-sm text-[#64748B]">{category.description}</p>
-      <span className="mt-4 text-sm font-semibold text-[#EA580C]">Ver ranking →</span>
+      </Heading>
+      <p className="mt-1 text-sm text-muted">{category.description}</p>
+      <span className="mt-4 text-sm font-semibold text-accent">Ver ranking →</span>
     </Link>
   )
 }

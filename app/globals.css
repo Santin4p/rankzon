@@ -1,17 +1,27 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-primary: #2563EB;
-  --color-accent: #EA580C;
+  /* Blue shifted 26° toward cyan-electric — away from Tailwind blue-600's purple lean */
+  --color-primary: oklch(44% 0.24 238);
+  --color-primary-dark: oklch(38% 0.24 238);
+  --color-primary-tint: oklch(96% 0.035 238);
+  /* Amber-copper instead of warning-orange */
+  --color-accent: oklch(56% 0.17 44);
+  --color-accent-dark: oklch(49% 0.17 44);
   --color-background: #F8FAFC;
   --color-card: #FFFFFF;
   --color-foreground: #1E293B;
-  --color-muted: #64748B;
+  --color-muted: #475569;
   --color-border: #E2E8F0;
-  --font-sans: var(--font-jakarta);
+  --font-sans: var(--font-nunito);
+  --font-heading: var(--font-rubik);
 }
 
 body {
   background: var(--color-background);
   color: var(--color-foreground);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-rubik);
 }

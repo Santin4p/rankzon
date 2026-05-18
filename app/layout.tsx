@@ -1,14 +1,22 @@
 import type { Metadata } from "next"
-import { Plus_Jakarta_Sans } from "next/font/google"
+import { Rubik, Nunito_Sans } from "next/font/google"
 import "./globals.css"
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
 import CookieConsent from "@/components/CookieConsent"
 
-const jakarta = Plus_Jakarta_Sans({
+const rubik = Rubik({
   subsets: ["latin"],
-  variable: "--font-jakarta",
+  variable: "--font-rubik",
   display: "swap",
+  weight: ["400", "500", "600", "700"],
+})
+
+const nunitoSans = Nunito_Sans({
+  subsets: ["latin"],
+  variable: "--font-nunito",
+  display: "swap",
+  weight: ["400", "600", "700"],
 })
 
 export const metadata: Metadata = {
@@ -34,7 +42,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es" className={`${jakarta.variable} h-full antialiased`}>
+    <html lang="es" className={`${rubik.variable} ${nunitoSans.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <Navbar />
         <main className="flex-1">{children}</main>

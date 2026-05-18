@@ -39,11 +39,11 @@ export default function StarRating({ rating, reviews, size = "md" }: StarRatingP
           )
         })}
       </div>
-      <span className={`font-semibold text-[#1E293B] tabular-nums ${isSm ? "text-xs" : "text-sm"}`}>
+      <span className={`font-semibold text-foreground tabular-nums ${isSm ? "text-xs" : "text-sm"}`}>
         {displayValue}
       </span>
       {reviews != null && !isSm && (
-        <span className="text-[#64748B] text-xs">
+        <span className="text-muted text-xs">
           ({reviews.toLocaleString("es-ES")})
         </span>
       )}

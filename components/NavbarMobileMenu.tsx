@@ -14,9 +14,10 @@ export default function NavbarMobileMenu() {
     <div className="md:hidden ml-auto">
       <button
         onClick={() => setOpen(!open)}
-        className="p-2 rounded-lg text-[#1E293B] hover:bg-[#F8FAFC] transition-colors cursor-pointer"
+        className="p-3 rounded-lg text-foreground hover:bg-background transition-colors cursor-pointer"
         aria-label={open ? "Cerrar menú" : "Abrir menú"}
         aria-expanded={open}
+        aria-controls="mobile-nav"
       >
         {open ? (
           <svg className="w-5 h-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -30,13 +31,13 @@ export default function NavbarMobileMenu() {
       </button>
 
       {open && (
-        <div className="absolute top-16 left-0 right-0 bg-white border-b border-[#E2E8F0] shadow-md z-50 px-4 py-4">
+        <div id="mobile-nav" className="absolute top-16 left-0 right-0 bg-card border-b border-border shadow-md z-50 px-4 py-4">
           <ul className="flex flex-col gap-1">
             {activeSections.map((section) => (
               <li key={section.slug}>
                 <button
                   onClick={() => setOpenSection(openSection === section.slug ? null : section.slug)}
-                  className="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-semibold text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] transition-colors cursor-pointer"
+                  className="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-semibold text-foreground hover:bg-background hover:text-primary transition-colors cursor-pointer"
                 >
                   {section.name}
                   <svg
@@ -51,8 +52,8 @@ export default function NavbarMobileMenu() {
                     <li>
                       <Link
                         href={`/mejores/${section.slug}`}
-                        onClick={() => setOpen(false)}
-                        className="block px-3 py-2 rounded-lg text-sm font-medium text-[#2563EB] hover:bg-[#F8FAFC] transition-colors"
+                        onClick={() => { setOpen(false); setOpenSection(null) }}
+                        className="block px-3 py-2 rounded-lg text-sm font-medium text-primary hover:bg-background transition-colors"
                       >
                         Ver todos →
                       </Link>
@@ -61,8 +62,8 @@ export default function NavbarMobileMenu() {
                       <li key={cat.slug}>
                         <Link
                           href={`/mejores/${section.slug}/${cat.slug}`}
-                          onClick={() => setOpen(false)}
-                          className="block px-3 py-2 rounded-lg text-sm text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] transition-colors"
+                          onClick={() => { setOpen(false); setOpenSection(null) }}
+                          className="block px-3 py-2 rounded-lg text-sm text-foreground hover:bg-background hover:text-primary transition-colors"
                         >
                           {cat.name}
                         </Link>

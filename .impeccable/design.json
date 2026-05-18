@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-05-18T00:00:00Z",
+  "title": "Design System: Rankzon",
+  "extensions": {
+    "colorMeta": {
+      "primary":       { "role": "primary",   "displayName": "Azul Eléctrico-Añil", "canonical": "oklch(44% 0.24 238)", "tonalRamp": ["oklch(15% 0.18 238)", "oklch(25% 0.21 238)", "oklch(35% 0.23 238)", "oklch(44% 0.24 238)", "oklch(55% 0.22 238)", "oklch(68% 0.16 238)", "oklch(82% 0.09 238)", "oklch(96% 0.035 238)"] },
+      "primary-dark":  { "role": "primary",   "displayName": "Azul-Añil Profundo",  "canonical": "oklch(38% 0.24 238)", "tonalRamp": null },
+      "primary-tint":  { "role": "primary",   "displayName": "Tinte Añil",          "canonical": "oklch(96% 0.035 238)", "tonalRamp": null },
+      "accent":        { "role": "secondary", "displayName": "Cobre Editorial",      "canonical": "oklch(56% 0.17 44)",  "tonalRamp": ["oklch(18% 0.10 44)", "oklch(28% 0.13 44)", "oklch(38% 0.15 44)", "oklch(49% 0.17 44)", "oklch(56% 0.17 44)", "oklch(66% 0.14 44)", "oklch(78% 0.09 44)", "oklch(92% 0.04 44)"] },
+      "accent-dark":   { "role": "secondary", "displayName": "Cobre Oscuro",         "canonical": "oklch(49% 0.17 44)",  "tonalRamp": null },
+      "background":    { "role": "neutral",   "displayName": "Blanco Papel",         "canonical": "#F8FAFC",             "tonalRamp": null },
+      "card":          { "role": "neutral",   "displayName": "Blanco Tarjeta",       "canonical": "#FFFFFF",             "tonalRamp": null },
+      "foreground":    { "role": "neutral",   "displayName": "Tinta Oscura",         "canonical": "#1E293B",             "tonalRamp": null },
+      "muted":         { "role": "neutral",   "displayName": "Gris Pizarra",         "canonical": "#475569",             "tonalRamp": null },
+      "border":        { "role": "neutral",   "displayName": "Línea Suave",          "canonical": "#E2E8F0",             "tonalRamp": null }
+    },
+    "typographyMeta": {
+      "display":  { "displayName": "Display",  "purpose": "H1 de páginas de categoría y hub. Keyword SEO principal." },
+      "headline": { "displayName": "Headline", "purpose": "H2 de sección y guías de compra." },
+      "title":    { "displayName": "Title",    "purpose": "H3 de sección, nombres de categoría en card, nombres de producto en top 3." },
+      "body":     { "displayName": "Body",     "purpose": "Descripciones, intros, guías. Máx 65ch en bloques de texto continuo." },
+      "label":    { "displayName": "Label",    "purpose": "TOP 10, LO MEJOR, A MEJORAR, POSICIONES 4–10. Siempre uppercase." }
+    },
+    "shadows": [
+      { "name": "hover-lift", "value": "0 4px 16px rgba(0,0,0,0.08)", "purpose": "Solo en hover de CategoryCard y ProductTop3Card. Nunca en reposo." }
+    ],
+    "motion": [
+      { "name": "ease-standard", "value": "150ms ease-out",                          "purpose": "Transiciones de color, border, opacity." },
+      { "name": "ease-accordion", "value": "300ms ease-out",                          "purpose": "Apertura/cierre del acordeón grid-template-rows en ProductTop3Card." },
+      { "name": "ease-chevron",   "value": "200ms ease-in-out",                       "purpose": "Rotación del chevron en mobile menu sections." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px",  "purpose": "Mobile → tablet. Cambia layout de botones (full-width → inline), tamaño de imágenes de producto." },
+      { "name": "md", "value": "768px",  "purpose": "Tablet → desktop. Activa NavbarDesktopMenu, cambia grid de categorías a 4 columnas." },
+      { "name": "lg", "value": "1024px", "purpose": "Desktop. Footer cambia a grid de 6 columnas." }
+    ]
+  },
+  "components": [
+    {
+      "name": "Button Primary",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "CTA principal de conversión. Solo aparece en 'Ver en Amazon' y 'Ver ranking →'. Exclusivo del accent cobre.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#\">Ver en Amazon →<span class=\"ds-sr-only\"> Producto (se abre en nueva pestaña)</span></a>",
+      "css": ".ds-btn-primary { display: inline-block; background: oklch(56% 0.17 44); color: #ffffff; font-family: 'Nunito Sans', sans-serif; font-size: 0.875rem; font-weight: 600; padding: 12px 20px; border-radius: 8px; text-decoration: none; transition: background 150ms ease-out; cursor: pointer; border: none; } .ds-btn-primary:hover { background: oklch(49% 0.17 44); } .ds-btn-primary:active { transform: scale(0.97); } .ds-btn-primary:focus-visible { outline: 2px solid oklch(44% 0.24 238); outline-offset: 2px; } .ds-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border-width: 0; }"
+    },
+    {
+      "name": "Link CTA",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "CTA secundario en listas compactas (posiciones 4-10). Texto cobre, sin fondo, con touch target explícito.",
+      "html": "<a class=\"ds-link-cta\" href=\"#\">Ver →<span class=\"ds-sr-only\"> Sony WH-CH520 en Amazon (se abre en nueva pestaña)</span></a>",
+      "css": ".ds-link-cta { font-family: 'Nunito Sans', sans-serif; font-size: 0.875rem; font-weight: 600; color: oklch(56% 0.17 44); text-decoration: none; padding: 12px 12px; white-space: nowrap; transition: text-decoration 150ms; display: inline-block; } .ds-link-cta:hover { text-decoration: underline; } .ds-link-cta:focus-visible { outline: 2px solid oklch(44% 0.24 238); outline-offset: 2px; border-radius: 4px; } .ds-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border-width: 0; }"
+    },
+    {
+      "name": "Chip Label",
+      "kind": "chip",
+      "refersTo": "chip-label",
+      "description": "Badge de categoría/estado. Fondo primary-tint, texto primary. Nunca en accent.",
+      "html": "<span class=\"ds-chip\">Más vendido</span>",
+      "css": ".ds-chip { display: inline-block; background: oklch(96% 0.035 238); color: oklch(44% 0.24 238); font-family: 'Nunito Sans', sans-serif; font-size: 0.75rem; font-weight: 600; padding: 2px 8px; border-radius: 9999px; }"
+    },
+    {
+      "name": "Position Badge",
+      "kind": "chip",
+      "refersTo": "chip-label",
+      "description": "Círculo de posición 1-3. Colores semánticos oro/plata/bronce — no tokens de marca, no modificar.",
+      "html": "<div class=\"ds-badge-pos ds-badge-pos--1\">1</div> <div class=\"ds-badge-pos ds-badge-pos--2\">2</div> <div class=\"ds-badge-pos ds-badge-pos--3\">3</div>",
+      "css": ".ds-badge-pos { width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Rubik', sans-serif; font-weight: 700; font-size: 1.125rem; flex-shrink: 0; } .ds-badge-pos--1 { background: #FBBF24; color: #78350F; } .ds-badge-pos--2 { background: #CBD5E1; color: #334155; } .ds-badge-pos--3 { background: #B45309; color: #ffffff; }"
+    },
+    {
+      "name": "Category Card",
+      "kind": "card",
+      "refersTo": "card-category",
+      "description": "Card de categoría en home y hub pages. El link envuelve toda la card para área de tap completa.",
+      "html": "<a class=\"ds-card-cat\" href=\"#\"><div class=\"ds-card-cat__img-wrap\"></div><p class=\"ds-card-cat__label\">Top 10</p><h3 class=\"ds-card-cat__name\">Auriculares</h3><p class=\"ds-card-cat__desc\">Los más vendidos en Amazon España.</p><span class=\"ds-card-cat__cta\">Ver ranking →</span></a>",
+      "css": ".ds-card-cat { background: #ffffff; border: 1px solid #E2E8F0; border-radius: 16px; padding: 24px; display: flex; flex-direction: column; text-decoration: none; transition: border-color 150ms ease-out, box-shadow 150ms ease-out; cursor: pointer; } .ds-card-cat:hover { border-color: oklch(44% 0.24 238); box-shadow: 0 4px 16px rgba(0,0,0,0.08); } .ds-card-cat__img-wrap { width: 100%; aspect-ratio: 1; margin-bottom: 16px; border-radius: 12px; overflow: hidden; background: #fff; } .ds-card-cat__label { font-family: 'Nunito Sans',sans-serif; font-size: 0.75rem; font-weight: 600; color: oklch(44% 0.24 238); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; } .ds-card-cat__name { font-family: 'Rubik',sans-serif; font-size: 1.125rem; font-weight: 700; color: #1E293B; margin-bottom: 4px; transition: color 150ms; } .ds-card-cat:hover .ds-card-cat__name { color: oklch(44% 0.24 238); } .ds-card-cat__desc { font-family: 'Nunito Sans',sans-serif; font-size: 0.875rem; color: #475569; flex: 1; } .ds-card-cat__cta { margin-top: 16px; font-family: 'Nunito Sans',sans-serif; font-size: 0.875rem; font-weight: 600; color: oklch(56% 0.17 44); }"
+    },
+    {
+      "name": "Product Row Compact",
+      "kind": "card",
+      "refersTo": "row-compact",
+      "description": "Fila de producto para posiciones 4-10. Flex row: position badge + imagen + info + CTA.",
+      "html": "<div class=\"ds-row\"><span class=\"ds-row__pos\">4</span><div class=\"ds-row__img-wrap\"></div><div class=\"ds-row__info\"><p class=\"ds-row__name\">Sony WH-CH520</p><p class=\"ds-row__price\">39,99 €</p></div><a class=\"ds-link-cta\" href=\"#\">Ver →</a></div>",
+      "css": ".ds-row { background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 12px 16px; display: flex; align-items: center; gap: 12px; transition: border-color 150ms ease-out; } .ds-row:hover { border-color: oklch(44% 0.24 238); } .ds-row__pos { width: 32px; height: 32px; border-radius: 50%; background: #F8FAFC; border: 1px solid #E2E8F0; color: #475569; display: flex; align-items: center; justify-content: center; font-family: 'Rubik',sans-serif; font-weight: 700; font-size: 0.875rem; flex-shrink: 0; } .ds-row__img-wrap { width: 48px; height: 48px; border-radius: 8px; background: #fff; flex-shrink: 0; } .ds-row__info { flex: 1; min-width: 0; } .ds-row__name { font-family: 'Nunito Sans',sans-serif; font-size: 0.875rem; font-weight: 600; color: #1E293B; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .ds-row__price { font-family: 'Nunito Sans',sans-serif; font-size: 0.875rem; color: #475569; margin-top: 2px; font-variant-numeric: tabular-nums; }"
+    },
+    {
+      "name": "Navbar",
+      "kind": "nav",
+      "refersTo": "card-category",
+      "description": "Navbar sticky. Logo en primary. Links de sección con active state primary-tint. Hamburger ≥ 44px touch target.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nav__logo\" href=\"/\">Rankzon</a><ul class=\"ds-nav__links\"><li class=\"ds-nav__item ds-nav__item--active\"><a href=\"#\">Tecnología <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M19 9l-7 7-7-7\"/></svg></a></li><li class=\"ds-nav__item\"><a href=\"#\">Electrodomésticos</a></li></ul></nav>",
+      "css": ".ds-nav { background: #ffffff; border-bottom: 1px solid #E2E8F0; position: sticky; top: 0; z-index: 50; padding: 0 16px; height: 64px; display: flex; align-items: center; gap: 24px; } .ds-nav__logo { font-family: 'Rubik',sans-serif; font-size: 1.25rem; font-weight: 700; color: oklch(44% 0.24 238); text-decoration: none; flex-shrink: 0; } .ds-nav__links { display: flex; align-items: center; gap: 4px; list-style: none; padding: 0; margin: 0; } .ds-nav__item a { font-family: 'Nunito Sans',sans-serif; font-size: 0.875rem; font-weight: 500; color: #1E293B; text-decoration: none; padding: 8px 12px; border-radius: 8px; transition: color 150ms, background 150ms; display: flex; align-items: center; gap: 4px; } .ds-nav__item a:hover { color: oklch(44% 0.24 238); background: oklch(96% 0.035 238); } .ds-nav__item--active a { color: oklch(44% 0.24 238); background: oklch(96% 0.035 238); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "El Criterio Curado",
+    "overview": "Rankzon es la voz del amigo que sabe de tecnología: opina sin rodeos, elige sin patrocinios, y te ahorra horas de research. El sistema visual traduce eso en densidad de datos sin ruido decorativo. Cada píxel que no informa, no existe.\n\nLa paleta usa OKLCH como doctrina. Los valores de primary y accent están desplazados intencionalmente de los defaults de Tailwind: el azul 26° hacia cyan (lejos del morado corporativo de blue-600), el cobre 14° hacia ámbar (lejos del naranja de alarma de orange-600).\n\nEl sistema rechaza explícitamente: plantillas WordPress de afiliados circa 2015, el exceso editorial de Wirecutter, y el ruido publicitario de TechRadar/PCMag.",
+    "keyCharacteristics": [
+      "Escaneabilidad antes que lectura: posición > nombre > precio > CTA visible en < 3 segundos",
+      "Datos sobre decoración: precio, rating, reseñas son trust signals, no acompañamiento",
+      "Un solo CTA: 'Ver en Amazon' en cobre. Todo lo demás es contexto",
+      "Flat by default: las sombras aparecen solo en hover, nunca en reposo",
+      "OKLCH-only: todos los colores de marca en formato perceptualmente uniforme"
+    ],
+    "rules": [
+      { "name": "La Regla del Cobre Único",    "body": "El accent cobre aparece exclusivamente en CTAs de conversión directa. Nunca en decoración, iconos informativos, ni estados neutros.", "section": "colors" },
+      { "name": "La Regla del Azul Escaso",    "body": "El primary azul ocupa ≤ 15% de cualquier pantalla. Su escasez es lo que hace que señale confianza.", "section": "colors" },
+      { "name": "La Regla de los Dos Roles",   "body": "Rubik solo en headings h1-h6. Nunito Sans en todo lo demás. No sobreescribir en componentes individuales.", "section": "typography" },
+      { "name": "La Regla Flat-By-Default",    "body": "Ninguna superficie lleva sombra en estado de reposo. La sombra solo comunica estado interactivo (hover), nunca jerarquía estructural.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do usar text-primary para orientar y text-accent exclusivamente para CTAs de conversión",
+      "Do mostrar precio, rating y número de reseñas juntos — los tres datos son el trust signal",
+      "Do mantener el H1 con la keyword exacta: 'Los 10 Mejores [Categoría] de Amazon en 2026'",
+      "Do usar sr-only en todos los target='_blank': 'Ver [nombre] en Amazon (se abre en nueva pestaña)'",
+      "Do mantener touch targets ≥ 44px en todos los elementos interactivos",
+      "Do usar tokens (text-primary, text-muted, border-border) en lugar de hex hardcoded"
+    ],
+    "donts": [
+      "Don't usar el accent cobre fuera de CTAs de conversión directa",
+      "Don't añadir el hero-metrics template (tres números grandes con labels bajo el H1)",
+      "Don't crear sombras en reposo — solo en hover",
+      "Don't usar gradient text (background-clip: text)",
+      "Don't usar transition-all — especificar siempre qué propiedad transiciona",
+      "Don't copiar el estilo de Wirecutter, TechRadar/PCMag ni plantillas WordPress de afiliados 2015",
+      "Don't añadir dark mode sin rediseñar la paleta completa"
+    ]
+  }
+}

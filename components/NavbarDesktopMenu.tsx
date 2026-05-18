@@ -16,10 +16,11 @@ export default function NavbarDesktopMenu() {
           <li key={section.slug} className="relative group">
             <Link
               href={`/mejores/${section.slug}`}
+              aria-haspopup="true"
               className={`text-sm font-medium px-3 py-2 rounded-lg transition-colors flex items-center gap-1 ${
                 isActive
-                  ? "text-[#2563EB] bg-blue-50"
-                  : "text-[#1E293B] hover:text-[#2563EB] hover:bg-[#F8FAFC]"
+                  ? "text-primary bg-primary-tint"
+                  : "text-foreground hover:text-primary hover:bg-background"
               }`}
             >
               {section.name}
@@ -27,13 +28,13 @@ export default function NavbarDesktopMenu() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
               </svg>
             </Link>
-            <div className="absolute top-full left-0 pt-1 hidden group-hover:block z-50">
-              <div className="bg-white border border-[#E2E8F0] rounded-xl shadow-lg p-2 min-w-[180px]">
+            <div className="absolute top-full left-0 pt-1 hidden group-hover:block group-focus-within:block z-50">
+              <div className="bg-card border border-border rounded-xl shadow-lg p-2 min-w-[180px]">
                 {section.categories.map((cat) => (
                   <Link
                     key={cat.slug}
                     href={`/mejores/${section.slug}/${cat.slug}`}
-                    className="block px-3 py-2 text-sm text-[#1E293B] hover:bg-[#F8FAFC] hover:text-[#2563EB] rounded-lg transition-colors"
+                    className="block px-3 py-2 text-sm text-foreground hover:bg-background hover:text-primary rounded-lg transition-colors"
                   >
                     {cat.name}
                   </Link>

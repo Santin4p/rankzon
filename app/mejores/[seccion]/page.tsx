@@ -119,18 +119,18 @@ export default async function SectionPage({
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
-      <nav aria-label="Ruta de navegación" className="flex items-center gap-1.5 text-sm text-[#64748B] mb-6">
-        <Link href="/" className="hover:text-[#2563EB] transition-colors">Inicio</Link>
+      <nav aria-label="Ruta de navegación" className="flex items-center gap-1.5 text-sm text-muted mb-6">
+        <Link href="/" className="hover:text-primary transition-colors">Inicio</Link>
         <svg className="w-3 h-3 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
           <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
         </svg>
-        <span className="text-[#1E293B] font-medium">{section.name}</span>
+        <span className="text-foreground font-medium">{section.name}</span>
       </nav>
 
-      <h1 className="text-3xl md:text-4xl font-bold text-[#1E293B]">
+      <h1 className="text-3xl md:text-4xl font-bold text-foreground">
         Los mejores productos de {section.name} de 2026
       </h1>
-      <p className="mt-3 text-[#64748B] leading-relaxed">
+      <p className="mt-3 text-muted leading-relaxed">
         {content?.intro ?? `${section.description}. Selección actualizada mensualmente, sin publicidad de pago.`}
       </p>
 
@@ -141,11 +141,11 @@ export default async function SectionPage({
       </div>
 
       {content && (
-        <div className="mt-14 space-y-8 border-t border-[#E2E8F0] pt-10">
+        <div className="mt-14 space-y-8 border-t border-border pt-10">
           {content.guide.map((item) => (
             <div key={item.heading}>
-              <h2 className="text-xl font-bold text-[#1E293B] mb-2">{item.heading}</h2>
-              <p className="text-[#64748B] leading-relaxed">{item.body}</p>
+              <h2 className="text-xl font-bold text-foreground mb-2">{item.heading}</h2>
+              <p className="text-muted leading-relaxed">{item.body}</p>
             </div>
           ))}
         </div>

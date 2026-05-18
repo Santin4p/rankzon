@@ -183,22 +183,22 @@ export default async function CategoryPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
-      <nav aria-label="Ruta de navegación" className="flex items-center gap-1.5 text-sm text-[#64748B] mb-6">
-        <Link href="/" className="hover:text-[#2563EB] transition-colors">Inicio</Link>
+      <nav aria-label="Ruta de navegación" className="flex items-center gap-1.5 text-sm text-muted mb-6">
+        <Link href="/" className="hover:text-primary transition-colors">Inicio</Link>
         <svg className="w-3 h-3 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
           <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
         </svg>
-        <Link href={`/mejores/${seccion}`} className="hover:text-[#2563EB] transition-colors">{section.name}</Link>
+        <Link href={`/mejores/${seccion}`} className="hover:text-primary transition-colors">{section.name}</Link>
         <svg className="w-3 h-3 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
           <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
         </svg>
-        <span className="text-[#1E293B] font-medium">{category.name}</span>
+        <span className="text-foreground font-medium">{category.name}</span>
       </nav>
 
-      <h1 className="text-3xl md:text-4xl font-bold text-[#1E293B]">
+      <h1 className="text-3xl md:text-4xl font-bold text-foreground">
         Los 10 Mejores {category.name} de Amazon en 2026
       </h1>
-      <p className="mt-3 text-[#64748B]">
+      <p className="mt-3 text-muted">
         {category.description}. Selección actualizada el {data.updated_at}, sin publicidad de pago.
       </p>
 
@@ -212,25 +212,25 @@ export default async function CategoryPage({
         ))}
       </div>
 
-      <p className="mt-8 mb-3 text-xs font-semibold text-[#64748B] uppercase tracking-wide">
+      <p className="mt-8 mb-3 text-xs font-semibold text-muted uppercase tracking-wide">
         Posiciones 4 – 10
       </p>
       <div className="space-y-2">
         {rest.map((producto) => (
           <div
             key={producto.position}
-            className="bg-white border border-[#E2E8F0] rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 items-center hover:border-[#2563EB] transition-colors"
+            className="bg-card border border-border rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 items-center hover:border-primary transition-colors"
           >
-            <span className="shrink-0 w-8 h-8 rounded-full bg-[#F8FAFC] border border-[#E2E8F0] text-[#64748B] flex items-center justify-center font-bold text-sm">
+            <span className="shrink-0 w-8 h-8 rounded-full bg-background border border-border text-muted flex items-center justify-center font-bold text-sm">
               {producto.position}
             </span>
-            <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-white rounded-lg overflow-hidden">
+            <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-card rounded-lg overflow-hidden">
               <Image src={producto.image} alt={producto.name} fill className="object-contain" sizes="56px" loading="lazy" />
             </div>
             <div className="flex-1 min-w-0">
-              <p className="font-semibold text-[#1E293B] text-sm sm:text-base">{producto.name}</p>
+              <p className="font-semibold text-foreground text-sm sm:text-base">{producto.name}</p>
               <div className="flex items-center gap-2 mt-0.5">
-                <p className="text-sm text-[#64748B] tabular-nums">
+                <p className="text-sm text-muted tabular-nums">
                   {producto.price != null
                     ? `${producto.price.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 })} €`
                     : "Ver precio"}
@@ -242,15 +242,16 @@ export default async function CategoryPage({
               href={producto.affiliate_url}
               target="_blank"
               rel="nofollow sponsored noopener noreferrer"
-              className="shrink-0 text-xs sm:text-sm font-semibold text-[#EA580C] hover:underline active:scale-95 transition-all cursor-pointer whitespace-nowrap"
+              className="shrink-0 py-3 px-3 text-xs sm:text-sm font-semibold text-accent hover:underline active:scale-95 transition-colors cursor-pointer whitespace-nowrap"
             >
               Ver →
+              <span className="sr-only"> {producto.name} en Amazon (se abre en nueva pestaña)</span>
             </Link>
           </div>
         ))}
       </div>
 
-      <p className="mt-10 text-xs text-[#64748B] border-t border-[#E2E8F0] pt-6">
+      <p className="mt-10 text-xs text-muted border-t border-border pt-6">
         Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables.
       </p>
     </div>

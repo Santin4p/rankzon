@@ -10,7 +10,7 @@ Sitio web de rankings curados de productos tech en Amazon España. El usuario bu
 - **Hosting:** Vercel (deploy automático en push a `main`)
 - **Datos:** JSON estáticos en `/data/[categoria].json`
 - **Estilos:** Tailwind CSS
-- **Tipografía:** Plus Jakarta Sans (Google Fonts)
+- **Tipografía:** Rubik (headings) + Nunito Sans (body) — Google Fonts
 - **Analytics:** Google Analytics 4 + Google Search Console
 - **Dominio:** rankzon.es
 
