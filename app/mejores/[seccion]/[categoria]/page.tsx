@@ -2,6 +2,7 @@ import { notFound } from "next/navigation"
 import Image from "next/image"
 import Link from "next/link"
 import { getAllCategories, getCategoryBySlug, getSectionBySlug } from "@/lib/categories"
+import { guides } from "@/lib/guides"
 import type { Metadata } from "next"
 import StarRating from "@/components/StarRating"
 import ProductTop3Card from "@/components/ProductTop3Card"
@@ -139,6 +140,7 @@ export default async function CategoryPage({
 
   const top3 = data.productos.slice(0, 3)
   const rest = data.productos.slice(3)
+  const guide = guides.find((g) => g.categorySlug === categoria)
 
   const valuePickPosition = (() => {
     const eligible = top3.filter((p) => p.price != null && p.rating != null)
@@ -256,6 +258,19 @@ export default async function CategoryPage({
           </div>
         ))}
       </div>
+
+      {guide && (
+        <div className="mt-10 rounded-xl border border-border bg-background p-5">
+          <p className="text-sm font-semibold text-foreground">¿No sabes cuál elegir?</p>
+          <p className="mt-1 text-sm text-muted">Consulta nuestra guía antes de decidir: qué mirar, qué ignorar y qué esperar por precio.</p>
+          <Link
+            href={`/guias/${guide.slug}`}
+            className="mt-3 inline-flex items-center gap-1 text-sm font-semibold text-primary hover:underline"
+          >
+            {guide.shortTitle}: guía de compra →
+          </Link>
+        </div>
+      )}
 
       <p className="mt-10 text-xs text-muted border-t border-border pt-6">
         Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables.
