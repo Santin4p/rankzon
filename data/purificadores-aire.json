@@ -1,6 +1,6 @@
 {
   "categoria": "purificadores-aire",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
@@ -8,133 +8,98 @@
       "image": "/images/purificadores-aire/ventilador-de-techo-con-luz-con-mando-3-aspas.jpg",
       "price": 48.5,
       "rating": 4,
-      "reviews": 233,
+      "reviews": 240,
       "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Silencioso incluso a velocidades medias-altas",
-        "Mando a distancia cómodo para controlar luz y velocidad",
-        "Luz regulable: intensidad y temperatura de color",
-        "Instalación sencilla en menos de una hora",
-        "Buena relación calidad-precio para el uso diario"
-      ],
-      "cons": [
-        "Sin memoria de configuración al cortar la luz del interruptor",
-        "Aspas de plástico con acabados básicos"
-      ],
-      "user_summary": "Los compradores destacan especialmente el silencio del motor y la comodidad del mando a distancia. La mayoría lo recomiendan para dormitorios por su bajo ruido y la luz graduable, aunque varios señalan que pierde la configuración cada vez que se apaga desde el interruptor de pared."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "M mimotec - White Olga Ventilador de Techo LED 6",
-      "image": "/images/purificadores-aire/m-mimotec-white-olga-ventilador-de-techo-led-6.jpg",
-      "price": 42.99,
-      "rating": 4,
-      "reviews": 318,
-      "affiliate_url": "https://www.amazon.es/dp/B0DYP9N5CJ?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Motor DC muy silencioso incluso a máxima potencia",
-        "Luz LED potente y graduable en temperatura e intensidad",
-        "Aspas retráctiles: cuando está apagado parece solo una lámpara",
-        "6 velocidades y función temporizador incluidos",
-        "Mueve gran volumen de aire para habitaciones amplias"
-      ],
-      "cons": [
-        "Instrucciones poco detalladas; algunos recurren a vídeos de YouTube",
-        "LED no reemplazable: si se funde, hay que cambiar toda la luminaria"
-      ],
-      "user_summary": "Los usuarios valoran mucho el silencio del motor DC y el diseño discreto con aspas retráctiles. La luz regulable (cálida/fría) es uno de los puntos más elogiados. Como punto débil recurrente: las instrucciones son escasas y algunos usuarios han reportado fallos ocasionales en el mando a distancia."
-    },
-    {
-      "position": 3,
-      "name": "DRYBOSS Pack x 10 Deshumidificador Absorbente An",
-      "image": "/images/purificadores-aire/dryboss-pack-x-10-deshumidificador-absorbente-an.jpg",
-      "price": 19.99,
-      "rating": 4,
-      "reviews": 454,
-      "affiliate_url": "https://www.amazon.es/dp/B0CWHDZZF1?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Pack de 10 unidades con excelente relación precio-cantidad",
-        "Sin electricidad ni mantenimiento: funcionamiento pasivo",
-        "Eficaz en armarios, baños y espacios cerrados pequeños",
-        "Reduce olores a humedad de forma silenciosa y continua"
-      ],
-      "cons": [
-        "Capacidad limitada: no sirve para habitaciones grandes",
-        "Hay que reponer los sobres cada pocas semanas"
-      ],
-      "user_summary": "Con más de 450 reseñas y 4 estrellas, los compradores lo eligen para controlar la humedad en espacios cerrados sin gasto energético. Se valora especialmente el pack de 10 unidades por su precio, aunque queda claro que es una solución puntual para zonas pequeñas, no un deshumidificador de habitación completa."
-    },
-    {
-      "position": 4,
-      "name": "Philips Purificador de Aire Serie 600",
-      "image": "/images/purificadores-aire/philips-purificador-de-aire-serie-600.jpg",
-      "price": 89.99,
-      "rating": 4,
-      "reviews": 1687,
-      "affiliate_url": "https://www.amazon.es/dp/B0CCF2NKCW?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "LEVOIT Purificador de Aire con Filtro HEPA para",
-      "image": "/images/purificadores-aire/levoit-purificador-de-aire-con-filtro-hepa-para.jpg",
-      "price": 49.99,
-      "rating": 4,
-      "reviews": 3185,
-      "affiliate_url": "https://www.amazon.es/dp/B0CGDJHJP6?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Mellerware - Ventilador de Techo con Mando a Dis",
-      "image": "/images/purificadores-aire/mellerware-ventilador-de-techo-con-mando-a-dis.jpg",
-      "price": 99.99,
-      "rating": 4,
-      "reviews": 2870,
-      "affiliate_url": "https://www.amazon.es/dp/B092ZJVC82?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Orbegozo SF 0147",
       "image": "/images/purificadores-aire/orbegozo-sf-0147.jpg",
       "price": 22.49,
       "rating": 4,
-      "reviews": 14974,
+      "reviews": 14982,
       "affiliate_url": "https://www.amazon.es/dp/B01D4YVY80?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "Errecom Evaporator Cleaner Foam",
-      "image": "/images/purificadores-aire/errecom-evaporator-cleaner-foam.jpg",
-      "price": 13,
+      "position": 3,
+      "name": "Cecotec Ventilador de Torre Digital con Temporiz",
+      "image": "/images/purificadores-aire/cecotec-ventilador-de-torre-digital-con-temporiz.jpg",
+      "price": 37.9,
       "rating": 4,
-      "reviews": 3957,
-      "affiliate_url": "https://www.amazon.es/dp/B06XWRVPMZ?tag=rankzon-21",
+      "reviews": 4336,
+      "affiliate_url": "https://www.amazon.es/dp/B092JB4Z7J?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
+      "position": 4,
+      "name": "Cecotec Ventilador Industrial EnergySilence 3000",
+      "image": "/images/purificadores-aire/cecotec-ventilador-industrial-energysilence-3000.jpg",
+      "price": 36.6,
+      "rating": 4,
+      "reviews": 548,
+      "affiliate_url": "https://www.amazon.es/dp/B092JFSFMQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "M mimotec - White Olga Ventilador de Techo LED 6",
+      "image": "/images/purificadores-aire/m-mimotec-white-olga-ventilador-de-techo-led-6.jpg",
+      "price": 46.3,
+      "rating": 4,
+      "reviews": 101,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYP9N5CJ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Philips Purificador de Aire Serie 600",
+      "image": "/images/purificadores-aire/philips-purificador-de-aire-serie-600.jpg",
+      "price": 86.94,
+      "rating": 4,
+      "reviews": 1693,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCF2NKCW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "LEVOIT Purificador de Aire con Filtro HEPA para",
+      "image": "/images/purificadores-aire/levoit-purificador-de-aire-con-filtro-hepa-para.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "reviews": 3200,
+      "affiliate_url": "https://www.amazon.es/dp/B0CGDJHJP6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
       "name": "CREATE/WINDCALM S/Ventilador de techo ABS con lu",
       "image": "/images/purificadores-aire/create-windcalm-s-ventilador-de-techo-abs-con-lu.jpg",
       "price": 80.95,
       "rating": 4,
-      "reviews": 223,
+      "reviews": 226,
       "affiliate_url": "https://www.amazon.es/dp/B0F4DKL4XQ?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "Dreo 20dB Ventilador de Pie Silencioso",
-      "image": "/images/purificadores-aire/dreo-20db-ventilador-de-pie-silencioso.jpg",
-      "price": 71.99,
+      "position": 9,
+      "name": "Errecom Evaporator Cleaner Foam",
+      "image": "/images/purificadores-aire/errecom-evaporator-cleaner-foam.jpg",
+      "price": 13,
       "rating": 4,
-      "reviews": 44287,
-      "affiliate_url": "https://www.amazon.es/dp/B09MKPDJRT?tag=rankzon-21",
+      "reviews": 3985,
+      "affiliate_url": "https://www.amazon.es/dp/B06XWRVPMZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "DRYBOSS Pack x 10 Deshumidificador Absorbente An",
+      "image": "/images/purificadores-aire/dryboss-pack-x-10-deshumidificador-absorbente-an.jpg",
+      "price": 19.99,
+      "rating": 4,
+      "reviews": 461,
+      "affiliate_url": "https://www.amazon.es/dp/B0CWHDZZF1?tag=rankzon-21",
       "badge": null
     }
   ]

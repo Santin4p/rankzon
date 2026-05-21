@@ -64,7 +64,7 @@ export const sections: Section[] = [
         slug: "monitores",
         name: "Monitores",
         description: "Los mejores monitores para trabajo, estudio y gaming",
-        previewImage: "/images/monitores/philips-27e1n1100a-monitor-27-pulgadas-fhd.jpg",
+        previewImage: "/images/monitores/philips-24e1n1100a-monitor-23-8-pulgadas-fhd.jpg",
       },
       {
         slug: "impresoras",
@@ -82,7 +82,7 @@ export const sections: Section[] = [
         slug: "discos-duros-externos",
         name: "Almacenamiento",
         description: "Las mejores tarjetas de memoria, pendrives y discos externos",
-        previewImage: "/images/discos-duros-externos/sandisk-extreme-ssd-externo-portatil-1tb-disco.jpg",
+        previewImage: "/images/discos-duros-externos/sandisk-128gb-ultra.jpg",
       },
       {
         slug: "lectores-ebook",
@@ -225,6 +225,24 @@ export const sections: Section[] = [
         description: "Las mejores planchas de pelo para alisado y ondulado",
         previewImage: "/images/planchas-pelo/ghd-gold-plancha-de-pelo-profesional-para-un-c.jpg",
       },
+      {
+        slug: "cuidado-piel",
+        name: "Cuidado de Piel",
+        description: "Los mejores serums, cremas y productos de skincare",
+        previewImage: "/images/cuidado-piel/d-alba-doble-serum-multi-balsamo-con-trufas-blan.jpg",
+      },
+      {
+        slug: "maquillaje",
+        name: "Maquillaje",
+        description: "Los mejores productos de maquillaje más vendidos",
+        previewImage: "/images/maquillaje/maybelline-new-york.jpg",
+      },
+      {
+        slug: "cuidado-pelo",
+        name: "Cuidado de Pelo",
+        description: "Los mejores champús, acondicionadores y tratamientos capilares",
+        previewImage: "/images/cuidado-pelo/revlon-professional-uniqone-all-in-one-protector.jpg",
+      },
     ],
   },
   {
@@ -255,6 +273,19 @@ export const sections: Section[] = [
         name: "Juegos Nintendo Switch 2",
         description: "Los juegos más vendidos para Nintendo Switch 2",
         previewImage: "/images/juegos-switch-2/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
+      },
+    ],
+  },
+  {
+    slug: "deporte",
+    name: "Deporte",
+    description: "Los mejores artículos deportivos más vendidos",
+    categories: [
+      {
+        slug: "padel",
+        name: "Pádel",
+        description: "Las mejores palas, pelotas y accesorios de pádel",
+        previewImage: "/images/padel/head-tube-3-pelotas-de-padel.jpg",
       },
     ],
   },

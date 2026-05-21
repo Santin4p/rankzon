@@ -1,114 +1,105 @@
 {
   "categoria": "lectores-ebook",
-  "updated_at": "2026-05-18",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
       "name": "reMarkable Pack Esencial Paper Pro | Tableta de",
       "image": "/images/lectores-ebook/remarkable-pack-esencial-paper-pro-tableta-de.jpg",
-      "price": 696.65,
+      "price": 699,
       "rating": 4,
-      "reviews": 958,
+      "reviews": 960,
       "affiliate_url": "https://www.amazon.es/dp/B0DG9ZXWMK?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": ["Pantalla e-Ink a color de 11.8\", lectura y escritura", "Escritura a mano con sensación casi idéntica al papel", "Organización digital completa, sin necesidad de papel", "Marcador Plus con goma de borrar integrada"],
-      "cons": ["Precio muy elevado (más de 600€)", "Soporte técnico solo cubre compras directas de reMarkable"],
-      "user_summary": "Los compradores que buscan sustituir el papel por completo están muy satisfechos. El punto más elogiado es la naturalidad de la escritura; el más criticado es el servicio postventa cuando se compra a través de terceros como Amazon."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
+      "name": "reMarkable Pack Avanzado Paper Pro Move | Tablet",
+      "image": "/images/lectores-ebook/remarkable-pack-avanzado-paper-pro-move-tablet.jpg",
+      "price": 599,
+      "rating": 4,
+      "reviews": 119,
+      "affiliate_url": "https://www.amazon.es/dp/B0FMS56K28?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
       "name": "Tableta Escritura LCD para Adultos",
       "image": "/images/lectores-ebook/tableta-escritura-lcd-para-adultos.jpg",
       "price": 12.99,
       "rating": 4,
-      "reviews": 905,
+      "reviews": 908,
       "affiliate_url": "https://www.amazon.es/dp/B0CDGX1BT9?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Precio muy asequible (menos de 13€)", "Sin consumo de tinta ni papel, borrado instantáneo", "Pantalla LCD sin retroiluminación, no cansa la vista", "Batería de larga duración, sin carga frecuente"],
-      "cons": ["No almacena ni transfiere notas al PC", "Solo para escritura rápida, no lee libros digitales"],
-      "user_summary": "Perfecta para tomar notas rápidas, listas o que los niños practiquen la escritura. Los compradores valoran su bajo precio y facilidad de uso como pizarra digital para apuntes del día a día."
-    },
-    {
-      "position": 3,
-      "name": "Kindle Scribe (2022)",
-      "image": "/images/lectores-ebook/kindle-scribe-2022.jpg",
-      "price": null,
-      "rating": 4,
-      "reviews": 1467,
-      "affiliate_url": "https://www.amazon.es/dp/B09BS5XWNS?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Pantalla 10.2\" 300 dpi, lectura muy cómoda", "Escritura a mano natural, como escribir en papel real", "Batería de muy larga duración (semanas sin cargar)", "Lápiz con imán que se adhiere al lateral del dispositivo"],
-      "cons": ["Algunos lápices llegan con defecto de fábrica", "Exportación de notas en baja resolución, gestión de PDF limitada"],
-      "user_summary": "Los compradores lo recomiendan para leer y tomar notas diarias, destacando la gran pantalla y la escritura táctil como sus mayores virtudes. Algunos reportan problemas con el lápiz de fábrica y limitaciones en la exportación de notas escritas."
+      "badge": null
     },
     {
       "position": 4,
       "name": "Xiaomi Tableta de escritura Mi LCD de 13",
       "image": "/images/lectores-ebook/xiaomi-tableta-de-escritura-mi-lcd-de-13.jpg",
-      "price": 15.9,
+      "price": 22.95,
       "rating": 4,
-      "reviews": 1642,
+      "reviews": 1643,
       "affiliate_url": "https://www.amazon.es/dp/B08LHLYCWT?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Pizarra LCD de Escritura",
-      "image": "/images/lectores-ebook/pizarra-lcd-de-escritura.jpg",
-      "price": 25.99,
+      "name": "Kindle Scribe (2022)",
+      "image": "/images/lectores-ebook/kindle-scribe-2022.jpg",
+      "price": 369.99,
       "rating": 4,
-      "reviews": 221,
-      "affiliate_url": "https://www.amazon.es/dp/B0D6GKS2CN?tag=rankzon-21",
+      "reviews": 1467,
+      "affiliate_url": "https://www.amazon.es/dp/B09BS5XWNS?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "reMarkable Pack Avanzado Paper Pro Move | Tablet",
-      "image": "/images/lectores-ebook/remarkable-pack-avanzado-paper-pro-move-tablet.jpg",
-      "price": 599,
+      "name": "10 Pulgadas Tablet Escritura Pantalla Colorido [",
+      "image": "/images/lectores-ebook/10-pulgadas-tablet-escritura-pantalla-colorido.jpg",
+      "price": 11.99,
       "rating": 4,
-      "reviews": 118,
-      "affiliate_url": "https://www.amazon.es/dp/B0FMS56K28?tag=rankzon-21",
+      "reviews": 2,
+      "affiliate_url": "https://www.amazon.es/dp/B0FR96B9JN?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "reMarkable Pack Avanzado reMarkable 2 | Tableta",
-      "image": "/images/lectores-ebook/remarkable-pack-avanzado-remarkable-2-tableta.jpg",
-      "price": 619,
-      "rating": 4,
-      "reviews": 71,
-      "affiliate_url": "https://www.amazon.es/dp/B0F8Z354YW?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "FP430S - Almohadilla electrónica de Firma USB pa",
-      "image": "/images/lectores-ebook/fp430s-almohadilla-electronica-de-firma-usb-pa.jpg",
-      "price": 158,
-      "rating": 3,
-      "reviews": 1,
-      "affiliate_url": "https://www.amazon.es/dp/B0GQZ8QYJN?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Color LCD Tablet",
       "image": "/images/lectores-ebook/color-lcd-tablet.jpg",
-      "price": 21.95,
+      "price": 18.98,
       "rating": 4,
       "reviews": 106,
       "affiliate_url": "https://www.amazon.es/dp/B0C58ZN8QT?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "Portátil Digital",
-      "image": "/images/lectores-ebook/portatil-digital.jpg",
-      "price": 35.21,
+      "position": 8,
+      "name": "Tablero de Escritura de Dibujo Electrónico",
+      "image": "/images/lectores-ebook/tablero-de-escritura-de-dibujo-electronico.jpg",
+      "price": 7.62,
       "rating": null,
       "reviews": null,
-      "affiliate_url": "https://www.amazon.es/dp/B0F3BD5NY3?tag=rankzon-21",
+      "affiliate_url": "https://www.amazon.es/dp/B0CS1CTB3G?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "reMarkable Pack Avanzado reMarkable 2 | Tableta",
+      "image": "/images/lectores-ebook/remarkable-pack-avanzado-remarkable-2-tableta.jpg",
+      "price": 617.58,
+      "rating": 4,
+      "reviews": 73,
+      "affiliate_url": "https://www.amazon.es/dp/B0F8Z354YW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Pizarra LCD de Escritura",
+      "image": "/images/lectores-ebook/pizarra-lcd-de-escritura.jpg",
+      "price": 25.99,
+      "rating": 4,
+      "reviews": 225,
+      "affiliate_url": "https://www.amazon.es/dp/B0D6GKS2CN?tag=rankzon-21",
       "badge": null
     }
   ]

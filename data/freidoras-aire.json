@@ -1,6 +1,6 @@
 {
   "categoria": "freidoras-aire",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
@@ -8,12 +8,9 @@
       "image": "/images/freidoras-aire/cosori-freidora-de-aire-5.jpg",
       "price": 84.99,
       "rating": 4,
-      "reviews": 104291,
+      "reviews": 104312,
       "affiliate_url": "https://www.amazon.es/dp/B07N8N6C85?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": ["Resultado crujiente y sabroso sin aceite — cocción uniforme", "Pantalla táctil con 11 presets y app con más de 100 recetas", "Cesta desmontable apta para lavavajillas"],
-      "cons": ["La cesta giratoria doble es más marketing que útil", "No apta para rebozados frescos (gotean grasa)", "Sin función de pausa con alarma sonora"],
-      "user_summary": "Con más de 100.000 valoraciones, es la freidora de aire más comprada de España. Los compradores destacan que cocina de forma uniforme y sin grasa — el truco es no sobrecargar la cesta. Los rebozados frescos no son su punto fuerte; para todo lo demás, difícil de superar en este rango de precio."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -21,12 +18,9 @@
       "image": "/images/freidoras-aire/cecotec-freidora-sin-aceite-de-5.jpg",
       "price": 44.9,
       "rating": 4,
-      "reviews": 4865,
+      "reviews": 4880,
       "affiliate_url": "https://www.amazon.es/dp/B0BFB3Q7SD?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Relación calidad/precio difícil de superar para 1-2 personas", "Práctica en el día a día: patatas, pizzas, nuggets perfectos", "Fácil de limpiar y compacta para la encimera"],
-      "cons": ["No cocina bien en 2 alturas — resultados desiguales", "Sin pantalla táctil ni conectividad app", "Capacidad justa para familias de 3 o más"],
-      "user_summary": "La opción más accesible del ranking sin sacrificar calidad. Perfecta para parejas o uso individual: calienta rápido, cocina bien y limpia en minutos. Para familias numerosas, vale la pena subir de capacidad."
+      "badge": null
     },
     {
       "position": 3,
@@ -34,20 +28,17 @@
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-sin-aceite-6.jpg",
       "price": 57.9,
       "rating": 4,
-      "reviews": 732,
+      "reviews": 749,
       "affiliate_url": "https://www.amazon.es/dp/B0G7HSS6JP?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Doble resistencia 2200W para cocinado uniforme sin zonas frías", "Ventana de visualización — ver el estado sin abrir y perder temperatura", "6L de capacidad para 3-4 personas"],
-      "cons": ["Botones táctiles poco responsivos al primer toque", "Sin app ni conectividad wifi", "Ocupa bastante espacio en la encimera"],
-      "user_summary": "La ventana de visualización es el detalle más elogiado por los compradores — cocinar sin abrir la tapa mantiene la temperatura y ahorra tiempo. A 2200W y 6L, rinde bien para familias medianas. La respuesta de los botones táctiles es el único punto de fricción constante."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Ninja CRISPi Freidora de Aire portátil de Crista",
-      "image": "/images/freidoras-aire/ninja-crispi-freidora-de-aire-portatil-de-crista.jpg",
+      "name": "Ninja CRISPi Freidora de Aire portátil",
+      "image": "/images/freidoras-aire/ninja-crispi-freidora-de-aire-portatil.jpg",
       "price": 129,
       "rating": 4,
-      "reviews": 2562,
+      "reviews": 2589,
       "affiliate_url": "https://www.amazon.es/dp/B0F99JMMC7?tag=rankzon-21",
       "badge": null
     },
@@ -57,38 +48,38 @@
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-sin-aceite-de-8-l-cecof.jpg",
       "price": 59.9,
       "rating": 4,
-      "reviews": 1674,
+      "reviews": 1694,
       "affiliate_url": "https://www.amazon.es/dp/B0BPYX2TGJ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Cosori Air Fryer Dual Blaze Twinfry 10 Litros",
-      "image": "/images/freidoras-aire/cosori-air-fryer-dual-blaze-twinfry-10-litros.jpg",
-      "price": 189.99,
-      "rating": 4,
-      "reviews": 15411,
-      "affiliate_url": "https://www.amazon.es/dp/B0DX6VWNH2?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Moulinex Freidora de Aire Easy Fry XL Surface",
       "image": "/images/freidoras-aire/moulinex-freidora-de-aire-easy-fry-xl-surface.jpg",
       "price": 109.99,
       "rating": 4,
-      "reviews": 1405,
+      "reviews": 1417,
       "affiliate_url": "https://www.amazon.es/dp/B0DGM8MKZB?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "CREATE/AIR FRYER STUDIO CRYSTAL/Freidora sin ace",
-      "image": "/images/freidoras-aire/create-air-fryer-studio-crystal-freidora-sin-ace.jpg",
-      "price": 80.95,
+      "position": 7,
+      "name": "Cosori Air Fryer Dual Blaze Twinfry 10 Litros",
+      "image": "/images/freidoras-aire/cosori-air-fryer-dual-blaze-twinfry-10-litros.jpg",
+      "price": 189.99,
       "rating": 4,
-      "reviews": 148,
-      "affiliate_url": "https://www.amazon.es/dp/B0FNMTCZSL?tag=rankzon-21",
+      "reviews": 15469,
+      "affiliate_url": "https://www.amazon.es/dp/B0DX6VWNH2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "MELLERWARE - Freidora de Aire Crunchy Glass 1450",
+      "image": "/images/freidoras-aire/mellerware-freidora-de-aire-crunchy-glass-1450.jpg",
+      "price": 69.99,
+      "rating": 4,
+      "reviews": 1860,
+      "affiliate_url": "https://www.amazon.es/dp/B0FT1M1N65?tag=rankzon-21",
       "badge": null
     },
     {
@@ -97,18 +88,18 @@
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-8.jpg",
       "price": 74.9,
       "rating": 4,
-      "reviews": 420,
+      "reviews": 428,
       "affiliate_url": "https://www.amazon.es/dp/B0G49H564C?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Cecotec Freidora de Aire sin Aceite 9L Divisible",
-      "image": "/images/freidoras-aire/cecotec-freidora-de-aire-sin-aceite-9l-divisible.jpg",
-      "price": 87.66,
+      "name": "CREATE/AIR FRYER STUDIO CRYSTAL/Freidora sin ace",
+      "image": "/images/freidoras-aire/create-air-fryer-studio-crystal-freidora-sin-ace.jpg",
+      "price": 90.95,
       "rating": 4,
-      "reviews": 1240,
-      "affiliate_url": "https://www.amazon.es/dp/B0DGLBKDDG?tag=rankzon-21",
+      "reviews": 149,
+      "affiliate_url": "https://www.amazon.es/dp/B0FNMTCZSL?tag=rankzon-21",
       "badge": null
     }
   ]

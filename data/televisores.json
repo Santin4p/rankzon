@@ -1,46 +1,26 @@
 {
   "categoria": "televisores",
-  "updated_at": "2026-05-18",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
       "name": "XIAOMI TV F 32",
       "image": "/images/televisores/xiaomi-tv-f-32.jpg",
-      "price": 139,
+      "price": 129,
       "rating": 4,
-      "reviews": 5345,
+      "reviews": 5429,
       "affiliate_url": "https://www.amazon.es/dp/B0F4548TCQ?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Imagen 4K nítida con colores vivos desde el primer encendido",
-        "Fire TV con Alexa integrada: fluido y fácil de usar",
-        "Relación calidad-precio imbatible para su gama"
-      ],
-      "cons": [
-        "Altavoces poco potentes; se recomienda barra de sonido",
-        "Menús algo lentos y configuración poco intuitiva con Fire OS"
-      ],
-      "user_summary": "El televisor más vendido en Amazon España. Los compradores destacan su imagen nítida y la comodidad del Fire TV con Alexa, aunque casi todos coinciden en que el sonido interno es su punto débil y conviene añadir una barra de sonido."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "TD Systems - Smart TV 40 Pulgadas con Tizen OS 8",
-      "image": "/images/televisores/td-systems-smart-tv-40-pulgadas-con-tizen-os-8.jpg",
-      "price": 169.89,
+      "name": "TD Systems - Smart TV 32 Pulgadas con Tizen OS 8",
+      "image": "/images/televisores/td-systems-smart-tv-32-pulgadas-con-tizen-os-8.jpg",
+      "price": 126.89,
       "rating": 4,
-      "reviews": 2269,
-      "affiliate_url": "https://www.amazon.es/dp/B0GQHRLGY8?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Tizen OS con acceso directo a todas las apps de streaming",
-        "Configuración inicial muy sencilla e intuitiva",
-        "Colores vivos y buena nitidez para su rango de precio"
-      ],
-      "cons": [
-        "Sonido muy plano y sin cuerpo; casi obligatorio añadir altavoz externo",
-        "Smart TV algo lento con lag al navegar entre aplicaciones"
-      ],
-      "user_summary": "Opción económica de marca española con un Tizen OS que sorprende por su completud. Los compradores valoran lo fácil que es configurarla y la imagen, pero coinciden en que el sonido interno es muy justo y que el sistema puede ir algo lento."
+      "reviews": 2281,
+      "affiliate_url": "https://www.amazon.es/dp/B0GPD3CS8S?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
@@ -48,38 +28,28 @@
       "image": "/images/televisores/lg-43ua73006la-tv-43.jpg",
       "price": 269,
       "rating": 4,
-      "reviews": 671,
+      "reviews": 676,
       "affiliate_url": "https://www.amazon.es/dp/B0F2GH8L49?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Panel 4K con colores bien calibrados de fábrica sin ajustes",
-        "webOS 25 muy fluido e intuitivo con Super Upscaling para contenido HD",
-        "Sonido Dolby Digital Plus por encima de la media en su gama"
-      ],
-      "cons": [
-        "El mando no incluye teclado numérico, lo que incomoda a algunos usuarios",
-        "Puntualmente se queda colgada al cambiar entre aplicaciones"
-      ],
-      "user_summary": "El LG de la lista es el que más satisface en conjunto. Los compradores destacan que la imagen llega bien calibrada de fábrica, que webOS es el sistema más fluido de los tres y que el sonido supera expectativas para su precio. La queja más repetida es el mando sin números."
+      "badge": null
     },
     {
       "position": 4,
       "name": "Samsung TV 55 Pulgadas QLED QE1F 4K Smart TV con",
       "image": "/images/televisores/samsung-tv-55-pulgadas-qled-qe1f-4k-smart-tv-con.jpg",
-      "price": 389,
+      "price": 399,
       "rating": 4,
-      "reviews": 486,
+      "reviews": 493,
       "affiliate_url": "https://www.amazon.es/dp/B0F2265H4F?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "TCL 55Q6C Televisor 55 Pulgadas QD-Mini LED 4K S",
-      "image": "/images/televisores/tcl-55q6c-televisor-55-pulgadas-qd-mini-led-4k-s.jpg",
-      "price": 499,
+      "name": "TCL 65Q6C Televisor 65 Pulgadas QD-Mini LED 4K S",
+      "image": "/images/televisores/tcl-65q6c-televisor-65-pulgadas-qd-mini-led-4k-s.jpg",
+      "price": 579,
       "rating": 4,
-      "reviews": 982,
-      "affiliate_url": "https://www.amazon.es/dp/B0DX185Q23?tag=rankzon-21",
+      "reviews": 993,
+      "affiliate_url": "https://www.amazon.es/dp/B0DXQ27X44?tag=rankzon-21",
       "badge": null
     },
     {
@@ -88,7 +58,7 @@
       "image": "/images/televisores/samsung-tv-43-pulgadas-crystal-uhd-u8075f-4k-sma.jpg",
       "price": 278.98,
       "rating": 4,
-      "reviews": 298,
+      "reviews": 304,
       "affiliate_url": "https://www.amazon.es/dp/B0F9Q1YQSQ?tag=rankzon-21",
       "badge": null
     },
@@ -98,38 +68,38 @@
       "image": "/images/televisores/tcl-50v6c-televisor-50-pulgadas-4k-smart-tv-led.jpg",
       "price": 319,
       "rating": 4,
-      "reviews": 2726,
+      "reviews": 2751,
       "affiliate_url": "https://www.amazon.es/dp/B0DV9JL61N?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Hisense 50E7Q - QLED Smart TV 50 Pulgadas",
-      "image": "/images/televisores/hisense-50e7q-qled-smart-tv-50-pulgadas.jpg",
-      "price": 319,
-      "rating": 4,
-      "reviews": 962,
-      "affiliate_url": "https://www.amazon.es/dp/B0F1MQRCGF?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Telefunken 40FTV825",
       "image": "/images/televisores/telefunken-40ftv825.jpg",
       "price": 159.99,
       "rating": 4,
-      "reviews": 40,
+      "reviews": 42,
       "affiliate_url": "https://www.amazon.es/dp/B0FRKCV56V?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "Metz TV 32 Pulgadas Smart TV",
-      "image": "/images/televisores/metz-tv-32-pulgadas-smart-tv.jpg",
-      "price": 134.99,
+      "position": 9,
+      "name": "Hisense 50E7Q - QLED Smart TV 50 Pulgadas",
+      "image": "/images/televisores/hisense-50e7q-qled-smart-tv-50-pulgadas.jpg",
+      "price": 319,
       "rating": 4,
-      "reviews": 2003,
-      "affiliate_url": "https://www.amazon.es/dp/B0FDW68FQ3?tag=rankzon-21",
+      "reviews": 979,
+      "affiliate_url": "https://www.amazon.es/dp/B0F1MQRCGF?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Samsung TV 65 Pulgadas Neo QLED QN74F 4K Mini LE",
+      "image": "/images/televisores/samsung-tv-65-pulgadas-neo-qled-qn74f-4k-mini-le.jpg",
+      "price": 639,
+      "rating": 4,
+      "reviews": 11,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2FLB4ZX?tag=rankzon-21",
       "badge": null
     }
   ]

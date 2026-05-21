@@ -1,50 +1,26 @@
 {
   "categoria": "ollas-programables",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
       "name": "Crockpot Olla de Cocción Lenta Digital 7",
       "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-digital-7.jpg",
-      "price": 63.2,
+      "price": 54.5,
       "rating": 4,
-      "reviews": 2175,
+      "reviews": 2179,
       "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Muy versátil: guisos, caldos, sous vide, repostería y más",
-        "Consumo energético muy bajo durante la cocción",
-        "Funciona sin ruido ni necesidad de vigilancia constante",
-        "Cubeta apta para horno y lavavajillas",
-        "Gran capacidad (7,5L): ideal para familias numerosas"
-      ],
-      "cons": [
-        "Calidad de materiales inferior a modelos anteriores de la marca",
-        "Servicio técnico reportado como muy deficiente por usuarios"
-      ],
-      "user_summary": "Los compradores valoran su versatilidad y bajo consumo, destacando que los guisos salen con sabor excepcional sin esfuerzo. El principal punto negativo es la bajada de calidad en materiales respecto a versiones antiguas y un servicio postventa que deja bastante que desear."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "Crockpot Olla de Cocción Lenta | 4.7 Litros (has",
       "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-4-7-litros-has.jpg",
-      "price": 49.95,
+      "price": 56.8,
       "rating": 4,
-      "reviews": 13548,
+      "reviews": 13547,
       "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Sabor de los guisos muy superior a métodos tradicionales",
-        "Consumo eléctrico bajísimo (180-210W frente a 1800W habituales)",
-        "Cubeta de cerámica antiadherente, fácil de limpiar",
-        "Función warm mantiene la comida caliente sin pasarse",
-        "Sin ruido ni vapor en la cocina durante la cocción"
-      ],
-      "cons": [
-        "No se apaga sola: requiere programador externo para automatizar",
-        "Algunas unidades antiguas con problemas de temperatura en la carcasa"
-      ],
-      "user_summary": "Con más de 13.000 valoraciones es el modelo más consolidado del mercado. Los usuarios repiten compra y destacan el ahorro energético y los sabores intensos. El único inconveniente real es que no incluye temporizador de inicio, por lo que muchos compran un programador de enchufe adicional."
+      "badge": null
     },
     {
       "position": 3,
@@ -54,88 +30,76 @@
       "rating": 4,
       "reviews": 35,
       "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Programable hasta 24 horas con pantalla LCD clara",
-        "Dos temperaturas ajustables y función keep warm incluida",
-        "Vasija cerámica oval apta para horno",
-        "Incluye espátula de silicona en el pack",
-        "Muy buena relación calidad-precio según compradores"
-      ],
-      "cons": [
-        "Producto reciente con pocos compradores: durabilidad aún por confirmar",
-        "Algún caso aislado de grieta en la vasija cerámica con el uso"
-      ],
-      "user_summary": "Modelo recién llegado con valoraciones muy positivas (4,8★ sobre 35 reseñas). Los compradores destacan su facilidad de uso, la opción de temperatura alta para pochar y el precio ajustado. La poca antigüedad en el mercado genera cierta incertidumbre sobre su durabilidad a largo plazo."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Swan Retro SF17021CNEU Olla Cocción Lenta 3",
-      "image": "/images/ollas-programables/swan-retro-sf17021cneu-olla-coccion-lenta-3.jpg",
-      "price": 44.48,
-      "rating": 4,
-      "reviews": 820,
-      "affiliate_url": "https://www.amazon.es/dp/B0BN94D5GD?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Russell Hobbs Olla de Cocción Lenta Sous Vide",
-      "image": "/images/ollas-programables/russell-hobbs-olla-de-coccion-lenta-sous-vide.jpg",
-      "price": 92.39,
-      "rating": 4,
-      "reviews": 1651,
-      "affiliate_url": "https://www.amazon.es/dp/B07VZYRX1R?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Swan Retro SF17031YELNEU Olla Cocción Lenta 6",
-      "image": "/images/ollas-programables/swan-retro-sf17031yelneu-olla-coccion-lenta-6.jpg",
-      "price": 56.47,
-      "rating": 4,
-      "reviews": 479,
-      "affiliate_url": "https://www.amazon.es/dp/B0BM4PJCHJ?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
-      "name": "Olvy Slow Cooker 6L - Olla interior de cerámica",
-      "image": "/images/ollas-programables/olvy-slow-cooker-6l-olla-interior-de-ceramica.jpg",
-      "price": 39.99,
-      "rating": 4,
-      "reviews": 6,
-      "affiliate_url": "https://www.amazon.es/dp/B0GWQRSG1P?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
       "name": "Crock-Pot Turbo Express olla a presión y olla mu",
       "image": "/images/ollas-programables/crock-pot-turbo-express-olla-a-presion-y-olla-mu.jpg",
-      "price": 135,
+      "price": 172,
       "rating": 4,
-      "reviews": 1506,
+      "reviews": 1507,
       "affiliate_url": "https://www.amazon.es/dp/B09CZ41892?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "Russell Hobbs Olla de Cocción Lenta Cook@Home",
-      "image": "/images/ollas-programables/russell-hobbs-olla-de-coccion-lenta-cook-home.jpg",
-      "price": 48,
+      "position": 5,
+      "name": "Instant Pot Pro Crisp 11 en 1 Olla Eléctrica a P",
+      "image": "/images/ollas-programables/instant-pot-pro-crisp-11-en-1-olla-electrica-a-p.jpg",
+      "price": 299.99,
       "rating": 4,
-      "reviews": 2959,
-      "affiliate_url": "https://www.amazon.es/dp/B019DWKF0A?tag=rankzon-21",
+      "reviews": 645,
+      "affiliate_url": "https://www.amazon.es/dp/B08XC72JT5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Olvy Slow Cooker 6L - Olla interior de cerámica",
+      "image": "/images/ollas-programables/olvy-slow-cooker-6l-olla-interior-de-ceramica.jpg",
+      "price": 39.99,
+      "rating": 4,
+      "reviews": 9,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWQRSG1P?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Russell Hobbs Good To Go Multi Cooker - Capacida",
+      "image": "/images/ollas-programables/russell-hobbs-good-to-go-multi-cooker-capacida.jpg",
+      "price": 57.84,
+      "rating": 4,
+      "reviews": 662,
+      "affiliate_url": "https://www.amazon.es/dp/B098FFX67J?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Bestron Slowcooker para 2 personas",
+      "image": "/images/ollas-programables/bestron-slowcooker-para-2-personas.jpg",
+      "price": 26.99,
+      "rating": 3,
+      "reviews": 50,
+      "affiliate_url": "https://www.amazon.es/dp/B0CRL2RCFG?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Swan Retro SF17021YELNEU Olla Cocción Lenta 3",
+      "image": "/images/ollas-programables/swan-retro-sf17021yelneu-olla-coccion-lenta-3.jpg",
+      "price": 44.48,
+      "rating": 4,
+      "reviews": 822,
+      "affiliate_url": "https://www.amazon.es/dp/B0BN93VLYR?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Crock-Pot Olla digital de cocción lenta | 3",
-      "image": "/images/ollas-programables/crock-pot-olla-digital-de-coccion-lenta-3.jpg",
-      "price": 76.26,
+      "name": "Elite Gourmet MST-900RXT Olla eléctrica de cerám",
+      "image": "/images/ollas-programables/elite-gourmet-mst-900rxt-olla-electrica-de-ceram.jpg",
+      "price": 45.99,
       "rating": 4,
-      "reviews": 86,
-      "affiliate_url": "https://www.amazon.es/dp/B0D6R413D3?tag=rankzon-21",
+      "reviews": 97,
+      "affiliate_url": "https://www.amazon.es/dp/B0BGJN7M2N?tag=rankzon-21",
       "badge": null
     }
   ]

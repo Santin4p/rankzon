@@ -1,135 +1,105 @@
 {
   "categoria": "monitores",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
-      "name": "Philips 27E1N1100A Monitor 27 Pulgadas FHD",
-      "image": "/images/monitores/philips-27e1n1100a-monitor-27-pulgadas-fhd.jpg",
-      "price": 89.9,
+      "name": "Philips 24E1N1100A Monitor 23.8 Pulgadas FHD",
+      "image": "/images/monitores/philips-24e1n1100a-monitor-23-8-pulgadas-fhd.jpg",
+      "price": 74,
       "rating": 4,
-      "reviews": 1049,
-      "affiliate_url": "https://www.amazon.es/dp/B0CX9CVS9Q?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Panel IPS 27\" Full HD con 100 Hz: fluido para trabajo y gaming casual",
-        "1 ms MPRT y Adaptive Sync eliminan el ghosting en acción",
-        "Incluye altavoces integrados y variedad de puertos (HDMI, DisplayPort, VGA)"
-      ],
-      "cons": [
-        "Sin regulación de altura ni pivote; solo inclinación básica",
-        "Brillo máximo moderado (250 nits), no ideal para entornos muy iluminados"
-      ],
-      "user_summary": "El monitor más vendido en su categoría en Amazon España, respaldado por más de 1.000 valoraciones. Basado en especificaciones del fabricante: panel IPS Philips E-line, 100 Hz, 1 ms MPRT, Adaptive Sync y certificación TÜV Eye Comfort. Una opción sólida y versátil para quienes buscan un 27\" FHD sin pagar de más."
+      "reviews": 1518,
+      "affiliate_url": "https://www.amazon.es/dp/B0CX9CT3ZF?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "LG 24G411A-B - Monitor Gaming Ultragear 23",
-      "image": "/images/monitores/lg-24g411a-b-monitor-gaming-ultragear-23.jpg",
-      "price": 79,
-      "rating": 4,
-      "reviews": 68,
-      "affiliate_url": "https://www.amazon.es/dp/B0FL32LSR5?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Panel IPS 144 Hz con compatibilidad G-Sync y FreeSync Premium simultánea",
-        "Excelente relación calidad-precio: gaming fluido por menos de 80 €",
-        "Válido también para diseño y trabajo gracias a la fidelidad de color IPS"
-      ],
-      "cons": [
-        "La variante de 24\" no permite ajuste de altura, solo inclinación",
-        "El soporte ocupa bastante espacio en el escritorio"
-      ],
-      "user_summary": "Según los compradores, el LG Ultragear 24G411A ofrece una calidad inesperada para su precio. Destacan la fluidez de los 144 Hz y los colores precisos del IPS, que lo hacen tan útil para el trabajo como para el gaming. El único punto débil señalado es la falta de regulación de altura en esta versión de 24 pulgadas."
-    },
-    {
-      "position": 3,
-      "name": "Yodoit Monitor Portátil Pantalla Portatil de 15",
-      "image": "/images/monitores/yodoit-monitor-portatil-pantalla-portatil-de-15.jpg",
-      "price": 69.99,
-      "rating": 4,
-      "reviews": 4847,
-      "affiliate_url": "https://www.amazon.es/dp/B0BYJ79PHH?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Pantalla IPS Full HD con colores vivos y visión angular amplia",
-        "Compatible con MacBook, Switch, PS5 y Xbox vía USB-C o mini-HDMI",
-        "Muy ligero y delgado, ideal para trabajar desde cualquier lugar"
-      ],
-      "cons": [
-        "La funda-soporte es incómoda y no permite ajustar bien el ángulo",
-        "No incluye adaptadores; algunos cables deben comprarse aparte"
-      ],
-      "user_summary": "Con casi 5.000 reseñas, el Yodoit es el monitor portátil de referencia en Amazon España. Los compradores elogian la calidad de imagen IPS y la versatilidad de conexión: funciona con portátiles, consolas de sobremesa y Switch sin necesidad de configuración. La queja más repetida es el soporte incluido, que cumple pero podría ser más estable."
-    },
-    {
-      "position": 4,
-      "name": "LG 32MR50C-B - Monitor Curvo 32\"",
-      "image": "/images/monitores/lg-32mr50c-b-monitor-curvo-32.jpg",
-      "price": 139,
-      "rating": 4,
-      "reviews": 1184,
-      "affiliate_url": "https://www.amazon.es/dp/B0CKRVB58D?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "MSI Pro MP252 Monitor Profesional Full HD de 24",
-      "image": "/images/monitores/msi-pro-mp252-monitor-profesional-full-hd-de-24.jpg",
-      "price": 79,
-      "rating": 4,
-      "reviews": 925,
-      "affiliate_url": "https://www.amazon.es/dp/B0CS3SS1Q3?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "MSI mag 27C6F Monitor Curvo Gaming FHD de 27\"",
-      "image": "/images/monitores/msi-mag-27c6f-monitor-curvo-gaming-fhd-de-27.jpg",
-      "price": 104,
-      "rating": 4,
-      "reviews": 1350,
-      "affiliate_url": "https://www.amazon.es/dp/B0CS3W1DMF?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "ASUS VY249HGR - Monitor Eye Care Gaming de 23",
       "image": "/images/monitores/asus-vy249hgr-monitor-eye-care-gaming-de-23.jpg",
       "price": 78.95,
       "rating": 4,
-      "reviews": 1009,
+      "reviews": 1026,
       "affiliate_url": "https://www.amazon.es/dp/B0DN6NHW6F?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "ARZOPA Monitor portátil",
-      "image": "/images/monitores/arzopa-monitor-portatil.jpg",
-      "price": 85.99,
+      "position": 3,
+      "name": "LG 24G411A-B - Monitor Gaming Ultragear 23",
+      "image": "/images/monitores/lg-24g411a-b-monitor-gaming-ultragear-23.jpg",
+      "price": 78.42,
       "rating": 4,
-      "reviews": 11889,
-      "affiliate_url": "https://www.amazon.es/dp/B0CJCCDV65?tag=rankzon-21",
+      "reviews": 71,
+      "affiliate_url": "https://www.amazon.es/dp/B0FL32LSR5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "MSI Pro MP242L Monitor de 23",
+      "image": "/images/monitores/msi-pro-mp242l-monitor-de-23.jpg",
+      "price": 69,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0DQDQWS8J?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "LG 32MR50C-B - Monitor Curvo 32\"",
+      "image": "/images/monitores/lg-32mr50c-b-monitor-curvo-32.jpg",
+      "price": 139,
+      "rating": 4,
+      "reviews": 1189,
+      "affiliate_url": "https://www.amazon.es/dp/B0CKRVB58D?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Yodoit Monitor Portátil Pantalla Portatil de 15",
+      "image": "/images/monitores/yodoit-monitor-portatil-pantalla-portatil-de-15.jpg",
+      "price": 69.99,
+      "rating": 4,
+      "reviews": 4367,
+      "affiliate_url": "https://www.amazon.es/dp/B0BYJ79PHH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "ASUS VY279HGR - Monitor Eye Care Gaming de 27\" F",
+      "image": "/images/monitores/asus-vy279hgr-monitor-eye-care-gaming-de-27-f.jpg",
+      "price": 99,
+      "rating": 4,
+      "reviews": 828,
+      "affiliate_url": "https://www.amazon.es/dp/B0DJTDVCVT?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Amazon Basics Monitor de Ordenador de 68",
+      "image": "/images/monitores/amazon-basics-monitor-de-ordenador-de-68.jpg",
+      "price": 89.9,
+      "rating": 4,
+      "reviews": 142,
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ5W17HN?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "LG 34WR50QK-B - Monitor UltraWide Curvo",
-      "image": "/images/monitores/lg-34wr50qk-b-monitor-ultrawide-curvo.jpg",
-      "price": 245.79,
+      "name": "ARZOPA Monitor portátil",
+      "image": "/images/monitores/arzopa-monitor-portatil.jpg",
+      "price": 85.99,
       "rating": 4,
-      "reviews": 434,
-      "affiliate_url": "https://www.amazon.es/dp/B0DGLVL1GY?tag=rankzon-21",
+      "reviews": 11901,
+      "affiliate_url": "https://www.amazon.es/dp/B0CJCCDV65?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "AOC Q27G42XE Gaming Monitor 27 Pulgadas",
-      "image": "/images/monitores/aoc-q27g42xe-gaming-monitor-27-pulgadas.jpg",
-      "price": 139.9,
+      "name": "MSI mag 27C6F Monitor Curvo Gaming FHD de 27\"",
+      "image": "/images/monitores/msi-mag-27c6f-monitor-curvo-gaming-fhd-de-27.jpg",
+      "price": 104,
       "rating": 4,
-      "reviews": 149,
-      "affiliate_url": "https://www.amazon.es/dp/B0DT4R1N9N?tag=rankzon-21",
+      "reviews": 1358,
+      "affiliate_url": "https://www.amazon.es/dp/B0CS3W1DMF?tag=rankzon-21",
       "badge": null
     }
   ]

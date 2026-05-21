@@ -138,5 +138,25 @@
   "planchas-pelo": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/27064681031",
     "name": "Planchas de Pelo"
+  },
+  "cuidado-piel": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/6397934031",
+    "name": "Cuidado de Piel"
+  },
+  "maquillaje": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/6397823031",
+    "name": "Maquillaje"
+  },
+  "cuidado-pelo": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/4347698031",
+    "name": "Cuidado de Pelo"
+  },
+  "equipamiento-fitness": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928495031",
+    "name": "Equipamiento de Fitness"
+  },
+  "padel": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928518031",
+    "name": "Pádel"
   }
 }

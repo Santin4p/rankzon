@@ -1,0 +1,115 @@
+{
+  "categoria": "maquillaje",
+  "updated_at": "2026-05-21",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Maybelline New York",
+      "image": "/images/maquillaje/maybelline-new-york.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 29234,
+      "affiliate_url": "https://www.amazon.es/dp/B00KLXFUW4?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Precio muy asequible para la marca", "Cobertura natural de larga duración", "Fórmula probada con miles de compradoras"],
+      "cons": ["Gama de tonos limitada en Amazon", "Puede oxidarse en pieles grasas", "Envase no muy higiénico sin espátula"],
+      "user_summary": "Los compradores destacan la relación calidad-precio como el gran argumento de esta referencia de Maybelline. La mayoría lo considera un básico imprescindible en su rutina de maquillaje diario por su cobertura natural y durabilidad."
+    },
+    {
+      "position": 2,
+      "name": "L'Oréal Paris Spray Fijador de Maquillaje Infail",
+      "image": "/images/maquillaje/l-oreal-paris-spray-fijador-de-maquillaje-infail.jpg",
+      "price": 9.17,
+      "rating": 4,
+      "reviews": 7447,
+      "affiliate_url": "https://www.amazon.es/dp/B0CNQ4DJRV?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Fija el maquillaje hasta 24 horas", "Textura invisible al secar", "Ideal para días de calor o actividad"],
+      "cons": ["Olor a alcohol en aplicación", "Bote se vacía con uso intensivo", "Puede resecar pieles muy secas"],
+      "user_summary": "La mayoría de usuarias confirman que prolonga de forma notable la duración del maquillaje en todo tipo de condiciones. Los compradores lo usan especialmente en eventos, días de calor o jornadas largas."
+    },
+    {
+      "position": 3,
+      "name": "Erborian - CC Crème con Centella Asiática - Crem",
+      "image": "/images/maquillaje/erborian-cc-creme-con-centella-asiatica-crem.jpg",
+      "price": 18.99,
+      "rating": 4,
+      "reviews": 7915,
+      "affiliate_url": "https://www.amazon.es/dp/B0FHBJXX9M?tag=rankzon-21",
+      "badge": null,
+      "pros": ["SPF incorporado con centella asiática calmante", "Unifica el tono sin apelmazar", "Apto piel sensible y con rojeces"],
+      "cons": ["Cobertura media, no oculta imperfecciones", "Gama de tonos reducida", "Precio más elevado que una BB cream convencional"],
+      "user_summary": "Los compradores valoran el acabado natural y el efecto calmante de la centella asiática en pieles sensibles o con rojeces. La mayoría lo usa como alternativa ligera al fondo de maquillaje para el día a día."
+    },
+    {
+      "position": 4,
+      "name": "L'Oréal Paris Máscara de pestañas Panorama",
+      "image": "/images/maquillaje/l-oreal-paris-mascara-de-pestanas-panorama.jpg",
+      "price": 10.06,
+      "rating": 4,
+      "reviews": 11475,
+      "affiliate_url": "https://www.amazon.es/dp/B0CJ5GW8RY?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Rimmel London Scandaleyes Reloaded Máscara de Pe",
+      "image": "/images/maquillaje/rimmel-london-scandaleyes-reloaded-mascara-de-pe.jpg",
+      "price": 7.45,
+      "rating": 4,
+      "reviews": 7557,
+      "affiliate_url": "https://www.amazon.es/dp/B01J1A1KNK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Erborian - CC Red Correct Crema Tinte Antirojece",
+      "image": "/images/maquillaje/erborian-cc-red-correct-crema-tinte-antirojece.jpg",
+      "price": 16.99,
+      "rating": 4,
+      "reviews": 8374,
+      "affiliate_url": "https://www.amazon.es/dp/B07LGCGG6R?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Rimmel London Scandaleyes Waterproof Khol Kajal",
+      "image": "/images/maquillaje/rimmel-london-scandaleyes-waterproof-khol-kajal.jpg",
+      "price": 3.6,
+      "rating": 4,
+      "reviews": 9944,
+      "affiliate_url": "https://www.amazon.es/dp/B0742CVQW4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Maybelline New York Superstay Vinyl Ink",
+      "image": "/images/maquillaje/maybelline-new-york-superstay-vinyl-ink.jpg",
+      "price": 11.14,
+      "rating": 4,
+      "reviews": 30331,
+      "affiliate_url": "https://www.amazon.es/dp/B09NQH1P4S?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Rimmel London",
+      "image": "/images/maquillaje/rimmel-london.jpg",
+      "price": 6.5,
+      "rating": 4,
+      "reviews": 5081,
+      "affiliate_url": "https://www.amazon.es/dp/B0C7N36SRY?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "KIKO Milano Smart Fusion Lipstick 405",
+      "image": "/images/maquillaje/kiko-milano-smart-fusion-lipstick-405.jpg",
+      "price": 4.99,
+      "rating": 4,
+      "reviews": 12285,
+      "affiliate_url": "https://www.amazon.es/dp/B0DB8RKMF4?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

@@ -34,6 +34,12 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - [Las 10 Mejores Afeitadoras Eléctricas de Amazon en 2026](https://rankzon.es/mejores/belleza/afeitadoras-electricas): Top 10 afeitadoras eléctricas y recortadoras de barba más vendidas en Amazon España.
 - [Los 10 Mejores Secadores de Pelo de Amazon en 2026](https://rankzon.es/mejores/belleza/secadores-pelo): Top 10 secadores de pelo más vendidos en Amazon España.
 - [Las 10 Mejores Planchas de Pelo de Amazon en 2026](https://rankzon.es/mejores/belleza/planchas-pelo): Top 10 planchas de pelo y rizadores más vendidos en Amazon España.
+- [Los 10 Mejores Productos de Cuidado de Piel de Amazon en 2026](https://rankzon.es/mejores/belleza/cuidado-piel): Top 10 serums, cremas y productos de skincare más vendidos en Amazon España.
+- [Los 10 Mejores Productos de Maquillaje de Amazon en 2026](https://rankzon.es/mejores/belleza/maquillaje): Top 10 productos de maquillaje más vendidos en Amazon España.
+- [Los 10 Mejores Productos de Cuidado de Pelo de Amazon en 2026](https://rankzon.es/mejores/belleza/cuidado-pelo): Top 10 champús, acondicionadores y tratamientos capilares más vendidos en Amazon España.
+
+### Deporte
+- [Los 10 Mejores Productos de Pádel de Amazon en 2026](https://rankzon.es/mejores/deporte/padel): Top 10 palas, pelotas y accesorios de pádel más vendidos en Amazon España.
 
 ### Gaming
 - [Los 10 Mejores Mandos Gaming de Amazon en 2026](https://rankzon.es/mejores/gaming/mandos-gaming): Top 10 mandos gaming para PC más vendidos en Amazon España.
@@ -62,6 +68,11 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - [Cómo Elegir Afeitadora Eléctrica](https://rankzon.es/guias/como-elegir-afeitadora-electrica): Rotativas vs láminas, húmedo vs seco y autonomía.
 - [Cómo Elegir Secador de Pelo](https://rankzon.es/guias/como-elegir-secador-pelo): Potencia, motor CA vs CC y tecnología iónica.
 - [Cómo Elegir Plancha de Pelo](https://rankzon.es/guias/como-elegir-plancha-pelo): Placas de cerámica vs titanio, temperatura variable y tamaño.
+- [Cómo Elegir Smartwatch](https://rankzon.es/guias/como-elegir-smartwatch): Compatibilidad con móvil, autonomía, sensores de salud y GPS.
+- [Cómo Elegir Tablet](https://rankzon.es/guias/como-elegir-tablet): iPad vs Android vs Windows, stylus, tamaño y almacenamiento.
+- [Cómo Elegir Cafetera](https://rankzon.es/guias/como-elegir-cafetera): Cápsulas vs espresso, presión, vaporizador y coste por café.
+- [Cómo Elegir Productos de Cuidado de Piel](https://rankzon.es/guias/como-elegir-cuidado-piel): Ingredientes activos, rutina y qué funciona de verdad.
+- [Cómo Elegir Pala de Pádel](https://rankzon.es/guias/como-elegir-padel): Forma, materiales, peso y qué pala evita lesiones.
 
 ## Sobre el sitio
 
@@ -74,4 +85,4 @@ Rankzon es un sitio web español de rankings de productos. Los rankings muestran
 - Los precios mostrados corresponden a la fecha de última actualización y pueden variar.
 - Los links de compra son enlaces del programa de afiliados de Amazon España (tag: rankzon-21).
 - Mercado exclusivo: España (amazon.es). Precios en EUR.
-- Secciones activas: tecnologia (12 categorías), electrodomesticos (8 categorías), belleza (3 categorías), gaming (8 categorías), videojuegos (4 categorías).
+- Secciones activas: tecnologia (12 categorías), electrodomesticos (8 categorías), belleza (6 categorías), gaming (8 categorías), videojuegos (4 categorías), deporte (1 categoría). Total: 39 categorías, 14 guías de compra.

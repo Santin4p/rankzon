@@ -467,6 +467,245 @@ export const guides: Guide[] = [
   },
 ]
 
+  {
+    slug: "como-elegir-smartwatch",
+    title: "Cómo Elegir Smartwatch: Guía de Compra 2026",
+    shortTitle: "Smartwatches",
+    description:
+      "Sistema operativo, autonomía, sensores de salud y compatibilidad con tu móvil. Guía para elegir el smartwatch que realmente uses cada día.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "tecnologia",
+    categorySlug: "smartwatches",
+    categoryName: "Smartwatches",
+    intro:
+      "Un smartwatch solo vale la pena si lo llevas puesto todos los días. El error más común es comprar por las especificaciones del papel sin pensar en la compatibilidad con tu móvil o en si vas a cargar el reloj cada noche. Esta guía va a lo práctico.",
+    sections: [
+      {
+        heading: "Compatibilidad con tu móvil: el filtro más importante",
+        body: "El Apple Watch solo funciona bien con iPhone. Los relojes con Wear OS (Google, Samsung Galaxy Watch) funcionan con Android y tienen compatibilidad limitada con iOS. Los smartwatches de Xiaomi, Huawei, Garmin y similares son multiplataforma pero con funciones reducidas en iOS. Antes de mirar specs, decide si tienes iPhone o Android: eso elimina la mitad de las opciones.",
+        list: [
+          "iPhone: Apple Watch o cualquier smartwatch básico (Garmin, Amazfit) con funciones limitadas",
+          "Android: Samsung Galaxy Watch, Pixel Watch, Garmin o Xiaomi con app completa",
+          "Multiplataforma: Garmin y Amazfit dan la experiencia más coherente en ambos sistemas",
+        ],
+      },
+      {
+        heading: "Pantalla: AMOLED vs LCD y tamaño",
+        body: "Los paneles AMOLED tienen negros absolutos, colores vivos y son legibles con Always-On Display consumiendo muy poca batería. Los LCD son más baratos y brillantes en exteriores, pero Always-On consume más. Para lectura rápida de la hora y notificaciones en plena luz, el brillo pico importa más que el tipo de panel. En tamaño, 40-42 mm es cómodo para muñecas pequeñas; 44-46 mm da más espacio de pantalla sin ser excesivo.",
+      },
+      {
+        heading: "Sensores de salud: cuáles son útiles y cuáles son marketing",
+        body: "El monitor de frecuencia cardíaca óptico es estándar y útil para ejercicio y zonas de pulsaciones. El SpO2 (saturación de oxígeno) es útil para detectar apnea del sueño y altitud; muchos modelos lo incluyen. El ECG (electrocardiograma) detecta fibrilación auricular y solo está en Apple Watch Series 4+ y Samsung Galaxy Watch 4+: tiene valor real si tienes historial cardíaco. La temperatura cutánea y el glucómetro sin aguja existen en gamas altas pero son indicativos, no médicos.",
+        list: [
+          "Frecuencia cardíaca: en todos los modelos, útil para deporte",
+          "SpO2: en gama media y alta, útil para sueño y altitud",
+          "ECG: Apple Watch y Samsung Galaxy Watch, valor médico real",
+          "Glucosa/temperatura: indicativo, no diagnóstico",
+        ],
+      },
+      {
+        heading: "Autonomía: el gran diferenciador entre marcas",
+        body: "El Apple Watch dura 18-36 horas según el uso; hay que cargarlo cada noche. Los Samsung Galaxy Watch duran 1-2 días. Los Xiaomi Redmi Watch y Amazfit llegan a 7-15 días con uso normal. Los Garmin de deporte pueden superar los 20 días. Si dormir con el reloj para monitorizar el sueño es prioritario para ti, necesitas mínimo 3-4 días de autonomía. Si no te importa cargarlo a diario, el Apple Watch o Galaxy Watch ofrecen mejor experiencia general.",
+      },
+      {
+        heading: "GPS integrado vs GPS conectado",
+        body: "El GPS integrado permite salir a correr o en bici sin llevar el móvil encima y registrar la ruta. El GPS conectado usa el GPS del móvil: funciona bien si siempre llevas el teléfono, pero falla si no. Para running, ciclismo o senderismo, el GPS integrado es imprescindible. Para uso diario sin deporte intensivo, el GPS conectado es suficiente y alarga la autonomía.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 60 €: pantalla básica, podómetro, SpO2; cumple para quien empieza. Entre 60 y 150 €: AMOLED, GPS integrado, autonomía decente, app completa; el mejor punto calidad/precio (Amazfit GTR, Xiaomi Smart Band 8 Pro). Entre 150 y 300 €: Samsung Galaxy Watch, Garmin Forerunner; experiencia completa, sensores fiables. Más de 300 €: Apple Watch Ultra, Garmin Fenix; durabilidad extrema, GPS multibanda, deportes de élite.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-tablet",
+    title: "Cómo Elegir Tablet: Guía de Compra 2026",
+    shortTitle: "Tablets",
+    description:
+      "iPad vs Android vs Windows, tamaño de pantalla, compatibilidad con stylus y almacenamiento. Todo para elegir la tablet que encaja con tu uso real.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "tecnologia",
+    categorySlug: "tablets",
+    categoryName: "Tablets",
+    intro:
+      "Una tablet es el dispositivo más difícil de justificar si ya tienes un móvil y un portátil. La clave está en el uso específico: multimedia, dibujo digital, lectura, tomar apuntes o reemplazar el portátil. Comprar sin tener claro ese uso es garantía de que acabe en un cajón.",
+    sections: [
+      {
+        heading: "Define el uso antes de elegir el sistema operativo",
+        body: "iPadOS (Apple) tiene el mejor ecosistema de apps para dibujo, música y productividad creativa; Apple Pencil es el stylus más preciso del mercado. Android (Samsung, Xiaomi, Lenovo) tiene mayor variedad de precio y más libertad de personalización; Samsung DeX convierte la tablet en escritorio. Windows (Surface, Lenovo IdeaPad Duet) es la única que corre software de escritorio nativo como Office completo, AutoCAD o Lightroom; ideal para quien necesita herramientas de PC en formato tablet.",
+        list: [
+          "Dibujo/creativo: iPad + Apple Pencil, sin rival",
+          "Multimedia y uso general: Android de gama media es suficiente",
+          "Productividad/Office completo: Windows o iPad con app",
+          "Lectura exclusiva: un lector eBook es mejor opción",
+        ],
+      },
+      {
+        heading: "Tamaño: cuál se adapta a tu uso",
+        body: "Las tablets de 8-9 pulgadas son las más cómodas para leer con una mano y transportar. Las de 10-11 pulgadas son el estándar para uso mixto: vídeo, navegación, apuntes. Las de 12-13 pulgadas se acercan a un portátil: ideales para dibujo o trabajo con teclado. Más de 13 pulgadas se usan principalmente sobre una superficie y compiten directamente con un portátil ligero.",
+      },
+      {
+        heading: "Pantalla: resolución, brillo y tecnología",
+        body: "Para lectura y multimedia, 2K (2560×1600) en 10-11 pulgadas ya es excelente. Los paneles OLED (iPad Pro, Samsung Tab S Ultra) dan negros perfectos y mayor contraste para películas y dibujo. La tasa de refresco de 120 Hz hace el scroll y el stylus notablemente más fluidos; ya está disponible en gamas medias. El brillo en exteriores (600+ nits) importa si la usas en la terraza o en el coche.",
+      },
+      {
+        heading: "Stylus: compatibilidad y precisión",
+        body: "Si quieres tomar apuntes o dibujar, el stylus es prioritario. El Apple Pencil (1ª gen para iPad básico, 2ª gen y Pro para iPad Air/Pro) tiene la menor latencia del mercado y presión precisa. El Samsung S Pen integrado en los Tab S funciona igual de bien y no hay que comprarlo aparte. Los stylus genéricos compatibles con Android cuestan menos pero tienen mayor latencia. Comprueba siempre que el stylus que te interesa es compatible con el modelo específico de tablet.",
+      },
+      {
+        heading: "Almacenamiento y RAM: qué necesitas en la práctica",
+        body: "64 GB es el mínimo y se llena rápido con apps, vídeos y documentos. 128 GB es el punto dulce para uso general. Si grabas vídeo, almacenas muchos archivos o instalas juegos grandes, ve directamente a 256 GB. La RAM importa menos en tablets que en portátiles porque los sistemas operativos la gestionan mejor; 4 GB es suficiente para uso básico, 6-8 GB para multitarea y apps pesadas.",
+      },
+      {
+        heading: "Conectividad: WiFi vs WiFi + 4G/5G",
+        body: "Las versiones WiFi son suficientes si usas la tablet en casa, en la oficina o en lugares con red disponible. La versión con datos móviles solo merece la pena si la usas fuera de casa de forma habitual sin móvil cerca o si quieres conectividad autónoma. El sobrecoste es de 100-150 € según el modelo y requiere una segunda SIM. Valorar si no sale más barato compartir datos desde el móvil.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 150 €: Lenovo Tab M10, Amazon Fire; multimedia básico, no para productividad. Entre 150 y 350 €: Samsung Tab A9+, Xiaomi Pad 6; pantalla decente, uso general fluido. Entre 350 y 600 €: iPad básico/Air, Samsung Tab S9 FE; aquí está el punto dulce con Apple Pencil o S Pen. Más de 600 €: iPad Pro/Air Pro, Samsung Tab S9 Ultra; productividad profesional, OLED, chip de alto rendimiento.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-cafetera",
+    title: "Cómo Elegir Cafetera: Guía de Compra 2026",
+    shortTitle: "Cafeteras",
+    description:
+      "Cápsulas Nespresso o Dolce Gusto, espresso con depósito, cafetera de goteo o superautomática. Guía para elegir la cafetera que encaja con tu rutina.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "electrodomesticos",
+    categorySlug: "cafeteras",
+    categoryName: "Cafeteras",
+    intro:
+      "El mercado de cafeteras tiene más opciones que nunca y cada tipo produce un café diferente. Antes de decidir, lo más importante es qué tipo de café te gusta y cuánto estás dispuesto a invertir en cápsulas, granos o monodosis cada mes. El coste del consumible supera al del aparato a largo plazo.",
+    sections: [
+      {
+        heading: "Tipos de cafetera: cuál produce el café que quieres",
+        body: "Las de cápsulas (Nespresso, Dolce Gusto) producen café consistente sin esfuerzo, limpian solas y son las más vendidas. El espresso con portafiltro y bomba (De'Longhi, Cecotec) permite ajustar la extracción, usar café molido de cualquier marca y producir un espresso más auténtico. Las superautomáticas muelen el grano en el momento y preparan el café completo con un botón, pero cuestan mucho más. Las de goteo (filter coffee) producen más volumen pero un café más suave; perfectas para quien bebe 3-4 tazas seguidas.",
+        list: [
+          "Comodidad máxima y consistencia: cápsulas Nespresso o Dolce Gusto",
+          "Espresso auténtico con control: cafetera de bomba con portafiltro",
+          "Café de especialidad sin complicaciones: superautomática con molinillo integrado",
+          "Varias tazas seguidas o café largo: cafetera de goteo",
+        ],
+      },
+      {
+        heading: "Cápsulas: Nespresso vs Dolce Gusto vs compatibles",
+        body: "Nespresso (sistema OriginalLine y Vertuo) hace espresso y café más corto. El sistema OriginalLine tiene compatibles de muchas marcas (Lavazza, L'Or, DG, Marcilla) que amplían el catálogo y bajan el precio por cápsula. El sistema Vertuo usa cápsulas con código de barras propias, sin compatibles: estás atado a Nespresso. Dolce Gusto (Nestlé) produce café más largo, achicoria, chocolate y bebidas especiales; más variedad pero espresso menos intenso.",
+      },
+      {
+        heading: "Presión: por qué importan los bares",
+        body: "El espresso auténtico requiere 9 bares de presión de extracción. Las máquinas de cápsulas usan 15-19 bares de presión en la bomba para compensar el empaquetado de fábrica. Las cafeteras de goteo y moka no trabajan a presión real; producen café diferente, no espresso técnicamente. Si quieres hacer espresso real con leche texturizada para cappuccino o flat white, necesitas mínimo 9 bares con vaporizador.",
+      },
+      {
+        heading: "Espumador de leche: integrado vs varilla de vapor",
+        body: "El espumador de leche automático (jarra que calienta y espuma sola) es cómodo y produce leche texturizada sin técnica. La varilla de vapor manual da más control y permite hacer latte art, pero requiere práctica. Para cappuccinos y lattes rápidos sin complicación, el espumador automático es mejor elección. Si quieres aprender técnica barista, la varilla de vapor.",
+      },
+      {
+        heading: "Capacidad del depósito de agua",
+        body: "Un depósito pequeño (0.6-0.8 l) hay que rellenarlo casi cada día con uso habitual. Para un hogar de 2-3 personas que toman café a diario, un depósito de 1-1.5 l es cómodo. Las cafeteras de goteo y superautomáticas suelen tener depósitos de 1.5-2 l. Las de cápsulas compactas sacrifican capacidad por tamaño: útil en cocinas pequeñas.",
+      },
+      {
+        heading: "Limpieza y mantenimiento: el factor olvidado",
+        body: "Las cafeteras de cápsulas se limpian sobremente pasando agua. Las de portafiltro requieren purgar y limpiar el portafiltro después de cada uso; el vaporizador se limpia inmediatamente para evitar que la leche seque. Las superautomáticas tienen ciclos de autolimpieza del sistema de café y el molinillo, pero también hay que descalcificar con regularidad. Todas las cafeteras necesitan descalcificación cada 2-3 meses en agua dura; la mayoría avisan cuando toca.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 60 €: cafetera de cápsulas básica (Nespresso Essenza, Dolce Gusto Neo); sin vaporizador, sin automatismos. Entre 60 y 150 €: cápsulas con espumador o cafetera de espresso básica con bomba 15 bares; la zona de mejor relación precio/café. Entre 150 y 400 €: espresso con vaporizador automático, molinillo integrado en gama media, máquinas duales. Más de 400 €: superautomáticas De'Longhi o Jura; café de especialidad con un toque.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-cuidado-piel",
+    title: "Cómo Elegir Productos de Cuidado de Piel: Guía 2026",
+    shortTitle: "Cuidado de Piel",
+    description:
+      "Identifica tu tipo de piel, qué ingredientes activos funcionan de verdad y en qué orden aplicar la rutina. Guía práctica de skincare sin marketing innecesario.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "belleza",
+    categorySlug: "cuidado-piel",
+    categoryName: "Cuidado de Piel",
+    intro:
+      "El mercado de skincare está lleno de ingredientes con nombres difíciles y promesas de resultados en 7 días. La dermatología tiene muy claros qué ingredientes funcionan con evidencia real y cuáles son textura cara en un tarro bonito. Esta guía se basa en ingredientes respaldados por evidencia, no en marketing.",
+    sections: [
+      {
+        heading: "Identifica tu tipo de piel antes de comprar cualquier cosa",
+        body: "La piel grasa tiene brillo constante, poros visibles y acné frecuente. La piel seca tiene tirantez, descamación y rojeces. La piel mixta tiene la zona T (frente, nariz, barbilla) grasa y las mejillas más secas o normales. La piel sensible reacciona a muchos productos con picor, enrojecimiento o escozor. La piel normal es el unicornio: sin problemas destacables. Aplicar una rutina para piel grasa sobre piel seca es garantía de irritación, y viceversa.",
+      },
+      {
+        heading: "Los ingredientes activos con evidencia real",
+        body: "El retinol (vitamina A) es el más respaldado por la ciencia para reducir arrugas y manchas, pero irrita al principio; empieza con concentraciones bajas (0.025-0.1%) y aumenta gradualmente. El ácido hialurónico hidrata sin grasa y funciona en todos los tipos de piel. La vitamina C (ácido ascórbico al 10-20%) ilumina y protege de los radicales libres; es inestable al aire y la luz, busca versiones en envase opaco o rollón. La niacinamida regula el sebo, cierra poros y es tolerada por casi todas las pieles.",
+        list: [
+          "Antiedad: retinol (0.025-1%), péptidos, ácido azelaico",
+          "Hidratación: ácido hialurónico, glicerina, ceramidas",
+          "Iluminación y manchas: vitamina C, niacinamida, ácido kójico",
+          "Acné: ácido salicílico, benzoilo de peróxido, niacinamida",
+        ],
+      },
+      {
+        heading: "El orden de la rutina: limpieza, activos, hidratación y SPF",
+        body: "La base de cualquier rutina es: limpieza (mañana y noche), activos (sérum o tónico), hidratación (crema adaptada a tu tipo de piel), y SPF en la rutina de mañana. El SPF es el antienvejecimiento más eficaz y el más ignorado: sin protección solar, cualquier inversión en activos antiedad es parcialmente inútil. De noche, el retinol va después del sérum y antes de la crema; no se usa de día porque fotosensibiliza.",
+      },
+      {
+        heading: "Limpiador: el producto más infravalorado",
+        body: "Un limpiador agresivo que elimina la barrera natural de la piel es el origen de muchos problemas de piel seca, sensible o incluso grasa reactiva. Para piel grasa: gel de limpieza o espuma con ácido salicílico. Para piel seca o sensible: leche, aceite de limpieza o gel sin sulfatos agresivos. Para piel normal o mixta: gel suave sin sulfato sódico lauril o con concentraciones bajas. No es necesario que el limpiador haga espuma copiosa para limpiar bien.",
+      },
+      {
+        heading: "Protector solar: el más importante y el que más se salta",
+        body: "El FPS (factor de protección solar) mide la protección frente a UVB. Busca también protección frente a UVA (en Europa se indica con el símbolo UVA en círculo, que garantiza al menos 1/3 del FPS en UVA). Para uso diario en ciudad, FPS 30-50 es suficiente. Los solares modernos de textura ligera (fluido, sérum, tinte) no dejan residuo blanco y se usan como el último paso de la rutina de mañana, no solo en verano.",
+      },
+      {
+        heading: "Dónde está la mejor relación calidad-precio",
+        body: "Marcas de farmacia como La Roche-Posay, Avène, CeraVe, Bioderma y SVR tienen formulaciones respaldadas por dermatólogos a precios razonables. Las marcas de gran consumo como Neutrogena o Nivea Cellular tienen líneas con ingredientes activos reales. El precio no es indicador de eficacia: un sérum de vitamina C de 15 € con 15% de ácido ascórbico es más eficaz que uno de 80 € con 3%. Lee los INCI (lista de ingredientes), no el marketing del envase.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-padel",
+    title: "Cómo Elegir Pala de Pádel: Guía de Compra 2026",
+    shortTitle: "Pádel",
+    description:
+      "Forma de la pala, materiales, nivel de juego y peso. Guía completa para elegir la pala de pádel que mejora tu juego sin sobrecargar el brazo.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "deporte",
+    categorySlug: "padel",
+    categoryName: "Pádel",
+    intro:
+      "Elegir mal la pala de pádel no solo afecta al juego: puede causar epicondilitis (codo de tenista) o dolor en el hombro. El error más frecuente es que un jugador principiante compre una pala de jugador avanzado por el diseño o el precio. Esta guía explica qué características importan para cada nivel.",
+    sections: [
+      {
+        heading: "Forma de la pala: redonda, lágrima o diamante",
+        body: "Las palas redondas tienen el punto dulce (sweet spot) en el centro y amplio: más manejables, generan menos potencia pero más control. Son la elección correcta para principiantes e intermedios. Las de forma de lágrima tienen el sweet spot desplazado hacia arriba: equilibrio entre control y potencia, ideales para jugadores intermedios que buscan más salida. Las de diamante tienen el sweet spot en la punta: máxima potencia pero sweet spot pequeño, solo recomendadas para jugadores avanzados que golpean con mucha consistencia técnica.",
+        list: [
+          "Principiante: forma redonda, sweet spot amplio",
+          "Intermedio: lágrima, equilibrio control/potencia",
+          "Avanzado: diamante, máxima potencia con técnica sólida",
+        ],
+      },
+      {
+        heading: "Materiales: núcleo y superficie",
+        body: "El núcleo determina la sensación al golpear y la absorción del impacto. EVA (etileno acetato de vinilo) es más duro: da más potencia y sonido pero más vibración en el brazo. Foam suave: más control, más absorción, mejor para codos sensibles. La superficie de fibra de vidrio es más blanda, con más efecto y control: recomendada para principiantes e intermedios. La fibra de carbono es más rígida, da más potencia y dureza pero menos efecto: para jugadores técnicamente sólidos.",
+      },
+      {
+        heading: "Peso: un factor de rendimiento y salud",
+        body: "Las palas profesionales pesan entre 360 y 390 gramos sin overgrip. Más peso da más potencia en el golpe, pero cansa antes el brazo y agrava lesiones de codo y hombro. Para principiantes, lo ideal es 355-375 g: manejable y sin sobrecargar. Para jugadores avanzados con técnica sólida, 375-390 g aprovechan la mayor potencia. El grip (mango) también afecta: un grip demasiado fino hace que agarres más fuerte y aumenta el riesgo de epicondilitis.",
+      },
+      {
+        heading: "Overgrip y grip original: lo primero que cambiar",
+        body: "El grip de fábrica de muchas palas se deteriora rápido y puede volverse resbaladizo con el sudor. El overgrip (cinta de agarre que se enrolla sobre el grip original) es un accesorio de 2-5 € que se cambia cada pocas semanas y mejora enormemente el agarre y la absorción del sudor. Es la primera inversión que hacer en una pala nueva, independientemente del precio de la pala. El sobregrip también permite ajustar el grosor del mango al tamaño de tu mano.",
+      },
+      {
+        heading: "Protector de pala: merece la pena desde el primer día",
+        body: "El borde de la pala choca contra el suelo y las paredes en situaciones normales de juego. Un protector de cantos (5-10 €) evita los desconches que arrasan el marco en pocas partidas. Las palas de fibra de carbono son especialmente vulnerables a impactos laterales. Aplicar protector desde la primera partida es la mejor forma de mantener el valor de la pala.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 60 €: palas de iniciación con materiales básicos; sirven para aprender y descubrir si el pádel es para ti. Entre 60 y 130 €: materiales intermedios, fibra de vidrio, núcleo EVA o foam; perfectas para jugar con regularidad. Entre 130 y 250 €: fibra de carbono en gamas medias, mejora real en respuesta y durabilidad. Más de 250 €: palas de competición de marcas como Adidas, Bullpadel, Head o Wilson; para jugadores que juegan 3+ veces por semana con nivel avanzado.",
+      },
+    ],
+  },
+]
+
 export function getGuideBySlug(slug: string): Guide | undefined {
   return guides.find((g) => g.slug === slug)
 }

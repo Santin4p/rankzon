@@ -1,114 +1,105 @@
 {
   "categoria": "mandos-gaming",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
-      "name": "GameSir Nova Lite Controlador Inalámbrico",
-      "image": "/images/mandos-gaming/gamesir-nova-lite-controlador-inalambrico.jpg",
-      "price": 25.99,
-      "rating": 4,
-      "reviews": 3338,
-      "affiliate_url": "https://www.amazon.es/dp/B0CMCQ6WMC?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": ["Inalámbrico 2.4GHz de baja latencia", "Compatible con PC, Android y iOS", "Diseño ergonómico tipo Xbox", "Muy buen precio para mando inalámbrico"],
-      "cons": ["Sin vibración háptica avanzada", "No compatible con PlayStation"],
-      "user_summary": "Basado en especificaciones y perfil de producto. Los compradores valoran especialmente la versatilidad multiplataforma y la comodidad del diseño a un precio muy competitivo."
-    },
-    {
-      "position": 2,
       "name": "EasySMX X05 Pro Mando Inalámbrico para PC – Gati",
       "image": "/images/mandos-gaming/easysmx-x05-pro-mando-inalambrico-para-pc-gati.jpg",
       "price": 35.99,
       "rating": 4,
-      "reviews": 1001,
+      "reviews": 1021,
       "affiliate_url": "https://www.amazon.es/dp/B0FRFTJKV8?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Sensores Hall Effect — sin drift con el tiempo", "Compatible PC, Android e iOS", "Vibración con doble motor", "Precisión duradera garantizada"],
-      "cons": ["Precio algo superior a mandos básicos", "App de configuración mejorable"],
-      "user_summary": "Basado en especificaciones y perfil de producto. Destaca por sus sensores Hall Effect que eliminan el temido drift en los joysticks, una característica muy valorada por gamers exigentes."
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "EasySMX D05 Mando PC Inalambrico con Base de Car",
+      "image": "/images/mandos-gaming/easysmx-d05-mando-pc-inalambrico-con-base-de-car.jpg",
+      "price": 31.76,
+      "rating": 4,
+      "reviews": 814,
+      "affiliate_url": "https://www.amazon.es/dp/B0F1TBQ9FQ?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "KROM KEY - Gamepad con cable",
-      "image": "/images/mandos-gaming/krom-key-gamepad-con-cable.jpg",
-      "price": 13,
-      "rating": 4,
-      "reviews": 1286,
-      "affiliate_url": "https://www.amazon.es/dp/B077QQ6WF3?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Precio muy asequible", "Plug & play sin drivers", "Compatible PC y PS3", "Ligero y compacto"],
-      "cons": ["Solo con cable (no inalámbrico)", "Sin vibración avanzada"],
-      "user_summary": "Basado en especificaciones y perfil de producto. Elegido por quienes buscan una opción funcional de entrada a gaming PC sin gastar más de 15€, especialmente para uso ocasional."
-    },
-    {
-      "position": 4,
-      "name": "8BitDo Ultimate 2C Wireless Controller for Windo",
-      "image": "/images/mandos-gaming/8bitdo-ultimate-2c-wireless-controller-for-windo.jpg",
-      "price": 27.99,
-      "rating": 4,
-      "reviews": 196,
-      "affiliate_url": "https://www.amazon.es/dp/B0FX3TJ5RX?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "The G-Lab K-Pad Thorium Mando Gaming PC & PS3 co",
-      "image": "/images/mandos-gaming/the-g-lab-k-pad-thorium-mando-gaming-pc-ps3-co.jpg",
-      "price": 19.99,
-      "rating": 4,
-      "reviews": 6007,
-      "affiliate_url": "https://www.amazon.es/dp/B07X5DZ8QS?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
       "name": "EasySMX X15 Mando PC Inalámbrico con Luz RGB – G",
       "image": "/images/mandos-gaming/easysmx-x15-mando-pc-inalambrico-con-luz-rgb-g.jpg",
       "price": 39.99,
       "rating": 4,
-      "reviews": 3374,
+      "reviews": 3384,
       "affiliate_url": "https://www.amazon.es/dp/B0CSP1YQHN?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 7,
-      "name": "GameSir G7 Pro 8K PC Mando Inalámbrico Esports",
-      "image": "/images/mandos-gaming/gamesir-g7-pro-8k-pc-mando-inalambrico-esports.jpg",
-      "price": 109.99,
+      "position": 4,
+      "name": "KROM KEY - Gamepad con cable",
+      "image": "/images/mandos-gaming/krom-key-gamepad-con-cable.jpg",
+      "price": 14.99,
       "rating": 4,
-      "reviews": 43,
-      "affiliate_url": "https://www.amazon.es/dp/B0GWJHDCBQ?tag=rankzon-21",
+      "reviews": 1287,
+      "affiliate_url": "https://www.amazon.es/dp/B077QQ6WF3?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "8Bitdo Ultimate 2 Wireless Controller for Window",
-      "image": "/images/mandos-gaming/8bitdo-ultimate-2-wireless-controller-for-window.jpg",
-      "price": 52.04,
-      "rating": 4,
-      "reviews": 1346,
-      "affiliate_url": "https://www.amazon.es/dp/B0DR8V899R?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
+      "position": 5,
       "name": "Mars Gaming MGPX",
       "image": "/images/mandos-gaming/mars-gaming-mgpx.jpg",
       "price": 32.54,
       "rating": 4,
-      "reviews": 345,
+      "reviews": 348,
       "affiliate_url": "https://www.amazon.es/dp/B0D9HGJ1ZB?tag=rankzon-21",
       "badge": null
     },
     {
+      "position": 6,
+      "name": "GameSir Nova Lite Controlador Inalámbrico",
+      "image": "/images/mandos-gaming/gamesir-nova-lite-controlador-inalambrico.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 3353,
+      "affiliate_url": "https://www.amazon.es/dp/B0CMCQ6WMC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "AceGamer Aurora 2.4G Mando inalámbrico para PC W",
+      "image": "/images/mandos-gaming/acegamer-aurora-2-4g-mando-inalambrico-para-pc-w.jpg",
+      "price": 19.33,
+      "rating": 4,
+      "reviews": 268,
+      "affiliate_url": "https://www.amazon.es/dp/B0G5Y3CR46?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "8BitDo Ultimate 2C Wireless Controller for Windo",
+      "image": "/images/mandos-gaming/8bitdo-ultimate-2c-wireless-controller-for-windo.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 205,
+      "affiliate_url": "https://www.amazon.es/dp/B0FX3TJ5RX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "GameSir G7 Pro 8K PC Mando Inalámbrico Esports",
+      "image": "/images/mandos-gaming/gamesir-g7-pro-8k-pc-mando-inalambrico-esports.jpg",
+      "price": 109.99,
+      "rating": 4,
+      "reviews": 62,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWJHDCBQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
       "position": 10,
-      "name": "Mando Inalambrico Bluetooth Blanco compatible co",
-      "image": "/images/mandos-gaming/mando-inalambrico-bluetooth-blanco-compatible-co.jpg",
-      "price": 18.99,
-      "rating": 3,
-      "reviews": 54,
-      "affiliate_url": "https://www.amazon.es/dp/B0C5NDM548?tag=rankzon-21",
+      "name": "GameSir G7 SE Mando con Cable para Xbox Series X",
+      "image": "/images/mandos-gaming/gamesir-g7-se-mando-con-cable-para-xbox-series-x.jpg",
+      "price": 52.04,
+      "rating": 4,
+      "reviews": 15692,
+      "affiliate_url": "https://www.amazon.es/dp/B0D8KXR131?tag=rankzon-21",
       "badge": null
     }
   ]

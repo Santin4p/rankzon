@@ -1,138 +1,105 @@
 {
   "categoria": "realidad-virtual",
-  "updated_at": "2026-05-17",
+  "updated_at": "2026-05-21",
   "productos": [
     {
       "position": 1,
       "name": "INIU Cable Link de 5m",
       "image": "/images/realidad-virtual/iniu-cable-link-de-5m.jpg",
-      "price": 29.99,
+      "price": 22.99,
       "rating": 4,
-      "reviews": 2484,
+      "reviews": 2500,
       "affiliate_url": "https://www.amazon.es/dp/B0BRQMVCXL?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "5 metros de longitud: total libertad de movimiento jugando",
-        "Carga rápida mientras juegas, sin interrupciones",
-        "Cable trenzado duradero que no se dobla ni rompe",
-        "Compatible con Meta Quest 3/3S, Pico 4 y PC"
-      ],
-      "cons": [
-        "La carga simultánea puede dar avisos de humedad en el Quest",
-        "Algunos usuarios reportan incompatibilidad con ciertas tarjetas gráficas"
-      ],
-      "user_summary": "La mayoría destaca su excelente relación calidad-precio y que elimina los tirones de latencia. El principal punto de fricción es la carga simultánea, que genera avisos ocasionales en el headset, aunque INIU responde bien con reemplazos."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "BOBOVR M3 Pro Batería Correa para la Cabeza Comp",
-      "image": "/images/realidad-virtual/bobovr-m3-pro-bateria-correa-para-la-cabeza-comp.jpg",
-      "price": 65.99,
+      "name": "Cableguys Sony Astro BOT Soporte Mando y Movil",
+      "image": "/images/realidad-virtual/cableguys-sony-astro-bot-soporte-mando-y-movil.jpg",
+      "price": 18.99,
       "rating": 4,
-      "reviews": 5408,
-      "affiliate_url": "https://www.amazon.es/dp/B0CJLG9SBR?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Comodidad muy superior a la correa original del Meta Quest",
-        "Batería magnética intercambiable en caliente: hasta 2h extra",
-        "Rueda trasera de ajuste preciso para cualquier tamaño de cabeza",
-        "Instalación sencilla en menos de 5 minutos"
-      ],
-      "cons": [
-        "Puede generar leve vibración al cargar la batería mientras se juega",
-        "El diseño halo puede resultar inestable en movimientos bruscos"
-      ],
-      "user_summary": "Considerada por la comunidad VR el mejor accesorio para el Meta Quest 3. Los compradores destacan que transforma la experiencia: desaparece la presión facial y se doblan las horas de juego. La única queja recurrente es el ligero sonido al cargar."
-    },
-    {
-      "position": 3,
-      "name": "Meta Quest 3 512 GB – Die leistungsstärkste Ques",
-      "image": "/images/realidad-virtual/meta-quest-3-512-gb-die-leistungsstarkste-ques.jpg",
-      "price": 619.99,
-      "rating": 4,
-      "reviews": 497,
-      "affiliate_url": "https://www.amazon.es/dp/B09N5CNS5T?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "512 GB de almacenamiento: biblioteca entera sin compromisos",
-        "Procesador Snapdragon XR2 Gen 2: el más potente en VR standalone",
-        "Passthrough a color real: mixed reality de alta calidad",
-        "Compatible con PCVR vía cable o Air Link inalámbrico"
-      ],
-      "cons": [
-        "Precio elevado respecto al modelo de 128 GB",
-        "Batería del headset de apenas 2-3 horas de autonomía standalone"
-      ],
-      "user_summary": "Los compradores que optan por la versión de 512 GB valoran no tener que gestionar el espacio jamás y disfrutar del rendimiento máximo de la plataforma. La autonomía limitada es el talón de Aquiles recurrente, lo que lleva a muchos a combinarlo con accesorios de batería."
-    },
-    {
-      "position": 4,
-      "name": "KIWI design Cable Link con Carga 5M Compatible c",
-      "image": "/images/realidad-virtual/kiwi-design-cable-link-con-carga-5m-compatible-c.jpg",
-      "price": 29.99,
-      "rating": 4,
-      "reviews": 512,
-      "affiliate_url": "https://www.amazon.es/dp/B0DQWWFH3R?tag=rankzon-21",
+      "reviews": 235,
+      "affiliate_url": "https://www.amazon.es/dp/B0FHWBK77M?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
+      "position": 3,
       "name": "Meta Quest 3 512 GB — Las Quest más potentes — V",
       "image": "/images/realidad-virtual/meta-quest-3-512-gb-las-quest-mas-potentes-v.jpg",
-      "price": 749,
+      "price": 599,
       "rating": 4,
-      "reviews": 4074,
+      "reviews": 4079,
       "affiliate_url": "https://www.amazon.es/dp/B09N24BHKQ?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 6,
-      "name": "KIWI design K4 Correa para la Cabeza Cómoda Comp",
-      "image": "/images/realidad-virtual/kiwi-design-k4-correa-para-la-cabeza-comoda-comp.jpg",
-      "price": 39.99,
+      "position": 4,
+      "name": "Meta Quest 3 512 GB – Die leistungsstärkste Ques",
+      "image": "/images/realidad-virtual/meta-quest-3-512-gb-die-leistungsstarkste-ques.jpg",
+      "price": 619.99,
       "rating": 4,
-      "reviews": 3227,
-      "affiliate_url": "https://www.amazon.es/dp/B0D3TGPT5F?tag=rankzon-21",
+      "reviews": 502,
+      "affiliate_url": "https://www.amazon.es/dp/B09N5CNS5T?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "BOBOVR M3 Pro Batería Correa para la Cabeza Comp",
+      "image": "/images/realidad-virtual/bobovr-m3-pro-bateria-correa-para-la-cabeza-comp.jpg",
+      "price": 65.99,
+      "rating": 4,
+      "reviews": 5416,
+      "affiliate_url": "https://www.amazon.es/dp/B0CJLG9SBR?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "ZOZOVR Funda de Transporte para Meta Quest 3S/Qu",
+      "image": "/images/realidad-virtual/zozovr-funda-de-transporte-para-meta-quest-3s-qu.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 181,
+      "affiliate_url": "https://www.amazon.es/dp/B0CN4FRFRJ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "JSAUX Protector Pantalla Anti-reflejos para Stea",
-      "image": "/images/realidad-virtual/jsaux-protector-pantalla-anti-reflejos-para-stea.jpg",
-      "price": 10.99,
-      "rating": 4,
-      "reviews": 1276,
-      "affiliate_url": "https://www.amazon.es/dp/B0BNVKK54D?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "BOBOVR S3 Pro Batería Correa para la Cabez",
-      "image": "/images/realidad-virtual/bobovr-s3-pro-bateria-correa-para-la-cabez.jpg",
-      "price": 115.99,
-      "rating": 4,
-      "reviews": 6036,
-      "affiliate_url": "https://www.amazon.es/dp/B0CSY8PD63?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Funda para Meta Quest 3S/Quest 3/Quest 2/Vision",
       "image": "/images/realidad-virtual/funda-para-meta-quest-3s-quest-3-quest-2-vision.jpg",
       "price": 35.99,
       "rating": 4,
-      "reviews": 420,
+      "reviews": 424,
       "affiliate_url": "https://www.amazon.es/dp/B09BTDH449?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "KIWI design Correa Elite Ajustable Compatible co",
-      "image": "/images/realidad-virtual/kiwi-design-correa-elite-ajustable-compatible-co.jpg",
-      "price": 29.99,
+      "position": 8,
+      "name": "JSVER Funda para Quest 3/Quest 3S",
+      "image": "/images/realidad-virtual/jsver-funda-para-quest-3-quest-3s.jpg",
+      "price": 17.99,
       "rating": 4,
-      "reviews": 25488,
-      "affiliate_url": "https://www.amazon.es/dp/B098JTDPQC?tag=rankzon-21",
+      "reviews": 153,
+      "affiliate_url": "https://www.amazon.es/dp/B0CSS4B84B?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "BoboVR S3 Pro Battery Relief Strap for Meta Ques",
+      "image": "/images/realidad-virtual/bobovr-s3-pro-battery-relief-strap-for-meta-ques.jpg",
+      "price": 87.39,
+      "rating": 4,
+      "reviews": 73,
+      "affiliate_url": "https://www.amazon.es/dp/B0DF5QZMT9?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Meta Quest 3S 128 GB — Sumérgete en la Realidad",
+      "image": "/images/realidad-virtual/meta-quest-3s-128-gb-sumergete-en-la-realidad.jpg",
+      "price": 366.7,
+      "rating": 4,
+      "reviews": 2751,
+      "affiliate_url": "https://www.amazon.es/dp/B09MJRPRR4?tag=rankzon-21",
       "badge": null
     }
   ]

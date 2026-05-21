@@ -1,0 +1,115 @@
+{
+  "categoria": "padel",
+  "updated_at": "2026-05-21",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Head Tube 3 Pelotas de Padel",
+      "image": "/images/padel/head-tube-3-pelotas-de-padel.jpg",
+      "price": 4.5,
+      "rating": 4,
+      "reviews": 2636,
+      "affiliate_url": "https://www.amazon.es/dp/B076TGJ7JZ?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Marca de referencia en pádel profesional", "Rebote consistente en diferentes superficies", "Presión duradera en partidas largas"],
+      "cons": ["Precio algo mayor que marcas blancas", "El bote pierde presión tras varias sesiones", "Tres unidades se quedan cortas para varios sets"],
+      "user_summary": "Los compradores las eligen por la consistencia del rebote y la confianza en la marca Head, referente en el mundo del pádel. La mayoría las usa en pistas cubiertas y al aire libre con resultados similares."
+    },
+    {
+      "position": 2,
+      "name": "Palbea Grip Padel Extra Adherente - Overgrips Pa",
+      "image": "/images/padel/palbea-grip-padel-extra-adherente-overgrips-pa.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 2806,
+      "affiliate_url": "https://www.amazon.es/dp/B0C71M5GYN?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Adherencia superior al sudor durante la partida", "Pack de varios grips a buen precio", "Fácil de enrollar sin burbujas"],
+      "cons": ["Se desgasta algo más rápido que marcas premium", "Poco grosor por sí solo si el mango es fino", "El acabado puede desprender pelusa al inicio"],
+      "user_summary": "Los compradores valoran la relación calidad-precio de este overgrip frente a alternativas más caras de marcas como Wilson o Head. La mayoría lo cambia semanalmente o cada pocas sesiones para mantener el agarre óptimo."
+    },
+    {
+      "position": 3,
+      "name": "PALBEA Protector Pala de Padel Transparente - Pa",
+      "image": "/images/padel/palbea-protector-pala-de-padel-transparente-pa.jpg",
+      "price": 6.99,
+      "rating": 4,
+      "reviews": 2120,
+      "affiliate_url": "https://www.amazon.es/dp/B0C7C6LC84?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Protege el marco de impactos y desconches", "Material transparente respeta el diseño", "Fácil instalación sin herramientas"],
+      "cons": ["Puede quedar burbuja si no se aplica bien", "No compatible con todos los modelos de pala", "Se ensucia con el polvo de las pistas de tierra"],
+      "user_summary": "Los compradores lo consideran una inversión esencial para alargar la vida útil de su pala de pádel. La mayoría lo aplica desde la primera sesión para evitar los desconches típicos en paredes y suelo de la pista."
+    },
+    {
+      "position": 4,
+      "name": "4on TotalGrip Spray - Antideslizante para Mejora",
+      "image": "/images/padel/4on-totalgrip-spray-antideslizante-para-mejora.jpg",
+      "price": 24.9,
+      "rating": 4,
+      "reviews": 763,
+      "affiliate_url": "https://www.amazon.es/dp/B09MSZFKLW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "TALAFIT OverGrips Padel - Grip Padel Modelo Pro",
+      "image": "/images/padel/talafit-overgrips-padel-grip-padel-modelo-pro.jpg",
+      "price": 7.99,
+      "rating": 4,
+      "reviews": 651,
+      "affiliate_url": "https://www.amazon.es/dp/B0BMGTTXD6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Tripack De Botes De 3 Bolas Bullpadel Premium Pr",
+      "image": "/images/padel/tripack-de-botes-de-3-bolas-bullpadel-premium-pr.jpg",
+      "price": 13.9,
+      "rating": 4,
+      "reviews": 277,
+      "affiliate_url": "https://www.amazon.es/dp/B07F18MPQQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "MOVEMATE Dispositivo de Entrenamiento de Pádel/T",
+      "image": "/images/padel/movemate-dispositivo-de-entrenamiento-de-padel-t.jpg",
+      "price": 29.9,
+      "rating": 4,
+      "reviews": 726,
+      "affiliate_url": "https://www.amazon.es/dp/B0BSHDB7F4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Protector de Pala de Pádel Transparente y Rugoso",
+      "image": "/images/padel/protector-de-pala-de-padel-transparente-y-rugoso.jpg",
+      "price": 4.99,
+      "rating": 4,
+      "reviews": 289,
+      "affiliate_url": "https://www.amazon.es/dp/B0CVH67BSH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "TALAFIT OverGrips Padel Ultra ADHERENTES - Grip",
+      "image": "/images/padel/talafit-overgrips-padel-ultra-adherentes-grip.jpg",
+      "price": 7.99,
+      "rating": 4,
+      "reviews": 302,
+      "affiliate_url": "https://www.amazon.es/dp/B0CN18R8NS?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Ball Rescuer – Convierte envases de Pelotas de p",
+      "image": "/images/padel/ball-rescuer-convierte-envases-de-pelotas-de-p.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 862,
+      "affiliate_url": "https://www.amazon.es/dp/B074PR229B?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}
