@@ -465,8 +465,6 @@ export const guides: Guide[] = [
       },
     ],
   },
-]
-
   {
     slug: "como-elegir-smartwatch",
     title: "Cómo Elegir Smartwatch: Guía de Compra 2026",
