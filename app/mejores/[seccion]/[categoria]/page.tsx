@@ -41,6 +41,10 @@ import lectoresEbook from "@/data/lectores-ebook.json"
 import afeitadorasElectricas from "@/data/afeitadoras-electricas.json"
 import secadoresPelo from "@/data/secadores-pelo.json"
 import planchasPelo from "@/data/planchas-pelo.json"
+import cuidadoPiel from "@/data/cuidado-piel.json"
+import maquillaje from "@/data/maquillaje.json"
+import cuidadoPelo from "@/data/cuidado-pelo.json"
+import padel from "@/data/padel.json"
 
 interface Producto {
   position: number
@@ -98,6 +102,10 @@ const rankingMap: Record<string, RankingData> = {
   "afeitadoras-electricas": afeitadorasElectricas as unknown as RankingData,
   "secadores-pelo": secadoresPelo as unknown as RankingData,
   "planchas-pelo": planchasPelo as unknown as RankingData,
+  "cuidado-piel": cuidadoPiel as unknown as RankingData,
+  maquillaje: maquillaje as unknown as RankingData,
+  "cuidado-pelo": cuidadoPelo as unknown as RankingData,
+  padel: padel as unknown as RankingData,
 }
 
 export function generateStaticParams() {
