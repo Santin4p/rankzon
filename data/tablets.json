@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 8462,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Chip A16 ofrece potencia que no quedará obsoleta en años",
+        "Pantalla Liquid Retina de 11\" espectacular para contenido y trabajo",
+        "128 GB de almacenamiento base ya es suficiente para el uso diario"
+      ],
+      "cons": [
+        "Los accesorios oficiales (teclado, Apple Pencil) elevan mucho el precio total",
+        "Sin Face ID: solo Touch ID en el botón lateral"
+      ],
+      "user_summary": "Los compradores que renuevan tabletas antiguas se sorprenden del salto de rendimiento con el chip A16. La mayoría lo valoran como el punto dulce entre precio y prestaciones de la gama Apple, aunque señalan que los accesorios oficiales son caros."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 299,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH7MNLW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla 2.5K de alta resolución para su precio en la gama media",
+        "Rendimiento fluido para estudiar, consumir contenido y productividad básica",
+        "Diseño delgado y ligero fácil de usar durante horas"
+      ],
+      "cons": [
+        "El procesador MediaTek no es tan potente como el Apple A16 para tareas exigentes",
+        "La tienda de apps de Lenovo es más limitada que Google Play o App Store"
+      ],
+      "user_summary": "Los compradores buscan una alternativa a precio razonable al iPad y valoran especialmente la pantalla de alta resolución. La mayoría la usan para consumo de contenido, lectura y tareas de office ligero, encontrándola más que suficiente para su uso diario."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 738,
       "affiliate_url": "https://www.amazon.es/dp/B0GCZSR8J1?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio muy accesible para entrada al mundo de las tablets Android",
+        "Pantalla de 10 pulgadas cómoda para leer y ver vídeo",
+        "Batería de larga duración para el uso de ocio básico"
+      ],
+      "cons": [
+        "Procesador básico que puede ir justo con apps exigentes o multitarea",
+        "Solo 32-64GB de almacenamiento interno requiere tarjeta microSD"
+      ],
+      "user_summary": "Los compradores la eligen principalmente como tablet para regalo o para uso básico de consumo de contenido y navegación web. La mayoría la recomienda para niños o personas mayores que no necesitan prestaciones avanzadas."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 104312,
       "affiliate_url": "https://www.amazon.es/dp/B07N8N6C85?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Cesta de 5L ideal para familias de hasta 4 personas",
+        "Interfaz digital con 13 presets para las elaboraciones más comunes",
+        "Temperatura y tiempo ajustables para resultados perfectamente personalizados"
+      ],
+      "cons": [
+        "La cesta de 5L puede quedarse pequeña para familias numerosas o cantidades grandes",
+        "La limpieza requiere cierto cuidado para evitar dañar el revestimiento antiadherente"
+      ],
+      "user_summary": "Los compradores la eligen como referente del mercado con más de 100.000 reseñas que avalan su fiabilidad. La mayoría la usan a diario para patatas fritas, alitas, verduras y carnes, sorprendiéndose de lo crujiente que queda la comida con muy poco aceite."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 4880,
       "affiliate_url": "https://www.amazon.es/dp/B0BFB3Q7SD?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio muy competitivo para entrar al mundo de las freidoras de aire",
+        "Capacidad de 5L suficiente para 2-4 personas en uso cotidiano",
+        "Fácil de limpiar con cesta apta para lavavajillas"
+      ],
+      "cons": [
+        "El panel táctil puede resultar menos intuitivo que el de otros modelos",
+        "Sin pantalla digital, solo controles analógicos que son menos precisos"
+      ],
+      "user_summary": "Los compradores la eligen como primera freidora de aire a un precio asequible y quedan satisfechos con los resultados. La mayoría la recomiendan para hogares que quieren probar la tecnología sin hacer una gran inversión inicial."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 749,
       "affiliate_url": "https://www.amazon.es/dp/B0G7HSS6JP?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mayor capacidad de 6L perfecta para familias numerosas o porciones grandes",
+        "Doble función: freidora de aire y función de horneado",
+        "Temperatura máxima de 230°C para dorados perfectos"
+      ],
+      "cons": [
+        "Ocupa más espacio en la encimera que los modelos de 5L",
+        "El tiempo de precalentamiento puede ser ligeramente superior al de modelos anteriores"
+      ],
+      "user_summary": "Los compradores buscan una freidora de aire con mayor capacidad para cocinar más cantidad a la vez o preparar pollos enteros y piezas grandes. La mayoría valoran positivamente la versatilidad de la función horno adicional."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2500,
       "affiliate_url": "https://www.amazon.es/dp/B0BRQMVCXL?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Cable de alta calidad de 5m para conectar Quest con PC sin restricción de movimiento",
+        "Fibra óptica que garantiza transmisión de datos rápida con mínima latencia",
+        "Compatible con todos los modelos Meta Quest 2, 3 y Quest Pro"
+      ],
+      "cons": [
+        "Cable de 5m puede ser voluminoso y enredarse durante sesiones activas",
+        "Requiere ordenador con puerto USB compatible y drivers correctos instalados"
+      ],
+      "user_summary": "Los compradores lo adquieren para aprovechar el PC VR de su Meta Quest sin limitaciones de batería ni calidad de imagen. La mayoría lo recomiendan como accesorio imprescindible para quienes tienen un PC gaming potente y quieren la mejor experiencia VR."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 235,
       "affiliate_url": "https://www.amazon.es/dp/B0FHWBK77M?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Soporte para mando y móvil que mantiene el escritorio organizado",
+        "Diseño temático de Astro Bot perfecto para coleccionistas y fans de PlayStation",
+        "Compatible con todos los mandos DualSense y smartphones estándar"
+      ],
+      "cons": [
+        "Producto de coleccionismo, funcionalidad básica de soporte sin más prestaciones",
+        "El precio puede ser elevado para lo que ofrece funcionalmente"
+      ],
+      "user_summary": "Los compradores que son fans de PlayStation y Astro Bot lo adquieren principalmente por su valor decorativo y de coleccionismo. La mayoría lo valoran como regalo o detalle para el setup gaming, cumpliendo su función de soporte con un toque de personalidad."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 4079,
       "affiliate_url": "https://www.amazon.es/dp/B09N24BHKQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "512GB de almacenamiento para una biblioteca de juegos VR completa sin ordenador",
+        "Chip Snapdragon XR2 Gen 2 que ofrece el mejor rendimiento autónomo del mercado",
+        "Biblioteca de juegos VR más completa con títulos exclusivos de alto nivel"
+      ],
+      "cons": [
+        "Precio elevado respecto a la versión de 128GB que ya ofrece buenas prestaciones",
+        "El peso puede cansar el cuello tras sesiones largas de realidad virtual"
+      ],
+      "user_summary": "Los compradores que quieren la mejor experiencia de VR standalone sin necesitar un PC potente invierten en el Meta Quest 3 de 512GB. La mayoría lo consideran el salto definitivo a la realidad virtual de calidad, aunque señalan que el peso puede cansar en sesiones muy largas."
     },
     {
       "position": 4,

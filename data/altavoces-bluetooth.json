@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 21756,
       "affiliate_url": "https://www.amazon.es/dp/B0CX5F5QXQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Sonido excepcional para su tamaño ultracompacto de bolsillo",
+        "Bajos potentes y sorprendentes para un altavoz tan pequeño",
+        "Construcción robusta con recubrimiento de goma resistente a golpes"
+      ],
+      "cons": [
+        "Autonomía de 7 horas puede quedarse corta en una jornada completa",
+        "El volumen máximo puede ser insuficiente en espacios grandes al aire libre"
+      ],
+      "user_summary": "Los compradores se quedan asombrados de la calidad de sonido que ofrece este pequeño JBL por su precio. La mayoría acaba llevándolo a todas partes gracias a su tamaño y peso, usándolo más de lo que esperaban."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 3852,
       "affiliate_url": "https://www.amazon.es/dp/B0DXKNBQS6?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Batería de 20 horas y banco de energía para cargar el móvil",
+        "Sonido potente con graves profundos para su tamaño",
+        "Certificación IP67: resistente al polvo y sumergible en agua"
+      ],
+      "cons": [
+        "Precio elevado frente a alternativas con prestaciones similares",
+        "Pesa más de 900g, menos cómodo para llevar en mochila todo el día"
+      ],
+      "user_summary": "Los compradores que quieren el altavoz JBL de gama media lo eligen por la batería de larga duración y la opción de cargar el móvil desde él. La mayoría los usan en la playa, piscina o acampadas donde valoran la resistencia al agua y la potencia."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 149199,
       "affiliate_url": "https://www.amazon.es/dp/B01MTB55WH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Relación calidad-precio difícil de superar en su rango de precio",
+        "Más de 149.000 reseñas avalan su fiabilidad y durabilidad contrastada",
+        "Sonido equilibrado con modo de realce de bajos Bass Up"
+      ],
+      "cons": [
+        "No es resistente al agua (sin certificación IP)",
+        "El volumen máximo puede distorsionar ligeramente a plena potencia"
+      ],
+      "user_summary": "Los compradores lo valoran como una de las mejores opciones por menos de 30€, con una longevidad demostrada por sus decenas de miles de reseñas positivas. La mayoría lo compra como altavoz bluetooth de uso diario para casa o el trabajo."
     },
     {
       "position": 4,

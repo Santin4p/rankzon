@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 7835,
       "affiliate_url": "https://www.amazon.es/dp/B07D1L22SD?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Minecraft en Switch con todas las actualizaciones y modo supervivencia completo",
+        "Versión portátil perfecta para jugar en cualquier lugar en modo handheld",
+        "Mundos infinitos compatibles con jugadores de otras plataformas vía crossplay"
+      ],
+      "cons": [
+        "Los gráficos son más básicos que en PC o consolas de nueva generación",
+        "El modo multijugador online requiere una suscripción Nintendo Online adicional"
+      ],
+      "user_summary": "Los compradores son padres que regalan Minecraft a sus hijos o fans del juego que quieren la versión portátil para Switch. La mayoría están muy satisfechos con la experiencia completa de Minecraft en formato handheld para jugar en cualquier lugar."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 8918,
       "affiliate_url": "https://www.amazon.es/dp/B01N7RLGIJ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "El racing game más vendido de Nintendo con 48 circuitos y todos los personajes",
+        "Modo multijugador local para 4 jugadores en el mismo televisor sin coste extra",
+        "DLC de pase de pistas incluye 48 circuitos adicionales de ediciones anteriores"
+      ],
+      "cons": [
+        "El juego base lleva varios años y puede sentirse algo repetitivo para veteranos",
+        "Algunos circuitos del DLC son remakes de juegos anteriores, no pistas nuevas"
+      ],
+      "user_summary": "Los compradores buscan el juego multijugador local definitivo para Switch y lo encuentran en Mario Kart 8. La mayoría lo recomiendan como compra imprescindible para cualquier propietario de Switch, especialmente si tienen familia o amigos con quienes jugar."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 3,
       "reviews": 11,
       "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Simulación de vida social con personajes Mii en una isla imaginaria única",
+        "Multiplataforma entre Switch y Switch 2 para jugar con amigos de ambas consolas",
+        "Contenido de juego extenso con actualizaciones regulares planificadas"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles aún al ser un juego reciente",
+        "La jugabilidad puede resultar casual y ligera para quienes buscan desafíos profundos"
+      ],
+      "user_summary": "Los compradores fans de la saga Animal Crossing y los juegos de simulación social lo adquieren para disfrutar de la nueva entrega de Tomodachi Life. La mayoría lo recomiendan para compartir con familia y amigos aunque señalan que es un juego de ritmo tranquilo y casual."
     },
     {
       "position": 4,

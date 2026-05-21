@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 19064,
       "affiliate_url": "https://www.amazon.es/dp/B0CCYPDLCQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Tecnología de planchas profesionales usada en peluquerías de alto nivel",
+        "Sensor de temperatura preciso que mantiene el calor constante para resultados uniformes",
+        "Accesorios incluidos para proteger el cabello durante el planchado"
+      ],
+      "cons": [
+        "Precio elevado que puede disuadir a compradores ocasionales",
+        "Requiere cable y es más voluminosa que las planchas básicas sin cable"
+      ],
+      "user_summary": "Los compradores que invierten en la ghd Gold lo hacen buscando resultados profesionales en casa. La mayoría consideran que es la mejor plancha del mercado y que el precio se amortiza rápidamente al no tener que ir a la peluquería tan frecuentemente."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 18102,
       "affiliate_url": "https://www.amazon.es/dp/B007BJEKIQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Tenacilla de 32mm para rizos voluminosos y ondas duraderas",
+        "Cerámica de alta calidad que desliza perfectamente sin tirones",
+        "Temperatura ajustable para adaptarse a distintos tipos de cabello"
+      ],
+      "cons": [
+        "El diámetro de 32mm crea rizos muy grandes, no apto para rizos cerrados",
+        "El barril puede calentar el rostro durante el uso en cabellos cortos"
+      ],
+      "user_summary": "Las compradoras la eligen para crear ondas y rizos naturales duraderos a precio muy razonable. La mayoría la recomiendan especialmente para el uso de fin de semana para eventos o salidas, destacando los resultados que duran todo el día."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 13038,
       "affiliate_url": "https://www.amazon.es/dp/B09RN8Q4CW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla digital que muestra la temperatura exacta a la que está trabajando",
+        "Placas flotantes que se adaptan al grosor del mechón para un planchado uniforme",
+        "Calentamiento rápido en menos de 15 segundos lista para usar"
+      ],
+      "cons": [
+        "Las placas de cerámica básica no son tan deslizantes como las placas de titanio",
+        "La temperatura máxima puede ser insuficiente para cabellos muy gruesos o resistentes"
+      ],
+      "user_summary": "Las compradoras valoran la pantalla digital que permite controlar la temperatura exacta según el tipo de cabello. La mayoría la recomiendan como plancha completa y funcional a precio razonable, perfecta para el uso doméstico diario."
     },
     {
       "position": 4,

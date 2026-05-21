@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 960,
       "affiliate_url": "https://www.amazon.es/dp/B0DG9ZXWMK?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Superficie de escritura e-paper que simula perfectamente el papel real",
+        "Sin distracciones de notificaciones al ser un dispositivo de un solo propósito",
+        "Sincronización de notas y bocetos con la nube de reMarkable"
+      ],
+      "cons": [
+        "Precio muy elevado para un dispositivo de un solo propósito",
+        "No tiene acceso a internet ni apps, es exclusivamente para notar y leer PDFs"
+      ],
+      "user_summary": "Los compradores son principalmente profesionales y estudiantes que quieren dejar el papel pero no renunciar a la experiencia de escribir a mano. La mayoría lo consideran transformador para sus reuniones y estudio, aunque reconocen que el precio es elevado para lo que hace."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 119,
       "affiliate_url": "https://www.amazon.es/dp/B0FMS56K28?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Funda protectora con teclado Folio incluida para notas y escritura",
+        "Misma pantalla e-paper de alta calidad que el modelo Esencial",
+        "Ideal para profesionales que llevan el dispositivo a reuniones"
+      ],
+      "cons": [
+        "El precio es aún más elevado que el Esencial por incluir accesorios",
+        "La escritura digital no reemplaza completamente la experiencia del bolígrafo real"
+      ],
+      "user_summary": "Los compradores eligen el Pack Avanzado cuando saben que van a usarlo intensivamente en reuniones y quieren tenerlo todo incluido desde el primer momento. La mayoría consideran que el ahorro respecto a comprar todo por separado justifica el precio del pack."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 908,
       "affiliate_url": "https://www.amazon.es/dp/B0CDGX1BT9?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio muy asequible para apuntes y listas rápidas sin gastar papel",
+        "Sin batería que durar años, borrado instantáneo con el botón",
+        "Tamaño compacto perfecto para la nevera, mesa de estudio o bolsillo"
+      ],
+      "cons": [
+        "Solo tiene capacidad de escritura básica, sin funciones smart ni sincronización",
+        "La resolución de la pantalla LCD es muy inferior a los dispositivos e-paper"
+      ],
+      "user_summary": "Los compradores la usan como sustituto del papel para listas de la compra, recordatorios y bocetos rápidos sin gastar papel. La mayoría la recomiendan para niños o para uso doméstico casual, siendo una alternativa ecológica y económica al papel."
     },
     {
       "position": 4,

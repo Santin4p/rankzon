@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 1320,
       "affiliate_url": "https://www.amazon.es/dp/B0CCVBQRFX?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Micrófono dinámico con patrón cardioide que rechaza el sonido lateral y trasero",
+        "Brazo articulado de alta calidad incluido con filtro antipop",
+        "Cuerpo metálico robusto que aguanta el uso intensivo de streaming y podcasting"
+      ],
+      "cons": [
+        "El tamaño del conjunto (micrófono + brazo) ocupa bastante espacio en el escritorio",
+        "Requiere instalar el brazo correctamente para evitar transmisión de vibraciones"
+      ],
+      "user_summary": "Los compradores que quieren calidad de streaming y podcast sin un precio de gama alta lo eligen por incluir brazo y filtro en el pack. La mayoría están sorprendidos por la calidad de audio obtenida y lo recomiendan como setup completo para empezar en el streaming."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 11,
       "affiliate_url": "https://www.amazon.es/dp/B0FY38DKFD?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Conexión USB sencilla sin necesidad de interfaz de audio externa",
+        "Compatibilidad con Windows y Mac para reuniones y grabaciones desde cualquier equipo",
+        "Precio muy asequible para uso en videollamadas y reuniones ocasionales"
+      ],
+      "cons": [
+        "Calidad de audio básica, no adecuada para streaming o podcasting de calidad",
+        "Sin función de mute físico o control de volumen en el propio micrófono"
+      ],
+      "user_summary": "Los compradores lo adquieren como solución rápida y económica para mejorar la calidad de las reuniones online. La mayoría lo recomiendan para uso en videollamadas y teletrabajo donde la calidad básica de USB es suficiente."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2847,
       "affiliate_url": "https://www.amazon.es/dp/B01LWYIDDN?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio ultrabásico para tener un micrófono dedicado mejor que el integrado",
+        "Conexión jack de 3.5mm universal compatible con todos los ordenadores",
+        "Diseño compacto con clip de escritorio para colocarlo en cualquier posición"
+      ],
+      "cons": [
+        "La calidad de audio es básica y no adecuada para grabaciones exigentes",
+        "El cable de 180cm puede quedarse corto en configuraciones de escritorio amplias"
+      ],
+      "user_summary": "Los compradores lo eligen como solución de entrada para tener un micrófono externo básico a precio mínimo. La mayoría lo recomiendan para llamadas telefónicas, clases online y comunicación básica donde la inversión reducida ya supone una mejora respecto al micrófono integrado."
     },
     {
       "position": 4,

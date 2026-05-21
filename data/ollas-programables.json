@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2179,
       "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Cocción lenta de 6-8 horas que concentra sabores sin vigilancia",
+        "Capacidad de 7L para guisos familiares de olla o grandes asados",
+        "Panel digital con temporizador para programar la cocción con antelación"
+      ],
+      "cons": [
+        "La cocción lenta requiere planificación con varias horas de antelación",
+        "El tamaño de 7L puede ser excesivo para 1-2 personas"
+      ],
+      "user_summary": "Los compradores la usan para preparar guisos y estofados mientras están fuera de casa, llegando a la comida perfectamente hecha. La mayoría la consideran imprescindible para quienes tienen poco tiempo de cocinar y quieren comida casera de calidad sin esfuerzo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 13547,
       "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Olla clásica de barro con la experiencia de cocción lenta tradicional",
+        "Diseño atemporal que va del horno a la mesa para servir directamente",
+        "Capacidad de 4.7L perfecta para familias de 4-6 personas"
+      ],
+      "cons": [
+        "Sin función de programación digital, hay que ponerla y acordarse de apagarla",
+        "El recipiente de cerámica es más pesado que las ollas metálicas convencionales"
+      ],
+      "user_summary": "Los compradores valoran la tradición de la cocción lenta en barro con el confort de la electricidad. La mayoría la usan para guisos de legumbres, estofados y carnes que se hacen solos en 6-8 horas mientras hacen otras cosas."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 35,
       "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Olla de cocción lenta digital con pantalla LCD y ajuste de temperatura preciso",
+        "Material antiadherente fácil de limpiar sin esfuerzo tras la cocción",
+        "Programación horaria para tenerlo listo a cualquier hora del día"
+      ],
+      "cons": [
+        "Pocos usuarios la han probado aún (35 reseñas), menos recorrido que otros modelos",
+        "La capacidad de 5L puede quedarse corta para grupos muy numerosos"
+      ],
+      "user_summary": "Los compradores buscan la funcionalidad de olla programable de Cecotec con su habitual relación calidad-precio. La mayoría que la han probado quedan satisfechos con los resultados aunque el modelo tiene menos reseñas que los competidores con más historia de mercado."
     },
     {
       "position": 4,

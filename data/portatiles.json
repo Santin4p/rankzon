@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 23,
       "affiliate_url": "https://www.amazon.es/dp/B0FYPDZ4HX?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Procesador Intel Core de última generación para productividad cotidiana",
+        "Pantalla Full HD de 15.6\" con buena relación para trabajar y estudiar",
+        "Memoria RAM y SSD suficientes para multitarea y trabajo de oficina"
+      ],
+      "cons": [
+        "La batería dura entre 4-6 horas en uso real, sin llegar a todo el día",
+        "La pantalla no es especialmente brillante para uso en exteriores con luz solar"
+      ],
+      "user_summary": "Los compradores lo eligen como portátil de trabajo o estudio de gama media con una relación precio-prestaciones competitiva. La mayoría destaca que cumple perfectamente para las tareas cotidianas aunque la autonomía de batería podría mejorar."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 33,
       "affiliate_url": "https://www.amazon.es/dp/B0GR6GX4QL?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Chip A18 Pro ofrece rendimiento excepcional para cualquier tarea profesional",
+        "Pantalla Liquid Retina de 13\" con colores precisos y calibrados",
+        "Ecosistema Apple perfecto si ya tienes iPhone y iPad"
+      ],
+      "cons": [
+        "Precio elevado respecto a portátiles Windows con prestaciones comparables en papel",
+        "La migración desde Windows puede requerir adaptación para usuarios nuevos en macOS"
+      ],
+      "user_summary": "Los compradores que ya están en el ecosistema Apple destacan la integración perfecta con iPhone y el rendimiento del chip A18 Pro. La mayoría lo consideran una inversión a largo plazo dado que los Mac suelen mantener el rendimiento muchos más años que los Windows equivalentes."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 30,
       "affiliate_url": "https://www.amazon.es/dp/B0GR1MZP3L?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Chip M2 con eficiencia energética sobresaliente y batería de 15+ horas",
+        "Diseño ultradelgado y ligero perfecto para trabajo nómada o viajes frecuentes",
+        "Pantalla Liquid Retina con TrueTone cómoda para muchas horas de trabajo"
+      ],
+      "cons": [
+        "Solo 8GB de RAM en la configuración base, limitante para multitarea intensa",
+        "Los puertos son escasos (solo USB-C) y requiere adaptadores"
+      ],
+      "user_summary": "Los compradores lo eligen principalmente por su autonomía excepcional de más de 15 horas y el diseño ultraligero que lo hace el compañero ideal para viajar. La mayoría reconocen que el precio es elevado pero justifican la inversión por la duración y el ecosistema Apple."
     },
     {
       "position": 4,

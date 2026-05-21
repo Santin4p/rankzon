@@ -10,7 +10,17 @@
       "rating": null,
       "reviews": null,
       "affiliate_url": "https://www.amazon.es/dp/B0GGCJRXSX?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Simulador de conducción de mundo abierto con cientos de coches licenciados",
+        "Mundo abierto inmenso con eventos dinámicos y cambios climáticos en tiempo real",
+        "Acceso también en PC y disponible en Game Pass para suscriptores"
+      ],
+      "cons": [
+        "La curva de aprendizaje puede ser alta para jugadores nuevos en la saga",
+        "La progresión puede sentirse lenta al inicio antes de desbloquear los mejores coches"
+      ],
+      "user_summary": "Los compradores fans de la saga Forza Horizon lo esperaban como el juego de conducción definitivo de Xbox Series X. La mayoría lo consideran el mejor juego de conducción del mercado con la cantidad de contenido y la calidad gráfica más alta de la generación."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": null,
       "reviews": null,
       "affiliate_url": "https://www.amazon.es/dp/B0G6LMK8NQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Aventura de LEGO Batman completa con historia de varias horas para completar",
+        "Modo cooperativo local para jugar con niños u otros jugadores en el mismo televisor",
+        "Gráficos y humor característico LEGO adaptados al universo del Caballero Oscuro"
+      ],
+      "cons": [
+        "Precio elevado para un juego de LEGO que sigue la fórmula habitual de la saga",
+        "La jugabilidad puede resultar repetitiva para quienes ya conocen los juegos LEGO"
+      ],
+      "user_summary": "Los compradores que buscan un juego cooperativo apto para toda la familia y fans de Batman lo eligen por la combinación del humor LEGO con el universo DC. La mayoría lo recomiendan especialmente para jugar con niños que disfrutan del mundo de Batman."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 5,
       "reviews": 2,
       "affiliate_url": "https://www.amazon.es/dp/B0GMS5DTV1?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Thriller de ciencia ficción con narrativa ramificada y decisiones que importan",
+        "Juego de detective espacial con giros de guion inesperados",
+        "Experiencia cinematográfica con alta producción y actuaciones de voz destacadas"
+      ],
+      "cons": [
+        "Muy pocas reseñas disponibles al ser un título muy reciente",
+        "El precio de la Deluxe Edition puede ser elevado para un juego de un estudio independiente"
+      ],
+      "user_summary": "Los compradores que buscan experiencias narrativas diferentes en Xbox lo descubren como una propuesta de ciencia ficción inmersiva. La mayoría destacan la historia y la atmósfera del juego, aunque siendo tan nuevo el tiempo dirá si el acabado está a la altura de su precio."
     },
     {
       "position": 4,

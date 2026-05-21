@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 10989,
       "affiliate_url": "https://www.amazon.es/dp/B0DBHT1BT9?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Calidad de sonido muy por encima del precio",
+        "Emparejamiento Bluetooth rápido y sin problemas",
+        "Batería del estuche dura varios días"
+      ],
+      "cons": [
+        "Indicador de carga del estuche muy básico (una sola luz)",
+        "Las voces en llamadas no salen completamente nítidas"
+      ],
+      "user_summary": "Los compradores coinciden en que la calidad de sonido sorprende para costar menos de 10€. La mayoría los recomienda sin dudarlo, aunque señalan que hay que usar la app Xiaomi para saber el nivel de batería exacto del estuche."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 701,
       "affiliate_url": "https://www.amazon.es/dp/B08N5WP9NP?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño semi-intrauricular cómodo sin presión en el canal",
+        "Buen aislamiento pasivo para uso en transporte público",
+        "Compatibles con la app Mi Home para personalizar el sonido"
+      ],
+      "cons": [
+        "Sin cancelación activa de ruido a este precio",
+        "El sellado pasivo es inferior a los modelos in-ear"
+      ],
+      "user_summary": "Los compradores los eligen principalmente por la comodidad del diseño semi-abierto frente a los intrauriculares. La mayoría destaca la buena calidad de llamadas y la facilidad de emparejamiento con smartphones Xiaomi."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 12719,
       "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sin latencia ni problemas de conexión al ser cableados",
+        "Sonido claro y equilibrado con la firma Apple",
+        "Compatibles con iPhone 15, iPad y cualquier dispositivo USB-C"
+      ],
+      "cons": [
+        "Cableados: sin la libertad de movimiento de unos inalámbricos",
+        "El diseño no se adapta bien a todas las formas de oído"
+      ],
+      "user_summary": "Los compradores los adquieren como solución cableada confiable para sus dispositivos Apple USB-C, especialmente para llamadas en las que no quieren depender de batería. La mayoría los valora por su sonido característico Apple y la ausencia total de problemas de conexión."
     },
     {
       "position": 4,

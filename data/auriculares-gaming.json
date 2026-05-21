@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 542,
       "affiliate_url": "https://www.amazon.es/dp/B0D6NK3C9P?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Sonido envolvente para gaming con posicionamiento espacial claro",
+        "Micrófono con cancelación de ruido para comunicaciones claras en equipo",
+        "Compatibles con PC, PS5 y Xbox sin adaptadores adicionales"
+      ],
+      "cons": [
+        "La diadema puede resultar algo rígida para sesiones de juego muy largas",
+        "El sonido no es tan equilibrado para escuchar música como para gaming"
+      ],
+      "user_summary": "Los compradores que buscan unos cascos gaming de cable confiables a precio muy asequible los eligen como primera opción. La mayoría los usan para gaming online destacando la claridad del micrófono para comunicarse con el equipo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1707,
       "affiliate_url": "https://www.amazon.es/dp/B0DYVD72P2?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sonido inalámbrico de alta calidad con conexión 2.4GHz de baja latencia",
+        "Micrófono retráctil que desaparece cuando no se usa",
+        "Batería de larga duración para sesiones de juego extendidas sin interrupciones"
+      ],
+      "cons": [
+        "Precio elevado para unos cascos gaming de gama media",
+        "El dongle USB 2.4GHz ocupa un puerto y puede perderse fácilmente"
+      ],
+      "user_summary": "Los compradores que quieren la libertad inalámbrica sin sacrificar la calidad de sonido los eligen como cascos gaming principales. La mayoría están satisfechos con la calidad del audio y el micrófono retráctil que resulta muy cómodo para uso mixto."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 4287,
       "affiliate_url": "https://www.amazon.es/dp/B0CSFRYL7C?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Compatibilidad universal con PC, PS5, PS4, Xbox y Switch inalámbrico",
+        "Sistema 2.4GHz y Bluetooth dual para conectar dos dispositivos simultáneamente",
+        "Almohadillas de espuma viscoelástica muy cómodas para sesiones largas"
+      ],
+      "cons": [
+        "El micrófono puede captar ruido ambiental en entornos ruidosos",
+        "La diadema puede ajustarse mejor para cabezas muy pequeñas o muy grandes"
+      ],
+      "user_summary": "Los compradores valoran la compatibilidad universal con todas las plataformas y la comodidad de las almohadillas viscoelásticas. La mayoría los recomiendan para gamers que juegan en múltiples plataformas y no quieren tener un casco para cada consola."
     },
     {
       "position": 4,

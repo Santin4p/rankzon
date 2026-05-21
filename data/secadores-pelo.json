@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 1678,
       "affiliate_url": "https://www.amazon.es/dp/B0814YP958?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Tecnología iónica que reduce el frizz y da brillo al cabello",
+        "Secado rápido gracias a los 5400W de potencia del motor",
+        "Precio muy asequible para ser un secador con función iónica"
+      ],
+      "cons": [
+        "El cable puede ser algo corto para moverse con libertad",
+        "El nivel de ruido es notable a máxima potencia"
+      ],
+      "user_summary": "Los compradores lo eligen como primer secador con función iónica a un precio accesible, sorprendiéndose de la mejora en el acabado del cabello. La mayoría lo recomiendan especialmente para cabellos con tendencia al encrespado."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1782,
       "affiliate_url": "https://www.amazon.es/dp/B07ZRR8LJF?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Función iónica avanzada para cabello más suave y brillante",
+        "Múltiples velocidades y temperaturas para adaptarse a cada tipo de cabello",
+        "Filtro extraíble fácil de limpiar para mayor durabilidad del motor"
+      ],
+      "cons": [
+        "El peso puede cansar el brazo en secados largos de cabello abundante",
+        "La concentración de aire no siempre es tan precisa como en modelos profesionales"
+      ],
+      "user_summary": "Los compradores que buscan mejorar su rutina de secado sin gastar en modelos profesionales valoran el equilibrio entre precio y resultados. La mayoría están satisfechos con la diferencia que hace la función iónica en la textura final del cabello."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 16616,
       "affiliate_url": "https://www.amazon.es/dp/B01KLXFBVI?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "2400W de potencia para un secado rápido y efectivo",
+        "Difusor y concentrador incluidos para distintos estilos de peinado",
+        "Función de aire frío para fijar el peinado al terminar"
+      ],
+      "cons": [
+        "El cuerpo puede calentarse con uso prolongado",
+        "La vida útil puede ser menor que la de marcas más especializadas en styling"
+      ],
+      "user_summary": "Los compradores que buscan un secador potente de marca conocida a precio razonable valoran la potencia de 2400W y los accesorios incluidos. La mayoría están satisfechos con el secado rápido y consideran que Remington ofrece buena relación calidad-precio en esta gama."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 3470,
       "affiliate_url": "https://www.amazon.es/dp/B0DRCX34LQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Pantalla AMOLED 120Hz fluida y con colores vivos a este precio",
+        "Cámara de 108 Mpx con modos avanzados de fotografía nocturna",
+        "8+256GB de RAM y almacenamiento más que suficientes para el día a día"
+      ],
+      "cons": [
+        "Sin carga inalámbrica a este precio",
+        "El software MIUI puede tener algo de bloatware preinstalado"
+      ],
+      "user_summary": "Los compradores lo eligen como el mejor relación calidad-precio en la gama media de Xiaomi, destacando la pantalla AMOLED y la capacidad de almacenamiento. La mayoría lo recomienda como alternativa real a teléfonos más caros de otras marcas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2043,
       "affiliate_url": "https://www.amazon.es/dp/B0FX9YCJH9?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Carga rápida de 45W que llena la batería en menos de una hora",
+        "Procesador Snapdragon más potente que el Note 14 para tareas exigentes",
+        "Cámara mejorada con teleobjetivo y mejor modo nocturno"
+      ],
+      "cons": [
+        "Precio superior al Note 14 sin diferencias radicales para el usuario casual",
+        "El diseño es similar al modelo anterior sin innovaciones destacables"
+      ],
+      "user_summary": "Los compradores que venían del Note 14 o buscan algo más potente valoran la mejora en carga rápida y rendimiento. La mayoría lo recomiendan sobre el Note 14 si el presupuesto lo permite, aunque reconocen que las diferencias no son revolucionarias."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 717,
       "affiliate_url": "https://www.amazon.es/dp/B0GHNGFXP5?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Procesador Snapdragon 8s Gen 3 de gama alta con rendimiento premium",
+        "12+512GB de RAM y almacenamiento para los más exigentes",
+        "Pantalla de 120Hz con brillo máximo excelente para uso exterior"
+      ],
+      "cons": [
+        "Precio en el límite superior de la gama media, casi gama alta",
+        "La cámara no alcanza a los flagship de Samsung o Apple en condiciones difíciles"
+      ],
+      "user_summary": "Los compradores buscan rendimiento de gama alta sin pagar precio de flagship de marca premium. La mayoría destaca el excepcional procesador y almacenamiento, aunque señalan que en fotografía los grandes de la industria le sacan ventaja en condiciones difíciles."
     },
     {
       "position": 4,

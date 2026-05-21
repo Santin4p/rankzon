@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 1518,
       "affiliate_url": "https://www.amazon.es/dp/B0CX9CT3ZF?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Panel IPS con colores fieles y amplios ángulos de visión",
+        "Tecnología antirreflejo que reduce la fatiga visual en sesiones largas",
+        "Compatible con altura y ángulo de inclinación ajustable"
+      ],
+      "cons": [
+        "Sin altavoces integrados, requiere altavoces externos",
+        "Resolución Full HD puede quedarse corta para diseño gráfico profesional"
+      ],
+      "user_summary": "Los compradores lo valoran como monitor de oficina fiable con una imagen nítida y cómoda para jornadas largas. La mayoría lo usan para teletrabajo y estudios, destacando la calidad del panel IPS a un precio muy competitivo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1026,
       "affiliate_url": "https://www.amazon.es/dp/B0DN6NHW6F?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Panel IPS con filtro de luz azul certificado por TÜV Rheinland",
+        "Frecuencia de 165Hz ideal para juegos competitivos fluidos",
+        "Compatible con FreeSync Premium para eliminar el tearing"
+      ],
+      "cons": [
+        "Los altavoces integrados tienen una calidad básica",
+        "El pie no permite ajustar la altura, solo la inclinación"
+      ],
+      "user_summary": "Los compradores que buscan un monitor gaming asequible destacan la fluidez de 165Hz y la compatibilidad con FreeSync. La mayoría lo recomiendan como primer monitor gaming por su relación precio-prestaciones, aunque señalan que el soporte ergonómico es básico."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 71,
       "affiliate_url": "https://www.amazon.es/dp/B0FL32LSR5?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Panel IPS de 165Hz con tiempo de respuesta de 1ms para gaming",
+        "Resolución FHD con brillo de 400 nits muy legible en cualquier condición",
+        "HDR10 para contenido de alto rango dinámico con mejores contrastes"
+      ],
+      "cons": [
+        "Base del soporte ocupa mucho espacio en el escritorio",
+        "El brillo máximo puede parpadear en condiciones intermedias"
+      ],
+      "user_summary": "Los compradores que buscan un monitor gaming con IPS y 165Hz en la gama económica lo valoran por la calidad de imagen y la fluidez. La mayoría lo usan para gaming competitivo y productividad, destacando que la diferencia con monitores más caros no justifica el sobrecoste."
     },
     {
       "position": 4,

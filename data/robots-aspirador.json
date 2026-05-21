@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 3061,
       "affiliate_url": "https://www.amazon.es/dp/B0DCVYS9FQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Aspirado y fregado automáticos con autovaciado y autolimpieza del fregado",
+        "Cartografía 3D con navegación precisa que evita obstáculos pequeños",
+        "Programación y control desde la app con zonas prohibidas personalizables"
+      ],
+      "cons": [
+        "Precio elevado aunque se amortiza rápidamente en tiempo y comodidad",
+        "La estación base requiere espacio y acceso a agua para el autolimpiado"
+      ],
+      "user_summary": "Los compradores que dan el salto a la gama alta de robots aspiradores destacan el nivel de autonomía total que proporciona el sistema de autovaciado y autolimpieza. La mayoría consideran que el precio se justifica por la cantidad de tiempo que les ahorra en limpieza del hogar."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1770,
       "affiliate_url": "https://www.amazon.es/dp/B0D3RGFSRB?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Aspirado y fregado simultáneos a precio más asequible que el L10s",
+        "Autovaciado automático para no tener que vaciar el depósito a diario",
+        "Cartografía LiDAR precisa con múltiples mapas para distintas plantas"
+      ],
+      "cons": [
+        "El fregado es básico, más adecuado para mantenimiento que para limpieza profunda",
+        "La estación base no tiene función de autolimpieza del mopa como el modelo superior"
+      ],
+      "user_summary": "Los compradores buscan la funcionalidad de aspirado y fregado con autovaciado sin el precio de gama ultra-alta. La mayoría quedan muy satisfechos con el resultado y consideran que es el equilibrio perfecto entre funcionalidad y coste."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 7738,
       "affiliate_url": "https://www.amazon.es/dp/B0DV9VK9K4?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Marca iRobot de confianza con décadas de experiencia en robótica doméstica",
+        "Función Combo que aspira y friega en un solo pasado",
+        "Programación por zonas y control por voz con Alexa y Google Home"
+      ],
+      "cons": [
+        "La capacidad de fregado es básica comparada con robots especializados en esta función",
+        "Precio algo elevado para las prestaciones respecto a competidores chinos"
+      ],
+      "user_summary": "Los compradores que confían en la marca iRobot por su historial de fiabilidad eligen el Roomba 105 como primer robot de suelo combinado. La mayoría destacan la solidez del hardware y la mejora en la limpieza diaria, aunque señalan que el fregado no es tan potente como en algunos competidores."
     },
     {
       "position": 4,

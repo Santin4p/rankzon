@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 23835,
       "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Pantalla grande y luminosa perfectamente legible al sol",
+        "Autonomía de más de 12 días en uso normal",
+        "Más de 100 modos deportivos con monitorización de salud 24/7"
+      ],
+      "cons": [
+        "El ecosistema de apps Xiaomi es más limitado que Wear OS",
+        "El GPS no es tan preciso como en relojes de gama superior"
+      ],
+      "user_summary": "Los compradores se sorprenden de las prestaciones que ofrece a menos de 30€, destacando especialmente la duración de la batería y el tamaño de la pantalla. La mayoría lo recomienda como primer smartwatch o para regalar a quien quiere datos de salud sin complicarse."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1044,
       "affiliate_url": "https://www.amazon.es/dp/B0FRG18TLS?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Métricas deportivas y de salud muy precisas y fiables",
+        "Autonomía de batería muy superior a la media, varios días de uso",
+        "Construcción sólida con interfaz fluida y bien diseñada"
+      ],
+      "cons": [
+        "Ecosistema de apps más limitado que Apple o Samsung",
+        "Más orientado al deporte y la salud que a funciones de smartwatch convencional"
+      ],
+      "user_summary": "Los compradores que buscan un reloj orientado al deporte y la salud destacan la fiabilidad de sus métricas y la excepcional autonomía de batería. La mayoría lo considera entre los mejores del mercado, aunque señalan que su ecosistema de apps es más limitado."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 701,
       "affiliate_url": "https://www.amazon.es/dp/B0G1ZGK7MV?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla AMOLED de alta resolución muy nítida bajo cualquier luz",
+        "GPS integrado con precisión notable para el precio",
+        "Batería de larga duración con modo ahorro de energía efectivo"
+      ],
+      "cons": [
+        "El ecosistema Zepp Health es menos maduro que Garmin o Apple",
+        "Algunas métricas de salud no son tan fiables como en relojes premium"
+      ],
+      "user_summary": "Los compradores lo valoran como el punto dulce entre precio y prestaciones en la gama media, con pantalla AMOLED que supera a muchos competidores de su rango. La mayoría destaca que ofrece funciones de gama alta como GPS integrado y AMOLED a un precio razonable."
     },
     {
       "position": 4,

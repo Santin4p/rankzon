@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 63,
       "affiliate_url": "https://www.amazon.es/dp/B0F99Y2K4Z?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Trilogía remasterizada de los clásicos de Lara Croft con gráficos mejorados",
+        "Tres juegos completos en un solo pack a precio muy asequible",
+        "Incluye los mejores juegos de Tomb Raider de la era PlayStation 1"
+      ],
+      "cons": [
+        "Gráficos remasterizados, no remake completo, con limitaciones visuales evidentes",
+        "El estilo de juego clásico puede resultar anticuado para nuevos jugadores"
+      ],
+      "user_summary": "Los compradores son fans nostálgicos que quieren revivir los juegos de Lara Croft con mejoras visuales o descubrirlos por primera vez. La mayoría están satisfechos con la cantidad de contenido incluido y el precio, aunque señalan que son remasters, no remakes completos."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 241,
       "affiliate_url": "https://www.amazon.es/dp/B0DLGNT4V3?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "RPG de turnos con una propuesta artística y narrativa absolutamente única",
+        "Historia profunda con personajes memorables y giros de guion sorprendentes",
+        "Sistema de combate estratégico que premia la planificación y la creatividad"
+      ],
+      "cons": [
+        "No es un juego de acción, puede decepcionar a quienes buscan combate en tiempo real",
+        "La dificultad puede resultar elevada en los últimos actos para jugadores casuales"
+      ],
+      "user_summary": "Los compradores buscan una experiencia de RPG diferente y artística que destaque sobre la media de juegos de PS5. La mayoría lo consideran una joya del género y uno de los mejores juegos del año, aunque advierten que no es para todos los gustos por su ritmo y estilo."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 404,
       "affiliate_url": "https://www.amazon.es/dp/B0FSSHFQ9R?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Survival horror de primera categoría con una atmósfera de terror insuperable",
+        "Gráficos next-gen que aprovechan al máximo el hardware de PS5",
+        "Historia escalofriante con final sorprendente que enganchará desde el principio"
+      ],
+      "cons": [
+        "El contenido de terror intenso no es adecuado para todos los jugadores",
+        "Juego lineal sin mucha rejugabilidad una vez conocida la historia"
+      ],
+      "user_summary": "Los compradores fans del survival horror y la saga Resident Evil lo esperaban con ansias y no han quedado decepcionados. La mayoría lo consideran uno de los mejores juegos de terror de los últimos años con una historia que va crescendo hasta el clímax final."
     },
     {
       "position": 4,

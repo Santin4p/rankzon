@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 99141,
       "affiliate_url": "https://www.amazon.es/dp/B06X3W3TM4?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Superficie de control perfecta para ratones gaming de alta precisión",
+        "Tamaño extendido que cubre teclado y ratón en un solo espacio",
+        "Más de 99.000 reseñas que avalan su calidad y durabilidad contrastada"
+      ],
+      "cons": [
+        "El borde puede deshilacharse con el tiempo si no se cuida",
+        "El espesor básico no amortigua tanto las vibraciones como alfombrillas más gruesas"
+      ],
+      "user_summary": "Los compradores la eligen como la alfombrilla gaming más vendida de Amazon por su relación calidad-precio imbatible. La mayoría la recomiendan como primera compra para cualquier setup gaming, señalando que cumple perfectamente para gaming y trabajo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 7702,
       "affiliate_url": "https://www.amazon.es/dp/B07W7LTQ4B?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño minimalista que combina perfectamente con cualquier setup de escritorio",
+        "Superficie de tela de alta densidad que ofrece el equilibrio perfecto entre velocidad y control",
+        "Base antideslizante de goma que mantiene la alfombrilla fija en todo momento"
+      ],
+      "cons": [
+        "El tamaño estándar puede quedarse pequeño para ratones con DPI bajo",
+        "El precio es algo elevado para ser una alfombrilla básica sin extras"
+      ],
+      "user_summary": "Los compradores que valoran el diseño limpio y minimalista de Logitech la eligen para completar su setup de trabajo y gaming. La mayoría destacan que la superficie es perfecta tanto para ratones gaming de alta precisión como para uso cotidiano de oficina."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 14620,
       "affiliate_url": "https://www.amazon.es/dp/B085XRMSTT?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Reposamuñecas ergonómico integrado para largas sesiones de trabajo sin fatiga",
+        "Superficie de tela suave que protege el ratón y el escritorio",
+        "Base de goma antideslizante que se mantiene firme en cualquier tipo de mesa"
+      ],
+      "cons": [
+        "El reposamuñecas puede resultar demasiado elevado para algunos usuarios",
+        "La posición del ratón queda algo más lejos del cuerpo al incluir el apoyo"
+      ],
+      "user_summary": "Los compradores que pasan muchas horas frente al ordenador la eligen principalmente por el reposamuñecas ergonómico que reduce la fatiga. La mayoría la recomiendan para uso de oficina y gaming prolongado, destacando que ha reducido su dolor de muñeca."
     },
     {
       "position": 4,

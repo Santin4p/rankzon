@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 5429,
       "affiliate_url": "https://www.amazon.es/dp/B0F4548TCQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Smart TV con Google TV integrado y acceso a todas las apps populares",
+        "Panel QLED con colores vivos y contraste mejorado para el precio",
+        "Diseño slim sin marcos laterales para una experiencia visual inmersiva"
+      ],
+      "cons": [
+        "El procesador puede ir justo en apps exigentes o con mucha multitarea",
+        "El sonido interno es básico, recomiendan añadir una barra de sonido"
+      ],
+      "user_summary": "Los compradores lo eligen como primera Smart TV o para habitaciones secundarias, valorando la integración de Google TV y el precio ajustado. La mayoría están satisfechos con la calidad de imagen aunque recomiendan complementarlo con una barra de sonido externa."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2281,
       "affiliate_url": "https://www.amazon.es/dp/B0GPD3CS8S?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sistema operativo Tizen OS fluidísimo y sencillo de usar",
+        "Imagen nítida y colores bien calibrados para su rango de precio",
+        "Mando con accesos directos a las principales plataformas de streaming"
+      ],
+      "cons": [
+        "El catálogo de apps de Tizen es más limitado que Google TV o Fire TV",
+        "La pantalla de 32\" puede quedar pequeña para salones grandes"
+      ],
+      "user_summary": "Los compradores lo eligen como alternativa a precio competitivo con el sistema Tizen de Samsung, valorando la fluidez del sistema operativo. La mayoría lo usan en habitaciones o cocinas donde el tamaño de 32\" es ideal."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 676,
       "affiliate_url": "https://www.amazon.es/dp/B0F2GH8L49?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Panel 4K UHD de 43\" con procesador α5 Gen7 de LG",
+        "webOS fácil de navegar con buena integración de streaming",
+        "Soporte para Dolby Vision y Dolby Atmos para contenido premium"
+      ],
+      "cons": [
+        "La pantalla puede verse afectada por reflejos en habitaciones muy luminosas",
+        "El sonido interno de 20W es básico para el tamaño del televisor"
+      ],
+      "user_summary": "Los compradores buscan un salto a 4K en la gama asequible y valoran la calidad del panel LG y el soporte Dolby Vision. La mayoría lo usan como televisor principal en dormitorios o salones medianos y están satisfechos con la imagen aunque añaden una barra de sonido."
     },
     {
       "position": 4,

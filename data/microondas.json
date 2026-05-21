@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 4827,
       "affiliate_url": "https://www.amazon.es/dp/B07YFPZTY6?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "700W de potencia con 5 niveles para todo tipo de alimentos",
+        "Diseño compacto de 20L que se integra en cocinas pequeñas",
+        "Fácil de limpiar gracias al interior liso sin rincones complicados"
+      ],
+      "cons": [
+        "Sin función grill, solo calentamiento y descongelado",
+        "El panel de control táctil puede acumular marcas de dedos fácilmente"
+      ],
+      "user_summary": "Los compradores lo eligen para calentar y descongelar alimentos sin complicaciones en hogares pequeños. La mayoría están satisfechos con su sencillez de uso y destacan que la relación precio-calidad de Cecotec es imbatible en este segmento."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 449,
       "affiliate_url": "https://www.amazon.es/dp/B09XDZHW6T?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño blanco elegante que combina con cocinas modernas",
+        "Capacidad de 20L con plato girante de 25,5 cm apto para recipientes estándar",
+        "Precio muy competitivo con garantía europea de Corberó"
+      ],
+      "cons": [
+        "Sin función grill o combinada, solo microondas convencional",
+        "El temporizador mecánico es menos preciso que los digitales modernos"
+      ],
+      "user_summary": "Los compradores buscan un microondas básico y fiable a buen precio para el uso diario de calentar comida. La mayoría valoran el diseño limpio en blanco y la sencillez de uso sin funciones innecesarias que compliquen la operación."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2513,
       "affiliate_url": "https://www.amazon.es/dp/B07HC8KZNV?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mayor capacidad de 25L para recipientes más grandes y platos familiares",
+        "Potencia de 900W para calentamientos más rápidos que el modelo básico",
+        "Función grill integrada para gratinar y dorar alimentos"
+      ],
+      "cons": [
+        "Ocupa algo más de espacio en la encimera que los modelos de 20L",
+        "La función grill requiere cierta práctica para obtener resultados perfectos"
+      ],
+      "user_summary": "Los compradores que quieren algo más versátil que el básico 2010 lo eligen por la función grill y la mayor capacidad. La mayoría lo usan para calentar, descongelar y preparar platos gratinados, valorando la versatilidad adicional a un precio razonable."
     },
     {
       "position": 4,

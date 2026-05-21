@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 165050,
       "affiliate_url": "https://www.amazon.es/dp/B0B7NTY2S6?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Velocidades de transferencia USB 3.0 de hasta 150 MB/s en la práctica",
+        "Diseño compacto y resistente para llevar en el bolsillo o cartera",
+        "Compatibilidad garantizada con ordenadores, consolas y televisores"
+      ],
+      "cons": [
+        "La tapa protectora se puede perder fácilmente con el tiempo",
+        "La capacidad de 128GB puede quedarse corta para almacenar películas 4K"
+      ],
+      "user_summary": "Los compradores lo eligen para tener almacenamiento portátil confiable y ultracompacto para documentos, fotos y vídeos. La mayoría destacan la velocidad de transferencia real y lo práctico que resulta al no necesitar cable externo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 105734,
       "affiliate_url": "https://www.amazon.es/dp/B0C5JNWF58?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Velocidades SSD hasta 800 MB/s, ideal para transferencias grandes y rápidas",
+        "2TB de capacidad para proyectos de vídeo y backup completo del ordenador",
+        "Diseño ultracompacto y resistente a golpes para uso profesional"
+      ],
+      "cons": [
+        "Precio elevado por GB respecto a discos HDD externos tradicionales",
+        "Requiere cable USB-C, no compatible directamente con puertos USB-A sin adaptador"
+      ],
+      "user_summary": "Los compradores son principalmente fotógrafos, videógrafos y profesionales que necesitan transferir archivos grandes rápidamente. La mayoría consideran que el precio adicional respecto a los HDD se justifica ampliamente por la velocidad y la durabilidad del SSD."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 67728,
       "affiliate_url": "https://www.amazon.es/dp/B09X7BK27V?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Velocidades de hasta 190 MB/s en lectura para acceso rápido a los datos",
+        "Compatible con smartphones, tablets, drones y cámaras de acción GoPro",
+        "67.000+ reseñas avalan su fiabilidad y durabilidad en condiciones exigentes"
+      ],
+      "cons": [
+        "El adaptador a USB-A se vende por separado en algunos packs",
+        "Las velocidades de escritura son significativamente inferiores a las de lectura"
+      ],
+      "user_summary": "Los compradores la usan principalmente para ampliar el almacenamiento de drones DJI, cámaras GoPro y smartphones. La mayoría destacan la fiabilidad de la marca SanDisk y las altas velocidades que permiten grabar vídeo 4K sin problemas de buffering."
     },
     {
       "position": 4,

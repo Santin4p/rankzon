@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 494,
       "affiliate_url": "https://www.amazon.es/dp/B0F2N91DQ8?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Plataformas 3D con el carisma de Donkey Kong en una aventura completamente nueva",
+        "Gráficos espectaculares que aprovechan al máximo el hardware de Nintendo Switch 2",
+        "Mundo abierto lleno de secretos, coleccionables y desafíos opcionales para completionistas"
+      ],
+      "cons": [
+        "Exclusivo de Switch 2, no compatible con la Switch original",
+        "Precio de juego de lanzamiento elevado para una primera entrega en la nueva consola"
+      ],
+      "user_summary": "Los compradores que tienen Nintendo Switch 2 desde el lanzamiento lo adquieren como uno de los primeros grandes exclusivos. La mayoría quedan impresionados con el salto gráfico respecto a Switch y consideran que es uno de los mejores juegos de plataformas del año."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 3,
       "reviews": 11,
       "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Simulación social fresca en el universo de Mii con contenido para cientos de horas",
+        "Compatible entre Switch y Switch 2 para jugar con amigos de ambas plataformas",
+        "Modo multijugador que permite interactuar con los Miis de otras personas"
+      ],
+      "cons": [
+        "Precio de 60€ elevado para un juego que aún tiene muy pocas reseñas",
+        "El ritmo casual puede no convencer a jugadores que buscan desafíos más intensos"
+      ],
+      "user_summary": "Los compradores fans de los juegos de simulación social de Nintendo lo adquieren como la continuación esperada de la saga Tomodachi. La mayoría valoran el concepto único pero señalan que al ser tan nuevo todavía hay pocas opiniones en las que basarse."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 61,
       "affiliate_url": "https://www.amazon.es/dp/B0FQWBC3ZT?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Roguelike de acción con narrativa griega que ha sido un éxito masivo en PC",
+        "Edición nativa para Switch 2 con mejoras visuales y rendimiento superiores",
+        "Sistema de progresión adictivo que invita a seguir jugando run tras run"
+      ],
+      "cons": [
+        "Es un port de un juego que ya existe en otras plataformas, no un exclusivo",
+        "El precio puede ser elevado para quienes ya tienen el juego en otra plataforma"
+      ],
+      "user_summary": "Los compradores fans del género roguelike y la primera entrega de Hades lo adquieren para disfrutarlo en el mejor hardware portátil de Nintendo. La mayoría que no habían jugado antes quedan enganchados desde el primer momento con su sistema de combate y narrativa."
     },
     {
       "position": 4,
