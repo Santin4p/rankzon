@@ -4,6 +4,7 @@ import { useState } from "react"
 import Link from "next/link"
 import { sections } from "@/lib/categories"
 import { guides } from "@/lib/guides"
+import { articles } from "@/lib/articles"
 
 export default function NavbarMobileMenu() {
   const [open, setOpen] = useState(false)
@@ -106,6 +107,44 @@ export default function NavbarMobileMenu() {
                         className="block px-3 py-2 rounded-lg text-sm text-foreground hover:bg-background hover:text-primary transition-colors"
                       >
                         {guide.shortTitle}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+            <li>
+              <button
+                onClick={() => setOpenSection(openSection === "__blog" ? null : "__blog")}
+                className="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-semibold text-foreground hover:bg-background hover:text-primary transition-colors cursor-pointer"
+              >
+                Blog
+                <svg
+                  className={`w-4 h-4 transition-transform duration-200 ${openSection === "__blog" ? "rotate-180" : ""}`}
+                  fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              {openSection === "__blog" && (
+                <ul className="mt-1 ml-3 space-y-0.5">
+                  <li>
+                    <Link
+                      href="/blog"
+                      onClick={() => { setOpen(false); setOpenSection(null) }}
+                      className="block px-3 py-2 rounded-lg text-sm font-medium text-primary hover:bg-background transition-colors"
+                    >
+                      Ver todos →
+                    </Link>
+                  </li>
+                  {articles.slice(0, 5).map((article) => (
+                    <li key={article.slug}>
+                      <Link
+                        href={`/blog/${article.slug}`}
+                        onClick={() => { setOpen(false); setOpenSection(null) }}
+                        className="block px-3 py-2 rounded-lg text-sm text-foreground hover:bg-background hover:text-primary transition-colors"
+                      >
+                        {article.title.length > 50 ? article.title.slice(0, 47) + "…" : article.title}
                       </Link>
                     </li>
                   ))}

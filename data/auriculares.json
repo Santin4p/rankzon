@@ -1,6 +1,6 @@
 {
   "categoria": "auriculares",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,19 +8,9 @@
       "image": "/images/auriculares/xiaomi-redmi-buds-6-play-auriculares-inalambri.jpg",
       "price": 9.99,
       "rating": 4,
-      "reviews": 10989,
+      "reviews": 11261,
       "affiliate_url": "https://www.amazon.es/dp/B0DBHT1BT9?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Calidad de sonido muy por encima del precio",
-        "Emparejamiento Bluetooth rápido y sin problemas",
-        "Batería del estuche dura varios días"
-      ],
-      "cons": [
-        "Indicador de carga del estuche muy básico (una sola luz)",
-        "Las voces en llamadas no salen completamente nítidas"
-      ],
-      "user_summary": "Los compradores coinciden en que la calidad de sonido sorprende para costar menos de 10€. La mayoría los recomienda sin dudarlo, aunque señalan que hay que usar la app Xiaomi para saber el nivel de batería exacto del estuche."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -28,19 +18,9 @@
       "image": "/images/auriculares/xiaomi-redmi-buds-8-active-tws-bluetooth-semi.jpg",
       "price": 16.04,
       "rating": 4,
-      "reviews": 701,
+      "reviews": 813,
       "affiliate_url": "https://www.amazon.es/dp/B08N5WP9NP?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Diseño semi-intrauricular cómodo sin presión en el canal",
-        "Buen aislamiento pasivo para uso en transporte público",
-        "Compatibles con la app Mi Home para personalizar el sonido"
-      ],
-      "cons": [
-        "Sin cancelación activa de ruido a este precio",
-        "El sellado pasivo es inferior a los modelos in-ear"
-      ],
-      "user_summary": "Los compradores los eligen principalmente por la comodidad del diseño semi-abierto frente a los intrauriculares. La mayoría destaca la buena calidad de llamadas y la facilidad de emparejamiento con smartphones Xiaomi."
+      "badge": null
     },
     {
       "position": 3,
@@ -48,88 +28,78 @@
       "image": "/images/auriculares/apple-earpods-usb-c.jpg",
       "price": 18.98,
       "rating": 4,
-      "reviews": 12719,
+      "reviews": 13012,
       "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Sin latencia ni problemas de conexión al ser cableados",
-        "Sonido claro y equilibrado con la firma Apple",
-        "Compatibles con iPhone 15, iPad y cualquier dispositivo USB-C"
-      ],
-      "cons": [
-        "Cableados: sin la libertad de movimiento de unos inalámbricos",
-        "El diseño no se adapta bien a todas las formas de oído"
-      ],
-      "user_summary": "Los compradores los adquieren como solución cableada confiable para sus dispositivos Apple USB-C, especialmente para llamadas en las que no quieren depender de batería. La mayoría los valora por su sonido característico Apple y la ausencia total de problemas de conexión."
-    },
-    {
-      "position": 4,
-      "name": "Apple AirPods 4 cancelación Activa de Ruido",
-      "image": "/images/auriculares/apple-airpods-4-cancelacion-activa-de-ruido.jpg",
-      "price": 169,
-      "rating": 4,
-      "reviews": 11295,
-      "affiliate_url": "https://www.amazon.es/dp/B0DGHYDYJL?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
+      "position": 4,
       "name": "Auriculares Inalámbricos Bluetooth",
       "image": "/images/auriculares/auriculares-inalambricos-bluetooth.jpg",
       "price": 22.79,
       "rating": 4,
-      "reviews": 20605,
+      "reviews": 20692,
       "affiliate_url": "https://www.amazon.es/dp/B0CCDNJS75?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 6,
-      "name": "Soundcore P30i Auriculares Inalámbricos Bluetoot",
-      "image": "/images/auriculares/soundcore-p30i-auriculares-inalambricos-bluetoot.jpg",
-      "price": 26.99,
+      "position": 5,
+      "name": "Apple AirPods 4 cancelación Activa de Ruido",
+      "image": "/images/auriculares/apple-airpods-4-cancelacion-activa-de-ruido.jpg",
+      "price": 169,
       "rating": 4,
-      "reviews": 32524,
-      "affiliate_url": "https://www.amazon.es/dp/B0CRTYZG5C?tag=rankzon-21",
+      "reviews": 11423,
+      "affiliate_url": "https://www.amazon.es/dp/B0DGHYDYJL?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 7,
+      "position": 6,
       "name": "Soundcore Q20i Cascos Inalámbricos Bluetooth con",
       "image": "/images/auriculares/soundcore-q20i-cascos-inalambricos-bluetooth-con.jpg",
-      "price": 33.99,
+      "price": 39.9,
       "rating": 4,
-      "reviews": 63492,
+      "reviews": 64233,
       "affiliate_url": "https://www.amazon.es/dp/B0C3HCD34R?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "Auriculares Inalambricos Bluetooth",
-      "image": "/images/auriculares/auriculares-inalambricos-bluetooth.jpg",
-      "price": 23.99,
+      "position": 7,
+      "name": "Btootos Auriculares Inalámbricos",
+      "image": "/images/auriculares/btootos-auriculares-inalambricos.jpg",
+      "price": 24.69,
       "rating": 4,
-      "reviews": 124,
-      "affiliate_url": "https://www.amazon.es/dp/B0GYQT1XB8?tag=rankzon-21",
+      "reviews": 59961,
+      "affiliate_url": "https://www.amazon.es/dp/B0BCKHQGJN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Soundcore P30i Auriculares Inalámbricos Bluetoot",
+      "image": "/images/auriculares/soundcore-p30i-auriculares-inalambricos-bluetoot.jpg",
+      "price": 31.99,
+      "rating": 4,
+      "reviews": 33192,
+      "affiliate_url": "https://www.amazon.es/dp/B0CRTYZG5C?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
       "name": "Sony WH-CH520 Auriculares Bluetooth con 50 h de",
       "image": "/images/auriculares/sony-wh-ch520-auriculares-bluetooth-con-50-h-de.jpg",
-      "price": 30.99,
+      "price": 29.99,
       "rating": 4,
-      "reviews": 42435,
-      "affiliate_url": "https://www.amazon.es/dp/B0DYFDYB68?tag=rankzon-21",
+      "reviews": 42625,
+      "affiliate_url": "https://www.amazon.es/dp/B0BTJ9WHL9?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "2026 Nueva Auriculares Inalambricos Deportivos",
-      "image": "/images/auriculares/2026-nueva-auriculares-inalambricos-deportivos.jpg",
-      "price": 26.99,
+      "name": "Soundcore P20i Auriculares inalámbricos Bluetoot",
+      "image": "/images/auriculares/soundcore-p20i-auriculares-inalambricos-bluetoot.jpg",
+      "price": 22.99,
       "rating": 4,
-      "reviews": 178,
-      "affiliate_url": "https://www.amazon.es/dp/B0GZQQHT96?tag=rankzon-21",
+      "reviews": 105898,
+      "affiliate_url": "https://www.amazon.es/dp/B0BTYCRJSS?tag=rankzon-21",
       "badge": null
     }
   ]

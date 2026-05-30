@@ -1,84 +1,54 @@
 {
   "categoria": "portatiles",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "HP 15-fd0403ns - Ordenador portátil de 15.6\" FHD",
-      "image": "/images/portatiles/hp-15-fd0403ns-ordenador-portatil-de-15-6-fhd.jpg",
-      "price": 529,
-      "rating": 4,
-      "reviews": 23,
-      "affiliate_url": "https://www.amazon.es/dp/B0FYPDZ4HX?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Procesador Intel Core de última generación para productividad cotidiana",
-        "Pantalla Full HD de 15.6\" con buena relación para trabajar y estudiar",
-        "Memoria RAM y SSD suficientes para multitarea y trabajo de oficina"
-      ],
-      "cons": [
-        "La batería dura entre 4-6 horas en uso real, sin llegar a todo el día",
-        "La pantalla no es especialmente brillante para uso en exteriores con luz solar"
-      ],
-      "user_summary": "Los compradores lo eligen como portátil de trabajo o estudio de gama media con una relación precio-prestaciones competitiva. La mayoría destaca que cumple perfectamente para las tareas cotidianas aunque la autonomía de batería podría mejorar."
-    },
-    {
-      "position": 2,
       "name": "Apple MacBook Neo de 13 Pulgadas con Chip A18 Pr",
       "image": "/images/portatiles/apple-macbook-neo-de-13-pulgadas-con-chip-a18-pr.jpg",
       "price": 699,
       "rating": 4,
-      "reviews": 33,
-      "affiliate_url": "https://www.amazon.es/dp/B0GR6GX4QL?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Chip A18 Pro ofrece rendimiento excepcional para cualquier tarea profesional",
-        "Pantalla Liquid Retina de 13\" con colores precisos y calibrados",
-        "Ecosistema Apple perfecto si ya tienes iPhone y iPad"
-      ],
-      "cons": [
-        "Precio elevado respecto a portátiles Windows con prestaciones comparables en papel",
-        "La migración desde Windows puede requerir adaptación para usuarios nuevos en macOS"
-      ],
-      "user_summary": "Los compradores que ya están en el ecosistema Apple destacan la integración perfecta con iPhone y el rendimiento del chip A18 Pro. La mayoría lo consideran una inversión a largo plazo dado que los Mac suelen mantener el rendimiento muchos más años que los Windows equivalentes."
+      "reviews": 37,
+      "affiliate_url": "https://www.amazon.es/dp/B0GR6M1GK1?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "HP 15-fc0241ns - Ordenador portátil de 15.6\" FHD",
+      "image": "/images/portatiles/hp-15-fc0241ns-ordenador-portatil-de-15-6-fhd.jpg",
+      "price": 629,
+      "rating": 4,
+      "reviews": 36,
+      "affiliate_url": "https://www.amazon.es/dp/B0FCG4XQQT?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
+      "name": "Lenovo IdeaPad Slim 3 Gen 8 – Ordenador Portátil",
+      "image": "/images/portatiles/lenovo-ideapad-slim-3-gen-8-ordenador-portatil.jpg",
+      "price": 449,
+      "rating": 4,
+      "reviews": 33,
+      "affiliate_url": "https://www.amazon.es/dp/B0FVYGKQ8Z?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
       "name": "Apple MacBook Air de 13",
       "image": "/images/portatiles/apple-macbook-air-de-13.jpg",
       "price": null,
       "rating": 4,
-      "reviews": 30,
+      "reviews": 33,
       "affiliate_url": "https://www.amazon.es/dp/B0GR1MZP3L?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Chip M2 con eficiencia energética sobresaliente y batería de 15+ horas",
-        "Diseño ultradelgado y ligero perfecto para trabajo nómada o viajes frecuentes",
-        "Pantalla Liquid Retina con TrueTone cómoda para muchas horas de trabajo"
-      ],
-      "cons": [
-        "Solo 8GB de RAM en la configuración base, limitante para multitarea intensa",
-        "Los puertos son escasos (solo USB-C) y requiere adaptadores"
-      ],
-      "user_summary": "Los compradores lo eligen principalmente por su autonomía excepcional de más de 15 horas y el diseño ultraligero que lo hace el compañero ideal para viajar. La mayoría reconocen que el precio es elevado pero justifican la inversión por la duración y el ecosistema Apple."
-    },
-    {
-      "position": 4,
-      "name": "acer Aspire GO 15 AG15-42P",
-      "image": "/images/portatiles/acer-aspire-go-15-ag15-42p.jpg",
-      "price": 499,
-      "rating": 5,
-      "reviews": 1,
-      "affiliate_url": "https://www.amazon.es/dp/B0BW8D7GDF?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
       "name": "Apple 2025 MacBook Air de 13 Pulgadas con Chip M",
       "image": "/images/portatiles/apple-2025-macbook-air-de-13-pulgadas-con-chip-m.jpg",
-      "price": 1359,
+      "price": 1261,
       "rating": 4,
-      "reviews": 510,
+      "reviews": 518,
       "affiliate_url": "https://www.amazon.es/dp/B0DZDCL2XV?tag=rankzon-21",
       "badge": null
     },
@@ -86,50 +56,50 @@
       "position": 6,
       "name": "Lenovo IdeaPad Slim 3 Gen 10 – Ordenador Portáti",
       "image": "/images/portatiles/lenovo-ideapad-slim-3-gen-10-ordenador-portati.jpg",
-      "price": 639,
+      "price": 629,
       "rating": 4,
-      "reviews": 12,
-      "affiliate_url": "https://www.amazon.es/dp/B0GL3P9LWY?tag=rankzon-21",
+      "reviews": 13,
+      "affiliate_url": "https://www.amazon.es/dp/B0GL38BFBK?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "ASUS Chromebook CX1505CTA - 15.6\" Full HD Laptop",
-      "image": "/images/portatiles/asus-chromebook-cx1505cta-15-6-full-hd-laptop.jpg",
-      "price": 259,
-      "rating": 4,
-      "reviews": 43,
-      "affiliate_url": "https://www.amazon.es/dp/B0FWCLTWP2?tag=rankzon-21",
+      "name": "ASUS Vivobook Go 15 E1504FA - Ordenador Portátil",
+      "image": "/images/portatiles/asus-vivobook-go-15-e1504fa-ordenador-portatil.jpg",
+      "price": 529.99,
+      "rating": 3,
+      "reviews": 35,
+      "affiliate_url": "https://www.amazon.es/dp/B0BSLBCBZF?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Lenovo IdeaPad Slim 3 Gen 8 – Ordenador Portátil",
-      "image": "/images/portatiles/lenovo-ideapad-slim-3-gen-8-ordenador-portatil.jpg",
-      "price": 449,
+      "name": "ASUS Chromebook CX1505CTA - 15.6\" Full HD Laptop",
+      "image": "/images/portatiles/asus-chromebook-cx1505cta-15-6-full-hd-laptop.jpg",
+      "price": 259,
       "rating": 4,
-      "reviews": 31,
-      "affiliate_url": "https://www.amazon.es/dp/B0FVYGKQ8Z?tag=rankzon-21",
+      "reviews": 45,
+      "affiliate_url": "https://www.amazon.es/dp/B0FWCLTWP2?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Lenovo IdeaPad Slim 5 Gen 10 - Ordenador Portáti",
-      "image": "/images/portatiles/lenovo-ideapad-slim-5-gen-10-ordenador-portati.jpg",
-      "price": 899,
-      "rating": 4,
-      "reviews": 74,
-      "affiliate_url": "https://www.amazon.es/dp/B0FCG95495?tag=rankzon-21",
+      "name": "HP 15-fd0404ns - Ordenador portátil de 15.6\" FHD",
+      "image": "/images/portatiles/hp-15-fd0404ns-ordenador-portatil-de-15-6-fhd.jpg",
+      "price": 519,
+      "rating": 3,
+      "reviews": 5,
+      "affiliate_url": "https://www.amazon.es/dp/B0FYP4ZG4T?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "ASUS TUF Gaming A16 FA608UP-QT006 - Ordenador Po",
-      "image": "/images/portatiles/asus-tuf-gaming-a16-fa608up-qt006-ordenador-po.jpg",
-      "price": 1399,
+      "name": "HP 15-fc0240ns - Ordenador portátil de 15.6\" FHD",
+      "image": "/images/portatiles/hp-15-fc0240ns-ordenador-portatil-de-15-6-fhd.jpg",
+      "price": 649,
       "rating": 4,
-      "reviews": 3,
-      "affiliate_url": "https://www.amazon.es/dp/B0F9PHFBD2?tag=rankzon-21",
+      "reviews": 86,
+      "affiliate_url": "https://www.amazon.es/dp/B0FCG33M6K?tag=rankzon-21",
       "badge": null
     }
   ]

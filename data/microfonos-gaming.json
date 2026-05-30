@@ -1,6 +1,6 @@
 {
   "categoria": "microfonos-gaming",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,59 +8,29 @@
       "image": "/images/microfonos-gaming/tonor-pc-microfono-dinamico-gaming-con-brazo-sop.jpg",
       "price": 59.99,
       "rating": 4,
-      "reviews": 1320,
+      "reviews": 1354,
       "affiliate_url": "https://www.amazon.es/dp/B0CCVBQRFX?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Micrófono dinámico con patrón cardioide que rechaza el sonido lateral y trasero",
-        "Brazo articulado de alta calidad incluido con filtro antipop",
-        "Cuerpo metálico robusto que aguanta el uso intensivo de streaming y podcasting"
-      ],
-      "cons": [
-        "El tamaño del conjunto (micrófono + brazo) ocupa bastante espacio en el escritorio",
-        "Requiere instalar el brazo correctamente para evitar transmisión de vibraciones"
-      ],
-      "user_summary": "Los compradores que quieren calidad de streaming y podcast sin un precio de gama alta lo eligen por incluir brazo y filtro en el pack. La mayoría están sorprendidos por la calidad de audio obtenida y lo recomiendan como setup completo para empezar en el streaming."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "Micrófono USB para Conferencias",
       "image": "/images/microfonos-gaming/microfono-usb-para-conferencias.jpg",
-      "price": 14.29,
+      "price": 14.59,
       "rating": 4,
-      "reviews": 11,
+      "reviews": 12,
       "affiliate_url": "https://www.amazon.es/dp/B0FY38DKFD?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Conexión USB sencilla sin necesidad de interfaz de audio externa",
-        "Compatibilidad con Windows y Mac para reuniones y grabaciones desde cualquier equipo",
-        "Precio muy asequible para uso en videollamadas y reuniones ocasionales"
-      ],
-      "cons": [
-        "Calidad de audio básica, no adecuada para streaming o podcasting de calidad",
-        "Sin función de mute físico o control de volumen en el propio micrófono"
-      ],
-      "user_summary": "Los compradores lo adquieren como solución rápida y económica para mejorar la calidad de las reuniones online. La mayoría lo recomiendan para uso en videollamadas y teletrabajo donde la calidad básica de USB es suficiente."
+      "badge": null
     },
     {
       "position": 3,
       "name": "Trust Primo Micrófono PC con Cable 180 cm",
       "image": "/images/microfonos-gaming/trust-primo-microfono-pc-con-cable-180-cm.jpg",
-      "price": 3.99,
+      "price": 4.95,
       "rating": 4,
       "reviews": 2847,
       "affiliate_url": "https://www.amazon.es/dp/B01LWYIDDN?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Precio ultrabásico para tener un micrófono dedicado mejor que el integrado",
-        "Conexión jack de 3.5mm universal compatible con todos los ordenadores",
-        "Diseño compacto con clip de escritorio para colocarlo en cualquier posición"
-      ],
-      "cons": [
-        "La calidad de audio es básica y no adecuada para grabaciones exigentes",
-        "El cable de 180cm puede quedarse corto en configuraciones de escritorio amplias"
-      ],
-      "user_summary": "Los compradores lo eligen como solución de entrada para tener un micrófono externo básico a precio mínimo. La mayoría lo recomiendan para llamadas telefónicas, clases online y comunicación básica donde la inversión reducida ya supone una mejora respecto al micrófono integrado."
+      "badge": null
     },
     {
       "position": 4,
@@ -78,58 +48,58 @@
       "image": "/images/microfonos-gaming/ewent-ew3550-microfono-multimedia.jpg",
       "price": 2.95,
       "rating": 3,
-      "reviews": 669,
+      "reviews": 671,
       "affiliate_url": "https://www.amazon.es/dp/B002F2BEBU?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Microfono USB Lavalier para PC",
-      "image": "/images/microfonos-gaming/microfono-usb-lavalier-para-pc.jpg",
-      "price": 9.99,
+      "name": "Logitech G Yeti GX",
+      "image": "/images/microfonos-gaming/logitech-g-yeti-gx.jpg",
+      "price": 89,
       "rating": 4,
-      "reviews": 24,
-      "affiliate_url": "https://www.amazon.es/dp/B0F32CKB1Y?tag=rankzon-21",
+      "reviews": 473,
+      "affiliate_url": "https://www.amazon.es/dp/B07W7N1PZP?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
       "name": "Audio-Technica 2020 Micrófono de Condensador Car",
       "image": "/images/microfonos-gaming/audio-technica-2020-microfono-de-condensador-car.jpg",
-      "price": 90,
+      "price": 88,
       "rating": 4,
-      "reviews": 15799,
+      "reviews": 15812,
       "affiliate_url": "https://www.amazon.es/dp/B0006H92QK?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "GXTrust 236 Yami Micrófono PC USB para Streaming",
-      "image": "/images/microfonos-gaming/gxtrust-236-yami-microfono-pc-usb-para-streaming.jpg",
-      "price": 29.99,
+      "name": "Amazon Basics Micrófono condensador mini-USB par",
+      "image": "/images/microfonos-gaming/amazon-basics-microfono-condensador-mini-usb-par.jpg",
+      "price": 27.29,
       "rating": 4,
-      "reviews": 969,
-      "affiliate_url": "https://www.amazon.es/dp/B0D8KYFX7Y?tag=rankzon-21",
+      "reviews": 1097,
+      "affiliate_url": "https://www.amazon.es/dp/B0CL9BTQRF?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "HyperX Quadcast 2 - Micrófono USB para gaming",
-      "image": "/images/microfonos-gaming/hyperx-quadcast-2-microfono-usb-para-gaming.jpg",
-      "price": 104.99,
+      "name": "KLIM Talk - Micrófono USB para PC y Mac - Amplia",
+      "image": "/images/microfonos-gaming/klim-talk-microfono-usb-para-pc-y-mac-amplia.jpg",
+      "price": 22.97,
       "rating": 4,
-      "reviews": 998,
-      "affiliate_url": "https://www.amazon.es/dp/B0D9MCK4R8?tag=rankzon-21",
+      "reviews": 6275,
+      "affiliate_url": "https://www.amazon.es/dp/B072V56NKC?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "HOTUT Micrófono USB para computadora",
-      "image": "/images/microfonos-gaming/hotut-microfono-usb-para-computadora.jpg",
-      "price": 13.29,
+      "name": "GXTrust 236 Yami Micrófono PC USB para Streaming",
+      "image": "/images/microfonos-gaming/gxtrust-236-yami-microfono-pc-usb-para-streaming.jpg",
+      "price": 24.99,
       "rating": 4,
-      "reviews": 120,
-      "affiliate_url": "https://www.amazon.es/dp/B0DNW6KBLB?tag=rankzon-21",
+      "reviews": 981,
+      "affiliate_url": "https://www.amazon.es/dp/B0D8KYFX7Y?tag=rankzon-21",
       "badge": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "categoria": "tablets",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,59 +8,29 @@
       "image": "/images/tablets/apple-ipad-de-11-pulgadas-chip-a16.jpg",
       "price": 349,
       "rating": 4,
-      "reviews": 8462,
+      "reviews": 8616,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Chip A16 ofrece potencia que no quedará obsoleta en años",
-        "Pantalla Liquid Retina de 11\" espectacular para contenido y trabajo",
-        "128 GB de almacenamiento base ya es suficiente para el uso diario"
-      ],
-      "cons": [
-        "Los accesorios oficiales (teclado, Apple Pencil) elevan mucho el precio total",
-        "Sin Face ID: solo Touch ID en el botón lateral"
-      ],
-      "user_summary": "Los compradores que renuevan tabletas antiguas se sorprenden del salto de rendimiento con el chip A16. La mayoría lo valoran como el punto dulce entre precio y prestaciones de la gama Apple, aunque señalan que los accesorios oficiales son caros."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "Lenovo Idea Tab – Tablet 11\" 2.5K (MediaTek Dime",
       "image": "/images/tablets/lenovo-idea-tab-tablet-11-2-5k-mediatek-dime.jpg",
-      "price": 164,
+      "price": 188.5,
       "rating": 4,
-      "reviews": 299,
+      "reviews": 309,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH7MNLW?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Pantalla 2.5K de alta resolución para su precio en la gama media",
-        "Rendimiento fluido para estudiar, consumir contenido y productividad básica",
-        "Diseño delgado y ligero fácil de usar durante horas"
-      ],
-      "cons": [
-        "El procesador MediaTek no es tan potente como el Apple A16 para tareas exigentes",
-        "La tienda de apps de Lenovo es más limitada que Google Play o App Store"
-      ],
-      "user_summary": "Los compradores buscan una alternativa a precio razonable al iPad y valoran especialmente la pantalla de alta resolución. La mayoría la usan para consumo de contenido, lectura y tareas de office ligero, encontrándola más que suficiente para su uso diario."
+      "badge": null
     },
     {
       "position": 3,
-      "name": "Tablet 10 Pulgadas",
-      "image": "/images/tablets/tablet-10-pulgadas.jpg",
-      "price": 89.35,
+      "name": "XIAOMI REDMI Pad 2 Pro - Tablet de 12.1\" 2.5K (S",
+      "image": "/images/tablets/xiaomi-redmi-pad-2-pro-tablet-de-12-1-2-5k-s.jpg",
+      "price": 209.99,
       "rating": 4,
-      "reviews": 738,
-      "affiliate_url": "https://www.amazon.es/dp/B0GCZSR8J1?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Precio muy accesible para entrada al mundo de las tablets Android",
-        "Pantalla de 10 pulgadas cómoda para leer y ver vídeo",
-        "Batería de larga duración para el uso de ocio básico"
-      ],
-      "cons": [
-        "Procesador básico que puede ir justo con apps exigentes o multitarea",
-        "Solo 32-64GB de almacenamiento interno requiere tarjeta microSD"
-      ],
-      "user_summary": "Los compradores la eligen principalmente como tablet para regalo o para uso básico de consumo de contenido y navegación web. La mayoría la recomienda para niños o personas mayores que no necesitan prestaciones avanzadas."
+      "reviews": 77,
+      "affiliate_url": "https://www.amazon.es/dp/B0FJ9234ZX?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
@@ -68,68 +38,68 @@
       "image": "/images/tablets/lenovo-tab-tablet-10-1-wuxga-mediatek-helio.jpg",
       "price": 139,
       "rating": 4,
-      "reviews": 164,
+      "reviews": 173,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH8F6YB?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Lenovo Idea Tab Pro – Tablet 12.7\" 3K (MediaTek",
-      "image": "/images/tablets/lenovo-idea-tab-pro-tablet-12-7-3k-mediatek.jpg",
-      "price": 341.24,
+      "name": "Samsung Galaxy Tab A11+ 128GB",
+      "image": "/images/tablets/samsung-galaxy-tab-a11-128gb.jpg",
+      "price": 249,
       "rating": 4,
-      "reviews": 45,
-      "affiliate_url": "https://www.amazon.es/dp/B0DT4YKTG2?tag=rankzon-21",
+      "reviews": 147,
+      "affiliate_url": "https://www.amazon.es/dp/B0G14W2ZWW?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "2026 Tablet Android 15",
-      "image": "/images/tablets/2026-tablet-android-15.jpg",
-      "price": null,
+      "name": "Biegedy 2026 Tablet 10 Pulgadas Android 15",
+      "image": "/images/tablets/biegedy-2026-tablet-10-pulgadas-android-15.jpg",
+      "price": 99.99,
       "rating": 4,
-      "reviews": 353,
-      "affiliate_url": "https://www.amazon.es/dp/B0GL9B4L3G?tag=rankzon-21",
+      "reviews": 52,
+      "affiliate_url": "https://www.amazon.es/dp/B0GVMXSDJ1?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "XIAOMI Redmi Pad 2 - Tablet de 11\" 2.5K (MediaTe",
-      "image": "/images/tablets/xiaomi-redmi-pad-2-tablet-de-11-2-5k-mediate.jpg",
-      "price": 161,
+      "name": "BIEGEDY 2026 último Tablet 10 Pulgadas Android 1",
+      "image": "/images/tablets/biegedy-2026-ultimo-tablet-10-pulgadas-android-1.jpg",
+      "price": 109.99,
       "rating": 4,
-      "reviews": 723,
-      "affiliate_url": "https://www.amazon.es/dp/B0FBQQXPJZ?tag=rankzon-21",
+      "reviews": 85,
+      "affiliate_url": "https://www.amazon.es/dp/B0GVN4LSPP?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Apple iPad Air de 11 Pulgada con Chip M3 diseñad",
-      "image": "/images/tablets/apple-ipad-air-de-11-pulgada-con-chip-m3-disenad.jpg",
-      "price": 499,
+      "name": "XIAOMI Redmi Pad 2 - Tablet de 11\" 2.5K (MediaTe",
+      "image": "/images/tablets/xiaomi-redmi-pad-2-tablet-de-11-2-5k-mediate.jpg",
+      "price": 156.99,
       "rating": 4,
-      "reviews": 2148,
-      "affiliate_url": "https://www.amazon.es/dp/B0DZ772DS5?tag=rankzon-21",
+      "reviews": 749,
+      "affiliate_url": "https://www.amazon.es/dp/B0FBQQXPJZ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Samsung Galaxy Tab A11",
-      "image": "/images/tablets/samsung-galaxy-tab-a11.jpg",
-      "price": 169,
+      "name": "Lenovo Idea Tab Pro – Tablet 12.7\" 3K (MediaTek",
+      "image": "/images/tablets/lenovo-idea-tab-pro-tablet-12-7-3k-mediatek.jpg",
+      "price": 299,
       "rating": 4,
-      "reviews": 38,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQCXNPQQ?tag=rankzon-21",
+      "reviews": 136,
+      "affiliate_url": "https://www.amazon.es/dp/B0DT4ZHQGQ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "XIAOMI Redmi Pad 2",
-      "image": "/images/tablets/xiaomi-redmi-pad-2.jpg",
-      "price": 234.99,
+      "name": "Samsung Galaxy Tab S10 Lite 128 GB - Tablet con",
+      "image": "/images/tablets/samsung-galaxy-tab-s10-lite-128-gb-tablet-con.jpg",
+      "price": 269,
       "rating": 4,
-      "reviews": 116,
-      "affiliate_url": "https://www.amazon.es/dp/B0FDFV1C9J?tag=rankzon-21",
+      "reviews": 64,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQWBBLXT?tag=rankzon-21",
       "badge": null
     }
   ]

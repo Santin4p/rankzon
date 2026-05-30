@@ -1,135 +1,105 @@
 {
   "categoria": "impresoras",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "HP 305 6ZD17AE Pack de 2 Cartuchos de Tinta Negr",
       "image": "/images/impresoras/hp-305-6zd17ae-pack-de-2-cartuchos-de-tinta-negr.jpg",
-      "price": 27.19,
+      "price": 27,
       "rating": 4,
-      "reviews": 80100,
+      "reviews": 80365,
       "affiliate_url": "https://www.amazon.es/dp/B08T1HR5CS?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Pack de dos cartuchos negro + tricolor con muy buen rendimiento",
-        "Compatibilidad total con todas las impresoras HP que usan 305",
-        "Precio por página muy competitivo en el mercado de consumibles HP"
-      ],
-      "cons": [
-        "Los cartuchos HP 305 tienen capacidad estándar, no alta capacidad XL",
-        "El precio puede variar según disponibilidad en Amazon"
-      ],
-      "user_summary": "Los compradores los adquieren para reponer sus impresoras HP con cartuchos originales garantizados. La mayoría prefieren el pack de dos por la comodidad de tener siempre un repuesto y el precio ligeramente inferior por unidad."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "HP 305 3YM61AE",
-      "image": "/images/impresoras/hp-305-3ym61ae.jpg",
-      "price": 13.97,
+      "name": "HP 305XL Negro",
+      "image": "/images/impresoras/hp-305xl-negro.jpg",
+      "price": 25.99,
       "rating": 4,
-      "reviews": 18692,
-      "affiliate_url": "https://www.amazon.es/dp/B087DKRSH1?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Cartucho tricolor original HP con colores vivos y precisos",
-        "Compatibilidad garantizada con todas las impresoras HP 305",
-        "Ideal para impresiones ocasionales de fotos y documentos en color"
-      ],
-      "cons": [
-        "Rendimiento en páginas inferior al cartucho 305XL de alta capacidad",
-        "Solo en color, requiere comprar el negro por separado"
-      ],
-      "user_summary": "Los compradores lo adquieren cuando necesitan reponer el cartucho de color de su impresora HP sin gastar más en el XL. La mayoría están satisfechos con la calidad de color para el uso doméstico y escolar ocasional."
+      "reviews": 29506,
+      "affiliate_url": "https://www.amazon.es/dp/B087DH9GT3?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "HP 305XL Negro",
-      "image": "/images/impresoras/hp-305xl-negro.jpg",
-      "price": 25.54,
+      "name": "HP 305 3YM61AE",
+      "image": "/images/impresoras/hp-305-3ym61ae.jpg",
+      "price": 13.99,
       "rating": 4,
-      "reviews": 29435,
-      "affiliate_url": "https://www.amazon.es/dp/B087DH9GT3?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Alta capacidad XL para un mayor rendimiento y más páginas impresas",
-        "Mismo precio de página pero sin cambiar el cartucho tan frecuentemente",
-        "Compatibilidad garantizada con impresoras HP que aceptan el 305"
-      ],
-      "cons": [
-        "Precio inicial más elevado que el estándar 305",
-        "Solo disponible en versión negra, el color sigue siendo el 305 estándar"
-      ],
-      "user_summary": "Los compradores que imprimen con frecuencia eligen el XL para no tener que comprar cartuchos tan a menudo. La mayoría que pasan al XL no vuelven al estándar, valorando la comodidad de los cambios menos frecuentes."
+      "reviews": 18735,
+      "affiliate_url": "https://www.amazon.es/dp/B087DKRSH1?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "HP 304 3JB05AE - Pack de 2 Cartuchos de Tinta Or",
-      "image": "/images/impresoras/hp-304-3jb05ae-pack-de-2-cartuchos-de-tinta-or.jpg",
-      "price": 33.8,
-      "rating": 4,
-      "reviews": 93617,
-      "affiliate_url": "https://www.amazon.es/dp/B07GTWD7Z7?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "HP 304 N9K06AE",
-      "image": "/images/impresoras/hp-304-n9k06ae.jpg",
-      "price": 17.27,
-      "rating": 4,
-      "reviews": 82072,
-      "affiliate_url": "https://www.amazon.es/dp/B01EA0EG3W?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
       "name": "HP 305 Negro",
       "image": "/images/impresoras/hp-305-negro.jpg",
-      "price": 13.97,
+      "price": 13.99,
       "rating": 4,
-      "reviews": 57371,
+      "reviews": 57538,
       "affiliate_url": "https://www.amazon.es/dp/B087DJ43K3?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 7,
+      "position": 5,
+      "name": "HP 304 3JB05AE - Pack de 2 Cartuchos de Tinta Or",
+      "image": "/images/impresoras/hp-304-3jb05ae-pack-de-2-cartuchos-de-tinta-or.jpg",
+      "price": 33.99,
+      "rating": 4,
+      "reviews": 93683,
+      "affiliate_url": "https://www.amazon.es/dp/B07GTWD7Z7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
       "name": "HP 305XL 3YM63AE - Cartucho de Tinta de Alta Cap",
       "image": "/images/impresoras/hp-305xl-3ym63ae-cartucho-de-tinta-de-alta-cap.jpg",
-      "price": 21.09,
+      "price": 22.99,
       "rating": 4,
-      "reviews": 21390,
+      "reviews": 21370,
       "affiliate_url": "https://www.amazon.es/dp/B087DGWYNS?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "iNKPAD TN2420 Cartuchos de tóner Compatibles con",
-      "image": "/images/impresoras/inkpad-tn2420-cartuchos-de-toner-compatibles-con.jpg",
-      "price": 18.8,
+      "position": 7,
+      "name": "HP 304 N9K06AE",
+      "image": "/images/impresoras/hp-304-n9k06ae.jpg",
+      "price": 19.99,
       "rating": 4,
-      "reviews": 500,
-      "affiliate_url": "https://www.amazon.es/dp/B0BKZG2KPC?tag=rankzon-21",
+      "reviews": 82124,
+      "affiliate_url": "https://www.amazon.es/dp/B01EA0EG3W?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "HP 301 - Cartucho de Tinta Deskjet",
+      "image": "/images/impresoras/hp-301-cartucho-de-tinta-deskjet.jpg",
+      "price": 22.45,
+      "rating": 4,
+      "reviews": 89718,
+      "affiliate_url": "https://www.amazon.es/dp/B003LNLPQ6?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
       "name": "HP 302 F6U66AE",
       "image": "/images/impresoras/hp-302-f6u66ae.jpg",
-      "price": 21,
+      "price": 21.99,
       "rating": 4,
-      "reviews": 88769,
+      "reviews": 88813,
       "affiliate_url": "https://www.amazon.es/dp/B00VYAWIRS?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "HP 301 - Cartucho de Tinta Deskjet",
-      "image": "/images/impresoras/hp-301-cartucho-de-tinta-deskjet.jpg",
-      "price": 22.45,
+      "name": "HP 305XL 3YM62AE",
+      "image": "/images/impresoras/hp-305xl-3ym62ae.jpg",
+      "price": 25.99,
       "rating": 4,
-      "reviews": 89675,
-      "affiliate_url": "https://www.amazon.es/dp/B003LNLPQ6?tag=rankzon-21",
+      "reviews": 4042,
+      "affiliate_url": "https://www.amazon.es/dp/B087DJQ8ST?tag=rankzon-21",
       "badge": null
     }
   ]

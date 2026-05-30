@@ -1,46 +1,26 @@
 {
   "categoria": "alfombrillas-gaming",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "Amazon Basics Irregular Alfombrilla para ratón c",
-      "image": "/images/alfombrillas-gaming/amazon-basics-irregular-alfombrilla-para-raton-c.jpg",
-      "price": 6.29,
+      "name": "Logitech Mouse Pad - Studio Series",
+      "image": "/images/alfombrillas-gaming/logitech-mouse-pad-studio-series.jpg",
+      "price": 6.69,
       "rating": 4,
-      "reviews": 99141,
-      "affiliate_url": "https://www.amazon.es/dp/B06X3W3TM4?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Superficie de control perfecta para ratones gaming de alta precisión",
-        "Tamaño extendido que cubre teclado y ratón en un solo espacio",
-        "Más de 99.000 reseñas que avalan su calidad y durabilidad contrastada"
-      ],
-      "cons": [
-        "El borde puede deshilacharse con el tiempo si no se cuida",
-        "El espesor básico no amortigua tanto las vibraciones como alfombrillas más gruesas"
-      ],
-      "user_summary": "Los compradores la eligen como la alfombrilla gaming más vendida de Amazon por su relación calidad-precio imbatible. La mayoría la recomiendan como primera compra para cualquier setup gaming, señalando que cumple perfectamente para gaming y trabajo."
+      "reviews": 7729,
+      "affiliate_url": "https://www.amazon.es/dp/B07W7LTQ4B?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Logitech Mouse Pad - Studio Series",
-      "image": "/images/alfombrillas-gaming/logitech-mouse-pad-studio-series.jpg",
-      "price": 6.49,
+      "name": "Amazon Basics Irregular Alfombrilla para ratón c",
+      "image": "/images/alfombrillas-gaming/amazon-basics-irregular-alfombrilla-para-raton-c.jpg",
+      "price": 7.19,
       "rating": 4,
-      "reviews": 7702,
-      "affiliate_url": "https://www.amazon.es/dp/B07W7LTQ4B?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Diseño minimalista que combina perfectamente con cualquier setup de escritorio",
-        "Superficie de tela de alta densidad que ofrece el equilibrio perfecto entre velocidad y control",
-        "Base antideslizante de goma que mantiene la alfombrilla fija en todo momento"
-      ],
-      "cons": [
-        "El tamaño estándar puede quedarse pequeño para ratones con DPI bajo",
-        "El precio es algo elevado para ser una alfombrilla básica sin extras"
-      ],
-      "user_summary": "Los compradores que valoran el diseño limpio y minimalista de Logitech la eligen para completar su setup de trabajo y gaming. La mayoría destacan que la superficie es perfecta tanto para ratones gaming de alta precisión como para uso cotidiano de oficina."
+      "reviews": 99135,
+      "affiliate_url": "https://www.amazon.es/dp/B06X3W3TM4?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
@@ -48,47 +28,37 @@
       "image": "/images/alfombrillas-gaming/eoocoo-alfombrilla-raton-ergonomico-con-reposamu.jpg",
       "price": 9.59,
       "rating": 4,
-      "reviews": 14620,
+      "reviews": 14672,
       "affiliate_url": "https://www.amazon.es/dp/B085XRMSTT?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Reposamuñecas ergonómico integrado para largas sesiones de trabajo sin fatiga",
-        "Superficie de tela suave que protege el ratón y el escritorio",
-        "Base de goma antideslizante que se mantiene firme en cualquier tipo de mesa"
-      ],
-      "cons": [
-        "El reposamuñecas puede resultar demasiado elevado para algunos usuarios",
-        "La posición del ratón queda algo más lejos del cuerpo al incluir el apoyo"
-      ],
-      "user_summary": "Los compradores que pasan muchas horas frente al ordenador la eligen principalmente por el reposamuñecas ergonómico que reduce la fatiga. La mayoría la recomiendan para uso de oficina y gaming prolongado, destacando que ha reducido su dolor de muñeca."
-    },
-    {
-      "position": 4,
-      "name": "DOBAOJIA Alfombrilla de Escritorio XXL",
-      "image": "/images/alfombrillas-gaming/dobaojia-alfombrilla-de-escritorio-xxl.jpg",
-      "price": 18.99,
-      "rating": 4,
-      "reviews": 13485,
-      "affiliate_url": "https://www.amazon.es/dp/B08T1PLFC7?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
+      "position": 4,
       "name": "TECKNET Alfombrilla Ratón con Reposamuñecas",
       "image": "/images/alfombrillas-gaming/tecknet-alfombrilla-raton-con-reposamunecas.jpg",
       "price": 7.99,
       "rating": 4,
-      "reviews": 8930,
+      "reviews": 8948,
       "affiliate_url": "https://www.amazon.es/dp/B0182Z19JU?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "DOBAOJIA Alfombrilla de Escritorio XXL",
+      "image": "/images/alfombrillas-gaming/dobaojia-alfombrilla-de-escritorio-xxl.jpg",
+      "price": 18.99,
+      "rating": 4,
+      "reviews": 13509,
+      "affiliate_url": "https://www.amazon.es/dp/B08T1PLFC7?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
       "name": "Logitech G G240 Cloth Gaming Mouse Pad",
       "image": "/images/alfombrillas-gaming/logitech-g-g240-cloth-gaming-mouse-pad.jpg",
-      "price": 9.29,
+      "price": 9.39,
       "rating": 4,
-      "reviews": 5264,
+      "reviews": 5288,
       "affiliate_url": "https://www.amazon.es/dp/B07W6JPM9P?tag=rankzon-21",
       "badge": null
     },
@@ -98,7 +68,7 @@
       "image": "/images/alfombrillas-gaming/logitech-desk-mat-studio-series.jpg",
       "price": 11.35,
       "rating": 4,
-      "reviews": 6253,
+      "reviews": 6274,
       "affiliate_url": "https://www.amazon.es/dp/B07W5JK3Z2?tag=rankzon-21",
       "badge": null
     },
@@ -106,9 +76,9 @@
       "position": 8,
       "name": "cimetech Alfombrilla Ratón",
       "image": "/images/alfombrillas-gaming/cimetech-alfombrilla-raton.jpg",
-      "price": 5.59,
+      "price": 6.49,
       "rating": 4,
-      "reviews": 31008,
+      "reviews": 31021,
       "affiliate_url": "https://www.amazon.es/dp/B0C5LRWM95?tag=rankzon-21",
       "badge": null
     },
@@ -118,7 +88,7 @@
       "image": "/images/alfombrillas-gaming/gimars-reposamunecas-teclado-y-raton.jpg",
       "price": 13.91,
       "rating": 4,
-      "reviews": 34709,
+      "reviews": 34713,
       "affiliate_url": "https://www.amazon.es/dp/B01M11FLUJ?tag=rankzon-21",
       "badge": null
     },
@@ -128,7 +98,7 @@
       "image": "/images/alfombrillas-gaming/mars-gaming-mmp224.jpg",
       "price": 8.29,
       "rating": 4,
-      "reviews": 215,
+      "reviews": 216,
       "affiliate_url": "https://www.amazon.es/dp/B0DCVXW91J?tag=rankzon-21",
       "badge": null
     }

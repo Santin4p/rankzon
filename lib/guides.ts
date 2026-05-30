@@ -702,6 +702,166 @@ export const guides: Guide[] = [
       },
     ],
   },
+  {
+    slug: "como-elegir-monitor-gaming",
+    title: "Cómo Elegir Monitor Gaming: Guía de Compra 2026",
+    shortTitle: "Monitores Gaming",
+    description: "Resolución, tasa de refresco, panel IPS vs OLED y tiempo de respuesta. Todo para elegir el monitor gaming que mejore tu experiencia sin gastar de más.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "gaming",
+    categorySlug: "monitores",
+    categoryName: "Monitores",
+    intro: "Elegir monitor gaming mal es fácil: hay muchas cifras de marketing que no dicen nada sobre la experiencia real. Esta guía te da los criterios concretos para elegir un monitor que mejore tu juego y tu vista a largo plazo.",
+    sections: [
+      {
+        heading: "Resolución: 1080p, 1440p o 4K",
+        body: "1080p sigue siendo válido para gaming competitivo en pantallas de hasta 24 pulgadas y GPUs de gama media. 1440p es el punto dulce en 2026: mejor imagen sin el coste de GPU del 4K, ideal para 27 pulgadas. 4K para gaming requiere RTX 4080 o superior para correr títulos modernos por encima de 60fps.",
+        list: [
+          "1080p 144Hz: la combinación para gaming competitivo con presupuesto ajustado",
+          "1440p 165Hz: el equilibrio de 2026 para la mayoría de gamers",
+          "4K 120Hz: inmersión máxima, requiere GPU de alta gama",
+        ],
+      },
+      {
+        heading: "Tasa de refresco: cuántos Hz necesitas realmente",
+        body: "60Hz a 144Hz es el mayor salto perceptible: la fluidez mejora enormemente. 144Hz a 240Hz es real pero menos dramático; importa en shooters competitivos (CS2, Valorant) donde cada frame cuenta. 360Hz+ solo para jugadores de élite en FPS. Para RPGs, aventuras y juegos de mundo abierto, 144Hz es más que suficiente.",
+      },
+      {
+        heading: "Tipo de panel: IPS, VA, OLED",
+        body: "IPS: los mejores colores y ángulos de visión con respuesta de 1ms GtG, el estándar para la mayoría. VA: contraste nativo 3000:1 ideal para juegos oscuros, pero ghosting en movimientos rápidos. OLED: contraste infinito, respuesta de 0.03ms, sin ghosting; el mejor panel para gaming pero más caro y con riesgo de burn-in en interfaces estáticas.",
+      },
+      {
+        heading: "FreeSync vs G-Sync: cuál elegir",
+        body: "FreeSync Premium Pro funciona tanto con AMD como con Nvidia en prácticamente todos los monitores modernos. G-Sync requiere módulo interno y añade 100-150€ al precio sin mejora proporcional en experiencia. En 2026, cualquier monitor FreeSync Premium Pro de calidad es la elección correcta para ambas marcas de GPU.",
+      },
+      {
+        heading: "Curvo o plano: ¿realmente importa?",
+        body: "Para gaming en solitario y pantallas de 27 pulgadas o más, el curvado (1800R o 1000R) aumenta la inmersión y reduce la fatiga ocular en sesiones largas. Para productividad o uso compartido, el plano tiene más ventajas. Los monitores ultrawide 21:9 o 32:9 son la combinación de lo mejor de los dos mundos para quienes alternan gaming y trabajo.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 200€: AOC 24G2 1080p 144Hz IPS, el clásico del gaming de entrada. Entre 200 y 350€: LG 27GP850-B 1440p 165Hz, la referencia QHD. Entre 350 y 600€: Samsung Odyssey G7 para 4K120Hz. Más de 600€: LG OLED 27GR95QE o ASUS ROG Swift OLED, la experiencia definitiva.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-raton-gaming",
+    title: "Cómo Elegir Ratón Gaming: Guía de Compra 2026",
+    shortTitle: "Ratones Gaming",
+    description: "DPI, sensor óptico vs láser, ergonomía y cableado vs inalámbrico. Guía para elegir el ratón gaming que mejore tu puntería y no canse la mano.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "gaming",
+    categorySlug: "ratones-gaming",
+    categoryName: "Ratones Gaming",
+    intro: "El ratón es la extensión de tu brazo en el juego. La diferencia entre un ratón de 20€ y uno de 80€ es real y se nota en sesiones largas. Esta guía explica los factores que importan y los que son solo marketing.",
+    sections: [
+      {
+        heading: "DPI: más no es mejor",
+        body: "DPI (dots per inch) indica la sensibilidad del sensor. Un DPI alto no es sinónimo de mejor ratón; lo que importa es tener el DPI correcto para tu configuración y que el sensor sea preciso en ese rango. La mayoría de jugadores competitivos usan entre 400 y 1600 DPI con sens de juego ajustado. Un sensor de calidad a 800 DPI supera a un sensor barato a 16000 DPI.",
+        list: [
+          "FPS competitivo (CS2, Valorant): 400-800 DPI, alta precisión",
+          "MOBA / RTS: 800-1600 DPI, movimientos más rápidos",
+          "RPG / uso general: 1200-2400 DPI",
+        ],
+      },
+      {
+        heading: "Sensor óptico vs láser: elige siempre óptico",
+        body: "Los sensores ópticos modernos (Logitech HERO, Razer Focus+, PixArt PAW3395) tienen aceleración casi cero y son precisos en cualquier superficie. Los sensores láser añaden aceleración no lineal que puede perjudicar la puntería en gaming. En 2026, prácticamente todos los ratones gaming de calidad usan sensores ópticos.",
+      },
+      {
+        heading: "Ergonomía: el factor más personal",
+        body: "Agarre palm: la palma reposa sobre el ratón completamente; necesita un ratón grande y bien perfilado. Agarre claw: los dedos se doblan sobre los botones; funciona bien con ratones de tamaño medio. Agarre fingertip: solo las yemas tocan el ratón; prefiere diseños ligeros y planos. Los ratones para zurdo son escasos; comprueba la compatibilidad antes de comprar.",
+      },
+      {
+        heading: "Cableado vs inalámbrico: ya no hay diferencia real",
+        body: "Los ratones inalámbricos de gama alta (Logitech G Pro X Superlight 2, Razer DeathAdder V3 HyperSpeed) tienen latencia de 1ms, idéntica a los cableados. La ventaja del inalámbrico es la libertad de movimiento sin el peso del cable. Los cableados siguen siendo la elección si el presupuesto es ajustado: no necesitas cargar la batería y cuestan menos.",
+      },
+      {
+        heading: "Peso: la tendencia de 2026",
+        body: "La tendencia de 2026 sigue siendo los ratones ultraligeros (menos de 60g). Menos peso reduce la fatiga en sesiones largas y permite movimientos más rápidos. El diseño honeycomb (con agujeros en la carcasa) consiguió reducir el peso sin perder rigidez. Si no te molesta el peso adicional, un ratón de 80-100g con mejor forma ergonómica puede ser mejor opción.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 30€: Logitech G203 o Redragon M711; sensor decente, sin extras. Entre 30 y 60€: Logitech G305 inalámbrico o Razer DeathAdder V3; el punto de mejor relación calidad/precio. Entre 60 y 100€: Logitech G Pro Wireless, SteelSeries Rival 5; gama alta con sensor premium. Más de 100€: Logitech G Pro X Superlight 2 o Razer Viper V3 HyperSpeed; lo mejor del mercado.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-powerbank",
+    title: "Cómo Elegir Powerbank: Guía de Compra 2026",
+    shortTitle: "Powerbanks",
+    description: "Capacidad real vs anunciada, potencia de carga, certificaciones y qué marcas son fiables. Guía completa para elegir la batería externa correcta.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "tecnologia",
+    categorySlug: "powerbanks",
+    categoryName: "Powerbanks",
+    intro: "Un powerbank mal elegido es un gasto inútil: demasiado pequeño para lo que necesitas, demasiado pesado para llevarlo encima, o sin la potencia para cargar tu portátil. Esta guía va al grano.",
+    sections: [
+      {
+        heading: "Capacidad real: lo que el fabricante no te dice",
+        body: "La capacidad anunciada (10000 mAh) es la del módulo de celdas a 3.7V. La conversión a 5V USB reduce esa cifra un 30-35% por la eficiencia del convertidor. Un powerbank de 10000 mAh entrega en realidad unos 6500-7000 mAh útiles a tu dispositivo. Multiplica la capacidad anunciada por 0.65-0.7 para estimar la carga real que obtendrás.",
+        list: [
+          "5000 mAh = ~3200 mAh reales ≈ 1 carga completa de móvil medio",
+          "10000 mAh = ~6500 mAh reales ≈ 1.5-2 cargas de móvil",
+          "20000 mAh = ~13000 mAh reales ≈ 3-4 cargas de móvil",
+        ],
+      },
+      {
+        heading: "Potencia de carga: vatios que importan",
+        body: "18W (Quick Charge 3.0) es el mínimo para cargar un móvil moderno con carga rápida. 45W para tablets. 65W para portátiles delgados (MacBook Air, ASUS ZenBook). 100W para portátiles gaming. Comprueba que tanto el powerbank como tu dispositivo soportan el mismo estándar de carga; de lo contrario cargará a velocidad estándar.",
+      },
+      {
+        heading: "Formato y peso: el equilibrio que se olvida",
+        body: "Un powerbank de 20000 mAh pesa entre 400 y 500 gramos. Más capacidad siempre significa más peso y más volumen. Antes de comprar, decide si vas a llevarlo en el bolsillo (máximo 10000 mAh, formato slim), en el bolso (hasta 20000 mAh), o en la mochila para viajes largos (20000-30000 mAh sin límite de tamaño).",
+      },
+      {
+        heading: "Certificaciones: qué buscar para fiabilidad",
+        body: "La certificación USB-IF garantiza que el powerbank cumple los estándares USB de seguridad y potencia. Los powerbanks con MFi de Apple son los únicos recomendados para conectar iPhones con cable Lightning o USB-C sin riesgos. Evita marcas sin nombre que no listan certificaciones: el riesgo de sobrecalentamiento y daño en dispositivos es real.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 20€: INIU o Charmast de 10000 mAh; carga rápida básica, formato slim, válido para el día a día. Entre 20 y 40€: Anker PowerCore o Baseus 20000 mAh 65W; el punto dulce para la mayoría. Entre 40 y 70€: Anker 737 PowerCore 24K o Baseus Blade; 65-100W para portátiles. Más de 70€: Mophie Powerstation Pro o cargadores de bolsa de 45000 mAh para expediciones.",
+      },
+    ],
+  },
+  {
+    slug: "como-elegir-teclado-gaming",
+    title: "Cómo Elegir Teclado Gaming: Guía de Compra 2026",
+    shortTitle: "Teclados Gaming",
+    description: "Switches mecánicos, ópticos o de membrana, tamaño TKL o full-size, RGB y latencia. Guía completa para elegir el teclado gaming que mejore tu juego.",
+    updatedAt: "mayo 2026",
+    sectionSlug: "gaming",
+    categorySlug: "teclados-gaming",
+    categoryName: "Teclados Gaming",
+    intro: "El teclado gaming tiene más variables que cualquier otro periférico: switches, tamaño, inalámbrico o cableado, hot-swap y precio. Esta guía te da el marco para tomar la decisión correcta para tu estilo de juego.",
+    sections: [
+      {
+        heading: "Switches mecánicos: la decisión más importante",
+        body: "Los switches determinan la sensación táctil y el sonido. Los lineales (Cherry MX Red, Gateron Yellow) tienen un recorrido suave sin bump táctil: favoritos para gaming rápido y menos ruido. Los táctiles (Cherry MX Brown, Gateron Brown) tienen un pequeño bump sin click: equilibrio entre gaming y escritura. Los clicky (Cherry MX Blue) tienen click audible y bump táctil: los más satisfactorios de escribir pero los más ruidosos.",
+        list: [
+          "Gaming competitivo FPS: lineales (Red/Speed Silver)",
+          "Uso mixto gaming + trabajo: táctiles (Brown)",
+          "Escritura prolongada con switch mecánico: clicky (Blue) con auriculares",
+        ],
+      },
+      {
+        heading: "Ópticos vs mecánicos: la nueva generación",
+        body: "Los switches ópticos (Razer, ROCCAT Titan, SteelSeries OmniPoint) usan luz infrarroja en lugar de contacto físico: menos desgaste mecánico y latencia de 0.2ms vs 1-2ms de los mecánicos. En la práctica, la diferencia de latencia entre óptico y mecánico no es perceptible para la mayoría. Los ópticos sí eliminan el debounce delay, lo que puede marcar diferencia en gaming competitivo.",
+      },
+      {
+        heading: "Tamaño: full-size, TKL, 75% o 60%",
+        body: "Full-size: teclado completo con numpad; ideal si lo usas también para trabajo con hojas de cálculo. TKL (80%): sin numpad; más espacio para el ratón y el tamaño más popular entre gamers. 75%: sin numpad pero con función arrows y row de F; el equilibrio compacto. 60%: el más pequeño, sin arrows físicas; para gaming puro y minimalismo extremo.",
+      },
+      {
+        heading: "Hot-swap: cambiar switches sin soldar",
+        body: "Los teclados hot-swap permiten extraer y cambiar switches sin soldadura: puedes probar diferentes tactilidades con el mismo teclado. Es una función muy recomendable si no tienes claro qué switch quieres o si vas a experimentar. La mayoría de teclados de gama media-alta de 2026 incluyen hot-swap.",
+      },
+      {
+        heading: "Qué esperar por presupuesto",
+        body: "Menos de 50€: KROM, HyperX Alloy Origins Core; mecánico básico con RGB. Entre 50 y 100€: Logitech G413, Razer BlackWidow V4; switches propios o Cherry MX, hot-swap en algunos. Entre 100 y 180€: SteelSeries Apex Pro, Ducky One 3; hot-swap, actuación por tecla ajustable, build premium. Más de 180€: HHKB, Keychron Q y similares; customización total, gasket mount, la mejor experiencia de escritura.",
+      },
+    ],
+  },
 ]
 
 export function getGuideBySlug(slug: string): Guide | undefined {

@@ -1,6 +1,6 @@
 {
   "categoria": "microondas",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,118 +8,88 @@
       "image": "/images/microondas/cecotec-microondas-proclean-2010-700-w-de-poten.jpg",
       "price": 49.9,
       "rating": 4,
-      "reviews": 4827,
+      "reviews": 4859,
       "affiliate_url": "https://www.amazon.es/dp/B07YFPZTY6?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "700W de potencia con 5 niveles para todo tipo de alimentos",
-        "Diseño compacto de 20L que se integra en cocinas pequeñas",
-        "Fácil de limpiar gracias al interior liso sin rincones complicados"
-      ],
-      "cons": [
-        "Sin función grill, solo calentamiento y descongelado",
-        "El panel de control táctil puede acumular marcas de dedos fácilmente"
-      ],
-      "user_summary": "Los compradores lo eligen para calentar y descongelar alimentos sin complicaciones en hogares pequeños. La mayoría están satisfechos con su sencillez de uso y destacan que la relación precio-calidad de Cecotec es imbatible en este segmento."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Corberó CMICM4020W Microondas 20L 700W Blanco",
-      "image": "/images/microondas/corbero-cmicm4020w-microondas-20l-700w-blanco.jpg",
-      "price": 47.29,
+      "name": "Midea Microondas 20 litros y 700 W de potencia |",
+      "image": "/images/microondas/midea-microondas-20-litros-y-700-w-de-potencia.jpg",
+      "price": 49.99,
       "rating": 4,
-      "reviews": 449,
-      "affiliate_url": "https://www.amazon.es/dp/B09XDZHW6T?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Diseño blanco elegante que combina con cocinas modernas",
-        "Capacidad de 20L con plato girante de 25,5 cm apto para recipientes estándar",
-        "Precio muy competitivo con garantía europea de Corberó"
-      ],
-      "cons": [
-        "Sin función grill o combinada, solo microondas convencional",
-        "El temporizador mecánico es menos preciso que los digitales modernos"
-      ],
-      "user_summary": "Los compradores buscan un microondas básico y fiable a buen precio para el uso diario de calentar comida. La mayoría valoran el diseño limpio en blanco y la sencillez de uso sin funciones innecesarias que compliquen la operación."
+      "reviews": 2193,
+      "affiliate_url": "https://www.amazon.es/dp/B0GFX58XMH?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "Cecotec Microondas ProClean 5010. 700 W",
-      "image": "/images/microondas/cecotec-microondas-proclean-5010-700-w.jpg",
-      "price": 64.9,
-      "rating": 4,
-      "reviews": 2513,
-      "affiliate_url": "https://www.amazon.es/dp/B07HC8KZNV?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Mayor capacidad de 25L para recipientes más grandes y platos familiares",
-        "Potencia de 900W para calentamientos más rápidos que el modelo básico",
-        "Función grill integrada para gratinar y dorar alimentos"
-      ],
-      "cons": [
-        "Ocupa algo más de espacio en la encimera que los modelos de 20L",
-        "La función grill requiere cierta práctica para obtener resultados perfectos"
-      ],
-      "user_summary": "Los compradores que quieren algo más versátil que el básico 2010 lo eligen por la función grill y la mayor capacidad. La mayoría lo usan para calentar, descongelar y preparar platos gratinados, valorando la versatilidad adicional a un precio razonable."
-    },
-    {
-      "position": 4,
       "name": "Cecotec Microondas de 20 Litros ProClean 3050. 7",
       "image": "/images/microondas/cecotec-microondas-de-20-litros-proclean-3050-7.jpg",
       "price": 54.9,
       "rating": 4,
-      "reviews": 2340,
+      "reviews": 2363,
       "affiliate_url": "https://www.amazon.es/dp/B07JZD2KGH?tag=rankzon-21",
       "badge": null
     },
     {
+      "position": 4,
+      "name": "Corberó CMICM4020W Microondas 20L 700W Blanco",
+      "image": "/images/microondas/corbero-cmicm4020w-microondas-20l-700w-blanco.jpg",
+      "price": 47.29,
+      "rating": 4,
+      "reviews": 465,
+      "affiliate_url": "https://www.amazon.es/dp/B09XDZHW6T?tag=rankzon-21",
+      "badge": null
+    },
+    {
       "position": 5,
-      "name": "Cecotec Microondas Digital Proclean 5005 Black.",
-      "image": "/images/microondas/cecotec-microondas-digital-proclean-5005-black.jpg",
+      "name": "Cecotec Microondas Digital Proclean 5005 Silver.",
+      "image": "/images/microondas/cecotec-microondas-digital-proclean-5005-silver.jpg",
       "price": 59.9,
       "rating": 4,
-      "reviews": 17,
-      "affiliate_url": "https://www.amazon.es/dp/B0GJ62PD4S?tag=rankzon-21",
+      "reviews": 29,
+      "affiliate_url": "https://www.amazon.es/dp/B0GJ5WSKR6?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
       "name": "Orbegozo MI 2115",
       "image": "/images/microondas/orbegozo-mi-2115.jpg",
-      "price": 51.35,
+      "price": 53.59,
       "rating": 4,
-      "reviews": 11164,
+      "reviews": 11176,
       "affiliate_url": "https://www.amazon.es/dp/B082WXLF59?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Midea Microondas 20 litros y 700 W de potencia |",
-      "image": "/images/microondas/midea-microondas-20-litros-y-700-w-de-potencia.jpg",
-      "price": 59.99,
-      "rating": 4,
-      "reviews": 2179,
-      "affiliate_url": "https://www.amazon.es/dp/B0GFX58XMH?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
       "name": "Cecotec Microondas Mecánico de 20 L Proclean 301",
       "image": "/images/microondas/cecotec-microondas-mecanico-de-20-l-proclean-301.jpg",
       "price": 59.9,
       "rating": 4,
-      "reviews": 3268,
+      "reviews": 3288,
       "affiliate_url": "https://www.amazon.es/dp/B0BQ2MHMW8?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "Balay 3CG5172N2 - Microondas",
-      "image": "/images/microondas/balay-3cg5172n2-microondas.jpg",
-      "price": 199,
+      "position": 8,
+      "name": "Cecotec Microondas ProClean 5010. 700 W",
+      "image": "/images/microondas/cecotec-microondas-proclean-5010-700-w.jpg",
+      "price": 64.9,
       "rating": 4,
-      "reviews": 414,
-      "affiliate_url": "https://www.amazon.es/dp/B09YVLLNSP?tag=rankzon-21",
+      "reviews": 2521,
+      "affiliate_url": "https://www.amazon.es/dp/B07HC8KZNV?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Cecotec Microondas ProClean 3010. 700 W",
+      "image": "/images/microondas/cecotec-microondas-proclean-3010-700-w.jpg",
+      "price": 52.9,
+      "rating": 4,
+      "reviews": 6360,
+      "affiliate_url": "https://www.amazon.es/dp/B07JZ9L9DQ?tag=rankzon-21",
       "badge": null
     },
     {
@@ -128,7 +98,7 @@
       "image": "/images/microondas/cecotec-microondas-proclean-3160-mirror-700w-co.jpg",
       "price": 59.9,
       "rating": 4,
-      "reviews": 2164,
+      "reviews": 2174,
       "affiliate_url": "https://www.amazon.es/dp/B07HC7J3PZ?tag=rankzon-21",
       "badge": null
     }

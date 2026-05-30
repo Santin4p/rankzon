@@ -1,6 +1,6 @@
 {
   "categoria": "realidad-virtual",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,68 +8,38 @@
       "image": "/images/realidad-virtual/iniu-cable-link-de-5m.jpg",
       "price": 22.99,
       "rating": 4,
-      "reviews": 2500,
+      "reviews": 2516,
       "affiliate_url": "https://www.amazon.es/dp/B0BRQMVCXL?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Cable de alta calidad de 5m para conectar Quest con PC sin restricción de movimiento",
-        "Fibra óptica que garantiza transmisión de datos rápida con mínima latencia",
-        "Compatible con todos los modelos Meta Quest 2, 3 y Quest Pro"
-      ],
-      "cons": [
-        "Cable de 5m puede ser voluminoso y enredarse durante sesiones activas",
-        "Requiere ordenador con puerto USB compatible y drivers correctos instalados"
-      ],
-      "user_summary": "Los compradores lo adquieren para aprovechar el PC VR de su Meta Quest sin limitaciones de batería ni calidad de imagen. La mayoría lo recomiendan como accesorio imprescindible para quienes tienen un PC gaming potente y quieren la mejor experiencia VR."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Cableguys Sony Astro BOT Soporte Mando y Movil",
-      "image": "/images/realidad-virtual/cableguys-sony-astro-bot-soporte-mando-y-movil.jpg",
-      "price": 18.99,
-      "rating": 4,
-      "reviews": 235,
-      "affiliate_url": "https://www.amazon.es/dp/B0FHWBK77M?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Soporte para mando y móvil que mantiene el escritorio organizado",
-        "Diseño temático de Astro Bot perfecto para coleccionistas y fans de PlayStation",
-        "Compatible con todos los mandos DualSense y smartphones estándar"
-      ],
-      "cons": [
-        "Producto de coleccionismo, funcionalidad básica de soporte sin más prestaciones",
-        "El precio puede ser elevado para lo que ofrece funcionalmente"
-      ],
-      "user_summary": "Los compradores que son fans de PlayStation y Astro Bot lo adquieren principalmente por su valor decorativo y de coleccionismo. La mayoría lo valoran como regalo o detalle para el setup gaming, cumpliendo su función de soporte con un toque de personalidad."
-    },
-    {
-      "position": 3,
       "name": "Meta Quest 3 512 GB — Las Quest más potentes — V",
       "image": "/images/realidad-virtual/meta-quest-3-512-gb-las-quest-mas-potentes-v.jpg",
       "price": 599,
       "rating": 4,
-      "reviews": 4079,
+      "reviews": 4087,
       "affiliate_url": "https://www.amazon.es/dp/B09N24BHKQ?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "512GB de almacenamiento para una biblioteca de juegos VR completa sin ordenador",
-        "Chip Snapdragon XR2 Gen 2 que ofrece el mejor rendimiento autónomo del mercado",
-        "Biblioteca de juegos VR más completa con títulos exclusivos de alto nivel"
-      ],
-      "cons": [
-        "Precio elevado respecto a la versión de 128GB que ya ofrece buenas prestaciones",
-        "El peso puede cansar el cuello tras sesiones largas de realidad virtual"
-      ],
-      "user_summary": "Los compradores que quieren la mejor experiencia de VR standalone sin necesitar un PC potente invierten en el Meta Quest 3 de 512GB. La mayoría lo consideran el salto definitivo a la realidad virtual de calidad, aunque señalan que el peso puede cansar en sesiones muy largas."
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Cableguys Sony Astro BOT Soporte Mando y Movil",
+      "image": "/images/realidad-virtual/cableguys-sony-astro-bot-soporte-mando-y-movil.jpg",
+      "price": 14.99,
+      "rating": 4,
+      "reviews": 246,
+      "affiliate_url": "https://www.amazon.es/dp/B0FHWBK77M?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Meta Quest 3 512 GB – Die leistungsstärkste Ques",
-      "image": "/images/realidad-virtual/meta-quest-3-512-gb-die-leistungsstarkste-ques.jpg",
-      "price": 619.99,
+      "name": "Meta Quest 3S 128 GB — Sumérgete en la Realidad",
+      "image": "/images/realidad-virtual/meta-quest-3s-128-gb-sumergete-en-la-realidad.jpg",
+      "price": 348.19,
       "rating": 4,
-      "reviews": 502,
-      "affiliate_url": "https://www.amazon.es/dp/B09N5CNS5T?tag=rankzon-21",
+      "reviews": 2773,
+      "affiliate_url": "https://www.amazon.es/dp/B09MJRPRR4?tag=rankzon-21",
       "badge": null
     },
     {
@@ -78,58 +48,58 @@
       "image": "/images/realidad-virtual/bobovr-m3-pro-bateria-correa-para-la-cabeza-comp.jpg",
       "price": 65.99,
       "rating": 4,
-      "reviews": 5416,
+      "reviews": 5442,
       "affiliate_url": "https://www.amazon.es/dp/B0CJLG9SBR?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "ZOZOVR Funda de Transporte para Meta Quest 3S/Qu",
-      "image": "/images/realidad-virtual/zozovr-funda-de-transporte-para-meta-quest-3s-qu.jpg",
-      "price": 29.99,
+      "name": "BOBOVR S3 Pro Batería Correa para la Cabez",
+      "image": "/images/realidad-virtual/bobovr-s3-pro-bateria-correa-para-la-cabez.jpg",
+      "price": 113.96,
       "rating": 4,
-      "reviews": 181,
-      "affiliate_url": "https://www.amazon.es/dp/B0CN4FRFRJ?tag=rankzon-21",
+      "reviews": 6089,
+      "affiliate_url": "https://www.amazon.es/dp/B0CSY8PD63?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Funda para Meta Quest 3S/Quest 3/Quest 2/Vision",
-      "image": "/images/realidad-virtual/funda-para-meta-quest-3s-quest-3-quest-2-vision.jpg",
-      "price": 35.99,
-      "rating": 4,
-      "reviews": 424,
-      "affiliate_url": "https://www.amazon.es/dp/B09BTDH449?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "JSVER Funda para Quest 3/Quest 3S",
-      "image": "/images/realidad-virtual/jsver-funda-para-quest-3-quest-3s.jpg",
-      "price": 17.99,
-      "rating": 4,
-      "reviews": 153,
-      "affiliate_url": "https://www.amazon.es/dp/B0CSS4B84B?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "BoboVR S3 Pro Battery Relief Strap for Meta Ques",
       "image": "/images/realidad-virtual/bobovr-s3-pro-battery-relief-strap-for-meta-ques.jpg",
-      "price": 87.39,
+      "price": 88.9,
       "rating": 4,
-      "reviews": 73,
+      "reviews": 75,
       "affiliate_url": "https://www.amazon.es/dp/B0DF5QZMT9?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "Meta Quest 3S 128 GB — Sumérgete en la Realidad",
-      "image": "/images/realidad-virtual/meta-quest-3s-128-gb-sumergete-en-la-realidad.jpg",
-      "price": 366.7,
+      "position": 8,
+      "name": "KIWI design K4 Correa para la Cabeza Cómoda Comp",
+      "image": "/images/realidad-virtual/kiwi-design-k4-correa-para-la-cabeza-comoda-comp.jpg",
+      "price": 39.99,
       "rating": 4,
-      "reviews": 2751,
-      "affiliate_url": "https://www.amazon.es/dp/B09MJRPRR4?tag=rankzon-21",
+      "reviews": 3272,
+      "affiliate_url": "https://www.amazon.es/dp/B0D3TGPT5F?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Juego de Protectores para Lentes AMVR compatible",
+      "image": "/images/realidad-virtual/juego-de-protectores-para-lentes-amvr-compatible.jpg",
+      "price": 27.99,
+      "rating": 4,
+      "reviews": 767,
+      "affiliate_url": "https://www.amazon.es/dp/B0D7C599ZD?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Funda para Meta Quest 3S/Quest 3/Quest 2/Vision",
+      "image": "/images/realidad-virtual/funda-para-meta-quest-3s-quest-3-quest-2-vision.jpg",
+      "price": 35.99,
+      "rating": 4,
+      "reviews": 427,
+      "affiliate_url": "https://www.amazon.es/dp/B09BTDH449?tag=rankzon-21",
       "badge": null
     }
   ]

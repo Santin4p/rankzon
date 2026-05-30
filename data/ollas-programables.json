@@ -1,46 +1,26 @@
 {
   "categoria": "ollas-programables",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "Crockpot Olla de Cocción Lenta Digital 7",
       "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-digital-7.jpg",
-      "price": 54.5,
+      "price": 88.96,
       "rating": 4,
-      "reviews": 2179,
+      "reviews": 2185,
       "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Cocción lenta de 6-8 horas que concentra sabores sin vigilancia",
-        "Capacidad de 7L para guisos familiares de olla o grandes asados",
-        "Panel digital con temporizador para programar la cocción con antelación"
-      ],
-      "cons": [
-        "La cocción lenta requiere planificación con varias horas de antelación",
-        "El tamaño de 7L puede ser excesivo para 1-2 personas"
-      ],
-      "user_summary": "Los compradores la usan para preparar guisos y estofados mientras están fuera de casa, llegando a la comida perfectamente hecha. La mayoría la consideran imprescindible para quienes tienen poco tiempo de cocinar y quieren comida casera de calidad sin esfuerzo."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "Crockpot Olla de Cocción Lenta | 4.7 Litros (has",
       "image": "/images/ollas-programables/crockpot-olla-de-coccion-lenta-4-7-litros-has.jpg",
-      "price": 56.8,
+      "price": 50.63,
       "rating": 4,
-      "reviews": 13547,
+      "reviews": 13549,
       "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Olla clásica de barro con la experiencia de cocción lenta tradicional",
-        "Diseño atemporal que va del horno a la mesa para servir directamente",
-        "Capacidad de 4.7L perfecta para familias de 4-6 personas"
-      ],
-      "cons": [
-        "Sin función de programación digital, hay que ponerla y acordarse de apagarla",
-        "El recipiente de cerámica es más pesado que las ollas metálicas convencionales"
-      ],
-      "user_summary": "Los compradores valoran la tradición de la cocción lenta en barro con el confort de la electricidad. La mayoría la usan para guisos de legumbres, estofados y carnes que se hacen solos en 6-8 horas mientras hacen otras cosas."
+      "badge": null
     },
     {
       "position": 3,
@@ -48,88 +28,78 @@
       "image": "/images/ollas-programables/cecotec-olla-de-coccion-lenta-5.jpg",
       "price": 49.9,
       "rating": 4,
-      "reviews": 35,
+      "reviews": 32,
       "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Olla de cocción lenta digital con pantalla LCD y ajuste de temperatura preciso",
-        "Material antiadherente fácil de limpiar sin esfuerzo tras la cocción",
-        "Programación horaria para tenerlo listo a cualquier hora del día"
-      ],
-      "cons": [
-        "Pocos usuarios la han probado aún (35 reseñas), menos recorrido que otros modelos",
-        "La capacidad de 5L puede quedarse corta para grupos muy numerosos"
-      ],
-      "user_summary": "Los compradores buscan la funcionalidad de olla programable de Cecotec con su habitual relación calidad-precio. La mayoría que la han probado quedan satisfechos con los resultados aunque el modelo tiene menos reseñas que los competidores con más historia de mercado."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Crock-Pot Turbo Express olla a presión y olla mu",
-      "image": "/images/ollas-programables/crock-pot-turbo-express-olla-a-presion-y-olla-mu.jpg",
-      "price": 172,
-      "rating": 4,
-      "reviews": 1507,
-      "affiliate_url": "https://www.amazon.es/dp/B09CZ41892?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Instant Pot Pro Crisp 11 en 1 Olla Eléctrica a P",
-      "image": "/images/ollas-programables/instant-pot-pro-crisp-11-en-1-olla-electrica-a-p.jpg",
-      "price": 299.99,
-      "rating": 4,
-      "reviews": 645,
-      "affiliate_url": "https://www.amazon.es/dp/B08XC72JT5?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Olvy Slow Cooker 6L - Olla interior de cerámica",
-      "image": "/images/ollas-programables/olvy-slow-cooker-6l-olla-interior-de-ceramica.jpg",
-      "price": 39.99,
-      "rating": 4,
-      "reviews": 9,
-      "affiliate_url": "https://www.amazon.es/dp/B0GWQRSG1P?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
-      "name": "Russell Hobbs Good To Go Multi Cooker - Capacida",
-      "image": "/images/ollas-programables/russell-hobbs-good-to-go-multi-cooker-capacida.jpg",
-      "price": 57.84,
-      "rating": 4,
-      "reviews": 662,
-      "affiliate_url": "https://www.amazon.es/dp/B098FFX67J?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "Bestron Slowcooker para 2 personas",
-      "image": "/images/ollas-programables/bestron-slowcooker-para-2-personas.jpg",
-      "price": 26.99,
-      "rating": 3,
-      "reviews": 50,
-      "affiliate_url": "https://www.amazon.es/dp/B0CRL2RCFG?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Swan Retro SF17021YELNEU Olla Cocción Lenta 3",
       "image": "/images/ollas-programables/swan-retro-sf17021yelneu-olla-coccion-lenta-3.jpg",
       "price": 44.48,
       "rating": 4,
-      "reviews": 822,
+      "reviews": 824,
       "affiliate_url": "https://www.amazon.es/dp/B0BN93VLYR?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
+      "position": 5,
+      "name": "Crock-Pot Turbo Express olla a presión y olla mu",
+      "image": "/images/ollas-programables/crock-pot-turbo-express-olla-a-presion-y-olla-mu.jpg",
+      "price": 139,
+      "rating": 4,
+      "reviews": 1508,
+      "affiliate_url": "https://www.amazon.es/dp/B09CZ41892?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Tower T16043BLK Olla de Cocción Lenta de 6.5 Lit",
+      "image": "/images/ollas-programables/tower-t16043blk-olla-de-coccion-lenta-de-6-5-lit.jpg",
+      "price": 50.55,
+      "rating": 4,
+      "reviews": 2085,
+      "affiliate_url": "https://www.amazon.es/dp/B0CQK211WR?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
       "name": "Elite Gourmet MST-900RXT Olla eléctrica de cerám",
       "image": "/images/ollas-programables/elite-gourmet-mst-900rxt-olla-electrica-de-ceram.jpg",
-      "price": 45.99,
+      "price": null,
       "rating": 4,
-      "reviews": 97,
+      "reviews": 98,
       "affiliate_url": "https://www.amazon.es/dp/B0BGJN7M2N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Saaf Multicooker – Set 11 Piezas – 12 Programas",
+      "image": "/images/ollas-programables/saaf-multicooker-set-11-piezas-12-programas.jpg",
+      "price": 81.99,
+      "rating": 4,
+      "reviews": 14,
+      "affiliate_url": "https://www.amazon.es/dp/B0FJ8FZL4V?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Swan Retro SF17031GNEU Olla Cocción Lenta 6",
+      "image": "/images/ollas-programables/swan-retro-sf17031gneu-olla-coccion-lenta-6.jpg",
+      "price": 56.45,
+      "rating": 4,
+      "reviews": 480,
+      "affiliate_url": "https://www.amazon.es/dp/B0BM4R8S8W?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Russell Hobbs Good To Go Multi Cooker - Capacida",
+      "image": "/images/ollas-programables/russell-hobbs-good-to-go-multi-cooker-capacida.jpg",
+      "price": 69.99,
+      "rating": 4,
+      "reviews": 663,
+      "affiliate_url": "https://www.amazon.es/dp/B098FFX67J?tag=rankzon-21",
       "badge": null
     }
   ]

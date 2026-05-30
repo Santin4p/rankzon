@@ -8,6 +8,7 @@ export default function NavbarDesktopMenu() {
   const pathname = usePathname()
   const activeSections = sections.filter((s) => s.categories.length > 0)
   const guidesActive = pathname.startsWith("/guias")
+  const blogActive = pathname.startsWith("/blog")
 
   return (
     <ul className="hidden md:flex items-center gap-1">
@@ -55,6 +56,18 @@ export default function NavbarDesktopMenu() {
           }`}
         >
           Guías
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/blog"
+          className={`text-sm font-medium px-3 py-2 rounded-lg transition-colors ${
+            blogActive
+              ? "text-primary bg-primary-tint"
+              : "text-foreground hover:text-primary hover:bg-background"
+          }`}
+        >
+          Blog
         </Link>
       </li>
     </ul>

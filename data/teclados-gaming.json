@@ -1,26 +1,16 @@
 {
   "categoria": "teclados-gaming",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "KROM Kalista - Teclado Gaming de Membrana RGB Ra",
-      "image": "/images/teclados-gaming/krom-kalista-teclado-gaming-de-membrana-rgb-ra.jpg",
-      "price": 12.9,
+      "name": "KROM KASIC – Teclado mecánico Gaming RGB con swi",
+      "image": "/images/teclados-gaming/krom-kasic-teclado-mecanico-gaming-rgb-con-swi.jpg",
+      "price": 29.9,
       "rating": 4,
-      "reviews": 4897,
-      "affiliate_url": "https://www.amazon.es/dp/B0D8TBPLD9?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Retroiluminación RGB completa a un precio muy asequible para el segmento gaming",
-        "Distribución española con Ñ y teclas de acceso rápido para multimedia",
-        "Membrana de membrana suave y silenciosa, ideal para no molestar"
-      ],
-      "cons": [
-        "Membrana de membrana sin el tacto preciso de un teclado mecánico",
-        "La durabilidad de las teclas puede ser inferior a los modelos mecánicos a largo plazo"
-      ],
-      "user_summary": "Los compradores que quieren entrar al gaming con un teclado RGB a precio mínimo lo eligen como primera opción. La mayoría están satisfechos para gaming casual y uso general, aunque señalan que quienes buscan la precisión mecánica deberían considerar otros modelos."
+      "reviews": 4906,
+      "affiliate_url": "https://www.amazon.es/dp/B09B413RB7?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -28,19 +18,9 @@
       "image": "/images/teclados-gaming/logitech-g-g413-tkl-se-teclado-mecanico-gaming.jpg",
       "price": 49.99,
       "rating": 4,
-      "reviews": 412,
+      "reviews": 413,
       "affiliate_url": "https://www.amazon.es/dp/B07W7KMK4W?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Switches mecánicos táctiles para un feedback preciso en cada pulsación",
-        "Formato TKL sin teclado numérico para más espacio en el escritorio",
-        "Construcción en aluminio de alta calidad que aporta solidez y durabilidad"
-      ],
-      "cons": [
-        "Sin retroiluminación RGB, solo blanco, lo que puede decepcionar a quienes buscan colores",
-        "El precio es elevado para no incluir RGB en comparativa con competidores"
-      ],
-      "user_summary": "Los compradores que valoran la calidad mecánica y el acabado premium sobre el RGB lo eligen por los switches mecánicos y la construcción en aluminio. La mayoría los usan tanto para gaming como para mecanografía intensiva, apreciando el feedback táctil."
+      "badge": null
     },
     {
       "position": 3,
@@ -48,28 +28,18 @@
       "image": "/images/teclados-gaming/redthunder-k10-teclado-gaming-sensacion-mecanico.jpg",
       "price": 59.99,
       "rating": 4,
-      "reviews": 2632,
+      "reviews": 2638,
       "affiliate_url": "https://www.amazon.es/dp/B0BV2TQYSW?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Sensación de pulsación mecánica sin el precio de los teclados mecánicos reales",
-        "Retroiluminación RGB completa con distintos modos de iluminación",
-        "Teclas de perfil bajo para un mecanografiado más rápido y cómodo"
-      ],
-      "cons": [
-        "Los switches no son mecánicos reales sino de membrana con click simulado",
-        "La vida útil de las teclas puede ser inferior a los mecánicos genuinos"
-      ],
-      "user_summary": "Los compradores que quieren la experiencia visual y sonora de un teclado mecánico sin el precio elevado lo eligen por la sensación de clic y el RGB completo. La mayoría están satisfechos como teclado gaming para uso casual aunque los puristas prefieren mecánicos genuinos."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Mars Gaming MCPTKL",
-      "image": "/images/teclados-gaming/mars-gaming-mcptkl.jpg",
-      "price": 14.64,
+      "name": "ATTACK SHARK X68 HE Teclado 8000Hz Rapid Trigger",
+      "image": "/images/teclados-gaming/attack-shark-x68-he-teclado-8000hz-rapid-trigger.jpg",
+      "price": 55.43,
       "rating": 4,
-      "reviews": 953,
-      "affiliate_url": "https://www.amazon.es/dp/B08D99PFSD?tag=rankzon-21",
+      "reviews": 1327,
+      "affiliate_url": "https://www.amazon.es/dp/B0DR2WF1C4?tag=rankzon-21",
       "badge": null
     },
     {
@@ -78,58 +48,58 @@
       "image": "/images/teclados-gaming/logitech-mx-keys-s-combo.jpg",
       "price": 169,
       "rating": 4,
-      "reviews": 639,
+      "reviews": 645,
       "affiliate_url": "https://www.amazon.es/dp/B07W5JKZ7Z?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "RK ROYAL KLUDGE S98 ES Teclado Mecánico con Smar",
-      "image": "/images/teclados-gaming/rk-royal-kludge-s98-es-teclado-mecanico-con-smar.jpg",
-      "price": 81.89,
+      "name": "CORSAIR K70 RGB PRO Teclado Mecánico con Cable p",
+      "image": "/images/teclados-gaming/corsair-k70-rgb-pro-teclado-mecanico-con-cable-p.jpg",
+      "price": 101.19,
       "rating": 4,
-      "reviews": 71,
-      "affiliate_url": "https://www.amazon.es/dp/B09BF55KR8?tag=rankzon-21",
+      "reviews": 79,
+      "affiliate_url": "https://www.amazon.es/dp/B09NQHF99G?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Mars Gaming MKPRO",
-      "image": "/images/teclados-gaming/mars-gaming-mkpro.jpg",
-      "price": 35,
-      "rating": 3,
-      "reviews": 45,
-      "affiliate_url": "https://www.amazon.es/dp/B0F3839TXY?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "Redragon K673 Pro 75% Gasket RGB Teclado Mecánic",
-      "image": "/images/teclados-gaming/redragon-k673-pro-75-gasket-rgb-teclado-mecanic.jpg",
-      "price": 69.99,
-      "rating": 4,
-      "reviews": 76,
-      "affiliate_url": "https://www.amazon.es/dp/B0FNWCQJSC?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
-      "name": "CORSAIR K65 PLUS WIRELESS 75% RGB Teclado Mecáni",
-      "image": "/images/teclados-gaming/corsair-k65-plus-wireless-75-rgb-teclado-mecani.jpg",
-      "price": 99.16,
-      "rating": 4,
-      "reviews": 119,
-      "affiliate_url": "https://www.amazon.es/dp/B0CT8W3Y29?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 10,
       "name": "Redragon K668 RGB Teclado Gaming Mecánico Cablea",
       "image": "/images/teclados-gaming/redragon-k668-rgb-teclado-gaming-mecanico-cablea.jpg",
       "price": 59.99,
       "rating": 4,
-      "reviews": 134,
+      "reviews": 137,
       "affiliate_url": "https://www.amazon.es/dp/B0FCLXFQT5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Mars Gaming MCPTKL",
+      "image": "/images/teclados-gaming/mars-gaming-mcptkl.jpg",
+      "price": 16.99,
+      "rating": 4,
+      "reviews": 958,
+      "affiliate_url": "https://www.amazon.es/dp/B08D99PFSD?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Mars Gaming MKPRO",
+      "image": "/images/teclados-gaming/mars-gaming-mkpro.jpg",
+      "price": 35.01,
+      "rating": 3,
+      "reviews": 47,
+      "affiliate_url": "https://www.amazon.es/dp/B0F3839TXY?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "GXTrust 871 Zora Teclado Mecánico Español QWERTY",
+      "image": "/images/teclados-gaming/gxtrust-871-zora-teclado-mecanico-espanol-qwerty.jpg",
+      "price": 41.99,
+      "rating": 4,
+      "reviews": 197,
+      "affiliate_url": "https://www.amazon.es/dp/B0DQQ87W32?tag=rankzon-21",
       "badge": null
     }
   ]

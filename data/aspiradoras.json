@@ -1,6 +1,6 @@
 {
   "categoria": "aspiradoras",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,128 +8,98 @@
       "image": "/images/aspiradoras/vactechpro-aspiradora-sin-cable.jpg",
       "price": 93.45,
       "rating": 4,
-      "reviews": 4949,
+      "reviews": 5017,
       "affiliate_url": "https://www.amazon.es/dp/B0D1KCLVPX?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Escoba sin cable con 25.000 pa de succión para todo tipo de suelos",
-        "Batería de larga duración con indicador de nivel en tiempo real",
-        "Cabezal motorizado con luz LED para ver el polvo en zonas oscuras"
-      ],
-      "cons": [
-        "El peso de más de 1.5 kg puede cansar el brazo en sesiones largas de limpieza",
-        "La duración de la batería disminuye notablemente en el modo de máxima potencia"
-      ],
-      "user_summary": "Los compradores valoran la potencia de succión y la versatilidad de la escoba sin cable para limpiar suelos, alfombras y tapicerías. La mayoría la usan como única aspiradora del hogar y destacan que la calidad de limpieza es comparable a aspiradoras con cable."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Rowenta XPert 6.60 - Aspiradora escoba versátil",
-      "image": "/images/aspiradoras/rowenta-xpert-6-60-aspiradora-escoba-versatil.jpg",
-      "price": 99.99,
-      "rating": 4,
-      "reviews": 9122,
-      "affiliate_url": "https://www.amazon.es/dp/B09C6J3Z9F?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Cabeza dual que funciona como aspiradora escoba y de mano",
-        "Incluye múltiples accesorios para escaleras, sofás y zonas difíciles",
-        "Filtro HEPA para alérgicos que retiene partículas muy pequeñas de polvo"
-      ],
-      "cons": [
-        "El precio es elevado en comparación con alternativas sin cable similares",
-        "La batería puede necesitar recambio tras 2-3 años de uso intensivo"
-      ],
-      "user_summary": "Los compradores que buscan versatilidad aprecian que la Rowenta XPert funcione tanto como aspiradora vertical como de mano para el coche y los muebles. La mayoría la recomiendan especialmente para hogares con mascotas o personas con alergias por el filtro HEPA."
-    },
-    {
-      "position": 3,
       "name": "XIAOMI G20 Lite Potencia 18 kPa",
       "image": "/images/aspiradoras/xiaomi-g20-lite-potencia-18-kpa.jpg",
       "price": 79,
       "rating": 4,
-      "reviews": 2035,
+      "reviews": 2064,
       "affiliate_url": "https://www.amazon.es/dp/B0D15GDCMY?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Potencia de 18kPa suficiente para suelos duros y alfombras de pelo corto",
-        "Diseño ultraligero de menos de 1kg fácil de manejar durante toda la limpieza",
-        "Precio competitivo para una escoba Xiaomi con filtro HEPA incluido"
-      ],
-      "cons": [
-        "La potencia puede ser insuficiente para alfombras de pelo largo o muy sucias",
-        "La batería no es tan duradera como en modelos Xiaomi de gama superior"
-      ],
-      "user_summary": "Los compradores la eligen como aspiradora de mantenimiento diario por su ligereza y facilidad de uso. La mayoría la recomiendan para pisos pequeños o medianos con suelos duros, señalando que su ligereza facilita mucho la limpieza diaria rápida."
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Rowenta XPert 6.60 - Aspiradora escoba versátil",
+      "image": "/images/aspiradoras/rowenta-xpert-6-60-aspiradora-escoba-versatil.jpg",
+      "price": 99.99,
+      "rating": 4,
+      "reviews": 9195,
+      "affiliate_url": "https://www.amazon.es/dp/B0D9PPV1YY?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "55Kpa/650W/65Mins Aspiradora sin Cable",
-      "image": "/images/aspiradoras/55kpa-650w-65mins-aspiradora-sin-cable.jpg",
-      "price": 139.99,
-      "rating": 4,
-      "reviews": 9990,
-      "affiliate_url": "https://www.amazon.es/dp/B0F13KXRG8?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Ultenic U18Pro Aspiradora sin Cable 55Kpa/80Mins",
-      "image": "/images/aspiradoras/ultenic-u18pro-aspiradora-sin-cable-55kpa-80mins.jpg",
-      "price": 139.99,
-      "rating": 4,
-      "reviews": 1241,
-      "affiliate_url": "https://www.amazon.es/dp/B0G4VNL2W9?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
       "name": "VACTechPro 55KPa/600W/70Min Aspiradora sin Cable",
       "image": "/images/aspiradoras/vactechpro-55kpa-600w-70min-aspiradora-sin-cable.jpg",
       "price": 99.73,
       "rating": 4,
-      "reviews": 1298,
+      "reviews": 1318,
       "affiliate_url": "https://www.amazon.es/dp/B0FHWNJM3W?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 7,
-      "name": "Vexilar V15Max Aspiradora sin Cable 65KPa/60 Min",
-      "image": "/images/aspiradoras/vexilar-v15max-aspiradora-sin-cable-65kpa-60-min.jpg",
-      "price": 123.49,
+      "position": 5,
+      "name": "VACTechPro 550W/50Min/50KPA Aspiradora sin Cable",
+      "image": "/images/aspiradoras/vactechpro-550w-50min-50kpa-aspiradora-sin-cable.jpg",
+      "price": 76.96,
       "rating": 4,
-      "reviews": 151,
-      "affiliate_url": "https://www.amazon.es/dp/B0GR59HGTW?tag=rankzon-21",
+      "reviews": 224,
+      "affiliate_url": "https://www.amazon.es/dp/B0G2KZV23N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Ultenic U18Pro Aspiradora sin Cable 55Kpa/80Mins",
+      "image": "/images/aspiradoras/ultenic-u18pro-aspiradora-sin-cable-55kpa-80mins.jpg",
+      "price": 159.99,
+      "rating": 4,
+      "reviews": 1248,
+      "affiliate_url": "https://www.amazon.es/dp/B0G4VNL2W9?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "55Kpa/650W/65Mins Aspiradora sin Cable",
+      "image": "/images/aspiradoras/55kpa-650w-65mins-aspiradora-sin-cable.jpg",
+      "price": 132.99,
+      "rating": 4,
+      "reviews": 10208,
+      "affiliate_url": "https://www.amazon.es/dp/B0F13KXRG8?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Rowenta X-PERT 7.60",
-      "image": "/images/aspiradoras/rowenta-x-pert-7-60.jpg",
-      "price": 119.99,
+      "name": "Aspiradora inalámbrica con batería",
+      "image": "/images/aspiradoras/aspiradora-inalambrica-con-bateria.jpg",
+      "price": 66.49,
       "rating": 4,
-      "reviews": 755,
-      "affiliate_url": "https://www.amazon.es/dp/B0CVH62JZ4?tag=rankzon-21",
+      "reviews": 1752,
+      "affiliate_url": "https://www.amazon.es/dp/B0FTVM85Q1?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Cecotec Aspiradora Escoba sin Cable Conga Rockst",
-      "image": "/images/aspiradoras/cecotec-aspiradora-escoba-sin-cable-conga-rockst.jpg",
-      "price": 69.9,
+      "name": "Proscenic P20+ Aspiradora sin Cable 70Mins/70kPa",
+      "image": "/images/aspiradoras/proscenic-p20-aspiradora-sin-cable-70mins-70kpa.jpg",
+      "price": 149.99,
       "rating": 4,
-      "reviews": 213,
-      "affiliate_url": "https://www.amazon.es/dp/B0FL7KRZR9?tag=rankzon-21",
+      "reviews": 288,
+      "affiliate_url": "https://www.amazon.es/dp/B0GPWHRFX6?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "VACTechPro 550W/50Min/50KPA Aspiradora sin Cable",
-      "image": "/images/aspiradoras/vactechpro-550w-50min-50kpa-aspiradora-sin-cable.jpg",
-      "price": 84.99,
+      "name": "Cecotec Aspiradora Escoba sin Cable Conga Rockst",
+      "image": "/images/aspiradoras/cecotec-aspiradora-escoba-sin-cable-conga-rockst.jpg",
+      "price": 89.9,
       "rating": 4,
-      "reviews": 209,
-      "affiliate_url": "https://www.amazon.es/dp/B0G2KZV23N?tag=rankzon-21",
+      "reviews": 47,
+      "affiliate_url": "https://www.amazon.es/dp/B0FL7G2DN6?tag=rankzon-21",
       "badge": null
     }
   ]

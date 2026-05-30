@@ -1,6 +1,6 @@
 {
   "categoria": "afeitadoras-electricas",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,19 +8,9 @@
       "image": "/images/afeitadoras-electricas/philips-oneblade-original-360-cuchillas.jpg",
       "price": 30.29,
       "rating": 4,
-      "reviews": 4714,
+      "reviews": 4809,
       "affiliate_url": "https://www.amazon.es/dp/B0CVXRFT15?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Cabezal flexible 360° que se adapta a los contornos del rostro",
-        "Funciona en seco y en mojado con gel o espuma de afeitar",
-        "Lámina con protección de piel para un afeitado suave sin irritación"
-      ],
-      "cons": [
-        "La cuchilla necesita reemplazo cada 4 meses para resultados óptimos",
-        "El resultado no es tan apurado como una maquinilla de cuchillas de cartucho"
-      ],
-      "user_summary": "Los compradores la eligen por la facilidad de uso y la rapidez del afeitado sin necesidad de jabón ni agua. La mayoría la recomiendan especialmente para quienes tienen la piel sensible o necesitan afeitarse a diario sin irritación."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -28,108 +18,88 @@
       "image": "/images/afeitadoras-electricas/afeitadora-electrica-para-mujer-cortapelos-corpo.jpg",
       "price": 24.99,
       "rating": 4,
-      "reviews": 2006,
+      "reviews": 2063,
       "affiliate_url": "https://www.amazon.es/dp/B0F3XFC3YH?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Diseño compacto para depilación corporal femenina en zonas delicadas",
-        "Cabezal intercambiable para distintas zonas: piernas, axilas y bikini",
-        "Inalámbrica y resistente al agua para usar en la ducha cómodamente"
-      ],
-      "cons": [
-        "La autonomía de la batería puede ser limitada para sesiones largas",
-        "El tiempo de carga puede ser superior al de modelos con carga rápida"
-      ],
-      "user_summary": "Las compradoras la eligen para tener una solución todo en uno para las distintas zonas de depilación corporal. La mayoría valoran la facilidad de uso en la ducha y los distintos accesorios que vienen incluidos para las diferentes zonas del cuerpo."
+      "badge": null
     },
     {
       "position": 3,
       "name": "Philips TT2000/43",
       "image": "/images/afeitadoras-electricas/philips-tt2000-43.jpg",
-      "price": 7.7,
+      "price": 9.9,
       "rating": 4,
-      "reviews": 28292,
+      "reviews": 28322,
       "affiliate_url": "https://www.amazon.es/dp/B004QO97PA?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Recortador de vello básico muy asequible para el cuidado diario del vello",
-        "Lámina de acero inoxidable duradera y fácil de enjuagar",
-        "Sin batería recargable: funciona con pilas AAA siempre disponibles"
-      ],
-      "cons": [
-        "Sin características avanzadas como cabezal flotante o sensor de presión",
-        "El acabado del afeitado no es tan preciso como en modelos de precio superior"
-      ],
-      "user_summary": "Los compradores lo eligen como solución básica y económica para el mantenimiento de barba y vello corporal. La mayoría lo recomiendan para un uso ocasional o como segunda afeitadora de viaje por su precio y simplicidad."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Philips OneBlade 5 cuchillas de repuesto origina",
-      "image": "/images/afeitadoras-electricas/philips-oneblade-5-cuchillas-de-repuesto-origina.jpg",
-      "price": 55.65,
-      "rating": 4,
-      "reviews": 20480,
-      "affiliate_url": "https://www.amazon.es/dp/B0BS747TYL?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Philips OneBlade 360 con Bluetooth",
-      "image": "/images/afeitadoras-electricas/philips-oneblade-360-con-bluetooth.jpg",
-      "price": 67.99,
-      "rating": 4,
-      "reviews": 4827,
-      "affiliate_url": "https://www.amazon.es/dp/B0CHZ5WN26?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Philips SH71/50",
-      "image": "/images/afeitadoras-electricas/philips-sh71-50.jpg",
-      "price": 14.8,
-      "rating": 4,
-      "reviews": 6654,
-      "affiliate_url": "https://www.amazon.es/dp/B08FDWPMP6?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
-      "name": "Philips Serie X3000 Afeitadora Eléctrica Hombre",
-      "image": "/images/afeitadoras-electricas/philips-serie-x3000-afeitadora-electrica-hombre.jpg",
-      "price": 45.4,
-      "rating": 4,
-      "reviews": 3372,
-      "affiliate_url": "https://www.amazon.es/dp/B0CHMN6377?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "Lima eléctrica para pedicura de Dr. Scholl's: ex",
-      "image": "/images/afeitadoras-electricas/lima-electrica-para-pedicura-de-dr-scholl-s-ex.jpg",
-      "price": 14.99,
-      "rating": 4,
-      "reviews": 79,
-      "affiliate_url": "https://www.amazon.es/dp/B0G6K6FV2Q?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Philips OneBlade First Shave cuchillas",
       "image": "/images/afeitadoras-electricas/philips-oneblade-first-shave-cuchillas.jpg",
-      "price": 20.53,
+      "price": 20.23,
       "rating": 4,
-      "reviews": 5247,
+      "reviews": 5313,
       "affiliate_url": "https://www.amazon.es/dp/B0FB9M1GWY?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "Philips SH91/50",
-      "image": "/images/afeitadoras-electricas/philips-sh91-50.jpg",
-      "price": 21.2,
+      "position": 5,
+      "name": "Philips Serie X3000 Afeitadora Eléctrica Hombre",
+      "image": "/images/afeitadoras-electricas/philips-serie-x3000-afeitadora-electrica-hombre.jpg",
+      "price": 45.9,
       "rating": 4,
-      "reviews": 8067,
-      "affiliate_url": "https://www.amazon.es/dp/B0937DT67K?tag=rankzon-21",
+      "reviews": 3404,
+      "affiliate_url": "https://www.amazon.es/dp/B0CHMN6377?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Philips OneBlade",
+      "image": "/images/afeitadoras-electricas/philips-oneblade.jpg",
+      "price": 58,
+      "rating": 4,
+      "reviews": 20649,
+      "affiliate_url": "https://www.amazon.es/dp/B0BS747TYL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "One Blade Cuchilla Nariz y Orejas compatible con",
+      "image": "/images/afeitadoras-electricas/one-blade-cuchilla-nariz-y-orejas-compatible-con.jpg",
+      "price": 9.99,
+      "rating": 3,
+      "reviews": 5122,
+      "affiliate_url": "https://www.amazon.es/dp/B0BWGZDTX6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "GleamTrim Afeitadora Electrica Mujer 2 en 1",
+      "image": "/images/afeitadoras-electricas/gleamtrim-afeitadora-electrica-mujer-2-en-1.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 14,
+      "affiliate_url": "https://www.amazon.es/dp/B0GT8S7RW7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Philips SH71/50",
+      "image": "/images/afeitadoras-electricas/philips-sh71-50.jpg",
+      "price": 17.5,
+      "rating": 4,
+      "reviews": 6687,
+      "affiliate_url": "https://www.amazon.es/dp/B08FDWPMP6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Philips OneBlade 360",
+      "image": "/images/afeitadoras-electricas/philips-oneblade-360.jpg",
+      "price": 27.99,
+      "rating": 4,
+      "reviews": 8436,
+      "affiliate_url": "https://www.amazon.es/dp/B0CHZ43H7B?tag=rankzon-21",
       "badge": null
     }
   ]

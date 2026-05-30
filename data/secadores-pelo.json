@@ -1,135 +1,105 @@
 {
   "categoria": "secadores-pelo",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "Cecotec Secador de Pelo Ionico Bamba IoniCare 54",
       "image": "/images/secadores-pelo/cecotec-secador-de-pelo-ionico-bamba-ionicare-54.jpg",
-      "price": 15.1,
+      "price": 15.13,
       "rating": 4,
-      "reviews": 1678,
+      "reviews": 1686,
       "affiliate_url": "https://www.amazon.es/dp/B0814YP958?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Tecnología iónica que reduce el frizz y da brillo al cabello",
-        "Secado rápido gracias a los 5400W de potencia del motor",
-        "Precio muy asequible para ser un secador con función iónica"
-      ],
-      "cons": [
-        "El cable puede ser algo corto para moverse con libertad",
-        "El nivel de ruido es notable a máxima potencia"
-      ],
-      "user_summary": "Los compradores lo eligen como primer secador con función iónica a un precio accesible, sorprendiéndose de la mejora en el acabado del cabello. La mayoría lo recomiendan especialmente para cabellos con tendencia al encrespado."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Cecotec Secador de Pelo Iónico Bamba IoniCare 52",
-      "image": "/images/secadores-pelo/cecotec-secador-de-pelo-ionico-bamba-ionicare-52.jpg",
-      "price": 24.71,
+      "name": "Cecotec Secador de Pelo Compacto y Ligero DryNov",
+      "image": "/images/secadores-pelo/cecotec-secador-de-pelo-compacto-y-ligero-drynov.jpg",
+      "price": 19.77,
       "rating": 4,
-      "reviews": 1782,
-      "affiliate_url": "https://www.amazon.es/dp/B07ZRR8LJF?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Función iónica avanzada para cabello más suave y brillante",
-        "Múltiples velocidades y temperaturas para adaptarse a cada tipo de cabello",
-        "Filtro extraíble fácil de limpiar para mayor durabilidad del motor"
-      ],
-      "cons": [
-        "El peso puede cansar el brazo en secados largos de cabello abundante",
-        "La concentración de aire no siempre es tan precisa como en modelos profesionales"
-      ],
-      "user_summary": "Los compradores que buscan mejorar su rutina de secado sin gastar en modelos profesionales valoran el equilibrio entre precio y resultados. La mayoría están satisfechos con la diferencia que hace la función iónica en la textura final del cabello."
+      "reviews": 443,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKT56T2R?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
       "name": "Remington Secador Pelo 2400 W",
       "image": "/images/secadores-pelo/remington-secador-pelo-2400-w.jpg",
-      "price": 28.9,
+      "price": 30,
       "rating": 4,
-      "reviews": 16616,
+      "reviews": 16663,
       "affiliate_url": "https://www.amazon.es/dp/B01KLXFBVI?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "2400W de potencia para un secado rápido y efectivo",
-        "Difusor y concentrador incluidos para distintos estilos de peinado",
-        "Función de aire frío para fijar el peinado al terminar"
-      ],
-      "cons": [
-        "El cuerpo puede calentarse con uso prolongado",
-        "La vida útil puede ser menor que la de marcas más especializadas en styling"
-      ],
-      "user_summary": "Los compradores que buscan un secador potente de marca conocida a precio razonable valoran la potencia de 2400W y los accesorios incluidos. La mayoría están satisfechos con el secado rápido y consideran que Remington ofrece buena relación calidad-precio en esta gama."
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Cecotec Secador de Pelo Compacto y Ligero DryNov",
-      "image": "/images/secadores-pelo/cecotec-secador-de-pelo-compacto-y-ligero-drynov.jpg",
-      "price": 39.9,
+      "name": "Bellissima Imetec My Pro Diffon Ceramic",
+      "image": "/images/secadores-pelo/bellissima-imetec-my-pro-diffon-ceramic.jpg",
+      "price": 54.29,
       "rating": 4,
-      "reviews": 422,
-      "affiliate_url": "https://www.amazon.es/dp/B0FKT4NWH9?tag=rankzon-21",
+      "reviews": 10271,
+      "affiliate_url": "https://www.amazon.es/dp/B08LVXG2V1?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Bellissima Imetec Diffon Ceramic & Argan: Difuso",
-      "image": "/images/secadores-pelo/bellissima-imetec-diffon-ceramic-argan-difuso.jpg",
-      "price": 69.99,
+      "name": "Cecotec Secador de Pelo Iónico Bamba IoniCare 52",
+      "image": "/images/secadores-pelo/cecotec-secador-de-pelo-ionico-bamba-ionicare-52.jpg",
+      "price": 29.9,
       "rating": 4,
-      "reviews": 378,
-      "affiliate_url": "https://www.amazon.es/dp/B0F9B2B3YH?tag=rankzon-21",
+      "reviews": 1792,
+      "affiliate_url": "https://www.amazon.es/dp/B07ZRR8LJF?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Secador de Pelo Profesional Iónico Motor AC 3500",
-      "image": "/images/secadores-pelo/secador-de-pelo-profesional-ionico-motor-ac-3500.jpg",
-      "price": 51.68,
-      "rating": 4,
-      "reviews": 11031,
-      "affiliate_url": "https://www.amazon.es/dp/B07VZML3GN?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Remington Secador de Pelo Pequeño Compacto",
       "image": "/images/secadores-pelo/remington-secador-de-pelo-pequeno-compacto.jpg",
-      "price": 12.4,
+      "price": 12.61,
       "rating": 4,
-      "reviews": 13017,
+      "reviews": 13039,
       "affiliate_url": "https://www.amazon.es/dp/B01N39SZ87?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "Rowenta Signature Pro - Secador de pelo profesio",
-      "image": "/images/secadores-pelo/rowenta-signature-pro-secador-de-pelo-profesio.jpg",
-      "price": 33.16,
+      "position": 7,
+      "name": "Secador de Pelo Profesional Iónico Motor AC 3500",
+      "image": "/images/secadores-pelo/secador-de-pelo-profesional-ionico-motor-ac-3500.jpg",
+      "price": 51.68,
       "rating": 4,
-      "reviews": 1599,
-      "affiliate_url": "https://www.amazon.es/dp/B06X9W3FFB?tag=rankzon-21",
+      "reviews": 11069,
+      "affiliate_url": "https://www.amazon.es/dp/B07VZML3GN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Cecotec Secador Difusor Pelo Rizado XXL DryWave",
+      "image": "/images/secadores-pelo/cecotec-secador-difusor-pelo-rizado-xxl-drywave.jpg",
+      "price": 49.9,
+      "rating": 4,
+      "reviews": 201,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKT66G9M?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Faszin Secado Pelo Profesional",
-      "image": "/images/secadores-pelo/faszin-secado-pelo-profesional.jpg",
-      "price": 69.99,
+      "name": "Remington Secador de Pelo Ionic Dry 2200",
+      "image": "/images/secadores-pelo/remington-secador-de-pelo-ionic-dry-2200.jpg",
+      "price": 29.14,
       "rating": 4,
-      "reviews": 480,
-      "affiliate_url": "https://www.amazon.es/dp/B0D83PZZ69?tag=rankzon-21",
+      "reviews": 40683,
+      "affiliate_url": "https://www.amazon.es/dp/B08DJ18C85?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "DMTIVMG Secador de Pelo Profesional 160",
-      "image": "/images/secadores-pelo/dmtivmg-secador-de-pelo-profesional-160.jpg",
-      "price": 28.49,
+      "name": "Rowenta Studio Dry CV5830 Secador de pelo 2300 W",
+      "image": "/images/secadores-pelo/rowenta-studio-dry-cv5830-secador-de-pelo-2300-w.jpg",
+      "price": 26,
       "rating": 4,
-      "reviews": 411,
-      "affiliate_url": "https://www.amazon.es/dp/B0FT83F1WX?tag=rankzon-21",
+      "reviews": 6912,
+      "affiliate_url": "https://www.amazon.es/dp/B0847ZTV5Q?tag=rankzon-21",
       "badge": null
     }
   ]

@@ -1,0 +1,115 @@
+{
+  "categoria": "cargadores-inalambricos",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Anker 313 Wireless Charger 15W Qi2",
+      "image": "/images/cargadores-inalambricos/anker-313-qi2-15w.jpg",
+      "price": 14.99,
+      "rating": 4.5,
+      "reviews": 33400,
+      "affiliate_url": "https://www.amazon.es/dp/B09ZHJ8RZZ?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Compatible con iPhone MagSafe y Android Qi2", "Carga rápida 15W", "Cable USB-C incluido"],
+      "cons": ["Cargador de pared no incluido", "Sin soporte vertical, solo base plana"],
+      "user_summary": "Los compradores lo eligen como el cargador inalámbrico más fiable del rango económico. Funciona con iPhone y Samsung sin configuración."
+    },
+    {
+      "position": 2,
+      "name": "Samsung 15W Wireless Charger Pad EP-P2400",
+      "image": "/images/cargadores-inalambricos/samsung-ep-p2400-15w.jpg",
+      "price": 22.99,
+      "rating": 4.5,
+      "reviews": 44200,
+      "affiliate_url": "https://www.amazon.es/dp/B0BLT4CFRS?tag=rankzon-21",
+      "badge": null,
+      "pros": ["15W para Samsung Galaxy, 7.5W para iPhone", "Diseño plano y elegante", "Compatible con la mayoría de fundas finas"],
+      "cons": ["No incluye cargador de pared", "Solo funciona en horizontal"],
+      "user_summary": "Los compradores Samsung lo eligen por la integración perfecta. Los usuarios de iPhone también lo recomiendan para carga nocturna sin complicaciones."
+    },
+    {
+      "position": 3,
+      "name": "Belkin BoostCharge 3 en 1 MagSafe 15W",
+      "image": "/images/cargadores-inalambricos/belkin-boostcharge-3en1.jpg",
+      "price": 99.99,
+      "rating": 4.6,
+      "reviews": 12800,
+      "affiliate_url": "https://www.amazon.es/dp/B09G9MW1NB?tag=rankzon-21",
+      "badge": "Top calidad",
+      "pros": ["Carga iPhone, Apple Watch y AirPods simultáneo", "15W MagSafe, velocidad máxima iPhone", "Diseño compacto para escritorio"],
+      "cons": ["Solo para ecosistema Apple", "Precio premium"],
+      "user_summary": "Los usuarios Apple lo consideran el mejor accesorio de escritorio. Destacan que carga el iPhone, Watch y AirPods de forma ordenada en un solo punto."
+    },
+    {
+      "position": 4,
+      "name": "Choetech 15W Qi Cargador Inalámbrico Rápido",
+      "image": "/images/cargadores-inalambricos/choetech-15w-qi.jpg",
+      "price": 11.99,
+      "rating": 4.3,
+      "reviews": 28100,
+      "affiliate_url": "https://www.amazon.es/dp/B0877H3CMK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "INIU Wireless Charger 15W Qi",
+      "image": "/images/cargadores-inalambricos/iniu-15w-qi.jpg",
+      "price": 12.99,
+      "rating": 4.4,
+      "reviews": 19300,
+      "affiliate_url": "https://www.amazon.es/dp/B09K3KJVHG?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Apple MagSafe Charger 15W USB-C",
+      "image": "/images/cargadores-inalambricos/apple-magsafe-charger.jpg",
+      "price": 39.00,
+      "rating": 4.6,
+      "reviews": 18200,
+      "affiliate_url": "https://www.amazon.es/dp/B0BZRHR3HV?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "ESR HaloLock MagSafe Stand 15W",
+      "image": "/images/cargadores-inalambricos/esr-halolock-stand-15w.jpg",
+      "price": 24.99,
+      "rating": 4.5,
+      "reviews": 8900,
+      "affiliate_url": "https://www.amazon.es/dp/B09X6KBV68?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Aukey LC-A3 Wireless Charger 10W Dual",
+      "image": "/images/cargadores-inalambricos/aukey-lc-a3-dual.jpg",
+      "price": 16.99,
+      "rating": 4.3,
+      "reviews": 11400,
+      "affiliate_url": "https://www.amazon.es/dp/B0872GTX62?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Xiaomi Mi 80W Fast Wireless Charging Stand",
+      "image": "/images/cargadores-inalambricos/xiaomi-mi-80w-stand.jpg",
+      "price": 34.99,
+      "rating": 4.3,
+      "reviews": 5600,
+      "affiliate_url": "https://www.amazon.es/dp/B0CFC5JTCL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Native Union Drop Wireless Charger 10W",
+      "image": "/images/cargadores-inalambricos/native-union-drop-10w.jpg",
+      "price": 49.99,
+      "rating": 4.5,
+      "reviews": 4100,
+      "affiliate_url": "https://www.amazon.es/dp/B09CGVFY9G?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

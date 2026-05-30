@@ -1,114 +1,105 @@
 {
   "categoria": "cuidado-piel",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "d'alba Doble Sérum Multi bálsamo con Trufas Blan",
       "image": "/images/cuidado-piel/d-alba-doble-serum-multi-balsamo-con-trufas-blan.jpg",
-      "price": 18.04,
+      "price": 18.99,
       "rating": 4,
-      "reviews": 5325,
+      "reviews": 5619,
       "affiliate_url": "https://www.amazon.es/dp/B09SZ5JX2Y?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": ["Doble textura sérum y bálsamo", "Hidratación intensa y duradera", "Extracto de trufa blanca coreana"],
-      "cons": ["Olor a trufa intenso para algunos", "Precio más alto que alternativas", "Tarro puede parecer pequeño"],
-      "user_summary": "Los compradores destacan la hidratación profunda y la textura lujosa que distingue a este sérum coreano. La mayoría nota mejora en la tersura de la piel desde las primeras semanas de uso constante."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "d'alba First Spray Serum con Trufas Blancas Ital",
-      "image": "/images/cuidado-piel/d-alba-first-spray-serum-con-trufas-blancas-ital.jpg",
-      "price": 17.09,
-      "rating": 4,
-      "reviews": 38714,
-      "affiliate_url": "https://www.amazon.es/dp/B0BFQ9RD5B?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Formato spray de aplicación rápida", "Absorción inmediata sin residuo", "Apto para todo tipo de pieles"],
-      "cons": ["Puede lucir brillante en piel grasa", "El bote se vacía más rápido de lo esperado", "Precio medio-alto para su volumen"],
-      "user_summary": "La mayoría de usuarios valoran especialmente la comodidad del formato spray y el efecto hidratante inmediato. Los compradores lo incorporan habitualmente como primer paso de la rutina antes de la crema hidratante."
-    },
-    {
-      "position": 3,
-      "name": "medicube Sérum Con Péptido Rosa Salmon Dna Pdrn",
-      "image": "/images/cuidado-piel/medicube-serum-con-peptido-rosa-salmon-dna-pdrn.jpg",
-      "price": 19.44,
-      "rating": 4,
-      "reviews": 14672,
-      "affiliate_url": "https://www.amazon.es/dp/B0DBF65JYY?tag=rankzon-21",
-      "badge": null,
-      "pros": ["Ingredientes activos avanzados (PDRN + péptidos)", "Efecto tensor visible con uso continuo", "Textura ligera de rápida absorción"],
-      "cons": ["Requiere constancia para ver resultados", "Precio elevado para el volumen", "Textura algo resbaladiza al aplicar"],
-      "user_summary": "Los compradores valoran los ingredientes avanzados y el efecto firmeza percibido en piel madura o con pérdida de elasticidad. La mayoría lo usa como sérum de noche para maximizar la absorción de activos."
-    },
-    {
-      "position": 4,
-      "name": "BIODANCE Bio-Collagen Real Deep Mask - Mascarill",
-      "image": "/images/cuidado-piel/biodance-bio-collagen-real-deep-mask-mascarill.jpg",
-      "price": 14.69,
-      "rating": 4,
-      "reviews": 36862,
-      "affiliate_url": "https://www.amazon.es/dp/B0B2RM68G2?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "La Roche Posay Cicaplast Baume B5",
-      "image": "/images/cuidado-piel/la-roche-posay-cicaplast-baume-b5.jpg",
-      "price": 9.49,
-      "rating": 4,
-      "reviews": 15748,
-      "affiliate_url": "https://www.amazon.es/dp/B00ST2GSRK?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "d'alba Loción Solar Tonificante Waterfull SPF50+",
-      "image": "/images/cuidado-piel/d-alba-locion-solar-tonificante-waterfull-spf50.jpg",
-      "price": 20.85,
-      "rating": 4,
-      "reviews": 5688,
-      "affiliate_url": "https://www.amazon.es/dp/B09D7QJP1M?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "NIVEA SUN Protege & Hidrata - Leche Solar FP50+",
       "image": "/images/cuidado-piel/nivea-sun-protege-hidrata-leche-solar-fp50.jpg",
       "price": 11.98,
       "rating": 4,
-      "reviews": 2655,
+      "reviews": 2673,
       "affiliate_url": "https://www.amazon.es/dp/B01DS2WBVM?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
-      "name": "medicube Zero Pore Pad 2.0 Almohadillas Faciales",
-      "image": "/images/cuidado-piel/medicube-zero-pore-pad-2-0-almohadillas-faciales.jpg",
-      "price": 17.15,
+      "position": 3,
+      "name": "La Roche Posay Cicaplast Baume B5",
+      "image": "/images/cuidado-piel/la-roche-posay-cicaplast-baume-b5.jpg",
+      "price": 9.94,
       "rating": 4,
-      "reviews": 34166,
-      "affiliate_url": "https://www.amazon.es/dp/B09V7Z4TJG?tag=rankzon-21",
+      "reviews": 15932,
+      "affiliate_url": "https://www.amazon.es/dp/B00ST2GSRK?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "celimax Vita A Retinal Shot",
-      "image": "/images/cuidado-piel/celimax-vita-a-retinal-shot.jpg",
-      "price": 16.4,
+      "position": 4,
+      "name": "d'alba First Spray Serum con Trufas Blancas Ital",
+      "image": "/images/cuidado-piel/d-alba-first-spray-serum-con-trufas-blancas-ital.jpg",
+      "price": 21.99,
       "rating": 4,
-      "reviews": 13775,
-      "affiliate_url": "https://www.amazon.es/dp/B0DK4Y2YP3?tag=rankzon-21",
+      "reviews": 39159,
+      "affiliate_url": "https://www.amazon.es/dp/B0BFQ9RD5B?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
+      "position": 5,
+      "name": "Ziaja Cupuazú Loción Corporal Bronceadora 300 ml",
+      "image": "/images/cuidado-piel/ziaja-cupuazu-locion-corporal-bronceadora-300-ml.jpg",
+      "price": 4.98,
+      "rating": 4,
+      "reviews": 2297,
+      "affiliate_url": "https://www.amazon.es/dp/B01MZDLW9B?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "ISDIN Fotoprotección Fusion Water MAGIC SPF 50",
+      "image": "/images/cuidado-piel/isdin-fotoproteccion-fusion-water-magic-spf-50.jpg",
+      "price": 22.13,
+      "rating": 4,
+      "reviews": 10464,
+      "affiliate_url": "https://www.amazon.es/dp/B00Z72U6JQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
       "name": "CeraVe - Blemish Control",
       "image": "/images/cuidado-piel/cerave-blemish-control.jpg",
       "price": 10.9,
       "rating": 4,
-      "reviews": 32334,
+      "reviews": 32538,
       "affiliate_url": "https://www.amazon.es/dp/B0B7RQ46LD?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "The Ordinary Glycolic Acid 7% Exfoliating Toner",
+      "image": "/images/cuidado-piel/the-ordinary-glycolic-acid-7-exfoliating-toner.jpg",
+      "price": 13,
+      "rating": 4,
+      "reviews": 50555,
+      "affiliate_url": "https://www.amazon.es/dp/B071914GGL?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "BIODANCE Bio-Collagen Real Deep Mask - Mascarill",
+      "image": "/images/cuidado-piel/biodance-bio-collagen-real-deep-mask-mascarill.jpg",
+      "price": 14.69,
+      "rating": 4,
+      "reviews": 37351,
+      "affiliate_url": "https://www.amazon.es/dp/B0B2RM68G2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "CeraVe",
+      "image": "/images/cuidado-piel/cerave.jpg",
+      "price": 12.94,
+      "rating": 4,
+      "reviews": 17785,
+      "affiliate_url": "https://www.amazon.es/dp/B07C5XYT19?tag=rankzon-21",
       "badge": null
     }
   ]

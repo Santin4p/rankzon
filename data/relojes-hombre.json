@@ -1,0 +1,115 @@
+{
+  "categoria": "relojes-hombre",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Casio F-91W Reloj Digital Clásico",
+      "image": "/images/relojes-hombre/casio-f91w.jpg",
+      "price": 13.90,
+      "rating": 4.7,
+      "reviews": 94200,
+      "affiliate_url": "https://www.amazon.es/dp/B000GAWSDG?tag=rankzon-21",
+      "badge": "Icónico",
+      "pros": ["El más vendido de la historia, desde 1991", "Batería de 7 años incluida", "Resistente al agua 30m"],
+      "cons": ["Sin funciones inteligentes", "Pantalla pequeña para quien no está acostumbrado"],
+      "user_summary": "Los compradores lo llaman el reloj perfecto por lo que cuesta. Muchos lo compran como segundo reloj para deporte, playa o uso diario sin preocupaciones."
+    },
+    {
+      "position": 2,
+      "name": "Seiko SKX007 Diver Automático 200m",
+      "image": "/images/relojes-hombre/seiko-skx007.jpg",
+      "price": 289.00,
+      "rating": 4.7,
+      "reviews": 22400,
+      "affiliate_url": "https://www.amazon.es/dp/B0002Y6MTC?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Mecánico automático, sin batería nunca", "Icono del reloj de buceo asequible", "Movimiento Seiko 7S26, fiable y duradero"],
+      "cons": ["Precisión de ±15 seg/día, normal en automáticos", "El bisel de rosca requiere cierta fuerza"],
+      "user_summary": "Los compradores lo consideran el mejor reloj mecánico por debajo de 300€. Muchos lo heredan como primer reloj serio después de los digitales."
+    },
+    {
+      "position": 3,
+      "name": "Tissot T-Classic Everytime 40mm",
+      "image": "/images/relojes-hombre/tissot-everytime-40mm.jpg",
+      "price": 249.00,
+      "rating": 4.6,
+      "reviews": 14800,
+      "affiliate_url": "https://www.amazon.es/dp/B00LHRKYTK?tag=rankzon-21",
+      "badge": "Elegante",
+      "pros": ["Diseño minimalista atemporal", "Cristal de zafiro en gama 300€", "Ideal como regalo por su presentación"],
+      "cons": ["Movimiento de cuarzo a este precio", "La correa de cuero original se desgasta"],
+      "user_summary": "Los compradores lo eligen como primer reloj de calidad o regalo. La presentación en caja Tissot recibe elogios constantes."
+    },
+    {
+      "position": 4,
+      "name": "Casio G-Shock GA-2100 CasiOak",
+      "image": "/images/relojes-hombre/casio-g-shock-ga2100.jpg",
+      "price": 99.00,
+      "rating": 4.7,
+      "reviews": 38700,
+      "affiliate_url": "https://www.amazon.es/dp/B07W84BGLT?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Fossil Gen 6 Smartwatch 44mm",
+      "image": "/images/relojes-hombre/fossil-gen-6-44mm.jpg",
+      "price": 159.00,
+      "rating": 4.2,
+      "reviews": 12400,
+      "affiliate_url": "https://www.amazon.es/dp/B09HHCQK2N?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Orient Bambino Version 6 Automático",
+      "image": "/images/relojes-hombre/orient-bambino-v6.jpg",
+      "price": 129.00,
+      "rating": 4.5,
+      "reviews": 9800,
+      "affiliate_url": "https://www.amazon.es/dp/B09JGBN1CG?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Hamilton Khaki Field Auto 38mm",
+      "image": "/images/relojes-hombre/hamilton-khaki-field-38mm.jpg",
+      "price": 495.00,
+      "rating": 4.7,
+      "reviews": 5600,
+      "affiliate_url": "https://www.amazon.es/dp/B00CBZPYMK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Citizen Eco-Drive Promaster Diver BN0157",
+      "image": "/images/relojes-hombre/citizen-promaster-bn0157.jpg",
+      "price": 239.00,
+      "rating": 4.6,
+      "reviews": 7400,
+      "affiliate_url": "https://www.amazon.es/dp/B01N5ARC3G?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Casio Edifice EFR-303L Cronógrafo",
+      "image": "/images/relojes-hombre/casio-edifice-efr303l.jpg",
+      "price": 69.00,
+      "rating": 4.5,
+      "reviews": 18200,
+      "affiliate_url": "https://www.amazon.es/dp/B06XVHDDWR?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Garmin Instinct 2 Tactical Edition",
+      "image": "/images/relojes-hombre/garmin-instinct-2-tactical.jpg",
+      "price": 279.99,
+      "rating": 4.6,
+      "reviews": 9100,
+      "affiliate_url": "https://www.amazon.es/dp/B09TG8MVHK?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

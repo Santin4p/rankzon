@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { sections } from "@/lib/categories"
 import { guides } from "@/lib/guides"
+import { articles } from "@/lib/articles"
 
 export default function Footer() {
   const activeSections = sections.filter((s) => s.categories.length > 0)
@@ -47,6 +48,27 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+            </ul>
+          </div>
+
+          <div>
+            <p className="text-sm font-semibold text-foreground mb-3">Blog</p>
+            <ul className="space-y-1.5">
+              {articles.slice(0, 5).map((article) => (
+                <li key={article.slug}>
+                  <Link
+                    href={`/blog/${article.slug}`}
+                    className="text-sm text-muted hover:text-primary transition-colors"
+                  >
+                    {article.title.length > 40 ? article.title.slice(0, 37) + "…" : article.title}
+                  </Link>
+                </li>
+              ))}
+              <li>
+                <Link href="/blog" className="text-sm text-primary hover:underline transition-colors font-medium">
+                  Ver todos →
+                </Link>
+              </li>
             </ul>
           </div>
 

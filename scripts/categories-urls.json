@@ -158,5 +158,45 @@
   "padel": {
     "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928518031",
     "name": "Pádel"
+  },
+  "memorias-ram": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/937912031",
+    "name": "Memorias RAM"
+  },
+  "tiras-led": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/665477031",
+    "name": "Tiras LED"
+  },
+  "cables-usb-c": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/683279031",
+    "name": "Cables USB-C"
+  },
+  "cargadores-inalambricos": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/665492031",
+    "name": "Cargadores Inalámbricos"
+  },
+  "powerbanks": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/electronics/665492031",
+    "name": "Powerbanks"
+  },
+  "sillas-gaming": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/computers/937753031",
+    "name": "Sillas Gaming"
+  },
+  "cepillos-dentales-electricos": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/beauty/5641679031",
+    "name": "Cepillos Dentales Eléctricos"
+  },
+  "zapatillas-running": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928523031",
+    "name": "Zapatillas Running"
+  },
+  "relojes-hombre": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928496031",
+    "name": "Relojes de Hombre"
+  },
+  "mochilas": {
+    "amazonUrl": "https://www.amazon.es/gp/bestsellers/sports/2928480031",
+    "name": "Mochilas"
   }
 }

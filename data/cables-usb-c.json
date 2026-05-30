@@ -1,0 +1,115 @@
+{
+  "categoria": "cables-usb-c",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Anker USB-C a USB-C 240W 1.8m Carga Rápida",
+      "image": "/images/cables-usb-c/anker-usb-c-240w-1-8m.jpg",
+      "price": 15.99,
+      "rating": 4.7,
+      "reviews": 28400,
+      "affiliate_url": "https://www.amazon.es/dp/B09B43HXDQ?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["240W para portátiles, móviles y tablets", "Trenzado de nylon, muy resistente", "Compatible con USB4 y Thunderbolt 3"],
+      "cons": ["Un poco grueso para bolsillos pequeños", "Precio algo más alto que cables genéricos"],
+      "user_summary": "Los compradores lo eligen para cargar portátiles y móviles con un solo cable. Destacan la durabilidad del trenzado tras meses de uso intensivo."
+    },
+    {
+      "position": 2,
+      "name": "Baseus USB-C 100W 2m Cable PD",
+      "image": "/images/cables-usb-c/baseus-usb-c-100w-2m.jpg",
+      "price": 9.99,
+      "rating": 4.5,
+      "reviews": 41200,
+      "affiliate_url": "https://www.amazon.es/dp/B094BTDRB5?tag=rankzon-21",
+      "badge": null,
+      "pros": ["100W a muy buen precio", "2 metros de longitud cómoda", "Certificado USB-IF"],
+      "cons": ["No llega a 240W para portátiles más exigentes", "El conector puede aflojarse con uso muy intensivo"],
+      "user_summary": "Los compradores valoran la relación calidad-precio. La mayoría lo usa para cargar MacBook y Samsung Galaxy sin problemas."
+    },
+    {
+      "position": 3,
+      "name": "UGREEN USB-C a USB-C 60W 1m",
+      "image": "/images/cables-usb-c/ugreen-usb-c-60w-1m.jpg",
+      "price": 8.99,
+      "rating": 4.6,
+      "reviews": 56700,
+      "affiliate_url": "https://www.amazon.es/dp/B08W4BL7TD?tag=rankzon-21",
+      "badge": "Mejor precio",
+      "pros": ["El más vendido de Amazon, avalado por miles", "60W suficiente para móviles y tablets", "Compacto y fácil de enrollar"],
+      "cons": ["Solo 60W, no apto para portátiles gaming", "1m puede ser corto en algunos escritorios"],
+      "user_summary": "Los compradores lo usan masivamente para móviles Android y tablets. Destacan que lleva años en el top de ventas sin dar problemas."
+    },
+    {
+      "position": 4,
+      "name": "INIU USB-A a USB-C 3.1A Carga Rápida 2m",
+      "image": "/images/cables-usb-c/iniu-cable-usb-a-usb-c.jpg",
+      "price": 6.99,
+      "rating": 4.6,
+      "reviews": 90219,
+      "affiliate_url": "https://www.amazon.es/dp/B09P8KM9Z6?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Anker USB-C a Lightning 3A MFi 1.8m",
+      "image": "/images/cables-usb-c/anker-usbc-lightning-mfi.jpg",
+      "price": 14.99,
+      "rating": 4.6,
+      "reviews": 33100,
+      "affiliate_url": "https://www.amazon.es/dp/B08F6MZLNM?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Anker USB-C 100W 333 Cable Carga Rápida 1.8m",
+      "image": "/images/cables-usb-c/anker-usb-c-240w-1-8m.jpg",
+      "price": 7.99,
+      "rating": 4.8,
+      "reviews": 35771,
+      "affiliate_url": "https://www.amazon.es/dp/B09LPXJ3RX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Belkin USB-C a USB-C 100W 2m",
+      "image": "/images/cables-usb-c/belkin-usbc-100w-2m.jpg",
+      "price": 24.99,
+      "rating": 4.6,
+      "reviews": 9800,
+      "affiliate_url": "https://www.amazon.es/dp/B0B4DQXYJK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Amazon Basics USB-C a USB-C 3A 1.8m",
+      "image": "/images/cables-usb-c/amazon-basics-usbc-3a.jpg",
+      "price": 7.99,
+      "rating": 4.4,
+      "reviews": 48900,
+      "affiliate_url": "https://www.amazon.es/dp/B07CZBL63G?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "TEFLOTY Cable HDMI 2.1 8K 48Gbps 1m",
+      "image": "/images/cables-usb-c/cablecreation-usbc-hdmi-2m.jpg",
+      "price": 5.99,
+      "rating": 4.7,
+      "reviews": 4307,
+      "affiliate_url": "https://www.amazon.es/dp/B0CCVTXB59?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "UGREEN Cat 8 Cable Ethernet 40Gbps 2m",
+      "image": "/images/cables-usb-c/vention-usbc-140w-tb4.jpg",
+      "price": 7.67,
+      "rating": 4.8,
+      "reviews": 57379,
+      "affiliate_url": "https://www.amazon.es/dp/B0875VL1CJ?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

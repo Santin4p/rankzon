@@ -1,135 +1,105 @@
 {
   "categoria": "juegos-switch-2",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "Donkey Kong Bananza- Switch 2",
-      "image": "/images/juegos-switch-2/donkey-kong-bananza-switch-2.jpg",
-      "price": 67.5,
+      "name": "Tomodachi Life - Switch",
+      "image": "/images/juegos-switch-2/tomodachi-life-switch.jpg",
+      "price": 54.99,
       "rating": 4,
-      "reviews": 494,
-      "affiliate_url": "https://www.amazon.es/dp/B0F2N91DQ8?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Plataformas 3D con el carisma de Donkey Kong en una aventura completamente nueva",
-        "Gráficos espectaculares que aprovechan al máximo el hardware de Nintendo Switch 2",
-        "Mundo abierto lleno de secretos, coleccionables y desafíos opcionales para completionistas"
-      ],
-      "cons": [
-        "Exclusivo de Switch 2, no compatible con la Switch original",
-        "Precio de juego de lanzamiento elevado para una primera entrega en la nueva consola"
-      ],
-      "user_summary": "Los compradores que tienen Nintendo Switch 2 desde el lanzamiento lo adquieren como uno de los primeros grandes exclusivos. La mayoría quedan impresionados con el salto gráfico respecto a Switch y consideran que es uno de los mejores juegos de plataformas del año."
+      "reviews": 205,
+      "affiliate_url": "https://www.amazon.es/dp/B0GLHNN1NK?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Tomodachi Life: Una vida de ensueño Standard | N",
-      "image": "/images/juegos-switch-2/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
-      "price": 59.99,
-      "rating": 3,
-      "reviews": 11,
-      "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Simulación social fresca en el universo de Mii con contenido para cientos de horas",
-        "Compatible entre Switch y Switch 2 para jugar con amigos de ambas plataformas",
-        "Modo multijugador que permite interactuar con los Miis de otras personas"
-      ],
-      "cons": [
-        "Precio de 60€ elevado para un juego que aún tiene muy pocas reseñas",
-        "El ritmo casual puede no convencer a jugadores que buscan desafíos más intensos"
-      ],
-      "user_summary": "Los compradores fans de los juegos de simulación social de Nintendo lo adquieren como la continuación esperada de la saga Tomodachi. La mayoría valoran el concepto único pero señalan que al ser tan nuevo todavía hay pocas opiniones en las que basarse."
-    },
-    {
-      "position": 3,
-      "name": "Hades II - Nintendo Switch 2 Edition",
-      "image": "/images/juegos-switch-2/hades-ii-nintendo-switch-2-edition.jpg",
-      "price": 37.9,
+      "name": "Donkey Kong Bananza- Switch 2",
+      "image": "/images/juegos-switch-2/donkey-kong-bananza-switch-2.jpg",
+      "price": 69.9,
       "rating": 4,
-      "reviews": 61,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQWBC3ZT?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Roguelike de acción con narrativa griega que ha sido un éxito masivo en PC",
-        "Edición nativa para Switch 2 con mejoras visuales y rendimiento superiores",
-        "Sistema de progresión adictivo que invita a seguir jugando run tras run"
-      ],
-      "cons": [
-        "Es un port de un juego que ya existe en otras plataformas, no un exclusivo",
-        "El precio puede ser elevado para quienes ya tienen el juego en otra plataforma"
-      ],
-      "user_summary": "Los compradores fans del género roguelike y la primera entrega de Hades lo adquieren para disfrutarlo en el mejor hardware portátil de Nintendo. La mayoría que no habían jugado antes quedan enganchados desde el primer momento con su sistema de combate y narrativa."
-    },
-    {
-      "position": 4,
-      "name": "Hyrule Warriors: Age of Imprisonment - Switch 2",
-      "image": "/images/juegos-switch-2/hyrule-warriors-age-of-imprisonment-switch-2.jpg",
-      "price": 53.9,
-      "rating": 4,
-      "reviews": 153,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQWJV77Z?tag=rankzon-21",
+      "reviews": 498,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N91DQ8?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
+      "position": 3,
       "name": "Mario Kart World- Nintendo Switch 2",
       "image": "/images/juegos-switch-2/mario-kart-world-nintendo-switch-2.jpg",
       "price": 74.99,
       "rating": 4,
-      "reviews": 171,
+      "reviews": 175,
       "affiliate_url": "https://www.amazon.es/dp/B0F2N6V24N?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 6,
-      "name": "Animal Crossing New Horizons - Nintendo Switch 2",
-      "image": "/images/juegos-switch-2/animal-crossing-new-horizons-nintendo-switch-2.jpg",
-      "price": 53.9,
+      "position": 4,
+      "name": "Tomodachi Life: Una vida de ensueño Standard | N",
+      "image": "/images/juegos-switch-2/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
+      "price": 59.99,
       "rating": 4,
-      "reviews": 52,
-      "affiliate_url": "https://www.amazon.es/dp/B0G1BDSJ52?tag=rankzon-21",
+      "reviews": 13,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Splatoon Raiders",
+      "image": "/images/juegos-switch-2/splatoon-raiders.jpg",
+      "price": 49.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GY5GY45X?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Zelda Tears of the Kingdom - Nintendo Switch 2 E",
+      "image": "/images/juegos-switch-2/zelda-tears-of-the-kingdom-nintendo-switch-2-e.jpg",
+      "price": 63.99,
+      "rating": 4,
+      "reviews": 95,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N69SGN?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Mario Tennis Fever",
-      "image": "/images/juegos-switch-2/mario-tennis-fever.jpg",
-      "price": 69.98,
-      "rating": 4,
-      "reviews": 56,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQWLSLQS?tag=rankzon-21",
+      "name": "Bravely Default Flying Fairy",
+      "image": "/images/juegos-switch-2/bravely-default-flying-fairy.jpg",
+      "price": 39.99,
+      "rating": 3,
+      "reviews": 53,
+      "affiliate_url": "https://www.amazon.es/dp/B0F2N76YP7?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Tomodachi Life - Switch",
-      "image": "/images/juegos-switch-2/tomodachi-life-switch.jpg",
-      "price": 78,
+      "name": "Animal Crossing New Horizons - Nintendo Switch 2",
+      "image": "/images/juegos-switch-2/animal-crossing-new-horizons-nintendo-switch-2.jpg",
+      "price": 56.99,
       "rating": 4,
-      "reviews": 197,
-      "affiliate_url": "https://www.amazon.es/dp/B0GLHNN1NK?tag=rankzon-21",
+      "reviews": 56,
+      "affiliate_url": "https://www.amazon.es/dp/B0G1BDSJ52?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Zelda Breath of the Wild - Nintendo Switch 2 Edi",
-      "image": "/images/juegos-switch-2/zelda-breath-of-the-wild-nintendo-switch-2-edi.jpg",
-      "price": 65.5,
+      "name": "Assassin's Creed Shadows (Switch 2)",
+      "image": "/images/juegos-switch-2/assassin-s-creed-shadows-switch-2.jpg",
+      "price": 37.99,
       "rating": 4,
-      "reviews": 88,
-      "affiliate_url": "https://www.amazon.es/dp/B0F2N8LBQN?tag=rankzon-21",
+      "reviews": 39,
+      "affiliate_url": "https://www.amazon.es/dp/B0FXHDBB1R?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Assassin's Creed Shadows (Switch 2)",
-      "image": "/images/juegos-switch-2/assassin-s-creed-shadows-switch-2.jpg",
-      "price": 41.9,
+      "name": "Star Wars Outlaws Gold Edition (Switch 2)",
+      "image": "/images/juegos-switch-2/star-wars-outlaws-gold-edition-switch-2.jpg",
+      "price": 34.99,
       "rating": 4,
-      "reviews": 36,
-      "affiliate_url": "https://www.amazon.es/dp/B0FXHDBB1R?tag=rankzon-21",
+      "reviews": 67,
+      "affiliate_url": "https://www.amazon.es/dp/B0F7L7V7W3?tag=rankzon-21",
       "badge": null
     }
   ]

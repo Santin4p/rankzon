@@ -1,6 +1,6 @@
 {
   "categoria": "freidoras-aire",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,19 +8,9 @@
       "image": "/images/freidoras-aire/cosori-freidora-de-aire-5.jpg",
       "price": 84.99,
       "rating": 4,
-      "reviews": 104312,
+      "reviews": 104408,
       "affiliate_url": "https://www.amazon.es/dp/B07N8N6C85?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Cesta de 5L ideal para familias de hasta 4 personas",
-        "Interfaz digital con 13 presets para las elaboraciones más comunes",
-        "Temperatura y tiempo ajustables para resultados perfectamente personalizados"
-      ],
-      "cons": [
-        "La cesta de 5L puede quedarse pequeña para familias numerosas o cantidades grandes",
-        "La limpieza requiere cierto cuidado para evitar dañar el revestimiento antiadherente"
-      ],
-      "user_summary": "Los compradores la eligen como referente del mercado con más de 100.000 reseñas que avalan su fiabilidad. La mayoría la usan a diario para patatas fritas, alitas, verduras y carnes, sorprendiéndose de lo crujiente que queda la comida con muy poco aceite."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -28,108 +18,88 @@
       "image": "/images/freidoras-aire/cecotec-freidora-sin-aceite-de-5.jpg",
       "price": 44.9,
       "rating": 4,
-      "reviews": 4880,
+      "reviews": 4894,
       "affiliate_url": "https://www.amazon.es/dp/B0BFB3Q7SD?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Precio muy competitivo para entrar al mundo de las freidoras de aire",
-        "Capacidad de 5L suficiente para 2-4 personas en uso cotidiano",
-        "Fácil de limpiar con cesta apta para lavavajillas"
-      ],
-      "cons": [
-        "El panel táctil puede resultar menos intuitivo que el de otros modelos",
-        "Sin pantalla digital, solo controles analógicos que son menos precisos"
-      ],
-      "user_summary": "Los compradores la eligen como primera freidora de aire a un precio asequible y quedan satisfechos con los resultados. La mayoría la recomiendan para hogares que quieren probar la tecnología sin hacer una gran inversión inicial."
+      "badge": null
     },
     {
       "position": 3,
       "name": "Cecotec Freidora de Aire sin Aceite 6",
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-sin-aceite-6.jpg",
-      "price": 57.9,
+      "price": 59.9,
       "rating": 4,
-      "reviews": 749,
+      "reviews": 790,
       "affiliate_url": "https://www.amazon.es/dp/B0G7HSS6JP?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Mayor capacidad de 6L perfecta para familias numerosas o porciones grandes",
-        "Doble función: freidora de aire y función de horneado",
-        "Temperatura máxima de 230°C para dorados perfectos"
-      ],
-      "cons": [
-        "Ocupa más espacio en la encimera que los modelos de 5L",
-        "El tiempo de precalentamiento puede ser ligeramente superior al de modelos anteriores"
-      ],
-      "user_summary": "Los compradores buscan una freidora de aire con mayor capacidad para cocinar más cantidad a la vez o preparar pollos enteros y piezas grandes. La mayoría valoran positivamente la versatilidad de la función horno adicional."
-    },
-    {
-      "position": 4,
-      "name": "Ninja CRISPi Freidora de Aire portátil",
-      "image": "/images/freidoras-aire/ninja-crispi-freidora-de-aire-portatil.jpg",
-      "price": 129,
-      "rating": 4,
-      "reviews": 2589,
-      "affiliate_url": "https://www.amazon.es/dp/B0F99JMMC7?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
+      "position": 4,
       "name": "Cecotec Freidora de Aire sin Aceite de 8 L Cecof",
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-sin-aceite-de-8-l-cecof.jpg",
       "price": 59.9,
       "rating": 4,
-      "reviews": 1694,
+      "reviews": 1712,
       "affiliate_url": "https://www.amazon.es/dp/B0BPYX2TGJ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Ninja CRISPi Freidora de Aire portátil",
+      "image": "/images/freidoras-aire/ninja-crispi-freidora-de-aire-portatil.jpg",
+      "price": 129,
+      "rating": 4,
+      "reviews": 2631,
+      "affiliate_url": "https://www.amazon.es/dp/B0F99JMMC7?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
       "name": "Moulinex Freidora de Aire Easy Fry XL Surface",
       "image": "/images/freidoras-aire/moulinex-freidora-de-aire-easy-fry-xl-surface.jpg",
-      "price": 109.99,
+      "price": 119,
       "rating": 4,
-      "reviews": 1417,
-      "affiliate_url": "https://www.amazon.es/dp/B0DGM8MKZB?tag=rankzon-21",
+      "reviews": 1439,
+      "affiliate_url": "https://www.amazon.es/dp/B0FX5217CY?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Cosori Air Fryer Dual Blaze Twinfry 10 Litros",
-      "image": "/images/freidoras-aire/cosori-air-fryer-dual-blaze-twinfry-10-litros.jpg",
-      "price": 189.99,
-      "rating": 4,
-      "reviews": 15469,
-      "affiliate_url": "https://www.amazon.es/dp/B0DX6VWNH2?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
-      "name": "MELLERWARE - Freidora de Aire Crunchy Glass 1450",
-      "image": "/images/freidoras-aire/mellerware-freidora-de-aire-crunchy-glass-1450.jpg",
-      "price": 69.99,
-      "rating": 4,
-      "reviews": 1860,
-      "affiliate_url": "https://www.amazon.es/dp/B0FT1M1N65?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 9,
       "name": "Cecotec Freidora de Aire 8",
       "image": "/images/freidoras-aire/cecotec-freidora-de-aire-8.jpg",
       "price": 74.9,
       "rating": 4,
-      "reviews": 428,
+      "reviews": 443,
       "affiliate_url": "https://www.amazon.es/dp/B0G49H564C?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 10,
-      "name": "CREATE/AIR FRYER STUDIO CRYSTAL/Freidora sin ace",
-      "image": "/images/freidoras-aire/create-air-fryer-studio-crystal-freidora-sin-ace.jpg",
-      "price": 90.95,
+      "position": 8,
+      "name": "Philips Airfryer 2000 Series – Freidora Clásica",
+      "image": "/images/freidoras-aire/philips-airfryer-2000-series-freidora-clasica.jpg",
+      "price": 79,
       "rating": 4,
-      "reviews": 149,
-      "affiliate_url": "https://www.amazon.es/dp/B0FNMTCZSL?tag=rankzon-21",
+      "reviews": 7207,
+      "affiliate_url": "https://www.amazon.es/dp/B0CWP7M17B?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Narvi Freidora de Aire Doble Resistencia 8L - 22",
+      "image": "/images/freidoras-aire/narvi-freidora-de-aire-doble-resistencia-8l-22.jpg",
+      "price": 56.03,
+      "rating": 4,
+      "reviews": 33,
+      "affiliate_url": "https://www.amazon.es/dp/B0FZBSTR8P?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Cosori Air Fryer Dual Blaze Twinfry 10 Litros",
+      "image": "/images/freidoras-aire/cosori-air-fryer-dual-blaze-twinfry-10-litros.jpg",
+      "price": 183,
+      "rating": 4,
+      "reviews": 361,
+      "affiliate_url": "https://www.amazon.es/dp/B0DX6VWNH2?tag=rankzon-21",
       "badge": null
     }
   ]

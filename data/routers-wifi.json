@@ -1,26 +1,16 @@
 {
   "categoria": "routers-wifi",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "TP-Link TL-WA850RE Repetidor WiFi N300 (300 Mbps",
       "image": "/images/routers-wifi/tp-link-tl-wa850re-repetidor-wifi-n300-300-mbps.jpg",
-      "price": 13.94,
+      "price": 17.29,
       "rating": 4,
-      "reviews": 204982,
+      "reviews": 205047,
       "affiliate_url": "https://www.amazon.es/dp/B00A0VCJPI?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Instalación ultrarrápida sin necesidad de configuración técnica",
-        "Amplía la cobertura WiFi en toda la casa desde cualquier enchufe",
-        "Compatible con todos los routers y proveedores de internet"
-      ],
-      "cons": [
-        "La velocidad máxima de N300 puede quedarse corta para streaming 4K simultáneo",
-        "No amplifica la señal, solo la extiende, lo que puede reducir la velocidad"
-      ],
-      "user_summary": "Los compradores lo eligen para eliminar los puntos muertos de WiFi en casa de forma sencilla y económica. La mayoría destacan lo fácil que es configurarlo y que funciona perfectamente para el uso diario de navegación y streaming."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
@@ -28,108 +18,88 @@
       "image": "/images/routers-wifi/tp-link-re330-wifi-repeater.jpg",
       "price": 32.99,
       "rating": 4,
-      "reviews": 21495,
+      "reviews": 21576,
       "affiliate_url": "https://www.amazon.es/dp/B08X19VZN8?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "WiFi de doble banda AC1200 para velocidades más altas que el N300",
-        "Función de punto de acceso para conectar dispositivos con cable",
-        "App TP-Link Tether para gestión y control desde el móvil"
-      ],
-      "cons": [
-        "Precio superior al básico N300 para hogares donde el N300 sería suficiente",
-        "La banda de 5GHz tiene menor alcance que la de 2.4GHz"
-      ],
-      "user_summary": "Los compradores que quieren ampliar su WiFi con mayor velocidad lo eligen como paso natural respecto al básico. La mayoría lo instalan en el punto exacto donde la señal empieza a debilitarse y quedan satisfechos con la mejora de cobertura."
+      "badge": null
     },
     {
       "position": 3,
-      "name": "TP-Link UB600 - Adaptador Bluetooth 6.0 para PC",
-      "image": "/images/routers-wifi/tp-link-ub600-adaptador-bluetooth-6-0-para-pc.jpg",
-      "price": 9.9,
+      "name": "[Nuevo] TP-Link Deco X1500 (3-Pack) - Sistema Wi",
+      "image": "/images/routers-wifi/nuevo-tp-link-deco-x1500-3-pack-sistema-wi.jpg",
+      "price": 109.73,
       "rating": 4,
-      "reviews": 126,
-      "affiliate_url": "https://www.amazon.es/dp/B0GLRL6H6Y?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Adaptador USB Bluetooth 6.0 de última generación para PC",
-        "Plug and play sin necesidad de instalar drivers adicionales",
-        "Compatible con Windows 11/10 y dispositivos Bluetooth actuales"
-      ],
-      "cons": [
-        "Es un adaptador Bluetooth, no un router ni repetidor WiFi",
-        "El alcance Bluetooth puede variar según obstáculos en el entorno"
-      ],
-      "user_summary": "Los compradores lo adquieren para añadir conectividad Bluetooth a ordenadores de sobremesa o portátiles que no la tienen integrada. La mayoría lo usan para conectar auriculares, ratones o teclados Bluetooth y destacan que funciona perfectamente desde el primer momento."
+      "reviews": 2281,
+      "affiliate_url": "https://www.amazon.es/dp/B0CL573PRH?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "[Nuevo] TP-Link Deco X1500 (3-Pack) - Sistema Wi",
-      "image": "/images/routers-wifi/nuevo-tp-link-deco-x1500-3-pack-sistema-wi.jpg",
-      "price": 118.45,
+      "name": "TP-Link Archer AX58 - Router WiFi 6 AX3000",
+      "image": "/images/routers-wifi/tp-link-archer-ax58-router-wifi-6-ax3000.jpg",
+      "price": 49.99,
       "rating": 4,
-      "reviews": 2249,
-      "affiliate_url": "https://www.amazon.es/dp/B0CL573PRH?tag=rankzon-21",
+      "reviews": 1611,
+      "affiliate_url": "https://www.amazon.es/dp/B0CFYMG5J2?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
       "name": "TP-Link LS1005G - Switch Ethernet Gigabit de 5 P",
       "image": "/images/routers-wifi/tp-link-ls1005g-switch-ethernet-gigabit-de-5-p.jpg",
-      "price": 11.99,
+      "price": 12.95,
       "rating": 4,
-      "reviews": 9897,
+      "reviews": 9931,
       "affiliate_url": "https://www.amazon.es/dp/B07VC68RW1?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "TP-Link Archer T3U Plus AC1300",
-      "image": "/images/routers-wifi/tp-link-archer-t3u-plus-ac1300.jpg",
-      "price": 18.99,
+      "name": "TP-Link EH210 - Switch ethernet",
+      "image": "/images/routers-wifi/tp-link-eh210-switch-ethernet.jpg",
+      "price": 10.99,
       "rating": 4,
-      "reviews": 25271,
-      "affiliate_url": "https://www.amazon.es/dp/B0859M539M?tag=rankzon-21",
+      "reviews": 3807,
+      "affiliate_url": "https://www.amazon.es/dp/B0FHXS7D7T?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "TP-Link TL-SG108 V3.0",
-      "image": "/images/routers-wifi/tp-link-tl-sg108-v3-0.jpg",
-      "price": 24.99,
+      "name": "TP-Link Archer T3U Plus AC1300",
+      "image": "/images/routers-wifi/tp-link-archer-t3u-plus-ac1300.jpg",
+      "price": 18.98,
       "rating": 4,
-      "reviews": 22424,
-      "affiliate_url": "https://www.amazon.es/dp/B01EXDG2MO?tag=rankzon-21",
+      "reviews": 25300,
+      "affiliate_url": "https://www.amazon.es/dp/B0859M539M?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "UGREEN Adaptador WiFi 6 AX900Mbps Stick USB 3.0",
-      "image": "/images/routers-wifi/ugreen-adaptador-wifi-6-ax900mbps-stick-usb-3-0.jpg",
-      "price": 9.99,
+      "name": "TP-Link TL-SG108 V3.0",
+      "image": "/images/routers-wifi/tp-link-tl-sg108-v3-0.jpg",
+      "price": 24.99,
       "rating": 4,
-      "reviews": 4780,
-      "affiliate_url": "https://www.amazon.es/dp/B0DK14GTR2?tag=rankzon-21",
+      "reviews": 22441,
+      "affiliate_url": "https://www.amazon.es/dp/B01EXDG2MO?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "TP-Link TL-WR3002X: enrutador portátil AX3000 Wi",
-      "image": "/images/routers-wifi/tp-link-tl-wr3002x-enrutador-portatil-ax3000-wi.jpg",
-      "price": 69.28,
+      "name": "TP-Link UB500 Adaptador Bluetooth 5.3 USB",
+      "image": "/images/routers-wifi/tp-link-ub500-adaptador-bluetooth-5-3-usb.jpg",
+      "price": 9.99,
       "rating": 4,
-      "reviews": 27,
-      "affiliate_url": "https://www.amazon.es/dp/B0F1281MCW?tag=rankzon-21",
+      "reviews": 57743,
+      "affiliate_url": "https://www.amazon.es/dp/B098K3H92Z?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Repetidor WiFi 1200 Mbps",
-      "image": "/images/routers-wifi/repetidor-wifi-1200-mbps.jpg",
-      "price": 16.99,
+      "name": "UGREEN USB Bluetooth 6.0 Adaptador para PC Windo",
+      "image": "/images/routers-wifi/ugreen-usb-bluetooth-6-0-adaptador-para-pc-windo.jpg",
+      "price": 8.39,
       "rating": 4,
-      "reviews": 19,
-      "affiliate_url": "https://www.amazon.es/dp/B0GXRWLYV3?tag=rankzon-21",
+      "reviews": 3524,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYV5MPLF?tag=rankzon-21",
       "badge": null
     }
   ]

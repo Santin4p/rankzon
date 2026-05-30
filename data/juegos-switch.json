@@ -1,135 +1,105 @@
 {
   "categoria": "juegos-switch",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "Minecraft: Nintendo Switch Edition",
       "image": "/images/juegos-switch/minecraft-nintendo-switch-edition.jpg",
-      "price": 23.99,
+      "price": 26.69,
       "rating": 4,
-      "reviews": 7835,
+      "reviews": 7858,
       "affiliate_url": "https://www.amazon.es/dp/B07D1L22SD?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Minecraft en Switch con todas las actualizaciones y modo supervivencia completo",
-        "Versión portátil perfecta para jugar en cualquier lugar en modo handheld",
-        "Mundos infinitos compatibles con jugadores de otras plataformas vía crossplay"
-      ],
-      "cons": [
-        "Los gráficos son más básicos que en PC o consolas de nueva generación",
-        "El modo multijugador online requiere una suscripción Nintendo Online adicional"
-      ],
-      "user_summary": "Los compradores son padres que regalan Minecraft a sus hijos o fans del juego que quieren la versión portátil para Switch. La mayoría están muy satisfechos con la experiencia completa de Minecraft en formato handheld para jugar en cualquier lugar."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Mario Kart 8 Deluxe",
-      "image": "/images/juegos-switch/mario-kart-8-deluxe.jpg",
-      "price": 48.88,
-      "rating": 4,
-      "reviews": 8918,
-      "affiliate_url": "https://www.amazon.es/dp/B01N7RLGIJ?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "El racing game más vendido de Nintendo con 48 circuitos y todos los personajes",
-        "Modo multijugador local para 4 jugadores en el mismo televisor sin coste extra",
-        "DLC de pase de pistas incluye 48 circuitos adicionales de ediciones anteriores"
-      ],
-      "cons": [
-        "El juego base lleva varios años y puede sentirse algo repetitivo para veteranos",
-        "Algunos circuitos del DLC son remakes de juegos anteriores, no pistas nuevas"
-      ],
-      "user_summary": "Los compradores buscan el juego multijugador local definitivo para Switch y lo encuentran en Mario Kart 8. La mayoría lo recomiendan como compra imprescindible para cualquier propietario de Switch, especialmente si tienen familia o amigos con quienes jugar."
-    },
-    {
-      "position": 3,
-      "name": "Tomodachi Life: Una vida de ensueño Standard | N",
-      "image": "/images/juegos-switch/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
-      "price": 59.99,
-      "rating": 3,
-      "reviews": 11,
-      "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Simulación de vida social con personajes Mii en una isla imaginaria única",
-        "Multiplataforma entre Switch y Switch 2 para jugar con amigos de ambas consolas",
-        "Contenido de juego extenso con actualizaciones regulares planificadas"
-      ],
-      "cons": [
-        "Pocas reseñas disponibles aún al ser un juego reciente",
-        "La jugabilidad puede resultar casual y ligera para quienes buscan desafíos profundos"
-      ],
-      "user_summary": "Los compradores fans de la saga Animal Crossing y los juegos de simulación social lo adquieren para disfrutar de la nueva entrega de Tomodachi Life. La mayoría lo recomiendan para compartir con familia y amigos aunque señalan que es un juego de ritmo tranquilo y casual."
-    },
-    {
-      "position": 4,
-      "name": "Once Upon A Katamari",
-      "image": "/images/juegos-switch/once-upon-a-katamari.jpg",
-      "price": 24.99,
-      "rating": 4,
-      "reviews": 11,
-      "affiliate_url": "https://www.amazon.es/dp/B0FKT79RNH?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Hollow Knight",
-      "image": "/images/juegos-switch/hollow-knight.jpg",
-      "price": 27.8,
-      "rating": 4,
-      "reviews": 1110,
-      "affiliate_url": "https://www.amazon.es/dp/B07P6QCPS8?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Super Mario Bros. Wonder",
-      "image": "/images/juegos-switch/super-mario-bros-wonder.jpg",
-      "price": 48.88,
-      "rating": 4,
-      "reviews": 3850,
-      "affiliate_url": "https://www.amazon.es/dp/B0C8YWGST8?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Meridiem Games - Ori - The Collection",
       "image": "/images/juegos-switch/meridiem-games-ori-the-collection.jpg",
-      "price": 33.5,
+      "price": 24.9,
       "rating": 4,
-      "reviews": 941,
+      "reviews": 940,
       "affiliate_url": "https://www.amazon.es/dp/B09BBWTPP2?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
+      "position": 3,
+      "name": "Super Mario Galaxy + Super Mario Galaxy 2 - Swit",
+      "image": "/images/juegos-switch/super-mario-galaxy-super-mario-galaxy-2-swit.jpg",
+      "price": 58.88,
+      "rating": 4,
+      "reviews": 396,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQWBD5MT?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Endless Ocean Luminous",
+      "image": "/images/juegos-switch/endless-ocean-luminous.jpg",
+      "price": 44.96,
+      "rating": 3,
+      "reviews": 133,
+      "affiliate_url": "https://www.amazon.es/dp/B0CWP9V73C?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Tomodachi Life: Una vida de ensueño Standard | N",
+      "image": "/images/juegos-switch/tomodachi-life-una-vida-de-ensueno-standard-n.jpg",
+      "price": 59.99,
+      "rating": 4,
+      "reviews": 13,
+      "affiliate_url": "https://www.amazon.es/dp/B0GWKDHTG8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Hollow Knight",
+      "image": "/images/juegos-switch/hollow-knight.jpg",
+      "price": 27.8,
+      "rating": 4,
+      "reviews": 1114,
+      "affiliate_url": "https://www.amazon.es/dp/B07P6QCPS8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
       "name": "Kirby y la Tierra Olvidada",
       "image": "/images/juegos-switch/kirby-y-la-tierra-olvidada.jpg",
       "price": 49.99,
       "rating": 4,
-      "reviews": 2452,
+      "reviews": 2453,
       "affiliate_url": "https://www.amazon.es/dp/B09GWPYXVH?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "Super Smash Bros. Ultimate (Variación)(Español)",
-      "image": "/images/juegos-switch/super-smash-bros-ultimate-variacion-espanol.jpg",
-      "price": 53.99,
+      "position": 8,
+      "name": "Super Mario Bros. Wonder",
+      "image": "/images/juegos-switch/super-mario-bros-wonder.jpg",
+      "price": 47.99,
       "rating": 4,
-      "reviews": 2516,
-      "affiliate_url": "https://www.amazon.es/dp/B07BDYT58L?tag=rankzon-21",
+      "reviews": 3854,
+      "affiliate_url": "https://www.amazon.es/dp/B0C8YWGST8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "NINTENDO Switch Sports",
+      "image": "/images/juegos-switch/nintendo-switch-sports.jpg",
+      "price": 47.52,
+      "rating": 4,
+      "reviews": 8343,
+      "affiliate_url": "https://www.amazon.es/dp/B09S79RJN2?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "The Legend of Zelda: Tears of the Kingdom",
-      "image": "/images/juegos-switch/the-legend-of-zelda-tears-of-the-kingdom.jpg",
-      "price": 56.5,
+      "name": "Mario Kart 8 Deluxe",
+      "image": "/images/juegos-switch/mario-kart-8-deluxe.jpg",
+      "price": 49.99,
       "rating": 4,
-      "reviews": 3701,
-      "affiliate_url": "https://www.amazon.es/dp/B09S4R3WT1?tag=rankzon-21",
+      "reviews": 8922,
+      "affiliate_url": "https://www.amazon.es/dp/B01N7RLGIJ?tag=rankzon-21",
       "badge": null
     }
   ]

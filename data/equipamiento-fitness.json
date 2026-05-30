@@ -1,0 +1,106 @@
+{
+  "categoria": "equipamiento-fitness",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Joma - Camiseta Deportiva Manga Corta Hombre",
+      "image": "/images/equipamiento-fitness/joma-camiseta-deportiva-manga-corta-hombre.jpg",
+      "price": 6.99,
+      "rating": 4,
+      "reviews": 25195,
+      "affiliate_url": "https://www.amazon.es/dp/B07H299DK5?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "Joma Pantalón Corto Deportivo Hombre- Cintura El",
+      "image": "/images/equipamiento-fitness/joma-pantalon-corto-deportivo-hombre-cintura-el.jpg",
+      "price": 6.95,
+      "rating": 4,
+      "reviews": 8688,
+      "affiliate_url": "https://www.amazon.es/dp/B06Y63CN8X?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Amazon Basics Par de mancuernas de neopreno",
+      "image": "/images/equipamiento-fitness/amazon-basics-par-de-mancuernas-de-neopreno.jpg",
+      "price": 16.19,
+      "rating": 4,
+      "reviews": 28282,
+      "affiliate_url": "https://www.amazon.es/dp/B078XXP3RH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Joma Nobel Pantalones Cortos",
+      "image": "/images/equipamiento-fitness/joma-nobel-pantalones-cortos.jpg",
+      "price": 6.99,
+      "rating": 4,
+      "reviews": 843,
+      "affiliate_url": "https://www.amazon.es/dp/B00IXMBWMW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Joma - Camiseta Deportiva Sin Mangas Hombre",
+      "image": "/images/equipamiento-fitness/joma-camiseta-deportiva-sin-mangas-hombre.jpg",
+      "price": 7.99,
+      "rating": 4,
+      "reviews": 4852,
+      "affiliate_url": "https://www.amazon.es/dp/B01E5NCKDM?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Joma Camiseta Deportiva Manga Corta Mujer",
+      "image": "/images/equipamiento-fitness/joma-camiseta-deportiva-manga-corta-mujer.jpg",
+      "price": 5.95,
+      "rating": 4,
+      "reviews": 4955,
+      "affiliate_url": "https://www.amazon.es/dp/B01ERX3J1W?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Joma - Polo Manga Corta Hombre",
+      "image": "/images/equipamiento-fitness/joma-polo-manga-corta-hombre.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 3287,
+      "affiliate_url": "https://www.amazon.es/dp/B07P9W6XNN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Fokky Bandas Elasticas Musculacion [Set of 5]",
+      "image": "/images/equipamiento-fitness/fokky-bandas-elasticas-musculacion-set-of-5.jpg",
+      "price": 6.99,
+      "rating": 4,
+      "reviews": 12371,
+      "affiliate_url": "https://www.amazon.es/dp/B09CTVQWK8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Under Armour Global Foundation Short Sleeve T Sh",
+      "image": "/images/equipamiento-fitness/under-armour-global-foundation-short-sleeve-t-sh.jpg",
+      "price": 21.95,
+      "rating": 4,
+      "reviews": 3892,
+      "affiliate_url": "https://www.amazon.es/dp/B0C12SKP5F?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "unycos - Pesas y Mancuernas Antideslizantes【Hier",
+      "image": "/images/equipamiento-fitness/unycos-pesas-y-mancuernas-antideslizantes-hier.jpg",
+      "price": 22.7,
+      "rating": 4,
+      "reviews": 4321,
+      "affiliate_url": "https://www.amazon.es/dp/B08NCCG52G?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

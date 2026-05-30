@@ -1,0 +1,115 @@
+{
+  "categoria": "sillas-gaming",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "SONGMICS Silla Gaming Ergonómica 150kg",
+      "image": "/images/sillas-gaming/songmics-racing-rgb.jpg",
+      "price": 129.99,
+      "rating": 4.4,
+      "reviews": 42300,
+      "affiliate_url": "https://www.amazon.es/dp/B08YCFVHY9?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Reposacabezas y lumbar ajustables incluidos", "Reclinación hasta 135°", "Soporta hasta 150kg"],
+      "cons": ["El montaje puede llevar 30-45 minutos", "Los reposabrazos son fijos en este modelo"],
+      "user_summary": "Los compradores destacan la comodidad para sesiones largas y el precio ajustado. La mayoría la monta sin problemas siguiendo las instrucciones."
+    },
+    {
+      "position": 2,
+      "name": "GTRacing GT002 Silla Gaming con Reposapiés",
+      "image": "/images/sillas-gaming/gtracing-gt002.jpg",
+      "price": 149.99,
+      "rating": 4.3,
+      "reviews": 31200,
+      "affiliate_url": "https://www.amazon.es/dp/B07Z4BVC6X?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Reposapiés retráctil incluido", "Reclinación total hasta 180°", "Cojín lumbar con masaje"],
+      "cons": ["Las ruedas pueden rayar suelos de parqué", "El cuero sintético se calienta en verano"],
+      "user_summary": "Los compradores valoran el reposapiés para sesiones muy largas. La función de masaje lumbar recibe menciones positivas sorprendentes."
+    },
+    {
+      "position": 3,
+      "name": "NOBLECHAIR HERO Gaming Chair Cuero genuino",
+      "image": "/images/sillas-gaming/noblechair-hero.jpg",
+      "price": 449.00,
+      "rating": 4.6,
+      "reviews": 8700,
+      "affiliate_url": "https://www.amazon.es/dp/B07BRTQCD8?tag=rankzon-21",
+      "badge": "Premium",
+      "pros": ["Cuero genuino de larga durabilidad", "Diseño más discreto, apto para oficina", "Ergonomía superior en gama alta"],
+      "cons": ["Precio muy elevado", "Tarda semanas en amoldarse al cuerpo"],
+      "user_summary": "Los compradores la ven como inversión a largo plazo. Comparan su durabilidad con sillas de oficina de empresa y salen ganando."
+    },
+    {
+      "position": 4,
+      "name": "Subsonic Silla Gaming Combat X Pro",
+      "image": "/images/sillas-gaming/subsonic-combat-x-pro.jpg",
+      "price": 179.99,
+      "rating": 4.2,
+      "reviews": 12400,
+      "affiliate_url": "https://www.amazon.es/dp/B09BQFGHGX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Secretlab TITAN Evo 2022 SoftWeave",
+      "image": "/images/sillas-gaming/secretlab-titan-evo-2022.jpg",
+      "price": 549.00,
+      "rating": 4.7,
+      "reviews": 5400,
+      "affiliate_url": "https://www.amazon.es/dp/B09GKL4YBZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "DXRacer Formula F08 Silla Gaming",
+      "image": "/images/sillas-gaming/dxracer-formula-f08.jpg",
+      "price": 249.00,
+      "rating": 4.3,
+      "reviews": 18900,
+      "affiliate_url": "https://www.amazon.es/dp/B005M3GRBS?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "RESPAWN 200 Racing Style Gaming Chair",
+      "image": "/images/sillas-gaming/respawn-200.jpg",
+      "price": 199.99,
+      "rating": 4.3,
+      "reviews": 9200,
+      "affiliate_url": "https://www.amazon.es/dp/B07YZ2GRXZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "COUGAR Armor S Gaming Chair",
+      "image": "/images/sillas-gaming/cougar-armor-s.jpg",
+      "price": 229.00,
+      "rating": 4.4,
+      "reviews": 7800,
+      "affiliate_url": "https://www.amazon.es/dp/B07F2F2GBH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "AKRacing Core EX-Wide SE",
+      "image": "/images/sillas-gaming/akracing-core-ex-wide.jpg",
+      "price": 329.00,
+      "rating": 4.5,
+      "reviews": 6700,
+      "affiliate_url": "https://www.amazon.es/dp/B07JKZD1MV?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Corsair TC100 Relaxed Gaming Chair",
+      "image": "/images/sillas-gaming/corsair-tc100-relaxed.jpg",
+      "price": 229.00,
+      "rating": 4.4,
+      "reviews": 4300,
+      "affiliate_url": "https://www.amazon.es/dp/B0CBYXY7PF?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "categoria": "zapatillas-running",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Xiaomi Smartband 10",
+      "image": "/images/zapatillas-running/xiaomi-smartband-10.jpg",
+      "price": 35.1,
+      "rating": 4,
+      "reviews": 9829,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYF82545?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "XIAOMI Redmi Watch 5 Active",
+      "image": "/images/zapatillas-running/xiaomi-redmi-watch-5-active.jpg",
+      "price": 29.49,
+      "rating": 4,
+      "reviews": 24186,
+      "affiliate_url": "https://www.amazon.es/dp/B0DFZPR9Z4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Adidas Hombre Galaxy 7 Zapatillas de Correr",
+      "image": "/images/zapatillas-running/adidas-hombre-galaxy-7-zapatillas-de-correr.jpg",
+      "price": 35.74,
+      "rating": 4,
+      "reviews": 9248,
+      "affiliate_url": "https://www.amazon.es/dp/B0CKXQYTGZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "XIAOMI Smart Band 9 Active - Pulsera de Activida",
+      "image": "/images/zapatillas-running/xiaomi-smart-band-9-active-pulsera-de-activida.jpg",
+      "price": 19.8,
+      "rating": 4,
+      "reviews": 8162,
+      "affiliate_url": "https://www.amazon.es/dp/B0DK6ZC5ZC?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "adidas Women's Zapatilla Galaxy 7 Running",
+      "image": "/images/zapatillas-running/adidas-women-s-zapatilla-galaxy-7-running.jpg",
+      "price": 36.99,
+      "rating": 4,
+      "reviews": 3904,
+      "affiliate_url": "https://www.amazon.es/dp/B0CKXSVTK7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "TCA Pantalones Cortos Hombre Deporte con Bolsill",
+      "image": "/images/zapatillas-running/tca-pantalones-cortos-hombre-deporte-con-bolsill.jpg",
+      "price": 17.09,
+      "rating": 4,
+      "reviews": 14491,
+      "affiliate_url": "https://www.amazon.es/dp/B019IIBQVQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Adidas Hombre Runfalcon 5 Zapatillas de Correr",
+      "image": "/images/zapatillas-running/adidas-hombre-runfalcon-5-zapatillas-de-correr.jpg",
+      "price": 38.99,
+      "rating": 4,
+      "reviews": 10423,
+      "affiliate_url": "https://www.amazon.es/dp/B0CKXT51LV?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Google Fitbit Air - Pulsera de Actividad con mon",
+      "image": "/images/zapatillas-running/google-fitbit-air-pulsera-de-actividad-con-mon.jpg",
+      "price": 99.99,
+      "rating": 4,
+      "reviews": 28,
+      "affiliate_url": "https://www.amazon.es/dp/B0GS7D8BN9?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "XIAOMI Smart Band 9 Pro - Pulsera de Actividad",
+      "image": "/images/zapatillas-running/xiaomi-smart-band-9-pro-pulsera-de-actividad.jpg",
+      "price": 44.1,
+      "rating": 4,
+      "reviews": 4764,
+      "affiliate_url": "https://www.amazon.es/dp/B0DK71CTCK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "SINOPHANT Leggins Cortos Mujer Cintura Alta 3/4",
+      "image": "/images/zapatillas-running/sinophant-leggins-cortos-mujer-cintura-alta-3-4.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 13680,
+      "affiliate_url": "https://www.amazon.es/dp/B088JZRQS3?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

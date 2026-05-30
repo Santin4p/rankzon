@@ -1,135 +1,105 @@
 {
   "categoria": "juegos-ps5",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "Tomb Raider IV-VI Remastered Starring Lara Croft",
-      "image": "/images/juegos-ps5/tomb-raider-iv-vi-remastered-starring-lara-croft.jpg",
-      "price": 14.99,
-      "rating": 4,
-      "reviews": 63,
-      "affiliate_url": "https://www.amazon.es/dp/B0F99Y2K4Z?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Trilogía remasterizada de los clásicos de Lara Croft con gráficos mejorados",
-        "Tres juegos completos en un solo pack a precio muy asequible",
-        "Incluye los mejores juegos de Tomb Raider de la era PlayStation 1"
-      ],
-      "cons": [
-        "Gráficos remasterizados, no remake completo, con limitaciones visuales evidentes",
-        "El estilo de juego clásico puede resultar anticuado para nuevos jugadores"
-      ],
-      "user_summary": "Los compradores son fans nostálgicos que quieren revivir los juegos de Lara Croft con mejoras visuales o descubrirlos por primera vez. La mayoría están satisfechos con la cantidad de contenido incluido y el precio, aunque señalan que son remasters, no remakes completos."
+      "name": "007 First Light Specialist Edition - PS",
+      "image": "/images/juegos-ps5/007-first-light-specialist-edition-ps.jpg",
+      "price": 69.99,
+      "rating": 5,
+      "reviews": 1,
+      "affiliate_url": "https://www.amazon.es/dp/B0FPMMTJZM?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Clair Obscur: Expedition 33",
-      "image": "/images/juegos-ps5/clair-obscur-expedition-33.jpg",
-      "price": 37.9,
+      "name": "Assassin's Creed Shadows Limited Edition (Exclus",
+      "image": "/images/juegos-ps5/assassin-s-creed-shadows-limited-edition-exclus.jpg",
+      "price": 29.99,
       "rating": 4,
-      "reviews": 241,
-      "affiliate_url": "https://www.amazon.es/dp/B0DLGNT4V3?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "RPG de turnos con una propuesta artística y narrativa absolutamente única",
-        "Historia profunda con personajes memorables y giros de guion sorprendentes",
-        "Sistema de combate estratégico que premia la planificación y la creatividad"
-      ],
-      "cons": [
-        "No es un juego de acción, puede decepcionar a quienes buscan combate en tiempo real",
-        "La dificultad puede resultar elevada en los últimos actos para jugadores casuales"
-      ],
-      "user_summary": "Los compradores buscan una experiencia de RPG diferente y artística que destaque sobre la media de juegos de PS5. La mayoría lo consideran una joya del género y uno de los mejores juegos del año, aunque advierten que no es para todos los gustos por su ritmo y estilo."
+      "reviews": 532,
+      "affiliate_url": "https://www.amazon.es/dp/B0D362WFCC?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "Resident Evil Requiem PS5",
-      "image": "/images/juegos-ps5/resident-evil-requiem-ps5.jpg",
-      "price": 60.9,
+      "name": "PlayStation 5-Ghost of Yotei - Edición Estándar",
+      "image": "/images/juegos-ps5/playstation-5-ghost-of-yotei-edicion-estandar.jpg",
+      "price": 68.4,
       "rating": 4,
-      "reviews": 404,
-      "affiliate_url": "https://www.amazon.es/dp/B0FSSHFQ9R?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Survival horror de primera categoría con una atmósfera de terror insuperable",
-        "Gráficos next-gen que aprovechan al máximo el hardware de PS5",
-        "Historia escalofriante con final sorprendente que enganchará desde el principio"
-      ],
-      "cons": [
-        "El contenido de terror intenso no es adecuado para todos los jugadores",
-        "Juego lineal sin mucha rejugabilidad una vez conocida la historia"
-      ],
-      "user_summary": "Los compradores fans del survival horror y la saga Resident Evil lo esperaban con ansias y no han quedado decepcionados. La mayoría lo consideran uno de los mejores juegos de terror de los últimos años con una historia que va crescendo hasta el clímax final."
+      "reviews": 335,
+      "affiliate_url": "https://www.amazon.es/dp/B0F6D5BS17?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "NBA 2K26 PS5",
-      "image": "/images/juegos-ps5/nba-2k26-ps5.jpg",
-      "price": 18.99,
+      "name": "Alan Wake 2 Deluxe Edition - PS5",
+      "image": "/images/juegos-ps5/alan-wake-2-deluxe-edition-ps5.jpg",
+      "price": 24.9,
       "rating": 4,
-      "reviews": 84,
-      "affiliate_url": "https://www.amazon.es/dp/B0FH7FZPSP?tag=rankzon-21",
+      "reviews": 324,
+      "affiliate_url": "https://www.amazon.es/dp/B0D669NGW7?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Star Wars Outlaws Limited Edition (Exclusive to",
-      "image": "/images/juegos-ps5/star-wars-outlaws-limited-edition-exclusive-to.jpg",
-      "price": 29.9,
+      "name": "Ghost of Tsushima Director's Cut PS5 | Videojueg",
+      "image": "/images/juegos-ps5/ghost-of-tsushima-director-s-cut-ps5-videojueg.jpg",
+      "price": 38.3,
       "rating": 4,
-      "reviews": 260,
-      "affiliate_url": "https://www.amazon.es/dp/B0CZTKY8TC?tag=rankzon-21",
+      "reviews": 530,
+      "affiliate_url": "https://www.amazon.es/dp/B099KRQYRV?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Beast of Reincarnation - PS5",
-      "image": "/images/juegos-ps5/beast-of-reincarnation-ps5.jpg",
-      "price": 54.99,
-      "rating": null,
-      "reviews": null,
-      "affiliate_url": "https://www.amazon.es/dp/B0GY49HPXH?tag=rankzon-21",
+      "name": "Juego PS5 Horizon Zero Dawn Remastered",
+      "image": "/images/juegos-ps5/juego-ps5-horizon-zero-dawn-remastered.jpg",
+      "price": 27.6,
+      "rating": 4,
+      "reviews": 103,
+      "affiliate_url": "https://www.amazon.es/dp/B0DHYJKW6J?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Minecraft - PS5",
-      "image": "/images/juegos-ps5/minecraft-ps5.jpg",
-      "price": 26.99,
+      "name": "Prince of Persia: The Lost Crown (PS5)",
+      "image": "/images/juegos-ps5/prince-of-persia-the-lost-crown-ps5.jpg",
+      "price": 14.99,
       "rating": 4,
-      "reviews": 239,
-      "affiliate_url": "https://www.amazon.es/dp/B0DCPB9J7K?tag=rankzon-21",
+      "reviews": 283,
+      "affiliate_url": "https://www.amazon.es/dp/B0C74MS1D5?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Starfield™: Edición estándar – PlayStation 5© [D",
-      "image": "/images/juegos-ps5/starfield-edicion-estandar-playstation-5-d.jpg",
-      "price": 54.67,
-      "rating": 4,
-      "reviews": 12,
-      "affiliate_url": "https://www.amazon.es/dp/B0GQHLFRMV?tag=rankzon-21",
+      "name": "LEGO Batman: El Legado del Caballero Oscuro - PS",
+      "image": "/images/juegos-ps5/lego-batman-el-legado-del-caballero-oscuro-ps.jpg",
+      "price": 59.9,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0G72Q8QJ5?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "007 First Light Specialist Edition - PS",
-      "image": "/images/juegos-ps5/007-first-light-specialist-edition-ps.jpg",
-      "price": 69.99,
-      "rating": null,
-      "reviews": null,
-      "affiliate_url": "https://www.amazon.es/dp/B0FPMMTJZM?tag=rankzon-21",
+      "name": "Playstation Sackboy: Una Aventura a lo Grande",
+      "image": "/images/juegos-ps5/playstation-sackboy-una-aventura-a-lo-grande.jpg",
+      "price": 31.94,
+      "rating": 4,
+      "reviews": 437,
+      "affiliate_url": "https://www.amazon.es/dp/B08B4HHNNM?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "PlayStation 5- AstroBot™",
-      "image": "/images/juegos-ps5/playstation-5-astrobot.jpg",
-      "price": 40,
+      "name": "PlayStation 5- Stellar Blade™",
+      "image": "/images/juegos-ps5/playstation-5-stellar-blade.jpg",
+      "price": 56.95,
       "rating": 4,
-      "reviews": 580,
-      "affiliate_url": "https://www.amazon.es/dp/B0D63D729Q?tag=rankzon-21",
+      "reviews": 344,
+      "affiliate_url": "https://www.amazon.es/dp/B0CTTNWZCM?tag=rankzon-21",
       "badge": null
     }
   ]

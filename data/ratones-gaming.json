@@ -1,95 +1,65 @@
 {
   "categoria": "ratones-gaming",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "Logitech G G203 LIGHTSYNC Ratón Gaming con Ilumi",
       "image": "/images/ratones-gaming/logitech-g-g203-lightsync-raton-gaming-con-ilumi.jpg",
-      "price": 19.99,
+      "price": 21.95,
       "rating": 4,
-      "reviews": 11981,
+      "reviews": 12001,
       "affiliate_url": "https://www.amazon.es/dp/B07W5JKFQC?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Sensor HERO G203 preciso con sensibilidad de 200-8000 DPI ajustable",
-        "Diseño ambidextro cómodo para tanto diestros como zurdos",
-        "Iluminación RGB LIGHTSYNC sincronizable con otros periféricos Logitech G"
-      ],
-      "cons": [
-        "Sin botones adicionales en el costado para macros o acciones rápidas",
-        "El cable es fijo y no se puede quitar, lo que limita la libertad de movimiento"
-      ],
-      "user_summary": "Los compradores que empiezan en el gaming o buscan un ratón gaming confiable a precio muy asequible lo eligen como primera opción. La mayoría están satisfechos con la precisión del sensor y la calidad de construcción típica de Logitech G."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
+      "name": "Logitech G305 Lightspeed Ratón Gaming Inalámbric",
+      "image": "/images/ratones-gaming/logitech-g305-lightspeed-raton-gaming-inalambric.jpg",
+      "price": 35.99,
+      "rating": 4,
+      "reviews": 9086,
+      "affiliate_url": "https://www.amazon.es/dp/B07CGNDZR3?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "Logitech G G502 X Plus Lightspeed Ratón inalámbr",
+      "image": "/images/ratones-gaming/logitech-g-g502-x-plus-lightspeed-raton-inalambr.jpg",
+      "price": 89.99,
+      "rating": 4,
+      "reviews": 3316,
+      "affiliate_url": "https://www.amazon.es/dp/B07W6JHVG8?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
       "name": "Logitech G G305 Lightspeed Ratón Gaming Inalámbr",
       "image": "/images/ratones-gaming/logitech-g-g305-lightspeed-raton-gaming-inalambr.jpg",
       "price": 34.99,
       "rating": 4,
-      "reviews": 23115,
+      "reviews": 23157,
       "affiliate_url": "https://www.amazon.es/dp/B07CGPZ3ZQ?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Conexión inalámbrica LIGHTSPEED con latencia inferior a 1ms, sin lag perceptible",
-        "Sensor HERO de gama alta con precisión de hasta 12000 DPI",
-        "Batería de hasta 250 horas con una sola pila AA"
-      ],
-      "cons": [
-        "Requiere pila AA (incluida) que aumenta ligeramente el peso",
-        "La rueda de scroll puede resultar algo rígida para uso intensivo"
-      ],
-      "user_summary": "Los compradores que quieren la libertad inalámbrica sin sacrificar la latencia lo eligen como el ratón gaming inalámbrico referente en su rango de precio. La mayoría no notan diferencia con un ratón con cable y destacan la increíble duración de la batería."
-    },
-    {
-      "position": 3,
-      "name": "Razer DeathAdder Essential - Ratón Gaming con se",
-      "image": "/images/ratones-gaming/razer-deathadder-essential-raton-gaming-con-se.jpg",
-      "price": 19.9,
-      "rating": 4,
-      "reviews": 18364,
-      "affiliate_url": "https://www.amazon.es/dp/B092R5MCB3?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Sensor óptico de 6400 DPI para precisión en juegos FPS competitivos",
-        "Diseño ergonómico para diestros con apoyo de palma durante horas de juego",
-        "Más de 18.000 reseñas que avalan su fiabilidad y durabilidad contrastada"
-      ],
-      "cons": [
-        "Sin iluminación RGB, diseño sobrio no apto para setups con mucho RGB",
-        "Solo compatible con mano derecha por su diseño ergonómico"
-      ],
-      "user_summary": "Los compradores buscan un ratón gaming ergonómico y fiable de marca conocida a precio muy asequible. La mayoría los usan para gaming FPS competitivo y productividad indistintamente, valorando la comodidad del diseño ergonómico para largas sesiones."
-    },
-    {
-      "position": 4,
-      "name": "Mars Gaming MMW3",
-      "image": "/images/ratones-gaming/mars-gaming-mmw3.jpg",
-      "price": 11.95,
-      "rating": 4,
-      "reviews": 715,
-      "affiliate_url": "https://www.amazon.es/dp/B0B2111RGG?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Logitech G G502 Hero Ratón Gaming con Cable Alto",
-      "image": "/images/ratones-gaming/logitech-g-g502-hero-raton-gaming-con-cable-alto.jpg",
-      "price": 36.95,
+      "name": "Razer DeathAdder Essential - Ratón Gaming con se",
+      "image": "/images/ratones-gaming/razer-deathadder-essential-raton-gaming-con-se.jpg",
+      "price": 19.99,
       "rating": 4,
-      "reviews": 22564,
-      "affiliate_url": "https://www.amazon.es/dp/B07GS6ZS8J?tag=rankzon-21",
+      "reviews": 18448,
+      "affiliate_url": "https://www.amazon.es/dp/B092R5MCB3?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Logitech G G502 X Plus Lightspeed Ratón inalámbr",
-      "image": "/images/ratones-gaming/logitech-g-g502-x-plus-lightspeed-raton-inalambr.jpg",
-      "price": 99.99,
+      "name": "Mars Gaming MMW3",
+      "image": "/images/ratones-gaming/mars-gaming-mmw3.jpg",
+      "price": 12.99,
       "rating": 4,
-      "reviews": 3288,
-      "affiliate_url": "https://www.amazon.es/dp/B07W7MJ46M?tag=rankzon-21",
+      "reviews": 728,
+      "affiliate_url": "https://www.amazon.es/dp/B0B2111RGG?tag=rankzon-21",
       "badge": null
     },
     {
@@ -98,18 +68,18 @@
       "image": "/images/ratones-gaming/logitech-g-pro-x-superlight-2.jpg",
       "price": 99.9,
       "rating": 4,
-      "reviews": 3363,
+      "reviews": 3380,
       "affiliate_url": "https://www.amazon.es/dp/B07W5JKP66?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Razer Basilisk V3 - Ratón para Juegos Personaliz",
-      "image": "/images/ratones-gaming/razer-basilisk-v3-raton-para-juegos-personaliz.jpg",
-      "price": 45.62,
+      "name": "Razer Basilisk V3 X HyperSpeed - Mouse da gioco",
+      "image": "/images/ratones-gaming/razer-basilisk-v3-x-hyperspeed-mouse-da-gioco.jpg",
+      "price": 57.99,
       "rating": 4,
-      "reviews": 9580,
-      "affiliate_url": "https://www.amazon.es/dp/B097F8H1MC?tag=rankzon-21",
+      "reviews": 1982,
+      "affiliate_url": "https://www.amazon.es/dp/B0BT4VRZGV?tag=rankzon-21",
       "badge": null
     },
     {
@@ -118,18 +88,18 @@
       "image": "/images/ratones-gaming/razer-viper-v3-hyperspeed-raton-inalambrico-pa.jpg",
       "price": 59.99,
       "rating": 4,
-      "reviews": 1567,
+      "reviews": 1588,
       "affiliate_url": "https://www.amazon.es/dp/B0CBCPB2T1?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Logitech G305 Lightspeed Ratón Gaming Inalámbric",
-      "image": "/images/ratones-gaming/logitech-g305-lightspeed-raton-gaming-inalambric.jpg",
-      "price": 35.99,
+      "name": "Redragon M908 Impact Ratón Gaming RGB LED MMO",
+      "image": "/images/ratones-gaming/redragon-m908-impact-raton-gaming-rgb-led-mmo.jpg",
+      "price": 28.62,
       "rating": 4,
-      "reviews": 9073,
-      "affiliate_url": "https://www.amazon.es/dp/B07CGNDZR3?tag=rankzon-21",
+      "reviews": 15546,
+      "affiliate_url": "https://www.amazon.es/dp/B07FK9PKSM?tag=rankzon-21",
       "badge": null
     }
   ]

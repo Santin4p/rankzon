@@ -1,0 +1,115 @@
+{
+  "categoria": "powerbanks",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Anker PowerCore 10000 PD 25W",
+      "image": "/images/powerbanks/anker-powercore-10000-pd.jpg",
+      "price": 29.99,
+      "rating": 4.7,
+      "reviews": 64200,
+      "affiliate_url": "https://www.amazon.es/dp/B09VPHVD9B?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["10.000mAh en formato ultracompacto", "Puerto USB-C de 25W para carga rápida", "Garantía Anker de 18 meses"],
+      "cons": ["Carga interna lenta via microUSB", "Sin display de porcentaje exacto"],
+      "user_summary": "Los compradores lo eligen por la fiabilidad de Anker y el tamaño de bolsillo. Muchos lo usan como complemento permanente para viajes y conciertos."
+    },
+    {
+      "position": 2,
+      "name": "Baseus Powerbank 20000mAh 65W PD",
+      "image": "/images/powerbanks/baseus-20000mah-65w.jpg",
+      "price": 39.99,
+      "rating": 4.6,
+      "reviews": 38700,
+      "affiliate_url": "https://www.amazon.es/dp/B09CGVFW4R?tag=rankzon-21",
+      "badge": null,
+      "pros": ["65W carga portátiles y móviles", "20.000mAh para varios ciclos completos", "Pantalla LED de nivel de carga"],
+      "cons": ["Más voluminoso por la mayor capacidad", "Peso de 470g notable en el bolso"],
+      "user_summary": "Los compradores lo usan para cargar portátiles en viajes largos. Destacan que el 65W carga un MacBook Air de 0 a 80% en menos de una hora."
+    },
+    {
+      "position": 3,
+      "name": "INIU Powerbank 10000mAh 22.5W Mini",
+      "image": "/images/powerbanks/iniu-10000mah-22-5w.jpg",
+      "price": 19.99,
+      "rating": 4.6,
+      "reviews": 52100,
+      "affiliate_url": "https://www.amazon.es/dp/B08XX9N1ZP?tag=rankzon-21",
+      "badge": "Mejor precio",
+      "pros": ["El más económico con carga rápida real", "Formato slim, apenas ocupa espacio", "Dos puertos USB + USB-C simultáneos"],
+      "cons": ["22.5W solo si el móvil lo soporta", "Capacidad real algo menor a lo anunciado"],
+      "user_summary": "Los compradores lo llaman el mejor powerbank por euros. La relación tamaño-capacidad convence especialmente para llevar en el bolsillo del pantalón."
+    },
+    {
+      "position": 4,
+      "name": "Xiaomi Power Bank 3 10000mAh 22.5W",
+      "image": "/images/powerbanks/xiaomi-power-bank-3-10000.jpg",
+      "price": 24.99,
+      "rating": 4.5,
+      "reviews": 41300,
+      "affiliate_url": "https://www.amazon.es/dp/B0BS5HTZK7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Anker PowerCore 20100mAh 2 puertos USB",
+      "image": "/images/powerbanks/anker-powercore-20100.jpg",
+      "price": 44.99,
+      "rating": 4.7,
+      "reviews": 28400,
+      "affiliate_url": "https://www.amazon.es/dp/B00X5RV14Y?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Samsung EB-P3400 10000mAh 25W Super Fast",
+      "image": "/images/powerbanks/samsung-eb-p3400-25w.jpg",
+      "price": 34.99,
+      "rating": 4.5,
+      "reviews": 14200,
+      "affiliate_url": "https://www.amazon.es/dp/B0C78QJMWW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Belkin BOOSTCHARGE 10000mAh 15W",
+      "image": "/images/powerbanks/belkin-boostcharge-10000.jpg",
+      "price": 39.99,
+      "rating": 4.4,
+      "reviews": 8700,
+      "affiliate_url": "https://www.amazon.es/dp/B086LBV4S3?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Mophie Powerstation PD 20K",
+      "image": "/images/powerbanks/mophie-powerstation-pd-20k.jpg",
+      "price": 69.99,
+      "rating": 4.6,
+      "reviews": 6300,
+      "affiliate_url": "https://www.amazon.es/dp/B0854BDZG5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Veger VP-1351 30000mAh 65W PD",
+      "image": "/images/powerbanks/veger-vp1351-30000mah.jpg",
+      "price": 47.99,
+      "rating": 4.4,
+      "reviews": 9400,
+      "affiliate_url": "https://www.amazon.es/dp/B0C77MGXFB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Charmast Powerbank Slim 10000mAh USB-C",
+      "image": "/images/powerbanks/charmast-slim-10000.jpg",
+      "price": 17.99,
+      "rating": 4.3,
+      "reviews": 18700,
+      "affiliate_url": "https://www.amazon.es/dp/B086KHWMQK?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

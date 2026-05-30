@@ -1,0 +1,115 @@
+{
+  "categoria": "cepillos-dentales-electricos",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Oral-B iO Series 4 Cepillo Eléctrico",
+      "image": "/images/cepillos-dentales-electricos/oral-b-io-series-4.jpg",
+      "price": 59.99,
+      "rating": 4.6,
+      "reviews": 38400,
+      "affiliate_url": "https://www.amazon.es/dp/B09G1THBYY?tag=rankzon-21",
+      "badge": "Más vendido",
+      "pros": ["Guía de presión en tiempo real", "5 modos de cepillado", "Carga magnética precisa"],
+      "cons": ["Los recambios iO son más caros que los compatibles", "La batería dura menos que generaciones anteriores"],
+      "user_summary": "Los compradores destacan la guía de presión como el cambio más notable. La mayoría nota mejoría en encías en las primeras semanas."
+    },
+    {
+      "position": 2,
+      "name": "Philips Sonicare DiamondClean 9000",
+      "image": "/images/cepillos-dentales-electricos/philips-sonicare-diamondclean-9000.jpg",
+      "price": 119.99,
+      "rating": 4.7,
+      "reviews": 22100,
+      "affiliate_url": "https://www.amazon.es/dp/B09BHM6CQN?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Tecnología sónica superior para encías", "4 modos + 3 intensidades", "Vaso de carga incluido, elegante"],
+      "cons": ["Precio elevado para el modelo base", "Los cabezales Sonicare no son universales"],
+      "user_summary": "Los compradores con sensibilidad en encías lo prefieren al Oral-B. Destacan que el modo sensitivo es el más suave del mercado."
+    },
+    {
+      "position": 3,
+      "name": "Oral-B PRO 3 3000 CrossAction",
+      "image": "/images/cepillos-dentales-electricos/oral-b-pro-3-3000.jpg",
+      "price": 39.99,
+      "rating": 4.6,
+      "reviews": 54200,
+      "affiliate_url": "https://www.amazon.es/dp/B08XQ3BKXH?tag=rankzon-21",
+      "badge": "Mejor precio",
+      "pros": ["Excelente precio de entrada a Oral-B eléctrico", "Indicador de presión integrado", "Cabezales CrossAction compatibles económicos"],
+      "cons": ["Sin app ni conectividad Bluetooth", "3 modos solo, menos que series superiores"],
+      "user_summary": "Los compradores que vienen de cepillo manual lo describen como un cambio de nivel total. La relación precio-resultado en limpieza es muy alta."
+    },
+    {
+      "position": 4,
+      "name": "Philips Sonicare 4100 HX6857",
+      "image": "/images/cepillos-dentales-electricos/philips-sonicare-4100.jpg",
+      "price": 49.99,
+      "rating": 4.5,
+      "reviews": 31800,
+      "affiliate_url": "https://www.amazon.es/dp/B07GFG8F29?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Oral-B iO Series 6 con Inteligencia Artificial",
+      "image": "/images/cepillos-dentales-electricos/oral-b-io-series-6.jpg",
+      "price": 89.99,
+      "rating": 4.7,
+      "reviews": 18700,
+      "affiliate_url": "https://www.amazon.es/dp/B09G1PRQPM?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Xiaomi Electric Toothbrush T700",
+      "image": "/images/cepillos-dentales-electricos/xiaomi-t700.jpg",
+      "price": 34.99,
+      "rating": 4.4,
+      "reviews": 14200,
+      "affiliate_url": "https://www.amazon.es/dp/B09NRXG8L9?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Oclean X Pro Elite Sónico Inteligente",
+      "image": "/images/cepillos-dentales-electricos/oclean-x-pro-elite.jpg",
+      "price": 69.99,
+      "rating": 4.5,
+      "reviews": 9800,
+      "affiliate_url": "https://www.amazon.es/dp/B0951PXFJW?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Colgate E1 Smart Electric Toothbrush",
+      "image": "/images/cepillos-dentales-electricos/colgate-e1-smart.jpg",
+      "price": 79.99,
+      "rating": 4.3,
+      "reviews": 5600,
+      "affiliate_url": "https://www.amazon.es/dp/B09TLFM3SX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Braun Oral-B Vitality PRO",
+      "image": "/images/cepillos-dentales-electricos/oral-b-vitality-pro.jpg",
+      "price": 29.99,
+      "rating": 4.5,
+      "reviews": 28400,
+      "affiliate_url": "https://www.amazon.es/dp/B09S7QMYK7?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Waterpik Aquarius WP-660EU Irrigador Dental",
+      "image": "/images/cepillos-dentales-electricos/waterpik-aquarius-wp660.jpg",
+      "price": 59.99,
+      "rating": 4.5,
+      "reviews": 42100,
+      "affiliate_url": "https://www.amazon.es/dp/B0785RP5R7?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

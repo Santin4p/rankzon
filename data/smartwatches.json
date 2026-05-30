@@ -1,6 +1,6 @@
 {
   "categoria": "smartwatches",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
@@ -8,128 +8,98 @@
       "image": "/images/smartwatches/xiaomi-redmi-watch-5-active.jpg",
       "price": 29.49,
       "rating": 4,
-      "reviews": 23835,
+      "reviews": 24184,
       "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Pantalla grande y luminosa perfectamente legible al sol",
-        "Autonomía de más de 12 días en uso normal",
-        "Más de 100 modos deportivos con monitorización de salud 24/7"
-      ],
-      "cons": [
-        "El ecosistema de apps Xiaomi es más limitado que Wear OS",
-        "El GPS no es tan preciso como en relojes de gama superior"
-      ],
-      "user_summary": "Los compradores se sorprenden de las prestaciones que ofrece a menos de 30€, destacando especialmente la duración de la batería y el tamaño de la pantalla. La mayoría lo recomienda como primer smartwatch o para regalar a quien quiere datos de salud sin complicarse."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
-      "name": "Garmin Venu 4",
-      "image": "/images/smartwatches/garmin-venu-4.jpg",
-      "price": 439.32,
+      "name": "Reloj Inteligente Hombre con Linterna",
+      "image": "/images/smartwatches/reloj-inteligente-hombre-con-linterna.jpg",
+      "price": 129.99,
       "rating": 4,
-      "reviews": 1044,
-      "affiliate_url": "https://www.amazon.es/dp/B0FRG18TLS?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Métricas deportivas y de salud muy precisas y fiables",
-        "Autonomía de batería muy superior a la media, varios días de uso",
-        "Construcción sólida con interfaz fluida y bien diseñada"
-      ],
-      "cons": [
-        "Ecosistema de apps más limitado que Apple o Samsung",
-        "Más orientado al deporte y la salud que a funciones de smartwatch convencional"
-      ],
-      "user_summary": "Los compradores que buscan un reloj orientado al deporte y la salud destacan la fiabilidad de sus métricas y la excepcional autonomía de batería. La mayoría lo considera entre los mejores del mercado, aunque señalan que su ecosistema de apps es más limitado."
+      "reviews": 108,
+      "affiliate_url": "https://www.amazon.es/dp/B0GTV6TK4J?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "Amazfit Active MAX",
-      "image": "/images/smartwatches/amazfit-active-max.jpg",
-      "price": 140.41,
-      "rating": 4,
-      "reviews": 701,
-      "affiliate_url": "https://www.amazon.es/dp/B0G1ZGK7MV?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Pantalla AMOLED de alta resolución muy nítida bajo cualquier luz",
-        "GPS integrado con precisión notable para el precio",
-        "Batería de larga duración con modo ahorro de energía efectivo"
-      ],
-      "cons": [
-        "El ecosistema Zepp Health es menos maduro que Garmin o Apple",
-        "Algunas métricas de salud no son tan fiables como en relojes premium"
-      ],
-      "user_summary": "Los compradores lo valoran como el punto dulce entre precio y prestaciones en la gama media, con pantalla AMOLED que supera a muchos competidores de su rango. La mayoría destaca que ofrece funciones de gama alta como GPS integrado y AMOLED a un precio razonable."
-    },
-    {
-      "position": 4,
-      "name": "XIAOMI Redmi Watch 6",
-      "image": "/images/smartwatches/xiaomi-redmi-watch-6.jpg",
-      "price": 99.99,
-      "rating": 3,
-      "reviews": 13,
-      "affiliate_url": "https://www.amazon.es/dp/B0GQL9JZS7?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "Apple Watch SE 3 GPS con Caja de Aluminio en Bla",
-      "image": "/images/smartwatches/apple-watch-se-3-gps-con-caja-de-aluminio-en-bla.jpg",
-      "price": 251,
-      "rating": 4,
-      "reviews": 1076,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQG1VG1C?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "Tensky Reloj Inteligente Mujer con Llamadas y Vo",
-      "image": "/images/smartwatches/tensky-reloj-inteligente-mujer-con-llamadas-y-vo.jpg",
-      "price": 45.12,
-      "rating": 4,
-      "reviews": 1851,
-      "affiliate_url": "https://www.amazon.es/dp/B0DZ6DPD6X?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
       "name": "Amazfit Active 2",
       "image": "/images/smartwatches/amazfit-active-2.jpg",
-      "price": 107.35,
+      "price": 109,
       "rating": 4,
-      "reviews": 2486,
+      "reviews": 2523,
       "affiliate_url": "https://www.amazon.es/dp/B0DSPVK9QJ?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 8,
+      "position": 4,
+      "name": "Apple Watch SE 3 GPS con Caja de Aluminio en Bla",
+      "image": "/images/smartwatches/apple-watch-se-3-gps-con-caja-de-aluminio-en-bla.jpg",
+      "price": 249,
+      "rating": 4,
+      "reviews": 1111,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQG1VG1C?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Tensky Reloj Inteligente Mujer con Llamadas y Vo",
+      "image": "/images/smartwatches/tensky-reloj-inteligente-mujer-con-llamadas-y-vo.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "reviews": 1893,
+      "affiliate_url": "https://www.amazon.es/dp/B0DZ6DPD6X?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
       "name": "Samsung Galaxy Fit3",
       "image": "/images/smartwatches/samsung-galaxy-fit3.jpg",
-      "price": 36.95,
+      "price": 39.46,
       "rating": 4,
-      "reviews": 3136,
+      "reviews": 3203,
       "affiliate_url": "https://www.amazon.es/dp/B0CVMWY3CD?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "HUAWEI Band 11 Pro Smartwatch",
-      "image": "/images/smartwatches/huawei-band-11-pro-smartwatch.jpg",
-      "price": 59,
+      "position": 7,
+      "name": "CASCHO Smartwatch Mujer Elegante 1.85\" HD con Ll",
+      "image": "/images/smartwatches/cascho-smartwatch-mujer-elegante-1-85-hd-con-ll.jpg",
+      "price": 35.98,
+      "rating": 5,
+      "reviews": 61,
+      "affiliate_url": "https://www.amazon.es/dp/B0H1WRB1P4?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "RUIMEN Reloj Inteligente Mujer Hombre con Llamad",
+      "image": "/images/smartwatches/ruimen-reloj-inteligente-mujer-hombre-con-llamad.jpg",
+      "price": 28.49,
       "rating": 4,
-      "reviews": 195,
-      "affiliate_url": "https://www.amazon.es/dp/B0GGHRJR23?tag=rankzon-21",
+      "reviews": 17496,
+      "affiliate_url": "https://www.amazon.es/dp/B0C8CK2TRK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "HUAWEI Watch FIT 3",
+      "image": "/images/smartwatches/huawei-watch-fit-3.jpg",
+      "price": 89,
+      "rating": 4,
+      "reviews": 5844,
+      "affiliate_url": "https://www.amazon.es/dp/B0CYC72YW2?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "HUAWEI Band 10 Smartwatch",
-      "image": "/images/smartwatches/huawei-band-10-smartwatch.jpg",
-      "price": 29,
+      "name": "HUAWEI WATCH FIT 5 Pro Smartwatch",
+      "image": "/images/smartwatches/huawei-watch-fit-5-pro-smartwatch.jpg",
+      "price": 298.98,
       "rating": 4,
-      "reviews": 1979,
-      "affiliate_url": "https://www.amazon.es/dp/B0DY1JKTRD?tag=rankzon-21",
+      "reviews": 78,
+      "affiliate_url": "https://www.amazon.es/dp/B0GTNQZ7R8?tag=rankzon-21",
       "badge": null
     }
   ]

@@ -1,135 +1,105 @@
 {
   "categoria": "purificadores-aire",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "Ventilador de techo con luz con mando 3 aspas",
-      "image": "/images/purificadores-aire/ventilador-de-techo-con-luz-con-mando-3-aspas.jpg",
-      "price": 48.5,
+      "name": "Cecotec Ventilador de Torre Digital con Temporiz",
+      "image": "/images/purificadores-aire/cecotec-ventilador-de-torre-digital-con-temporiz.jpg",
+      "price": 37.9,
       "rating": 4,
-      "reviews": 240,
-      "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Ventilador de techo con iluminación LED integrada para sala o dormitorio",
-        "Mando a distancia para control de velocidad y luz desde el sofá",
-        "Motor silencioso que no molesta durante el sueño ni en el trabajo"
-      ],
-      "cons": [
-        "Instalación en el techo requiere de un electricista o conocimientos básicos",
-        "El diseño con 3 aspas puede mover menos aire que los modelos de 5 aspas"
-      ],
-      "user_summary": "Los compradores lo instalan en dormitorios y salones para tener ventilación y luz integradas en un solo elemento. La mayoría están satisfechos con el nivel de ventilación y el silencio del motor, aunque recomiendan contar con ayuda profesional para la instalación."
+      "reviews": 4359,
+      "affiliate_url": "https://www.amazon.es/dp/B092JB4Z7J?tag=rankzon-21",
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "Orbegozo SF 0147",
       "image": "/images/purificadores-aire/orbegozo-sf-0147.jpg",
-      "price": 22.49,
+      "price": 24.59,
       "rating": 4,
-      "reviews": 14982,
+      "reviews": 15016,
       "affiliate_url": "https://www.amazon.es/dp/B01D4YVY80?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Ventilador de pie con 3 velocidades para refrescar cualquier estancia",
-        "Oscilación automática de 90° para distribuir el aire de forma uniforme",
-        "Diseño compacto y ligero fácil de mover de habitación en habitación"
-      ],
-      "cons": [
-        "El nivel de ruido en la máxima velocidad puede resultar molesto para dormir",
-        "La velocidad máxima no es suficiente para refrescar espacios muy amplios"
-      ],
-      "user_summary": "Los compradores lo eligen como ventilador de pie básico y fiable para el verano, valorando su precio muy asequible. La mayoría lo usan para refrescar dormitorios y despachos en casa, encontrándolo suficiente para el uso en verano."
+      "badge": null
     },
     {
       "position": 3,
-      "name": "Cecotec Ventilador de Torre Digital con Temporiz",
-      "image": "/images/purificadores-aire/cecotec-ventilador-de-torre-digital-con-temporiz.jpg",
-      "price": 37.9,
+      "name": "Ventilador de techo con luz con mando 3 aspas",
+      "image": "/images/purificadores-aire/ventilador-de-techo-con-luz-con-mando-3-aspas.jpg",
+      "price": 48.5,
       "rating": 4,
-      "reviews": 4336,
-      "affiliate_url": "https://www.amazon.es/dp/B092JB4Z7J?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Ventilador de torre digital con temporizador y control remoto",
-        "Movimiento oscilante de 80° con 3 modos y 9 velocidades",
-        "Diseño vertical que ocupa poco espacio en el suelo"
-      ],
-      "cons": [
-        "La oscilación puede crear corrientes de aire molestas en espacios pequeños",
-        "La limpieza de las rejillas del ventilador de torre requiere desmontaje"
-      ],
-      "user_summary": "Los compradores lo eligen para habitaciones donde un ventilador de pie estándar ocupa demasiado espacio. La mayoría valoran la versatilidad de los 9 niveles de velocidad y el temporizador que permite programar el apagado automático."
+      "reviews": 265,
+      "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 4,
-      "name": "Cecotec Ventilador Industrial EnergySilence 3000",
-      "image": "/images/purificadores-aire/cecotec-ventilador-industrial-energysilence-3000.jpg",
-      "price": 36.6,
+      "name": "Cecotec Aire Acondicionado Portátil con Mando a",
+      "image": "/images/purificadores-aire/cecotec-aire-acondicionado-portatil-con-mando-a.jpg",
+      "price": 179,
       "rating": 4,
-      "reviews": 548,
-      "affiliate_url": "https://www.amazon.es/dp/B092JFSFMQ?tag=rankzon-21",
+      "reviews": 2079,
+      "affiliate_url": "https://www.amazon.es/dp/B0BPZHKY25?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "M mimotec - White Olga Ventilador de Techo LED 6",
-      "image": "/images/purificadores-aire/m-mimotec-white-olga-ventilador-de-techo-led-6.jpg",
-      "price": 46.3,
+      "name": "Orbegozo SF 0149",
+      "image": "/images/purificadores-aire/orbegozo-sf-0149.jpg",
+      "price": 28.01,
       "rating": 4,
-      "reviews": 101,
-      "affiliate_url": "https://www.amazon.es/dp/B0DYP9N5CJ?tag=rankzon-21",
+      "reviews": 3938,
+      "affiliate_url": "https://www.amazon.es/dp/B07CJ33NX9?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Philips Purificador de Aire Serie 600",
-      "image": "/images/purificadores-aire/philips-purificador-de-aire-serie-600.jpg",
-      "price": 86.94,
+      "name": "Dreo 20dB Ventilador de Pie Silencioso",
+      "image": "/images/purificadores-aire/dreo-20db-ventilador-de-pie-silencioso.jpg",
+      "price": 89.99,
       "rating": 4,
-      "reviews": 1693,
-      "affiliate_url": "https://www.amazon.es/dp/B0CCF2NKCW?tag=rankzon-21",
+      "reviews": 44575,
+      "affiliate_url": "https://www.amazon.es/dp/B09MKPDJRT?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "LEVOIT Purificador de Aire con Filtro HEPA para",
-      "image": "/images/purificadores-aire/levoit-purificador-de-aire-con-filtro-hepa-para.jpg",
-      "price": 49.99,
+      "name": "Rowenta Turbo Silence Extreme",
+      "image": "/images/purificadores-aire/rowenta-turbo-silence-extreme.jpg",
+      "price": 83.99,
       "rating": 4,
-      "reviews": 3200,
-      "affiliate_url": "https://www.amazon.es/dp/B0CGDJHJP6?tag=rankzon-21",
+      "reviews": 19985,
+      "affiliate_url": "https://www.amazon.es/dp/B01891LZBY?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "CREATE/WINDCALM S/Ventilador de techo ABS con lu",
-      "image": "/images/purificadores-aire/create-windcalm-s-ventilador-de-techo-abs-con-lu.jpg",
-      "price": 80.95,
+      "name": "Midea Ventilador de Pie silencioso con Mando a D",
+      "image": "/images/purificadores-aire/midea-ventilador-de-pie-silencioso-con-mando-a-d.jpg",
+      "price": 43.99,
       "rating": 4,
-      "reviews": 226,
-      "affiliate_url": "https://www.amazon.es/dp/B0F4DKL4XQ?tag=rankzon-21",
+      "reviews": 1121,
+      "affiliate_url": "https://www.amazon.es/dp/B0CPSPXN9W?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Errecom Evaporator Cleaner Foam",
-      "image": "/images/purificadores-aire/errecom-evaporator-cleaner-foam.jpg",
-      "price": 13,
+      "name": "MIDEA Climatizador Evaporativo Portátil 3 en 1 C",
+      "image": "/images/purificadores-aire/midea-climatizador-evaporativo-portatil-3-en-1-c.jpg",
+      "price": 132.99,
       "rating": 4,
-      "reviews": 3985,
-      "affiliate_url": "https://www.amazon.es/dp/B06XWRVPMZ?tag=rankzon-21",
+      "reviews": 2884,
+      "affiliate_url": "https://www.amazon.es/dp/B0F1YDZRGR?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "DRYBOSS Pack x 10 Deshumidificador Absorbente An",
-      "image": "/images/purificadores-aire/dryboss-pack-x-10-deshumidificador-absorbente-an.jpg",
-      "price": 19.99,
+      "name": "Mellerware - Ventilador de Techo con Mando a Dis",
+      "image": "/images/purificadores-aire/mellerware-ventilador-de-techo-con-mando-a-dis.jpg",
+      "price": 119.99,
       "rating": 4,
-      "reviews": 461,
-      "affiliate_url": "https://www.amazon.es/dp/B0CWHDZZF1?tag=rankzon-21",
+      "reviews": 2899,
+      "affiliate_url": "https://www.amazon.es/dp/B092ZJDK8C?tag=rankzon-21",
       "badge": null
     }
   ]

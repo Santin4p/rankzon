@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import Hero from "@/components/Hero"
 import CategoryGrid from "@/components/CategoryGrid"
+import BlogPreview from "@/components/BlogPreview"
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -27,6 +28,7 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
       <Hero />
       <CategoryGrid />
+      <BlogPreview />
     </>
   )
 }

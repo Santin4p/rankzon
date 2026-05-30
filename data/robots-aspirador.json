@@ -1,135 +1,105 @@
 {
   "categoria": "robots-aspirador",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
-      "name": "DREAME L10s Ultra Gen 2 Robot Aspirador y Fregas",
-      "image": "/images/robots-aspirador/dreame-l10s-ultra-gen-2-robot-aspirador-y-fregas.jpg",
-      "price": 301,
-      "rating": 4,
-      "reviews": 3061,
-      "affiliate_url": "https://www.amazon.es/dp/B0DCVYS9FQ?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Aspirado y fregado automáticos con autovaciado y autolimpieza del fregado",
-        "Cartografía 3D con navegación precisa que evita obstáculos pequeños",
-        "Programación y control desde la app con zonas prohibidas personalizables"
-      ],
-      "cons": [
-        "Precio elevado aunque se amortiza rápidamente en tiempo y comodidad",
-        "La estación base requiere espacio y acceso a agua para el autolimpiado"
-      ],
-      "user_summary": "Los compradores que dan el salto a la gama alta de robots aspiradores destacan el nivel de autonomía total que proporciona el sistema de autovaciado y autolimpieza. La mayoría consideran que el precio se justifica por la cantidad de tiempo que les ahorra en limpieza del hogar."
-    },
-    {
-      "position": 2,
-      "name": "DREAME D10 Plus Gen 2 Robot Aspirador y Fregasue",
-      "image": "/images/robots-aspirador/dreame-d10-plus-gen-2-robot-aspirador-y-fregasue.jpg",
-      "price": 164.46,
-      "rating": 4,
-      "reviews": 1770,
-      "affiliate_url": "https://www.amazon.es/dp/B0D3RGFSRB?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Aspirado y fregado simultáneos a precio más asequible que el L10s",
-        "Autovaciado automático para no tener que vaciar el depósito a diario",
-        "Cartografía LiDAR precisa con múltiples mapas para distintas plantas"
-      ],
-      "cons": [
-        "El fregado es básico, más adecuado para mantenimiento que para limpieza profunda",
-        "La estación base no tiene función de autolimpieza del mopa como el modelo superior"
-      ],
-      "user_summary": "Los compradores buscan la funcionalidad de aspirado y fregado con autovaciado sin el precio de gama ultra-alta. La mayoría quedan muy satisfechos con el resultado y consideran que es el equilibrio perfecto entre funcionalidad y coste."
-    },
-    {
-      "position": 3,
-      "name": "iRobot Roomba 105 Combo",
-      "image": "/images/robots-aspirador/irobot-roomba-105-combo.jpg",
-      "price": 112.18,
-      "rating": 4,
-      "reviews": 7738,
-      "affiliate_url": "https://www.amazon.es/dp/B0DV9VK9K4?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Marca iRobot de confianza con décadas de experiencia en robótica doméstica",
-        "Función Combo que aspira y friega en un solo pasado",
-        "Programación por zonas y control por voz con Alexa y Google Home"
-      ],
-      "cons": [
-        "La capacidad de fregado es básica comparada con robots especializados en esta función",
-        "Precio algo elevado para las prestaciones respecto a competidores chinos"
-      ],
-      "user_summary": "Los compradores que confían en la marca iRobot por su historial de fiabilidad eligen el Roomba 105 como primer robot de suelo combinado. La mayoría destacan la solidez del hardware y la mejora en la limpieza diaria, aunque señalan que el fregado no es tan potente como en algunos competidores."
-    },
-    {
-      "position": 4,
-      "name": "Cecotec Robot Aspirador con Navegación Giroscópi",
-      "image": "/images/robots-aspirador/cecotec-robot-aspirador-con-navegacion-giroscopi.jpg",
-      "price": 89.9,
-      "rating": 4,
-      "reviews": 359,
-      "affiliate_url": "https://www.amazon.es/dp/B0FL2JGPYH?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 5,
-      "name": "XIAOMI Robot Vacuum S40C Robot Aspirador y Frega",
-      "image": "/images/robots-aspirador/xiaomi-robot-vacuum-s40c-robot-aspirador-y-frega.jpg",
-      "price": 149.99,
-      "rating": 4,
-      "reviews": 435,
-      "affiliate_url": "https://www.amazon.es/dp/B0F4K1H6X5?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
       "name": "Cecotec Robot Aspirador con Navegación Láser y A",
       "image": "/images/robots-aspirador/cecotec-robot-aspirador-con-navegacion-laser-y-a.jpg",
       "price": 119,
       "rating": 3,
-      "reviews": 278,
+      "reviews": 291,
       "affiliate_url": "https://www.amazon.es/dp/B0FL2NVQ8S?tag=rankzon-21",
+      "badge": "Más vendido"
+    },
+    {
+      "position": 2,
+      "name": "DREAME L10s Ultra Gen 2 Robot Aspirador y Fregas",
+      "image": "/images/robots-aspirador/dreame-l10s-ultra-gen-2-robot-aspirador-y-fregas.jpg",
+      "price": 301,
+      "rating": 4,
+      "reviews": 3100,
+      "affiliate_url": "https://www.amazon.es/dp/B0DCVYS9FQ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 3,
+      "name": "XIAOMI S40 Pro Robot Vacuum Cleaner - Brazos Ext",
+      "image": "/images/robots-aspirador/xiaomi-s40-pro-robot-vacuum-cleaner-brazos-ext.jpg",
+      "price": 215,
+      "rating": 4,
+      "reviews": 53,
+      "affiliate_url": "https://www.amazon.es/dp/B0FX5MSQFH?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 4,
+      "name": "Cecotec Robot Aspirador Conga M20. Navegación Gi",
+      "image": "/images/robots-aspirador/cecotec-robot-aspirador-conga-m20-navegacion-gi.jpg",
+      "price": 94.32,
+      "rating": 4,
+      "reviews": 131,
+      "affiliate_url": "https://www.amazon.es/dp/B0FL2JNRKR?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "DREAME D10 Plus Gen 2 Robot Aspirador y Fregasue",
+      "image": "/images/robots-aspirador/dreame-d10-plus-gen-2-robot-aspirador-y-fregasue.jpg",
+      "price": 189,
+      "rating": 4,
+      "reviews": 1790,
+      "affiliate_url": "https://www.amazon.es/dp/B0D3RGFSRB?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "iRobot Roomba 105 Combo y Base AutoEmpty con aut",
+      "image": "/images/robots-aspirador/irobot-roomba-105-combo-y-base-autoempty-con-aut.jpg",
+      "price": 169,
+      "rating": 4,
+      "reviews": 7760,
+      "affiliate_url": "https://www.amazon.es/dp/B0DV9TS85Q?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "roborock Robot Aspirador QV 35A Set",
-      "image": "/images/robots-aspirador/roborock-robot-aspirador-qv-35a-set.jpg",
-      "price": 329.99,
+      "name": "Lefant M210 Robot Aspirador",
+      "image": "/images/robots-aspirador/lefant-m210-robot-aspirador.jpg",
+      "price": 89.96,
       "rating": 4,
-      "reviews": 2317,
-      "affiliate_url": "https://www.amazon.es/dp/B0DSLB5ZQ8?tag=rankzon-21",
+      "reviews": 1638,
+      "affiliate_url": "https://www.amazon.es/dp/B0FNWFMRWB?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Lefant M2 Robot Aspirador y Fregasuelos con Mape",
-      "image": "/images/robots-aspirador/lefant-m2-robot-aspirador-y-fregasuelos-con-mape.jpg",
-      "price": 99.97,
+      "name": "roborock Robot Aspirador QV 35A Set",
+      "image": "/images/robots-aspirador/roborock-robot-aspirador-qv-35a-set.jpg",
+      "price": 329.99,
       "rating": 4,
-      "reviews": 1010,
-      "affiliate_url": "https://www.amazon.es/dp/B0FX2XH2CK?tag=rankzon-21",
+      "reviews": 2378,
+      "affiliate_url": "https://www.amazon.es/dp/B0DSLB5ZQ8?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "XIAOMI Robot Vacuum X20 Pro- Robot Aspirador y f",
-      "image": "/images/robots-aspirador/xiaomi-robot-vacuum-x20-pro-robot-aspirador-y-f.jpg",
-      "price": 349.99,
+      "name": "Cecotec Robot Aspirador y Friegasuelos con Base",
+      "image": "/images/robots-aspirador/cecotec-robot-aspirador-y-friegasuelos-con-base.jpg",
+      "price": 169,
       "rating": 4,
-      "reviews": 5780,
-      "affiliate_url": "https://www.amazon.es/dp/B0DFJGKW2L?tag=rankzon-21",
+      "reviews": 68,
+      "affiliate_url": "https://www.amazon.es/dp/B0FL2HZRLJ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Cecotec Robot Aspirador y Friegasuelos con IA y",
-      "image": "/images/robots-aspirador/cecotec-robot-aspirador-y-friegasuelos-con-ia-y.jpg",
-      "price": 339,
-      "rating": 3,
-      "reviews": 280,
-      "affiliate_url": "https://www.amazon.es/dp/B0FG8B6W7J?tag=rankzon-21",
+      "name": "Cecotec Robot Aspirador Conga M70 Genesis. Naveg",
+      "image": "/images/robots-aspirador/cecotec-robot-aspirador-conga-m70-genesis-naveg.jpg",
+      "price": 129,
+      "rating": 4,
+      "reviews": 65,
+      "affiliate_url": "https://www.amazon.es/dp/B0FT8Z8CBM?tag=rankzon-21",
       "badge": null
     }
   ]

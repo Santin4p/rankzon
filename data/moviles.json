@@ -1,135 +1,105 @@
 {
   "categoria": "moviles",
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-30",
   "productos": [
     {
       "position": 1,
       "name": "XIAOMI Redmi Note 14 - Smartphone de 8+256GB",
       "image": "/images/moviles/xiaomi-redmi-note-14-smartphone-de-8-256gb.jpg",
-      "price": 147.99,
+      "price": 148,
       "rating": 4,
-      "reviews": 3470,
+      "reviews": 3523,
       "affiliate_url": "https://www.amazon.es/dp/B0DRCX34LQ?tag=rankzon-21",
-      "badge": "Más vendido",
-      "pros": [
-        "Pantalla AMOLED 120Hz fluida y con colores vivos a este precio",
-        "Cámara de 108 Mpx con modos avanzados de fotografía nocturna",
-        "8+256GB de RAM y almacenamiento más que suficientes para el día a día"
-      ],
-      "cons": [
-        "Sin carga inalámbrica a este precio",
-        "El software MIUI puede tener algo de bloatware preinstalado"
-      ],
-      "user_summary": "Los compradores lo eligen como el mejor relación calidad-precio en la gama media de Xiaomi, destacando la pantalla AMOLED y la capacidad de almacenamiento. La mayoría lo recomienda como alternativa real a teléfonos más caros de otras marcas."
+      "badge": "Más vendido"
     },
     {
       "position": 2,
       "name": "XIAOMI REDMI Note 15 - Smartphone de 8+256GB",
       "image": "/images/moviles/xiaomi-redmi-note-15-smartphone-de-8-256gb.jpg",
-      "price": 219.99,
+      "price": 199,
       "rating": 4,
-      "reviews": 2043,
-      "affiliate_url": "https://www.amazon.es/dp/B0FX9YCJH9?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Carga rápida de 45W que llena la batería en menos de una hora",
-        "Procesador Snapdragon más potente que el Note 14 para tareas exigentes",
-        "Cámara mejorada con teleobjetivo y mejor modo nocturno"
-      ],
-      "cons": [
-        "Precio superior al Note 14 sin diferencias radicales para el usuario casual",
-        "El diseño es similar al modelo anterior sin innovaciones destacables"
-      ],
-      "user_summary": "Los compradores que venían del Note 14 o buscan algo más potente valoran la mejora en carga rápida y rendimiento. La mayoría lo recomiendan sobre el Note 14 si el presupuesto lo permite, aunque reconocen que las diferencias no son revolucionarias."
+      "reviews": 2172,
+      "affiliate_url": "https://www.amazon.es/dp/B0FX9Y2PBR?tag=rankzon-21",
+      "badge": null
     },
     {
       "position": 3,
-      "name": "XIAOMI POCO X8 Pro - Smartphone de 12+512GB",
-      "image": "/images/moviles/xiaomi-poco-x8-pro-smartphone-de-12-512gb.jpg",
-      "price": 369.99,
-      "rating": 4,
-      "reviews": 717,
-      "affiliate_url": "https://www.amazon.es/dp/B0GHNGFXP5?tag=rankzon-21",
-      "badge": null,
-      "pros": [
-        "Procesador Snapdragon 8s Gen 3 de gama alta con rendimiento premium",
-        "12+512GB de RAM y almacenamiento para los más exigentes",
-        "Pantalla de 120Hz con brillo máximo excelente para uso exterior"
-      ],
-      "cons": [
-        "Precio en el límite superior de la gama media, casi gama alta",
-        "La cámara no alcanza a los flagship de Samsung o Apple en condiciones difíciles"
-      ],
-      "user_summary": "Los compradores buscan rendimiento de gama alta sin pagar precio de flagship de marca premium. La mayoría destaca el excepcional procesador y almacenamiento, aunque señalan que en fotografía los grandes de la industria le sacan ventaja en condiciones difíciles."
-    },
-    {
-      "position": 4,
       "name": "XIAOMI POCO C85 - Smartphone de 8+256GB",
       "image": "/images/moviles/xiaomi-poco-c85-smartphone-de-8-256gb.jpg",
       "price": 139.99,
       "rating": 4,
-      "reviews": 1461,
+      "reviews": 1518,
       "affiliate_url": "https://www.amazon.es/dp/B0FHQCYCNW?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 5,
-      "name": "Apple iPhone 17 de 256 GB: Pantalla de 6",
-      "image": "/images/moviles/apple-iphone-17-de-256-gb-pantalla-de-6.jpg",
-      "price": 842.99,
-      "rating": 4,
-      "reviews": 817,
-      "affiliate_url": "https://www.amazon.es/dp/B0FQGDNRVC?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 6,
-      "name": "iPhone 14",
-      "image": "/images/moviles/iphone-14.jpg",
-      "price": 339.89,
-      "rating": 3,
-      "reviews": 5450,
-      "affiliate_url": "https://www.amazon.es/dp/B0BNLZ14Z2?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 7,
-      "name": "Google Pixel 9a – Smartphone Android Libre con c",
-      "image": "/images/moviles/google-pixel-9a-smartphone-android-libre-con-c.jpg",
-      "price": 348,
-      "rating": 4,
-      "reviews": 2450,
-      "affiliate_url": "https://www.amazon.es/dp/B0DSWFHTL2?tag=rankzon-21",
-      "badge": null
-    },
-    {
-      "position": 8,
+      "position": 4,
       "name": "XIAOMI Redmi 15C - Smartphone de 4+128GB",
       "image": "/images/moviles/xiaomi-redmi-15c-smartphone-de-4-128gb.jpg",
-      "price": 101.98,
+      "price": 105.98,
       "rating": 4,
-      "reviews": 646,
+      "reviews": 666,
       "affiliate_url": "https://www.amazon.es/dp/B0FJM4W7YB?tag=rankzon-21",
       "badge": null
     },
     {
-      "position": 9,
-      "name": "Redmi Note 15 Pro 5G 8+256 Titanium (No Power Ad",
-      "image": "/images/moviles/redmi-note-15-pro-5g-8-256-titanium-no-power-ad.jpg",
-      "price": 255,
+      "position": 5,
+      "name": "Samsung Galaxy A36 5G 256GB Teléfono Móvil",
+      "image": "/images/moviles/samsung-galaxy-a36-5g-256gb-telefono-movil.jpg",
+      "price": 279,
       "rating": 4,
-      "reviews": 74,
-      "affiliate_url": "https://www.amazon.es/dp/B0G2BGDCS8?tag=rankzon-21",
+      "reviews": 107,
+      "affiliate_url": "https://www.amazon.es/dp/B0DWFYQPJN?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Apple iPhone 17 de 256 GB: Pantalla de 6",
+      "image": "/images/moviles/apple-iphone-17-de-256-gb-pantalla-de-6.jpg",
+      "price": 899,
+      "rating": 4,
+      "reviews": 847,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQFJRZNZ?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "XIAOMI POCO M8 Pro 5G - Smartphone de 12+512GB",
+      "image": "/images/moviles/xiaomi-poco-m8-pro-5g-smartphone-de-12-512gb.jpg",
+      "price": 309.99,
+      "rating": 4,
+      "reviews": 499,
+      "affiliate_url": "https://www.amazon.es/dp/B0FZLLFFH5?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "iPhone 14",
+      "image": "/images/moviles/iphone-14.jpg",
+      "price": 319,
+      "rating": 3,
+      "reviews": 5536,
+      "affiliate_url": "https://www.amazon.es/dp/B0BNLZ14Z2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Apple iPhone 17 Pro de 256 GB: Pantalla de 6",
+      "image": "/images/moviles/apple-iphone-17-pro-de-256-gb-pantalla-de-6.jpg",
+      "price": 1309,
+      "rating": 4,
+      "reviews": 797,
+      "affiliate_url": "https://www.amazon.es/dp/B0FQGF73WS?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "XIAOMI POCO M8 5G - Smartphone de 8+256GB",
-      "image": "/images/moviles/xiaomi-poco-m8-5g-smartphone-de-8-256gb.jpg",
-      "price": 209,
+      "name": "Google Pixel 9a – Smartphone Android Libre con c",
+      "image": "/images/moviles/google-pixel-9a-smartphone-android-libre-con-c.jpg",
+      "price": 379,
       "rating": 4,
-      "reviews": 477,
-      "affiliate_url": "https://www.amazon.es/dp/B0FZL6GJRJ?tag=rankzon-21",
+      "reviews": 2487,
+      "affiliate_url": "https://www.amazon.es/dp/B0DSWFHTL2?tag=rankzon-21",
       "badge": null
     }
   ]

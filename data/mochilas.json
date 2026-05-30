@@ -1,0 +1,115 @@
+{
+  "categoria": "mochilas",
+  "updated_at": "2026-05-30",
+  "productos": [
+    {
+      "position": 1,
+      "name": "Osprey Daylite Plus 20L Mochila Senderismo",
+      "image": "/images/mochilas/osprey-daylite-plus-20l.jpg",
+      "price": 89.95,
+      "rating": 4.7,
+      "reviews": 38400,
+      "affiliate_url": "https://www.amazon.es/dp/B07K7KYWM8?tag=rankzon-21",
+      "badge": "Más vendida",
+      "pros": ["La más recomendada por excursionistas", "Garantía de por vida Osprey", "Compatible con hidratación Osprey"],
+      "cons": ["Sin compartimento para portátil en este modelo", "Las correas de compresión son pequeñas"],
+      "user_summary": "Los compradores la usan para excursiones de un día y viajes de ciudad. La garantía de por vida es el argumento más repetido para justificar el precio."
+    },
+    {
+      "position": 2,
+      "name": "Samsonite Cityvibe Mochila Portátil 15.6\" 16L",
+      "image": "/images/mochilas/samsonite-cityvibe-16l.jpg",
+      "price": 69.99,
+      "rating": 4.5,
+      "reviews": 22100,
+      "affiliate_url": "https://www.amazon.es/dp/B075R56FM1?tag=rankzon-21",
+      "badge": null,
+      "pros": ["Compartimento portátil acolchado 15.6\"", "Diseño profesional para oficina", "Puerto USB externo para powerbank"],
+      "cons": ["Capacidad algo justa para viajes de varios días", "El cierre principal se puede enganchar"],
+      "user_summary": "Los compradores que van a trabajar la valoran por el equilibrio entre estilo y practicidad. La mencionan como la perfecta para el transporte público."
+    },
+    {
+      "position": 3,
+      "name": "Fjällräven Kånken Clásica 16L",
+      "image": "/images/mochilas/fjallraven-kanken-16l.jpg",
+      "price": 89.95,
+      "rating": 4.6,
+      "reviews": 44700,
+      "affiliate_url": "https://www.amazon.es/dp/B0007NMPVY?tag=rankzon-21",
+      "badge": "Icónica",
+      "pros": ["Diseño icónico, dura décadas bien cuidada", "Materiales reciclados y sostenibles", "La correa de hombro convertible es un punto diferencial"],
+      "cons": ["No tiene estructura acolchada en la espalda", "El compartimento principal es un solo espacio sin divisiones"],
+      "user_summary": "Los compradores valoran la durabilidad por encima de todo. La mayoría la tiene más de 5 años sin deterioro notable en los colores ni costuras."
+    },
+    {
+      "position": 4,
+      "name": "Deuter Speed Lite 20L Senderismo",
+      "image": "/images/mochilas/deuter-speed-lite-20l.jpg",
+      "price": 79.95,
+      "rating": 4.6,
+      "reviews": 14200,
+      "affiliate_url": "https://www.amazon.es/dp/B08X46QMFP?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 5,
+      "name": "Targus CityLite Pro 15.6\" Mochila Negocio",
+      "image": "/images/mochilas/targus-citylite-pro.jpg",
+      "price": 59.99,
+      "rating": 4.4,
+      "reviews": 18900,
+      "affiliate_url": "https://www.amazon.es/dp/B00DHUNQOY?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 6,
+      "name": "Herschel Supply Co. Classic XL 30L",
+      "image": "/images/mochilas/herschel-classic-xl-30l.jpg",
+      "price": 69.99,
+      "rating": 4.5,
+      "reviews": 12400,
+      "affiliate_url": "https://www.amazon.es/dp/B00COQXLK2?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 7,
+      "name": "Lowepro ProTactic 450 AW II Fotografia",
+      "image": "/images/mochilas/lowepro-protactic-450.jpg",
+      "price": 199.99,
+      "rating": 4.7,
+      "reviews": 7800,
+      "affiliate_url": "https://www.amazon.es/dp/B07CGLRBLX?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 8,
+      "name": "Nomatic 20L Travel Bag",
+      "image": "/images/mochilas/nomatic-20l-travel-bag.jpg",
+      "price": 249.00,
+      "rating": 4.5,
+      "reviews": 4300,
+      "affiliate_url": "https://www.amazon.es/dp/B07MGJX9MK?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 9,
+      "name": "Amazon Basics Mochila Escolar 30L",
+      "image": "/images/mochilas/amazon-basics-mochila-30l.jpg",
+      "price": 24.99,
+      "rating": 4.3,
+      "reviews": 42300,
+      "affiliate_url": "https://www.amazon.es/dp/B0CGFVYG34?tag=rankzon-21",
+      "badge": null
+    },
+    {
+      "position": 10,
+      "name": "Decathlon Quechua NH Escape 500 30L",
+      "image": "/images/mochilas/quechua-nh-escape-500-30l.jpg",
+      "price": 49.99,
+      "rating": 4.4,
+      "reviews": 28100,
+      "affiliate_url": "https://www.amazon.es/dp/B09BHX42JV?tag=rankzon-21",
+      "badge": null
+    }
+  ]
+}

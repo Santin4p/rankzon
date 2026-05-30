@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next"
 import { sections, getAllCategories } from "@/lib/categories"
 import { guides } from "@/lib/guides"
+import { articles } from "@/lib/articles"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://www.rankzon.es"
@@ -26,6 +27,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.75,
+    })),
+    { url: `${base}/blog`, lastModified: new Date(), changeFrequency: "weekly" as const, priority: 0.85 },
+    ...articles.map((article) => ({
+      url: `${base}/blog/${article.slug}`,
+      lastModified: new Date(article.updatedAt),
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
     })),
     { url: `${base}/sobre-rankzon`, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${base}/aviso-legal`, changeFrequency: "yearly" as const, priority: 0.1 },
