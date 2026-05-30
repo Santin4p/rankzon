@@ -11,34 +11,55 @@
       "reviews": 18420,
       "affiliate_url": "https://www.amazon.es/dp/B09FNWX42V?tag=rankzon-21",
       "badge": "Más vendido",
-      "pros": ["Calidad-precio imbatible", "Compatible con la mayoría de placas", "Funciona a 3200MHz de serie"],
-      "cons": ["Sin RGB en este modelo", "Kit de un solo módulo"],
+      "pros": [
+        "Calidad-precio imbatible",
+        "Compatible con la mayoría de placas",
+        "Funciona a 3200MHz de serie"
+      ],
+      "cons": [
+        "Sin RGB en este modelo",
+        "Kit de un solo módulo"
+      ],
       "user_summary": "Los compradores destacan que es la memoria más fiable de su rango de precio. La mayoría la instala sin problemas en placas Intel y AMD."
     },
     {
       "position": 2,
       "name": "Corsair Vengeance LPX 32GB DDR4 3200MHz",
-      "image": "/images/memorias-ram/corsair-vengeance-lpx-32gb-ddr4.jpg",
+      "image": "/images/memorias-ram/corsair-vengeance-lpx-32gb-ddr4-3200mhz.jpg",
       "price": 64.99,
       "rating": 4.7,
       "reviews": 52130,
       "affiliate_url": "https://www.amazon.es/dp/B0143UM4TC?tag=rankzon-21",
       "badge": null,
-      "pros": ["Kit de 2×16GB completo", "Perfil bajo, cabe con cualquier cooler", "Excelente estabilidad"],
-      "cons": ["Sin XMP automático en algunas placas B-series", "Sin iluminación RGB"],
+      "pros": [
+        "Kit de 2×16GB completo",
+        "Perfil bajo, cabe con cualquier cooler",
+        "Excelente estabilidad"
+      ],
+      "cons": [
+        "Sin XMP automático en algunas placas B-series",
+        "Sin iluminación RGB"
+      ],
       "user_summary": "Los compradores valoran la estabilidad a largo plazo. La mayoría no tiene problemas de compatibilidad con plataformas AMD Ryzen e Intel Core."
     },
     {
       "position": 3,
       "name": "Crucial 16GB DDR4 3200MHz SODIMM Portátil",
-      "image": "/images/memorias-ram/crucial-16gb-ddr4-3200.jpg",
+      "image": "/images/memorias-ram/crucial-16gb-ddr4-3200mhz-sodimm-portatil.jpg",
       "price": 29.99,
       "rating": 4.6,
       "reviews": 29870,
       "affiliate_url": "https://www.amazon.es/dp/B08C4Z69LN?tag=rankzon-21",
       "badge": "Mejor precio",
-      "pros": ["La más económica del top 3", "Sin problemas de compatibilidad", "Garantía de por vida"],
-      "cons": ["Velocidad justa para gaming extremo", "Sin perfiles XMP"],
+      "pros": [
+        "La más económica del top 3",
+        "Sin problemas de compatibilidad",
+        "Garantía de por vida"
+      ],
+      "cons": [
+        "Velocidad justa para gaming extremo",
+        "Sin perfiles XMP"
+      ],
       "user_summary": "Los compradores la eligen como actualización económica. Destacan que va perfecta para uso ofimático y gaming casual sin problemas."
     },
     {

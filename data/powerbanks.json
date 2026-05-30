@@ -11,8 +11,15 @@
       "reviews": 64200,
       "affiliate_url": "https://www.amazon.es/dp/B09VPHVD9B?tag=rankzon-21",
       "badge": "Más vendido",
-      "pros": ["10.000mAh en formato ultracompacto", "Puerto USB-C de 25W para carga rápida", "Garantía Anker de 18 meses"],
-      "cons": ["Carga interna lenta via microUSB", "Sin display de porcentaje exacto"],
+      "pros": [
+        "10.000mAh en formato ultracompacto",
+        "Puerto USB-C de 25W para carga rápida",
+        "Garantía Anker de 18 meses"
+      ],
+      "cons": [
+        "Carga interna lenta via microUSB",
+        "Sin display de porcentaje exacto"
+      ],
       "user_summary": "Los compradores lo eligen por la fiabilidad de Anker y el tamaño de bolsillo. Muchos lo usan como complemento permanente para viajes y conciertos."
     },
     {
@@ -24,8 +31,15 @@
       "reviews": 38700,
       "affiliate_url": "https://www.amazon.es/dp/B09CGVFW4R?tag=rankzon-21",
       "badge": null,
-      "pros": ["65W carga portátiles y móviles", "20.000mAh para varios ciclos completos", "Pantalla LED de nivel de carga"],
-      "cons": ["Más voluminoso por la mayor capacidad", "Peso de 470g notable en el bolso"],
+      "pros": [
+        "65W carga portátiles y móviles",
+        "20.000mAh para varios ciclos completos",
+        "Pantalla LED de nivel de carga"
+      ],
+      "cons": [
+        "Más voluminoso por la mayor capacidad",
+        "Peso de 470g notable en el bolso"
+      ],
       "user_summary": "Los compradores lo usan para cargar portátiles en viajes largos. Destacan que el 65W carga un MacBook Air de 0 a 80% en menos de una hora."
     },
     {
@@ -37,8 +51,15 @@
       "reviews": 52100,
       "affiliate_url": "https://www.amazon.es/dp/B08XX9N1ZP?tag=rankzon-21",
       "badge": "Mejor precio",
-      "pros": ["El más económico con carga rápida real", "Formato slim, apenas ocupa espacio", "Dos puertos USB + USB-C simultáneos"],
-      "cons": ["22.5W solo si el móvil lo soporta", "Capacidad real algo menor a lo anunciado"],
+      "pros": [
+        "El más económico con carga rápida real",
+        "Formato slim, apenas ocupa espacio",
+        "Dos puertos USB + USB-C simultáneos"
+      ],
+      "cons": [
+        "22.5W solo si el móvil lo soporta",
+        "Capacidad real algo menor a lo anunciado"
+      ],
       "user_summary": "Los compradores lo llaman el mejor powerbank por euros. La relación tamaño-capacidad convence especialmente para llevar en el bolsillo del pantalón."
     },
     {
@@ -54,7 +75,7 @@
     {
       "position": 5,
       "name": "Anker PowerCore 20100mAh 2 puertos USB",
-      "image": "/images/powerbanks/anker-powercore-20100.jpg",
+      "image": "/images/powerbanks/anker-powercore-20100mah-2-puertos-usb.jpg",
       "price": 44.99,
       "rating": 4.7,
       "reviews": 28400,
