@@ -4,132 +4,132 @@
   "productos": [
     {
       "position": 1,
-      "name": "Kingston FURY Beast 16GB DDR4 3200MHz",
-      "image": "/images/memorias-ram/kingston-fury-beast-16gb-ddr4.jpg",
-      "price": 34.99,
-      "rating": 4.7,
-      "reviews": 18420,
-      "affiliate_url": "https://www.amazon.es/dp/B09FNWX42V?tag=rankzon-21",
+      "name": "SANDISK Portable SSD 1TB (Estado Solido",
+      "image": "/images/memorias-ram/sandisk-portable-ssd-1tb-estado-solido.jpg",
+      "price": 134.99,
+      "rating": 4,
+      "reviews": 7516,
+      "affiliate_url": "https://www.amazon.es/dp/B0F4RM3WZS?tag=rankzon-21",
       "badge": "Más vendido",
       "pros": [
-        "Calidad-precio imbatible",
-        "Compatible con la mayoría de placas",
-        "Funciona a 3200MHz de serie"
+        "SSD portátil con velocidades de hasta 800 MB/s para transferencias ultrarrápidas",
+        "Diseño ultracompacto y resistente a golpes sin cables adicionales",
+        "Compatible con PC, Mac, consolas y televisores vía USB-C"
       ],
       "cons": [
-        "Sin RGB en este modelo",
-        "Kit de un solo módulo"
+        "Precio más elevado por GB respecto a los HDD externos convencionales",
+        "La carcasa puede calentarse en transferencias de archivos muy grandes"
       ],
-      "user_summary": "Los compradores destacan que es la memoria más fiable de su rango de precio. La mayoría la instala sin problemas en placas Intel y AMD."
+      "user_summary": "Los compradores que necesitan almacenamiento rápido y portátil lo eligen para fotógrafos, videógrafos y trabajo en movimiento. La mayoría valoran la velocidad SSD que hace las transferencias de archivos grandes mucho más ágiles."
     },
     {
       "position": 2,
-      "name": "Corsair Vengeance LPX 32GB DDR4 3200MHz",
-      "image": "/images/memorias-ram/corsair-vengeance-lpx-32gb-ddr4-3200mhz.jpg",
-      "price": 64.99,
-      "rating": 4.7,
-      "reviews": 52130,
-      "affiliate_url": "https://www.amazon.es/dp/B0143UM4TC?tag=rankzon-21",
+      "name": "ARCTIC MX-7 (4 g",
+      "image": "/images/memorias-ram/arctic-mx-7-4-g.jpg",
+      "price": 9.47,
+      "rating": 4,
+      "reviews": 2684,
+      "affiliate_url": "https://www.amazon.es/dp/B0FT2TYMR6?tag=rankzon-21",
       "badge": null,
       "pros": [
-        "Kit de 2×16GB completo",
-        "Perfil bajo, cabe con cualquier cooler",
-        "Excelente estabilidad"
+        "Pasta térmica de alta conductividad para procesadores y tarjetas gráficas",
+        "Fácil aplicación con jeringa incluida para una cantidad precisa",
+        "Compatible con CPUs Intel, AMD y GPUs de cualquier fabricante"
       ],
       "cons": [
-        "Sin XMP automático en algunas placas B-series",
-        "Sin iluminación RGB"
+        "Requiere limpieza del procesador antes de aplicar una nueva capa",
+        "La cantidad de 4g puede ser insuficiente para varios cambios de pasta"
       ],
-      "user_summary": "Los compradores valoran la estabilidad a largo plazo. La mayoría no tiene problemas de compatibilidad con plataformas AMD Ryzen e Intel Core."
+      "user_summary": "Los compradores que hacen mantenimiento de sus PCs o sustituyen el sistema de refrigeración la eligen como pasta térmica de referencia. La mayoría están satisfechos con la mejora de temperatura que consiguen en sus procesadores."
     },
     {
       "position": 3,
-      "name": "Crucial 16GB DDR4 3200MHz SODIMM Portátil",
-      "image": "/images/memorias-ram/crucial-16gb-ddr4-3200mhz-sodimm-portatil.jpg",
-      "price": 29.99,
-      "rating": 4.6,
-      "reviews": 29870,
-      "affiliate_url": "https://www.amazon.es/dp/B08C4Z69LN?tag=rankzon-21",
-      "badge": "Mejor precio",
+      "name": "WD 5TB My Passport Disco Duro Externo Portátil",
+      "image": "/images/memorias-ram/wd-5tb-my-passport-disco-duro-externo-portatil.jpg",
+      "price": 139,
+      "rating": 4,
+      "reviews": 24013,
+      "affiliate_url": "https://www.amazon.es/dp/B07VP5X239?tag=rankzon-21",
+      "badge": null,
       "pros": [
-        "La más económica del top 3",
-        "Sin problemas de compatibilidad",
-        "Garantía de por vida"
+        "5TB de capacidad para backup completo del ordenador y archivos multimedia",
+        "Tecnología de compresión automática para optimizar el espacio disponible",
+        "Compatible con Windows Backup, Time Machine de Mac y cualquier software"
       ],
       "cons": [
-        "Velocidad justa para gaming extremo",
-        "Sin perfiles XMP"
+        "El disco mecánico es más lento que un SSD para acceso aleatorio a archivos",
+        "Requiere USB 3.0 para velocidades máximas, más lento en puertos 2.0"
       ],
-      "user_summary": "Los compradores la eligen como actualización económica. Destacan que va perfecta para uso ofimático y gaming casual sin problemas."
+      "user_summary": "Los compradores lo adquieren para hacer backup de toda su colección digital con amplio margen de espacio. La mayoría lo recomiendan para almacenar fotos, vídeos y backups donde la capacidad importa más que la velocidad."
     },
     {
       "position": 4,
-      "name": "G.Skill Trident Z5 32GB DDR5 6000MHz",
-      "image": "/images/memorias-ram/gskill-trident-z5-32gb-ddr5.jpg",
-      "price": 99.99,
-      "rating": 4.8,
-      "reviews": 4230,
-      "affiliate_url": "https://www.amazon.es/dp/B09Y9FPZLF?tag=rankzon-21",
+      "name": "UnionSine Disco Duro Externo 500GB 2.5\" USB3.0 U",
+      "image": "/images/memorias-ram/unionsine-disco-duro-externo-500gb-2-5-usb3-0-u.jpg",
+      "price": 31.99,
+      "rating": 4,
+      "reviews": 49402,
+      "affiliate_url": "https://www.amazon.es/dp/B091FS79T8?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Kingston FURY Beast 32GB DDR5 5200MHz",
-      "image": "/images/memorias-ram/kingston-fury-beast-32gb-ddr5.jpg",
-      "price": 84.99,
-      "rating": 4.6,
-      "reviews": 3120,
-      "affiliate_url": "https://www.amazon.es/dp/B09ZLVQDWB?tag=rankzon-21",
+      "name": "Samsung Portable SSD T9",
+      "image": "/images/memorias-ram/samsung-portable-ssd-t9.jpg",
+      "price": 304.84,
+      "rating": 4,
+      "reviews": 2002,
+      "affiliate_url": "https://www.amazon.es/dp/B0CGQ43PMG?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Corsair Vengeance RGB Pro 16GB DDR4 3600MHz",
-      "image": "/images/memorias-ram/corsair-vengeance-rgb-pro-16gb.jpg",
-      "price": 54.99,
-      "rating": 4.7,
-      "reviews": 22100,
-      "affiliate_url": "https://www.amazon.es/dp/B07D1XPFP3?tag=rankzon-21",
+      "name": "Seagate IronWolf 4TB",
+      "image": "/images/memorias-ram/seagate-ironwolf-4tb.jpg",
+      "price": 169.99,
+      "rating": 4,
+      "reviews": 6757,
+      "affiliate_url": "https://www.amazon.es/dp/B09NHV3CK9?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "TeamGroup T-Force Vulcan 16GB DDR4 3200MHz",
-      "image": "/images/memorias-ram/teamgroup-t-force-vulcan-16gb.jpg",
-      "price": 32.99,
-      "rating": 4.5,
-      "reviews": 8900,
-      "affiliate_url": "https://www.amazon.es/dp/B08129MFXR?tag=rankzon-21",
+      "name": "ARCTIC MX-6 (4 g",
+      "image": "/images/memorias-ram/arctic-mx-6-4-g.jpg",
+      "price": 8.09,
+      "rating": 4,
+      "reviews": 10707,
+      "affiliate_url": "https://www.amazon.es/dp/B09VDKSMQL?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Crucial Pro 32GB DDR5 5600MHz",
-      "image": "/images/memorias-ram/crucial-pro-32gb-ddr5.jpg",
-      "price": 74.99,
-      "rating": 4.6,
-      "reviews": 2870,
-      "affiliate_url": "https://www.amazon.es/dp/B0BL6XL4SS?tag=rankzon-21",
+      "name": "Crucial P310 SSD 1TB PCIe Gen4 NVMe M.2 2280",
+      "image": "/images/memorias-ram/crucial-p310-ssd-1tb-pcie-gen4-nvme-m-2-2280.jpg",
+      "price": 159.99,
+      "rating": 4,
+      "reviews": 9741,
+      "affiliate_url": "https://www.amazon.es/dp/B0DC8VPSHV?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Kingston ValueRAM 8GB DDR4 3200MHz",
-      "image": "/images/memorias-ram/kingston-valueram-8gb-ddr4.jpg",
-      "price": 19.99,
-      "rating": 4.5,
-      "reviews": 34500,
-      "affiliate_url": "https://www.amazon.es/dp/B00LTV2BBY?tag=rankzon-21",
+      "name": "Seagate BarraCuda 2TB",
+      "image": "/images/memorias-ram/seagate-barracuda-2tb.jpg",
+      "price": 129.99,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B07H2RR55Q?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Corsair Dominator Platinum RGB 32GB DDR5",
-      "image": "/images/memorias-ram/corsair-dominator-platinum-rgb-32gb-ddr5.jpg",
-      "price": 149.99,
-      "rating": 4.7,
-      "reviews": 1230,
-      "affiliate_url": "https://www.amazon.es/dp/B0B9YWKZ62?tag=rankzon-21",
+      "name": "SYY Pasta Térmica",
+      "image": "/images/memorias-ram/syy-pasta-termica.jpg",
+      "price": 5.75,
+      "rating": 4,
+      "reviews": 15777,
+      "affiliate_url": "https://www.amazon.es/dp/B09XV2JTWT?tag=rankzon-21",
       "badge": null
     }
   ]

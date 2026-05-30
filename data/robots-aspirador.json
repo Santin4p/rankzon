@@ -10,7 +10,17 @@
       "rating": 3,
       "reviews": 291,
       "affiliate_url": "https://www.amazon.es/dp/B0FL2NVQ8S?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Navegación láser con cartografía precisa y rutas optimizadas inteligentemente",
+        "Control completo desde app con zonas prohibidas y limpieza por habitaciones",
+        "Precio ajustado para un robot aspirador con navegación LiDAR profesional"
+      ],
+      "cons": [
+        "La estación base requiere espacio libre y acceso permanente para el vaciado",
+        "La batería puede tardar en cargarse completamente para cubrir pisos grandes"
+      ],
+      "user_summary": "Los compradores que quieren un robot aspirador con navegación precisa a precio razonable lo eligen como primera opción de Cecotec con LiDAR. La mayoría quedan satisfechos con la limpieza autónoma aunque señalan que Cecotec requiere algo de configuración inicial."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 3100,
       "affiliate_url": "https://www.amazon.es/dp/B0DCVYS9FQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Aspirado y fregado simultáneos con autovaciado en la estación base",
+        "Navegación LiDAR de alta precisión con mapas de múltiples plantas",
+        "Potencia de aspiración ajustable para distintos tipos de suelo y alfombras"
+      ],
+      "cons": [
+        "El fregado es complementario al aspirado, no reemplaza un fregado manual profundo",
+        "La estación de autovaciado ocupa espacio y requiere acceso libre a la pared"
+      ],
+      "user_summary": "Los compradores buscan un robot aspirador de gama alta con aspirado y fregado integrados y autovaciado. La mayoría quedan muy satisfechos con el resultado y consideran que es el equilibrio perfecto entre funcionalidad y coste."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 53,
       "affiliate_url": "https://www.amazon.es/dp/B0FX5MSQFH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Brazos extensibles para limpiar esquinas y zonas junto a paredes y rodapiés",
+        "Aspirado y fregado con control preciso de la humedad del mopa",
+        "App Xiaomi Home con integración en el ecosistema de hogar inteligente"
+      ],
+      "cons": [
+        "Los brazos extensibles pueden atascarse con cables u obstáculos pequeños",
+        "Requiere configuración inicial en la app para aprovechar todas las funciones"
+      ],
+      "user_summary": "Los compradores del ecosistema Xiaomi lo eligen por la integración con Xiaomi Home y los brazos extensibles que limpian las esquinas. La mayoría valoran las mejoras en la limpieza de bordes que los robots sin brazos no consiguen."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 4359,
       "affiliate_url": "https://www.amazon.es/dp/B092JB4Z7J?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Ventilador de torre digital con temporizador y control remoto incluido",
+        "Movimiento oscilante de 80° con múltiples modos y velocidades",
+        "Diseño vertical que ocupa poco espacio en el suelo"
+      ],
+      "cons": [
+        "La oscilación puede crear corrientes de aire molestas en espacios pequeños",
+        "La limpieza de las rejillas del ventilador de torre requiere desmontaje"
+      ],
+      "user_summary": "Los compradores lo eligen para habitaciones donde un ventilador de pie estándar ocupa demasiado espacio. La mayoría valoran los niveles de velocidad y el temporizador que permite programar el apagado automático."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 15016,
       "affiliate_url": "https://www.amazon.es/dp/B01D4YVY80?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Ventilador de pie con 3 velocidades y oscilación automática de 90°",
+        "Diseño compacto y ligero fácil de mover de habitación en habitación",
+        "Precio muy asequible para refrescar el hogar en verano"
+      ],
+      "cons": [
+        "El nivel de ruido en máxima velocidad puede resultar molesto para dormir",
+        "La velocidad máxima no es suficiente para refrescar espacios muy amplios"
+      ],
+      "user_summary": "Los compradores lo eligen como ventilador de pie básico y fiable para el verano, valorando su precio. La mayoría lo usan para refrescar dormitorios y despachos en casa, encontrándolo suficiente para el uso en verano."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 265,
       "affiliate_url": "https://www.amazon.es/dp/B0DVRGD6M1?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Ventilador de techo con iluminación LED integrada para dormitorio o salón",
+        "Mando a distancia para control de velocidad y luz desde el sofá",
+        "Motor silencioso que no molesta durante el sueño ni en el trabajo"
+      ],
+      "cons": [
+        "Instalación en el techo requiere conocimientos básicos de electricidad",
+        "El diseño de 3 aspas puede mover menos aire que modelos con más aspas"
+      ],
+      "user_summary": "Los compradores lo instalan en dormitorios y salones para tener ventilación y luz integradas en un solo elemento. La mayoría están satisfechos con el nivel de ventilación y el silencio del motor, aunque recomiendan contar con ayuda profesional para la instalación."
     },
     {
       "position": 4,

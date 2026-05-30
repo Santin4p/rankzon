@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 80365,
       "affiliate_url": "https://www.amazon.es/dp/B08T1HR5CS?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Pack de dos cartuchos negro + tricolor con excelente rendimiento por página",
+        "Compatibilidad total con todas las impresoras HP que usan el modelo 305",
+        "Precio muy competitivo para cartuchos originales HP con garantía"
+      ],
+      "cons": [
+        "Los cartuchos HP 305 tienen capacidad estándar, no alta capacidad XL",
+        "El precio puede variar con la demanda en Amazon"
+      ],
+      "user_summary": "Los compradores los adquieren para reponer sus impresoras HP con cartuchos originales garantizados. La mayoría prefieren el pack de dos por la comodidad de tener siempre un repuesto y el precio ligeramente inferior por unidad."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 29506,
       "affiliate_url": "https://www.amazon.es/dp/B087DH9GT3?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Cartucho negro XL con alta capacidad para imprimir el doble que el estándar",
+        "Compatible con todas las impresoras HP que aceptan el modelo 305",
+        "Precio por página inferior al cartucho estándar 305 en uso frecuente"
+      ],
+      "cons": [
+        "Precio inicial superior al modelo estándar 305",
+        "Solo formato negro, el cartucho de color sigue siendo el 305 tricolor"
+      ],
+      "user_summary": "Los compradores que imprimen con frecuencia eligen el XL para no tener que comprar cartuchos tan a menudo. La mayoría que pasan al XL no vuelven al estándar, valorando la comodidad de los cambios menos frecuentes."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 18735,
       "affiliate_url": "https://www.amazon.es/dp/B087DKRSH1?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Cartucho tricolor original HP con colores vivos y precisos",
+        "Compatibilidad garantizada con todas las impresoras HP 305",
+        "Ideal para impresiones ocasionales de fotos y documentos en color"
+      ],
+      "cons": [
+        "Rendimiento en páginas inferior al cartucho negro 305",
+        "Solo en color, requiere comprar el negro por separado"
+      ],
+      "user_summary": "Los compradores lo adquieren cuando necesitan reponer el cartucho de color de su impresora HP. La mayoría están satisfechos con la calidad de color para el uso doméstico y escolar ocasional."
     },
     {
       "position": 4,

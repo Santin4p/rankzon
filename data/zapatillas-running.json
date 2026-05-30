@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 9829,
       "affiliate_url": "https://www.amazon.es/dp/B0DYF82545?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Smartband con seguimiento preciso de la actividad física y el sueño",
+        "Pantalla AMOLED pequeña pero legible para notificaciones y datos de salud",
+        "Batería de larga duración para semanas de uso sin cargar"
+      ],
+      "cons": [
+        "Es una pulsera de actividad, no unas zapatillas de running propiamente",
+        "Sin GPS integrado para rutas de running al aire libre"
+      ],
+      "user_summary": "Los compradores la adquieren como pulsera de actividad para complementar su entrenamiento diario. La mayoría la recomiendan para seguir pasos, sueño y actividad cotidiana a un precio muy asequible."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 24186,
       "affiliate_url": "https://www.amazon.es/dp/B0DFZPR9Z4?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Smartwatch con pantalla grande y legible para deportes y actividad diaria",
+        "Monitorización completa de salud con GPS conectado vía smartphone",
+        "Más de 140 modos deportivos incluyendo running y natación"
+      ],
+      "cons": [
+        "Sin GPS autónomo integrado, requiere llevar el móvil para el seguimiento de ruta",
+        "La caja puede resultar grande para muñecas pequeñas"
+      ],
+      "user_summary": "Los compradores lo eligen para tener un compañero de entrenamiento completo a precio asequible. La mayoría valoran el gran número de modos deportivos y la pantalla legible para ver los datos en tiempo real durante el ejercicio."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 9248,
       "affiliate_url": "https://www.amazon.es/dp/B0CKXQYTGZ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Zapatilla Adidas Galaxy 7 cómoda y versátil para running diario y ocio",
+        "Entresuela con tecnología de amortiguación para reducir el impacto en rodillas",
+        "Disponibles en múltiples colores y tallas para encontrar el ajuste perfecto"
+      ],
+      "cons": [
+        "No están diseñadas para running competitivo de alta exigencia o maratones",
+        "La suela puede desgastarse más rápido en asfalto con uso muy intensivo"
+      ],
+      "user_summary": "Los compradores las eligen como zapatillas cómodas y versátiles para running casual, gym y uso diario. La mayoría las recomiendan por la amortiguación de Adidas y la calidad a precio asequible, perfectas para empezar a correr o para entrenamientos regulares."
     },
     {
       "position": 4,

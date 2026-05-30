@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 37,
       "affiliate_url": "https://www.amazon.es/dp/B0GR6M1GK1?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Chip A18 Pro con rendimiento excepcional para cualquier tarea profesional",
+        "Batería de hasta 18 horas de autonomía real trabajando todo el día sin enchufar",
+        "Ecosistema Apple perfecto para usuarios de iPhone e iPad"
+      ],
+      "cons": [
+        "Precio elevado respecto a portátiles Windows con más especificaciones en papel",
+        "No es adecuado para juegos exigentes ni edición de video pesada con GPU"
+      ],
+      "user_summary": "Los compradores del ecosistema Apple lo eligen por la integración perfecta con iPhone y el rendimiento del chip A18 Pro. La mayoría lo consideran una inversión a largo plazo dado que los Mac mantienen el rendimiento muchos más años que los Windows equivalentes."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 36,
       "affiliate_url": "https://www.amazon.es/dp/B0FCG4XQQT?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "16GB RAM + 1TB SSD de serie para productividad sin limitaciones de espacio",
+        "AMD Ryzen 5-7520U con buen rendimiento para ofimática y multitarea",
+        "Pantalla FHD de 15.6\" cómoda para trabajo y consumo de contenido"
+      ],
+      "cons": [
+        "Solo un puerto USB-C, sin puerto Ethernet para conexión cableada",
+        "El firmware puede llegar desactualizado de fábrica, requiere actualización inicial"
+      ],
+      "user_summary": "Los compradores lo eligen por la generosa cantidad de RAM y almacenamiento que ofrece de serie. La mayoría lo recomiendan para trabajo y estudio ya que el Ryzen 5 maneja sin problemas la multitarea diaria."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 33,
       "affiliate_url": "https://www.amazon.es/dp/B0FVYGKQ8Z?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Motor extremadamente silencioso que funciona casi en refrigeración pasiva",
+        "Batería excepcional de hasta 8 horas en uso real de ofimática",
+        "Wi-Fi 6 para conexiones más rápidas y estables en cualquier red moderna"
+      ],
+      "cons": [
+        "8GB RAM en single channel, limitante para multitarea muy exigente",
+        "Sin retroiluminación en el teclado para uso en ambientes oscuros"
+      ],
+      "user_summary": "Los compradores lo valoran especialmente por el silencio del ventilador y la excepcional duración de batería. La mayoría lo recomiendan para estudiantes o trabajo de oficina donde la autonomía y el silencio son prioritarios."
     },
     {
       "position": 4,

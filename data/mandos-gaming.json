@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 826,
       "affiliate_url": "https://www.amazon.es/dp/B0F1TBQ9FQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Mando inalámbrico con base de carga incluida siempre lista para usar",
+        "Compatible con PC, Android y Switch sin necesidad de adaptadores",
+        "Gatillos asimétricos ergonómicos para mayor comodidad en sesiones largas"
+      ],
+      "cons": [
+        "La autonomía puede ser inferior a los mandos de marcas premium",
+        "El software de configuración está solo disponible en inglés"
+      ],
+      "user_summary": "Los compradores lo eligen como mando gaming para PC a precio asequible con base de carga incluida. La mayoría destacan la comodidad de la carga inalámbrica y la compatibilidad multiplataforma como sus principales ventajas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1293,
       "affiliate_url": "https://www.amazon.es/dp/B077QQ6WF3?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño económico con cable para gaming sin preocupaciones de batería",
+        "Compatible con PC y múltiples plataformas sin configuración adicional",
+        "Precio muy accesible para jugadores que buscan su primer mando gaming"
+      ],
+      "cons": [
+        "El cable puede limitar la libertad de movimiento respecto a los inalámbricos",
+        "El nivel de acabado y materiales es básico para el precio"
+      ],
+      "user_summary": "Los compradores buscan un mando gaming básico y funcional a precio mínimo para empezar. La mayoría lo recomiendan para jugadores ocasionales o como mando secundario para gaming con amigos donde no es necesaria la máxima calidad."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 1406,
       "affiliate_url": "https://www.amazon.es/dp/B0D736BCNM?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mando inalámbrico premium con joysticks de efecto Hall sin drift",
+        "Compatible con PC, Android y Switch para máxima versatilidad",
+        "Perfil personalizable y retroiluminación para un setup gaming completo"
+      ],
+      "cons": [
+        "El precio es superior al de alternativas básicas sin características avanzadas",
+        "El RGB consume batería más rápidamente cuando está activado al máximo"
+      ],
+      "user_summary": "Los compradores que buscan un mando inalámbrico premium con joysticks sin drift lo eligen para gaming competitivo en PC. La mayoría están muy satisfechos con la precisión de los joysticks y la compatibilidad con múltiples plataformas."
     },
     {
       "position": 4,

@@ -4,132 +4,132 @@
   "productos": [
     {
       "position": 1,
-      "name": "Anker PowerCore 10000 PD 25W",
-      "image": "/images/powerbanks/anker-powercore-10000-pd.jpg",
-      "price": 29.99,
-      "rating": 4.7,
-      "reviews": 64200,
-      "affiliate_url": "https://www.amazon.es/dp/B09VPHVD9B?tag=rankzon-21",
+      "name": "NEW'C 3 Piezas",
+      "image": "/images/powerbanks/new-c-3-piezas.jpg",
+      "price": 7.89,
+      "rating": 4,
+      "reviews": 292279,
+      "affiliate_url": "https://www.amazon.es/dp/B0F8VZ7QVX?tag=rankzon-21",
       "badge": "Más vendido",
       "pros": [
-        "10.000mAh en formato ultracompacto",
-        "Puerto USB-C de 25W para carga rápida",
-        "Garantía Anker de 18 meses"
+        "Protector de pantalla 3 en 1 con instalación garantizada sin burbujas",
+        "Material de cristal templado 9H resistente a arañazos cotidianos",
+        "Pack económico con unidades de repuesto para toda la familia"
       ],
       "cons": [
-        "Carga interna lenta via microUSB",
-        "Sin display de porcentaje exacto"
+        "Solo compatible con modelos de iPhone específicos",
+        "La instalación requiere paciencia para quedar perfectamente colocado"
       ],
-      "user_summary": "Los compradores lo eligen por la fiabilidad de Anker y el tamaño de bolsillo. Muchos lo usan como complemento permanente para viajes y conciertos."
+      "user_summary": "Los compradores los adquieren para proteger la pantalla de su iPhone desde el primer momento. La mayoría valoran el pack múltiple que garantiza tener siempre un protector nuevo a mano."
     },
     {
       "position": 2,
-      "name": "Baseus Powerbank 20000mAh 65W PD",
-      "image": "/images/powerbanks/baseus-20000mah-65w.jpg",
-      "price": 39.99,
-      "rating": 4.6,
-      "reviews": 38700,
-      "affiliate_url": "https://www.amazon.es/dp/B09CGVFW4R?tag=rankzon-21",
+      "name": "SanDisk 128GB Ultra",
+      "image": "/images/powerbanks/sandisk-128gb-ultra.jpg",
+      "price": 20.69,
+      "rating": 4,
+      "reviews": 165708,
+      "affiliate_url": "https://www.amazon.es/dp/B0B7NTY2S6?tag=rankzon-21",
       "badge": null,
       "pros": [
-        "65W carga portátiles y móviles",
-        "20.000mAh para varios ciclos completos",
-        "Pantalla LED de nivel de carga"
+        "SanDisk con 165.000 reseñas que avalan años de fiabilidad contrastada",
+        "Velocidades USB 3.0 rápidas para transferir fotos y documentos",
+        "Tamaño ultracompacto que cabe en cualquier bolsillo o cartera"
       ],
       "cons": [
-        "Más voluminoso por la mayor capacidad",
-        "Peso de 470g notable en el bolso"
+        "La carcasa de plástico puede sufrir arañazos con el uso prolongado",
+        "La tapa de protección del conector puede perderse con facilidad"
       ],
-      "user_summary": "Los compradores lo usan para cargar portátiles en viajes largos. Destacan que el 65W carga un MacBook Air de 0 a 80% en menos de una hora."
+      "user_summary": "Los compradores la eligen como memoria flash de referencia por su fiabilidad probada. La mayoría la usan para llevar documentos importantes y fotos entre el ordenador, el trabajo y casa."
     },
     {
       "position": 3,
-      "name": "INIU Powerbank 10000mAh 22.5W Mini",
-      "image": "/images/powerbanks/iniu-10000mah-22-5w.jpg",
-      "price": 19.99,
-      "rating": 4.6,
-      "reviews": 52100,
-      "affiliate_url": "https://www.amazon.es/dp/B08XX9N1ZP?tag=rankzon-21",
-      "badge": "Mejor precio",
+      "name": "TOCOL Funda para iPhone 17",
+      "image": "/images/powerbanks/tocol-funda-para-iphone-17.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 63849,
+      "affiliate_url": "https://www.amazon.es/dp/B0FDKXNZCQ?tag=rankzon-21",
+      "badge": null,
       "pros": [
-        "El más económico con carga rápida real",
-        "Formato slim, apenas ocupa espacio",
-        "Dos puertos USB + USB-C simultáneos"
+        "Funda de TPU flexible que protege el iPhone sin añadir volumen excesivo",
+        "Material suave que no raya la pantalla al guardarse en el bolsillo",
+        "Compatible con carga inalámbrica MagSafe y todas las funciones del iPhone"
       ],
       "cons": [
-        "22.5W solo si el móvil lo soporta",
-        "Capacidad real algo menor a lo anunciado"
+        "Protección limitada ante caídas severas por su delgadez",
+        "El material puede acumular polvo en los laterales con el tiempo"
       ],
-      "user_summary": "Los compradores lo llaman el mejor powerbank por euros. La relación tamaño-capacidad convence especialmente para llevar en el bolsillo del pantalón."
+      "user_summary": "Los compradores la adquieren como funda fina para quienes quieren proteger el iPhone sin perder la sensación táctil del dispositivo. La mayoría la recomiendan para uso diario cuidadoso donde el estilo importa tanto como la protección."
     },
     {
       "position": 4,
-      "name": "Xiaomi Power Bank 3 10000mAh 22.5W",
-      "image": "/images/powerbanks/xiaomi-power-bank-3-10000.jpg",
-      "price": 24.99,
-      "rating": 4.5,
-      "reviews": 41300,
-      "affiliate_url": "https://www.amazon.es/dp/B0BS5HTZK7?tag=rankzon-21",
+      "name": "XIAOMI Redmi Buds 6 Play - Auriculares inalámbri",
+      "image": "/images/powerbanks/xiaomi-redmi-buds-6-play-auriculares-inalambri.jpg",
+      "price": 9.99,
+      "rating": 4,
+      "reviews": 11278,
+      "affiliate_url": "https://www.amazon.es/dp/B0DBHT1BT9?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Anker PowerCore 20100mAh 2 puertos USB",
-      "image": "/images/powerbanks/anker-powercore-20100mah-2-puertos-usb.jpg",
-      "price": 44.99,
-      "rating": 4.7,
-      "reviews": 28400,
-      "affiliate_url": "https://www.amazon.es/dp/B00X5RV14Y?tag=rankzon-21",
+      "name": "XIAOMI REDMI Buds 8 Active - TWS Bluetooth Semi",
+      "image": "/images/powerbanks/xiaomi-redmi-buds-8-active-tws-bluetooth-semi.jpg",
+      "price": 16.04,
+      "rating": 4,
+      "reviews": 820,
+      "affiliate_url": "https://www.amazon.es/dp/B08N5WP9NP?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Samsung EB-P3400 10000mAh 25W Super Fast",
-      "image": "/images/powerbanks/samsung-eb-p3400-25w.jpg",
-      "price": 34.99,
-      "rating": 4.5,
-      "reviews": 14200,
-      "affiliate_url": "https://www.amazon.es/dp/B0C78QJMWW?tag=rankzon-21",
+      "name": "Apple EarPods (USB-C) ​​​​​​​",
+      "image": "/images/powerbanks/apple-earpods-usb-c.jpg",
+      "price": 18.98,
+      "rating": 4,
+      "reviews": 13036,
+      "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Belkin BOOSTCHARGE 10000mAh 15W",
-      "image": "/images/powerbanks/belkin-boostcharge-10000.jpg",
-      "price": 39.99,
-      "rating": 4.4,
-      "reviews": 8700,
-      "affiliate_url": "https://www.amazon.es/dp/B086LBV4S3?tag=rankzon-21",
+      "name": "XIAOMI Redmi Watch 5 Active",
+      "image": "/images/powerbanks/xiaomi-redmi-watch-5-active.jpg",
+      "price": 29.49,
+      "rating": 4,
+      "reviews": 24211,
+      "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Mophie Powerstation PD 20K",
-      "image": "/images/powerbanks/mophie-powerstation-pd-20k.jpg",
-      "price": 69.99,
-      "rating": 4.6,
-      "reviews": 6300,
-      "affiliate_url": "https://www.amazon.es/dp/B0854BDZG5?tag=rankzon-21",
+      "name": "Apple AirTag (2.ª generación): Permite localizar",
+      "image": "/images/powerbanks/apple-airtag-2-generacion-permite-localizar.jpg",
+      "price": 27.99,
+      "rating": 4,
+      "reviews": 814,
+      "affiliate_url": "https://www.amazon.es/dp/B0GJTFY58R?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Veger VP-1351 30000mAh 65W PD",
-      "image": "/images/powerbanks/veger-vp1351-30000mah.jpg",
-      "price": 47.99,
-      "rating": 4.4,
-      "reviews": 9400,
-      "affiliate_url": "https://www.amazon.es/dp/B0C77MGXFB?tag=rankzon-21",
+      "name": "INIU Cable USB A USB C",
+      "image": "/images/powerbanks/iniu-cable-usb-a-usb-c.jpg",
+      "price": 6.99,
+      "rating": 4,
+      "reviews": 90248,
+      "affiliate_url": "https://www.amazon.es/dp/B09P8KM9Z6?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Charmast Powerbank Slim 10000mAh USB-C",
-      "image": "/images/powerbanks/charmast-slim-10000.jpg",
-      "price": 17.99,
-      "rating": 4.3,
-      "reviews": 18700,
-      "affiliate_url": "https://www.amazon.es/dp/B086KHWMQK?tag=rankzon-21",
+      "name": "NEW'C 2 x Protector Pantalla para iPhone 17 (6",
+      "image": "/images/powerbanks/new-c-2-x-protector-pantalla-para-iphone-17-6.jpg",
+      "price": 7.5,
+      "rating": 4,
+      "reviews": 55961,
+      "affiliate_url": "https://www.amazon.es/dp/B0G35M3XGG?tag=rankzon-21",
       "badge": null
     }
   ]

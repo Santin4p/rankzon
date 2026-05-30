@@ -10,7 +10,18 @@
       "rating": 4,
       "reviews": 24184,
       "affiliate_url": "https://www.amazon.es/dp/B0DFHFM1X9?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Pantalla LCD de 2\" grande y muy legible incluso al sol",
+        "Batería de hasta 18 días de autonomía real",
+        "Llamadas Bluetooth claras sin sacar el móvil del bolsillo",
+        "Más de 140 modos deportivos con monitorización 24/7"
+      ],
+      "cons": [
+        "La caja es grande, puede resultar prominente en muñecas pequeñas",
+        "El GPS requiere tener el móvil cerca para funcionar"
+      ],
+      "user_summary": "Los compradores se sorprenden de las prestaciones que ofrece a menos de 40€, destacando especialmente la duración de batería y el tamaño de pantalla. La mayoría lo recomiendan como primer smartwatch o para regalar a quien quiere salud y conectividad."
     },
     {
       "position": 2,
@@ -20,7 +31,18 @@
       "rating": 4,
       "reviews": 108,
       "affiliate_url": "https://www.amazon.es/dp/B0GTV6TK4J?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Batería de 1000mAh para una semana de uso real sin cargar",
+        "Pantalla grande y luminosa con diseño resistente",
+        "100+ modos deportivos con monitor de salud completo y linterna integrada",
+        "Certificación IP68 para actividades acuáticas y lluvia"
+      ],
+      "cons": [
+        "Marca genérica con ecosistema de apps más limitado que Xiaomi o Amazfit",
+        "La app de configuración puede resultar algo básica"
+      ],
+      "user_summary": "Los compradores valoran la gran batería y la pantalla grande que se ve perfectamente en exteriores. La mayoría lo recomiendan como smartwatch práctico y resistente para uso deportivo y cotidiano a precio muy accesible."
     },
     {
       "position": 3,
@@ -30,7 +52,18 @@
       "rating": 4,
       "reviews": 2523,
       "affiliate_url": "https://www.amazon.es/dp/B0DSPVK9QJ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla AMOLED nítida con colores vivos bajo cualquier luz solar",
+        "GPS integrado con mapas gratuitos para rutas y actividades sin móvil",
+        "NFC para pagos y batería de 10 días con uso intensivo",
+        "160+ modos deportivos con inteligencia artificial Zepp integrada"
+      ],
+      "cons": [
+        "La configuración del NFC para pagos es compleja y usa la plataforma Curve",
+        "La memoria interna limitada restringe las apps y esferas descargables"
+      ],
+      "user_summary": "Los compradores lo valoran como el punto dulce entre precio y prestaciones con pantalla AMOLED y GPS. La mayoría destacan que ofrece funciones de gama alta como GPS y AMOLED a precio muy competitivo respecto a marcas premium."
     },
     {
       "position": 4,

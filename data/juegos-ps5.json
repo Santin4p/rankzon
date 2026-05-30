@@ -10,7 +10,17 @@
       "rating": 5,
       "reviews": 1,
       "affiliate_url": "https://www.amazon.es/dp/B0FPMMTJZM?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Aventura de acción con la firma James Bond 007 en PS5",
+        "Gráficos next-gen que aprovechan el hardware de PS5 al máximo",
+        "Edición especial con contenido exclusivo adicional para coleccionistas"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles al ser un título muy reciente",
+        "El precio de la edición especial puede ser elevado para un título nuevo"
+      ],
+      "user_summary": "Los compradores fans de la saga James Bond y los shooters de acción lo adquieren como el regreso del espía más famoso. La mayoría destacan el apartado gráfico y la acción del espionaje, aunque siendo tan nuevo todavía hay pocas opiniones consolidadas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 532,
       "affiliate_url": "https://www.amazon.es/dp/B0D362WFCC?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mundo abierto de Assassin's Creed en el Japón feudal con máxima calidad gráfica",
+        "Edición limitada con contenido adicional para los fans de la saga",
+        "Jugabilidad mejorada que combina lo mejor de Origins, Odyssey y Valhalla"
+      ],
+      "cons": [
+        "Duración de la campaña principal puede ser excesiva para jugadores casuales",
+        "El precio de la edición limitada es elevado respecto a la edición estándar"
+      ],
+      "user_summary": "Los compradores fans de Assassin's Creed lo esperaban como la entrega definitiva ambientada en Japón. La mayoría quedan impresionados con el entorno visual del periodo Sengoku y las mejoras en el sistema de combate."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 335,
       "affiliate_url": "https://www.amazon.es/dp/B0F6D5BS17?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Aventura en el Japón feudal con la calidad gráfica y narrativa de Ghost of Tsushima",
+        "Edición estándar completa con la historia principal sin recortes",
+        "Exclusivo de PlayStation que muestra el poder del hardware de PS5"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles al ser un lanzamiento reciente",
+        "El precio de lanzamiento es el habitual de un AAA pero bajará con el tiempo"
+      ],
+      "user_summary": "Los compradores fans de Ghost of Tsushima y los juegos de mundo abierto japoneses lo adquieren como continuación esperada. La mayoría destacan el salto gráfico y la atmósfera del juego en el mundo samurái de Yotei."
     },
     {
       "position": 4,

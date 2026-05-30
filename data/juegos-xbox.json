@@ -10,7 +10,17 @@
       "rating": 5,
       "reviews": 2,
       "affiliate_url": "https://www.amazon.es/dp/B0FPMNXV7V?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Aventura de acción con la firma James Bond 007 para Xbox Series X",
+        "Gráficos y jugabilidad que aprovechan el hardware de la nueva generación",
+        "Edición especial con contenido adicional exclusivo para coleccionistas"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles al ser un lanzamiento reciente",
+        "El precio de la edición especial es elevado para un título de acción nuevo"
+      ],
+      "user_summary": "Los compradores fans de la saga James Bond en Xbox lo adquieren como el regreso del espía más famoso al gaming. La mayoría destacan la producción visual y la acción, aunque siendo tan nuevo hay pocas opiniones consolidadas disponibles."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 5,
       "reviews": 8,
       "affiliate_url": "https://www.amazon.es/dp/B0GGCJRXSX?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mundo abierto de conducción con cientos de coches licenciados reales",
+        "Gráficos de nueva generación en mundo abierto con clima dinámico en tiempo real",
+        "Acceso también en PC y disponible en Game Pass para suscriptores"
+      ],
+      "cons": [
+        "La progresión puede sentirse lenta al inicio antes de desbloquear los mejores coches",
+        "Requiere mucho espacio de almacenamiento para la instalación completa"
+      ],
+      "user_summary": "Los compradores fans de la saga Forza Horizon lo esperan como el juego de conducción definitivo de Xbox. La mayoría lo consideran el mejor juego de conducción del mercado con la cantidad de contenido y la calidad gráfica de nueva generación."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": null,
       "reviews": null,
       "affiliate_url": "https://www.amazon.es/dp/B0H342QF4Z?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Metroidvania aclamado por la crítica finalmente disponible para consola",
+        "Jugabilidad de plataformas y exploración que ha enamorado a millones de jugadores",
+        "Historia profunda y atmosférica con un mundo interconectado para explorar"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles aún como título reciente para Xbox",
+        "La dificultad puede ser alta para jugadores nuevos en el género metroidvania"
+      ],
+      "user_summary": "Los compradores fans del género metroidvania y la primera entrega de Hollow Knight lo adquieren para disfrutar de la secuela muy esperada. La mayoría que conocen el original están emocionados con la continuación de la historia de Hornet."
     },
     {
       "position": 4,

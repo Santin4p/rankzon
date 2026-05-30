@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 4932,
       "affiliate_url": "https://www.amazon.es/dp/B0D6NLHV8N?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Sonido envolvente para gaming con posicionamiento espacial preciso",
+        "Micrófono retráctil con cancelación de ruido para comunicaciones claras",
+        "Compatibles con PC, PS5 y Xbox sin adaptadores adicionales"
+      ],
+      "cons": [
+        "La diadema puede resultar algo rígida para sesiones muy largas",
+        "El sonido no es tan equilibrado para escuchar música como para gaming"
+      ],
+      "user_summary": "Los compradores que buscan unos cascos gaming de cable confiables a precio muy asequible los eligen como primera opción. La mayoría los usan para gaming online destacando la claridad del micrófono para comunicarse con el equipo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2426,
       "affiliate_url": "https://www.amazon.es/dp/B0CYJF4KG7?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sonido inalámbrico de alta calidad con conexión de baja latencia",
+        "Almohadillas premium muy cómodas para sesiones de gaming largas",
+        "Batería de larga duración para partidas extendidas sin interrupciones"
+      ],
+      "cons": [
+        "Precio elevado para unos cascos gaming de gama media-alta",
+        "El receptor USB ocupa un puerto y puede perderse fácilmente"
+      ],
+      "user_summary": "Los compradores que quieren calidad de audio sin cables los eligen como cascos gaming principales. La mayoría están satisfechos con la calidad del sonido y el micrófono que resulta muy cómodo para uso mixto gaming y comunicación."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 26202,
       "affiliate_url": "https://www.amazon.es/dp/B083X24CFF?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sonido envolvente 7.1 virtual para una experiencia gaming inmersiva",
+        "Compatibilidad con PC, PS y Xbox en un solo auricular",
+        "Almohadillas mullidas de espuma que no presionan el oído"
+      ],
+      "cons": [
+        "El micrófono puede captar ruido ambiental en entornos ruidosos",
+        "La diadema puede ajustarse mejor para cabezas muy pequeñas o grandes"
+      ],
+      "user_summary": "Los compradores valoran la compatibilidad universal con todas las plataformas y la comodidad de las almohadillas. La mayoría los recomiendan para gamers que juegan en múltiples plataformas y no quieren un casco para cada consola."
     },
     {
       "position": 4,

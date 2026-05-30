@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 25195,
       "affiliate_url": "https://www.amazon.es/dp/B07H299DK5?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Material técnico transpirable que seca rápido durante el ejercicio intenso",
+        "Diseño ergonómico que permite total libertad de movimiento",
+        "Precio muy competitivo para una camiseta de entrenamiento de marca deportiva"
+      ],
+      "cons": [
+        "El tallaje puede variar, recomiendan consultar la tabla de tallas antes de pedir",
+        "Los colores vivos pueden desteñir ligeramente en los primeros lavados"
+      ],
+      "user_summary": "Los compradores buscan ropa deportiva funcional de marca reconocida a precio asequible para entrenar. La mayoría están satisfechos con la transpirabilidad y la comodidad para todo tipo de actividades deportivas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 8688,
       "affiliate_url": "https://www.amazon.es/dp/B06Y63CN8X?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Cintura elástica con cordón ajustable para mayor comodidad en movimiento",
+        "Tejido ligero que no limita los movimientos en ningún tipo de ejercicio",
+        "Bolsillos laterales para llevar el móvil o llaves durante el entrenamiento"
+      ],
+      "cons": [
+        "El tallaje puede quedar algo grande, recomiendan pedir una talla menos",
+        "El tejido fino puede verse a contraluz en colores claros"
+      ],
+      "user_summary": "Los compradores los eligen para tener unos pantalones de entrenamiento cómodos y versátiles a precio muy asequible. La mayoría los recomiendan para running, gym y actividades al aire libre por la comodidad y ligereza del tejido."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 28282,
       "affiliate_url": "https://www.amazon.es/dp/B078XXP3RH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Par de mancuernas de neopreno suave y fácil de agarrar",
+        "Disponibles en distintos pesos para adaptar al nivel de entrenamiento",
+        "Ideales para tonificación, aeróbic y ejercicios de bajo impacto en casa"
+      ],
+      "cons": [
+        "El neopreno puede retener humedad y olor con el uso intensivo",
+        "El peso máximo disponible puede ser insuficiente para atletas avanzados"
+      ],
+      "user_summary": "Los compradores las eligen para comenzar a entrenar en casa sin equipamiento caro ni complejo. La mayoría las recomiendan para ejercicios de tonificación y clases dirigidas donde el peso ligero es el adecuado."
     },
     {
       "position": 4,

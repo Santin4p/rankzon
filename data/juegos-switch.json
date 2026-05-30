@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 7858,
       "affiliate_url": "https://www.amazon.es/dp/B07D1L22SD?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Minecraft completo en Switch con todas las actualizaciones y contenidos",
+        "Versión portátil perfecta para jugar en cualquier lugar en modo handheld",
+        "Mundos infinitos compatibles con jugadores de otras plataformas via crossplay"
+      ],
+      "cons": [
+        "Gráficos más básicos que en PC o consolas de nueva generación",
+        "El multijugador online requiere suscripción Nintendo Online adicional"
+      ],
+      "user_summary": "Los compradores son padres que regalan Minecraft a sus hijos o fans que quieren la versión portátil para Switch. La mayoría están muy satisfechos con la experiencia completa de Minecraft en formato handheld."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 940,
       "affiliate_url": "https://www.amazon.es/dp/B09BBWTPP2?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Recopilatorio con varios juegos indie de calidad a precio reducido",
+        "Incluye títulos con narrativa y mecánicas originales difíciles de encontrar",
+        "Excelente relación calidad-precio para un pack de varios juegos"
+      ],
+      "cons": [
+        "Los juegos son de menor presupuesto que los AAA de Nintendo",
+        "Algunos títulos pueden no ser del gusto de todos los jugadores"
+      ],
+      "user_summary": "Los compradores buscan juegos indie con propuesta artística diferente para Switch a buen precio. La mayoría valoran la variedad de la colección y el precio competitivo respecto a comprarlos por separado."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 396,
       "affiliate_url": "https://www.amazon.es/dp/B0FQWBD5MT?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Dos juegos completos de la saga Mario Galaxy en un único cartucho para Switch",
+        "Uno de los mejores juegos de plataformas 3D de la historia de Nintendo",
+        "Diseño artemporal que sigue siendo divertido y fresco décadas después de su lanzamiento"
+      ],
+      "cons": [
+        "Son ports de Wii, los gráficos no están actualizados para la era Switch 2",
+        "El precio puede resultar elevado para juegos de una generación anterior"
+      ],
+      "user_summary": "Los compradores fans de Mario y los plataformas 3D los adquieren para revivir los clásicos o descubrirlos por primera vez. La mayoría coinciden en que Mario Galaxy sigue siendo de los mejores juegos de plataformas disponibles aunque sean ports de Wii."
     },
     {
       "position": 4,

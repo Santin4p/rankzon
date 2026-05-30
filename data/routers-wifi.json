@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 205047,
       "affiliate_url": "https://www.amazon.es/dp/B00A0VCJPI?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Instalación ultrarrápida sin configuración técnica desde cualquier enchufe",
+        "Amplía la cobertura WiFi en toda la casa eliminando zonas muertas",
+        "Compatible con todos los routers y proveedores de internet de España"
+      ],
+      "cons": [
+        "La velocidad N300 puede quedarse corta para streaming 4K simultáneo",
+        "No amplifica la señal, solo la extiende, lo que puede reducir la velocidad"
+      ],
+      "user_summary": "Los compradores lo eligen para eliminar los puntos muertos de WiFi en casa de forma sencilla y económica. La mayoría destacan lo fácil que es configurarlo y que funciona perfectamente para el uso diario de navegación y streaming."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 21576,
       "affiliate_url": "https://www.amazon.es/dp/B08X19VZN8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "WiFi de doble banda AC1200 para velocidades más altas que los repetidores N300",
+        "Función de punto de acceso para conectar dispositivos con cable Ethernet",
+        "App TP-Link Tether para gestión y control desde el móvil en cualquier lugar"
+      ],
+      "cons": [
+        "Precio superior al básico N300 para hogares donde el N300 sería suficiente",
+        "La banda de 5GHz tiene menor alcance que la de 2.4GHz"
+      ],
+      "user_summary": "Los compradores que quieren ampliar su WiFi con mayor velocidad lo eligen como paso natural respecto al repetidor básico. La mayoría lo instalan donde la señal empieza a debilitarse y quedan satisfechos con la mejora de cobertura."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2281,
       "affiliate_url": "https://www.amazon.es/dp/B0CL573PRH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sistema WiFi Mesh Deco con cobertura uniforme en toda la casa sin puntos muertos",
+        "WiFi 6 AX1500 para velocidades superiores con múltiples dispositivos conectados",
+        "Pack de 3 nodos que cubre hasta 370m² con señal consistente"
+      ],
+      "cons": [
+        "Precio elevado respecto a un solo repetidor básico, requiere inversión mayor",
+        "La gestión de la red Mesh puede resultar compleja para usuarios no técnicos"
+      ],
+      "user_summary": "Los compradores con casas grandes o plantas múltiples lo eligen para tener WiFi estable en toda la vivienda. La mayoría que dan el salto a Mesh no vuelven a los repetidores convencionales, destacando la estabilidad y el ancho de banda superior."
     },
     {
       "position": 4,

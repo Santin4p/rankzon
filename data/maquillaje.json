@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 29271,
       "affiliate_url": "https://www.amazon.es/dp/B00KLXFUW4?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Fórmula de larga duración sin necesidad de retoques frecuentes",
+        "Amplia gama de tonos para todos los tipos de piel",
+        "Cobertura ajustable desde natural hasta completa según la cantidad"
+      ],
+      "cons": [
+        "La fórmula puede marcar los poros en pieles con textura irregular",
+        "Requiere primer para maximizar la duración en pieles grasas"
+      ],
+      "user_summary": "Los compradores lo eligen como base de maquillaje de referencia por su duración y la amplia gama de tonos. La mayoría están muy satisfechos con la cobertura y la durabilidad, aunque recomiendan usar primer para piel grasa."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 7946,
       "affiliate_url": "https://www.amazon.es/dp/B0FHBJXX9M?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Crema CC con cobertura natural que unifica el tono de la piel",
+        "Textura ligera que no se asienta en poros ni arrugas",
+        "Fórmula con extracto de centella asiática para calmar pieles sensibles"
+      ],
+      "cons": [
+        "La cobertura ligera puede ser insuficiente para imperfecciones muy marcadas",
+        "La gama de tonos es más limitada que las bases de maquillaje convencionales"
+      ],
+      "user_summary": "Las compradoras con piel sensible o que prefieren un acabado natural lo eligen como alternativa ligera a las bases convencionales. La mayoría valoran el acabado natural y el efecto calmante sobre la piel, especialmente en días sin maquillaje completo."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 7571,
       "affiliate_url": "https://www.amazon.es/dp/B0CNQ4DJRV?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Spray fijador que prolonga la duración del maquillaje durante todo el día",
+        "Acabado no graso que mantiene el maquillaje fresco en climas cálidos",
+        "Aplicación rápida en el último paso de la rutina de maquillaje"
+      ],
+      "cons": [
+        "El aroma del spray puede ser intenso para personas sensibles a los fragancias",
+        "Puede requerir 2-3 capas para una fijación óptima en pieles muy grasas"
+      ],
+      "user_summary": "Las compradoras lo usan como paso final de la rutina de maquillaje para prolongar su duración. La mayoría lo consideran imprescindible en días largos, eventos y verano donde el maquillaje tiende a moverse o correrse."
     },
     {
       "position": 4,

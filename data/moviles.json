@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 3523,
       "affiliate_url": "https://www.amazon.es/dp/B0DRCX34LQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Pantalla AMOLED 120Hz fluida y con colores vivos a precio muy accesible",
+        "Batería de gran capacidad con autonomía de más de un día completo",
+        "8+256GB de RAM y almacenamiento más que suficientes para el uso diario"
+      ],
+      "cons": [
+        "Sin carga inalámbrica a este precio",
+        "El software HyperOS puede tener algo de bloatware preinstalado"
+      ],
+      "user_summary": "Los compradores lo eligen como el mejor relación calidad-precio de Xiaomi en la gama media, destacando la pantalla AMOLED y el almacenamiento generoso. La mayoría lo recomiendan como alternativa real a teléfonos más caros de otras marcas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2172,
       "affiliate_url": "https://www.amazon.es/dp/B0FX9Y2PBR?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Procesador mejorado respecto al Note 14 con mayor rendimiento en gaming",
+        "Cámara con sistema de múltiples lentes para mejor fotografía en condiciones variadas",
+        "Pantalla con mayor brillo y mejoras visuales respecto a la generación anterior"
+      ],
+      "cons": [
+        "Precio superior al Note 14 sin diferencias radicales para el usuario casual",
+        "El diseño es evolutivo sin innovaciones visuales destacables"
+      ],
+      "user_summary": "Los compradores que venían del Note 14 o buscan algo más potente valoran la mejora en rendimiento y cámara. La mayoría lo recomiendan sobre el Note 14 si el presupuesto lo permite, aunque reconocen que las diferencias no son revolucionarias."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 1518,
       "affiliate_url": "https://www.amazon.es/dp/B0FHQCYCNW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio muy asequible para entrar al ecosistema Xiaomi en la gama de entrada",
+        "Pantalla amplia con resolución HD+ cómoda para uso diario y multimedia",
+        "Batería de gran capacidad para autonomía extensa en uso básico"
+      ],
+      "cons": [
+        "Procesador de gama de entrada que puede ir justo con apps exigentes",
+        "Cámara básica sin las mejoras del sistema de varias lentes de los Note"
+      ],
+      "user_summary": "Los compradores buscan un móvil Xiaomi básico y fiable a precio mínimo para uso cotidiano. La mayoría lo recomiendan para usuarios que no exigen mucho del procesador y priorizan la autonomía y el tamaño de pantalla."
     },
     {
       "position": 4,

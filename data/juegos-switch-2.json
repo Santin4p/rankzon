@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 205,
       "affiliate_url": "https://www.amazon.es/dp/B0GLHNN1NK?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Simulación social con personajes Mii en una isla imaginaria única de Nintendo",
+        "Compatible entre Switch y Switch 2 para jugar con amigos de ambas plataformas",
+        "Contenido extenso con actualizaciones regulares planificadas por Nintendo"
+      ],
+      "cons": [
+        "Pocas reseñas disponibles aún al ser un juego reciente de lanzamiento",
+        "Ritmo casual y tranquilo puede no convencer a jugadores que buscan desafíos intensos"
+      ],
+      "user_summary": "Los compradores fans de la saga Animal Crossing y los juegos sociales de Nintendo lo adquieren para la nueva entrega de Tomodachi Life. La mayoría lo recomiendan para compartir con familia y amigos aunque señalan que es un juego de ritmo tranquilo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 498,
       "affiliate_url": "https://www.amazon.es/dp/B0F2N91DQ8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Plataformas 3D con Donkey Kong en una aventura completamente nueva para Switch 2",
+        "Gráficos espectaculares que aprovechan el hardware de Nintendo Switch 2",
+        "Mundo lleno de secretos, coleccionables y desafíos para completionistas"
+      ],
+      "cons": [
+        "Exclusivo de Switch 2, no compatible con la Switch original",
+        "Precio de lanzamiento elevado como es habitual en los grandes exclusivos de Nintendo"
+      ],
+      "user_summary": "Los compradores que tienen Nintendo Switch 2 lo adquieren como uno de los primeros grandes exclusivos de la consola. La mayoría quedan impresionados con el salto gráfico respecto a Switch y la jugabilidad característica de la saga DK."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 175,
       "affiliate_url": "https://www.amazon.es/dp/B0F2N6V24N?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "El juego de carreras definitivo de Nintendo en Switch 2 con pistas nuevas",
+        "Multijugador local para hasta 4 jugadores en el mismo televisor",
+        "Gráficos mejorados respecto a Mario Kart 8 aprovechando el hardware de Switch 2"
+      ],
+      "cons": [
+        "Si ya tienes Mario Kart 8 con DLC, el salto puede no justificar el precio",
+        "Las carreras online requieren suscripción Nintendo Online para multijugador"
+      ],
+      "user_summary": "Los compradores que se han pasado a Switch 2 lo adquieren como el juego de carreras social de referencia para toda la familia. La mayoría lo consideran imprescindible para cualquier propietario de Switch 2 con personas con quien jugar."
     },
     {
       "position": 4,

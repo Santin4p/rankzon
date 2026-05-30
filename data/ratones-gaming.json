@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 12001,
       "affiliate_url": "https://www.amazon.es/dp/B07W5JKFQC?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Sensor HERO de alta precisión con sensibilidad de 200-8000 DPI ajustable",
+        "Diseño ambidextro cómodo para diestros y zurdos por igual",
+        "Iluminación RGB LIGHTSYNC sincronizable con otros periféricos Logitech G"
+      ],
+      "cons": [
+        "Sin botones adicionales en el costado para macros o acciones rápidas",
+        "El cable es fijo y no se puede quitar, limitando la libertad de movimiento"
+      ],
+      "user_summary": "Los compradores que empiezan en el gaming o buscan un ratón confiable a precio asequible lo eligen como primera opción. La mayoría están satisfechos con la precisión del sensor y la calidad de construcción típica de Logitech G."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 9086,
       "affiliate_url": "https://www.amazon.es/dp/B07CGNDZR3?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Conexión inalámbrica LIGHTSPEED con latencia inferior a 1ms sin lag perceptible",
+        "Sensor HERO de gama alta con hasta 12000 DPI de precisión",
+        "Batería de hasta 250 horas con una sola pila AA incluida"
+      ],
+      "cons": [
+        "Requiere pila AA que aumenta ligeramente el peso respecto a los recargables",
+        "La rueda de scroll puede resultar algo rígida para uso intensivo"
+      ],
+      "user_summary": "Los compradores que quieren libertad inalámbrica sin sacrificar la latencia lo eligen como el ratón gaming inalámbrico referente. La mayoría no notan diferencia con un ratón con cable y destacan la increíble duración de la batería."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 3316,
       "affiliate_url": "https://www.amazon.es/dp/B07W6JHVG8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sensor de alta precisión para juegos FPS y MOBA competitivos",
+        "Diseño ergonómico para diestros con apoyo de palma durante horas de juego",
+        "Compatibilidad universal con todos los softwares y plataformas gaming"
+      ],
+      "cons": [
+        "Sin iluminación RGB, diseño sobrio no apto para setups con mucho colorido",
+        "Solo compatible con mano derecha por su diseño ergonómico asimétrico"
+      ],
+      "user_summary": "Los compradores buscan un ratón gaming ergonómico y fiable de Logitech a precio asequible. La mayoría los usan para gaming competitivo y productividad indistintamente, valorando la comodidad del diseño ergonómico para largas sesiones."
     },
     {
       "position": 4,

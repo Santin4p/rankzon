@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 8616,
       "affiliate_url": "https://www.amazon.es/dp/B0DZ75RKZH?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Chip A16 ofrece potencia que no quedará obsoleta en años",
+        "Pantalla Liquid Retina de 11\" espectacular para contenido y trabajo",
+        "128 GB de almacenamiento base ya suficiente para el uso diario"
+      ],
+      "cons": [
+        "Los accesorios oficiales (teclado, Apple Pencil) elevan mucho el precio total",
+        "Sin Face ID: solo Touch ID en el botón lateral"
+      ],
+      "user_summary": "Los compradores que renuevan tabletas antiguas se sorprenden del salto de rendimiento con el chip A16. La mayoría lo valoran como el punto dulce entre precio y prestaciones de la gama Apple, aunque señalan que los accesorios oficiales son caros."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 309,
       "affiliate_url": "https://www.amazon.es/dp/B0FKH7MNLW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla 2.5K con tasa de refresco de 90Hz muy fluida para el precio",
+        "4 altavoces con Dolby Atmos para una experiencia sonora destacada",
+        "Lápiz incluido de serie para tomar notas con precisión desde el primer día"
+      ],
+      "cons": [
+        "WiFi 5 en lugar de WiFi 6, puede conectarse lentamente a routers modernos",
+        "El rendimiento con apps exigentes es limitado por el procesador MediaTek"
+      ],
+      "user_summary": "Los compradores buscan una tablet Android con pantalla de alta resolución y lápiz incluido a buen precio. La mayoría la recomiendan para estudio, consumo de contenido y productividad básica, encontrando en la pantalla y el lápiz sus mayores virtudes."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 77,
       "affiliate_url": "https://www.amazon.es/dp/B0FJ9234ZX?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla enorme de 12.1\" con resolución 2.5K perfecta para contenido multimedia",
+        "Batería de 12000mAh para dos días completos de uso sin necesidad de cargar",
+        "Snapdragon 7s Gen 4 con WiFi 6 para rendimiento fluido y conectividad rápida"
+      ],
+      "cons": [
+        "Sin cargador incluido en la caja, hay que comprarlo aparte",
+        "6GB de RAM puede ser algo justo para multitarea muy exigente con muchas apps"
+      ],
+      "user_summary": "Los compradores valoran el tamaño generoso de pantalla y la batería enorme que aguanta días de uso. La mayoría la recomiendan para consumo de contenido multimedia y estudio por la relación calidad-precio en su segmento de tamaño."
     },
     {
       "position": 4,

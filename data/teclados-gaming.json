@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 4906,
       "affiliate_url": "https://www.amazon.es/dp/B09B413RB7?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Switches mecánicos para un feedback preciso y satisfactorio en cada pulsación",
+        "Retroiluminación RGB completa con distribución española con Ñ incluida",
+        "Construcción sólida que aguanta el uso intensivo de gaming prolongado"
+      ],
+      "cons": [
+        "El ruido de los switches mecánicos puede molestar en entornos compartidos o de noche",
+        "El precio es algo superior a los de membrana pero la calidad lo justifica"
+      ],
+      "user_summary": "Los compradores que buscan su primer teclado mecánico gaming con RGB y distribución española lo eligen por la marca KROM y la calidad de switches. La mayoría están satisfechos con el tacto mecánico que marca la diferencia respecto a los de membrana."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 413,
       "affiliate_url": "https://www.amazon.es/dp/B07W7KMK4W?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Switches mecánicos táctiles para un feedback preciso con cada pulsación",
+        "Formato TKL sin teclado numérico para más espacio de ratón en el escritorio",
+        "Construcción en aluminio de alta calidad que aporta solidez y durabilidad"
+      ],
+      "cons": [
+        "Sin retroiluminación RGB, solo blanco tenue, puede decepcionar a quienes buscan colores",
+        "El precio es elevado para no incluir retroiluminación de colores"
+      ],
+      "user_summary": "Los compradores que valoran la calidad mecánica y el acabado premium sobre el RGB lo eligen por los switches Logitech y la construcción en aluminio. La mayoría los usan tanto para gaming como para mecanografía intensiva, apreciando el feedback táctil preciso."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2638,
       "affiliate_url": "https://www.amazon.es/dp/B0BV2TQYSW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sensación de pulsación mecánica con retroiluminación RGB completa",
+        "Formato completo con numpad y teclas multimedia para máxima versatilidad",
+        "Precio muy competitivo para un teclado gaming con aspecto mecánico"
+      ],
+      "cons": [
+        "Los switches no son mecánicos reales sino de membrana con clic simulado",
+        "La vida útil puede ser inferior a los mecánicos genuinos con uso muy intensivo"
+      ],
+      "user_summary": "Los compradores que quieren la experiencia visual y sonora de un teclado mecánico sin el precio elevado lo eligen por la sensación de clic y el RGB. La mayoría están satisfechos para gaming casual aunque los puristas prefieren mecánicos genuinos."
     },
     {
       "position": 4,

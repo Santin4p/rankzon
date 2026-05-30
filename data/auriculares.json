@@ -10,7 +10,18 @@
       "rating": 4,
       "reviews": 11261,
       "affiliate_url": "https://www.amazon.es/dp/B0DBHT1BT9?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Batería de hasta 36 horas totales con estuche de carga",
+        "Ultraligeros y cómodos, apenas se notan en el oído",
+        "Conexión Bluetooth 5.4 instantánea y sin cortes",
+        "Calidad de sonido sorprendente para su precio"
+      ],
+      "cons": [
+        "Sin cancelación activa de ruido a este precio",
+        "El volumen máximo podría ser algo más alto"
+      ],
+      "user_summary": "Los compradores se sorprenden de las prestaciones que ofrecen por su precio, destacando la batería de 36 horas y la comodidad. La mayoría los recomiendan como la mejor opción de auriculares TWS por menos de 15€."
     },
     {
       "position": 2,
@@ -20,7 +31,18 @@
       "rating": 4,
       "reviews": 813,
       "affiliate_url": "https://www.amazon.es/dp/B08N5WP9NP?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Graves potentes con driver de titanio de 14.2mm",
+        "Batería de 37 horas con estuche de carga USB-C",
+        "Conexión dual a 2 dispositivos simultáneamente",
+        "Resistencia IP54 al agua y al sudor"
+      ],
+      "cons": [
+        "Cambiar entre dispositivos requiere resetear los auriculares",
+        "Sin detector de presencia que pausa la música al quitarlos"
+      ],
+      "user_summary": "Los compradores quedan sorprendidos por la calidad de sonido respecto a modelos anteriores Xiaomi y el gran salto en graves. La mayoría los recomiendan para deporte y uso diario por la resistencia al agua y la larga batería."
     },
     {
       "position": 3,
@@ -30,7 +52,17 @@
       "rating": 4,
       "reviews": 13012,
       "affiliate_url": "https://www.amazon.es/dp/B0DCNWN8NZ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sin latencia ni cortes al ser cableados con USB-C",
+        "Micrófono excelente para llamadas nítidas en cualquier situación",
+        "Compatibles con iPhone 15, iPad y cualquier dispositivo USB-C"
+      ],
+      "cons": [
+        "Cableados: sin libertad de movimiento como unos inalámbricos",
+        "El diseño no se adapta bien a todas las formas de oído"
+      ],
+      "user_summary": "Los compradores los adquieren como solución cableada confiable para sus dispositivos Apple, especialmente para llamadas sin preocuparse por la batería. La mayoría los valoran por el sonido característico Apple y la ausencia total de problemas de conexión."
     },
     {
       "position": 4,

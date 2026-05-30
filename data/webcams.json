@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2175,
       "affiliate_url": "https://www.amazon.es/dp/B0CDGHRV61?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Imagen Full HD 1080p nítida con corrección automática de luz",
+        "Micrófono integrado con cancelación de ruido para videollamadas claras",
+        "Compatibilidad universal con Zoom, Teams, Meet y cualquier app de videoconferencia"
+      ],
+      "cons": [
+        "Sin autoenfoque continuo, el enfoque es fijo a distancia media",
+        "El cable USB-A no incluye adaptador USB-C para portátiles modernos"
+      ],
+      "user_summary": "Los compradores la eligen para mejorar la calidad de sus videollamadas de trabajo sin gastar en modelos caros. La mayoría están muy satisfechos con la mejora respecto a la cámara integrada del portátil y la facilidad de instalación plug and play."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 5717,
       "affiliate_url": "https://www.amazon.es/dp/B0C76ZD7KV?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Full HD 1080p con ángulo de visión amplio de 90° para captar más espacio",
+        "Corrección automática de exposición para compensar diferencias de iluminación",
+        "Precio muy competitivo para una webcam de marca UGREEN reconocida"
+      ],
+      "cons": [
+        "El micrófono capta algo de ruido ambiental sin cancelación activa",
+        "La base de sujeción puede no encajar bien en monitores con marcos muy gruesos"
+      ],
+      "user_summary": "Los compradores buscan una webcam funcional Full HD a precio mínimo y la eligen por la calidad y la marca UGREEN. La mayoría la recomiendan para teletrabajo básico y clases online donde la calidad de imagen importa más que las funciones avanzadas."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 4482,
       "affiliate_url": "https://www.amazon.es/dp/B0002HAHUY?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "1080p con micrófono dual integrado y reducción de ruido de fondo",
+        "Reconocimiento facial automático que mantiene siempre el foco en el usuario",
+        "Compatible con la mayoría de plataformas de videoconferencia sin configuración"
+      ],
+      "cons": [
+        "El procesamiento de imagen puede generar un ligero retraso en conexiones lentas",
+        "El software avanzado de configuración está solo disponible en inglés"
+      ],
+      "user_summary": "Los compradores que hacen muchas videollamadas valoran el micrófono dual con reducción de ruido que mejora notablemente la calidad de audio. La mayoría la eligen para reuniones profesionales frecuentes donde el audio es tan importante como la imagen."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2185,
       "affiliate_url": "https://www.amazon.es/dp/B082BG5229?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Cocción lenta de 6-8 horas que concentra sabores sin vigilancia",
+        "Capacidad de 7L para guisos familiares o grandes asados para varios días",
+        "Panel digital con temporizador para programar la cocción con antelación"
+      ],
+      "cons": [
+        "La cocción lenta requiere planificación con varias horas de antelación",
+        "El tamaño de 7L puede ser excesivo para 1-2 personas"
+      ],
+      "user_summary": "Los compradores la usan para preparar guisos y estofados mientras están fuera de casa. La mayoría la consideran imprescindible para quienes tienen poco tiempo de cocinar y quieren comida casera de calidad sin esfuerzo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 13549,
       "affiliate_url": "https://www.amazon.es/dp/B007XEJ4G2?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Olla de cocción lenta clásica de 4.7L perfecta para familias de 4-6 personas",
+        "Diseño atemporal que va del horno a la mesa para servir directamente",
+        "Precio muy asequible con la garantía de marca Crockpot reconocida"
+      ],
+      "cons": [
+        "Sin función de programación digital, hay que acordarse de apagarla manualmente",
+        "El recipiente de cerámica es más pesado que las ollas metálicas convencionales"
+      ],
+      "user_summary": "Los compradores valoran la tradición de la cocción lenta con el confort de la electricidad y la sencillez de Crockpot. La mayoría la usan para guisos de legumbres, estofados y carnes que se hacen solos en horas."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 32,
       "affiliate_url": "https://www.amazon.es/dp/B0FKNKH8YS?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Olla de cocción lenta digital con pantalla LCD y control de temperatura preciso",
+        "Material antiadherente muy fácil de limpiar tras la cocción lenta",
+        "Capacidad de 5L para una familia estándar de 4-6 personas"
+      ],
+      "cons": [
+        "Modelo relativamente nuevo con menos reseñas para contrastar fiabilidad",
+        "La capacidad de 5L puede quedarse corta para grupos muy numerosos"
+      ],
+      "user_summary": "Los compradores buscan la funcionalidad de olla programable de Cecotec con su relación calidad-precio característica. La mayoría que la han probado quedan satisfechos con los resultados aunque el modelo tiene menos historial que los competidores."
     },
     {
       "position": 4,

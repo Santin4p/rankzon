@@ -1,0 +1,699 @@
+{
+  "afeitadoras-electricas": [
+    {
+      "pos": 1,
+      "name": "Philips OneBlade Original 360 cuchillas",
+      "asin": "B0CVXRFT15"
+    },
+    {
+      "pos": 2,
+      "name": "afeitadora eléctrica para mujer cortapelos corpo",
+      "asin": "B0F3XFC3YH"
+    },
+    {
+      "pos": 3,
+      "name": "Philips TT2000/43",
+      "asin": "B004QO97PA"
+    }
+  ],
+  "alfombrillas-gaming": [
+    {
+      "pos": 1,
+      "name": "Logitech Mouse Pad - Studio Series",
+      "asin": "B07W7LTQ4B"
+    },
+    {
+      "pos": 2,
+      "name": "Amazon Basics Irregular Alfombrilla para ratón c",
+      "asin": "B06X3W3TM4"
+    },
+    {
+      "pos": 3,
+      "name": "EooCoo Alfombrilla Ratón Ergonómico con Reposamu",
+      "asin": "B085XRMSTT"
+    }
+  ],
+  "altavoces-bluetooth": [
+    {
+      "pos": 1,
+      "name": "JBL GO 4",
+      "asin": "B0CX5F5QXQ"
+    },
+    {
+      "pos": 2,
+      "name": "JBL Charge 6",
+      "asin": "B0DXKNBQS6"
+    },
+    {
+      "pos": 3,
+      "name": "Soundcore Anker 2 Altavoz Bluetooth Portátil con",
+      "asin": "B01MTB55WH"
+    }
+  ],
+  "aspiradoras": [
+    {
+      "pos": 1,
+      "name": "VACTechPro Aspiradora sin Cable",
+      "asin": "B0D1KCLVPX"
+    },
+    {
+      "pos": 2,
+      "name": "XIAOMI G20 Lite Potencia 18 kPa",
+      "asin": "B0D15GDCMY"
+    },
+    {
+      "pos": 3,
+      "name": "Rowenta XPert 6.60 - Aspiradora escoba versátil",
+      "asin": "B0D9PPV1YY"
+    }
+  ],
+  "auriculares-gaming": [
+    {
+      "pos": 1,
+      "name": "JBL Quantum 100M2 cascos circumaurales para gami",
+      "asin": "B0D6NLHV8N"
+    },
+    {
+      "pos": 2,
+      "name": "Logitech G Pro X SE Auriculares Gaming con Cable",
+      "asin": "B0CYJF4KG7"
+    },
+    {
+      "pos": 3,
+      "name": "JBL Quantum 100 Auriculares para gamers con soni",
+      "asin": "B083X24CFF"
+    }
+  ],
+  "auriculares": [
+    {
+      "pos": 1,
+      "name": "XIAOMI Redmi Buds 6 Play - Auriculares inalámbri",
+      "asin": "B0DBHT1BT9"
+    },
+    {
+      "pos": 2,
+      "name": "XIAOMI REDMI Buds 8 Active - TWS Bluetooth Semi",
+      "asin": "B08N5WP9NP"
+    },
+    {
+      "pos": 3,
+      "name": "Apple EarPods (USB-C) ​​​​​​​",
+      "asin": "B0DCNWN8NZ"
+    }
+  ],
+  "batidoras": [
+    {
+      "pos": 1,
+      "name": "Cecotec Batidora de mano Power TitanBlack 1500 X",
+      "asin": "B08P3Q3566"
+    },
+    {
+      "pos": 2,
+      "name": "Cecotec Batidora de Vaso Power Black Titanium 20",
+      "asin": "B0BPYX2KMP"
+    },
+    {
+      "pos": 3,
+      "name": "Ibergrif Manual Chopper with Rope",
+      "asin": "B0DQXQML6M"
+    }
+  ],
+  "cafeteras": [
+    {
+      "pos": 1,
+      "name": "Nespresso De'Longhi Inissia EN80.B - Cafetera mo",
+      "asin": "B00G5YOVZA"
+    },
+    {
+      "pos": 2,
+      "name": "Cecotec Cafetera de Goteo Coffee 66 Heat. 950 W",
+      "asin": "B07MQ23F7Q"
+    },
+    {
+      "pos": 3,
+      "name": "Cecotec Cafetera Express Manual Power Espresso 2",
+      "asin": "B0763N7WMP"
+    }
+  ],
+  "cuidado-pelo": [
+    {
+      "pos": 1,
+      "name": "REVLON PROFESSIONAL UniqOne All in One Protector",
+      "asin": "B00M9B66BU"
+    },
+    {
+      "pos": 2,
+      "name": "Alpecin Caffeine Shampoo C1 2x 375ml | Champu an",
+      "asin": "B087R9HVRR"
+    },
+    {
+      "pos": 3,
+      "name": "Vichy Champú Anticaspa",
+      "asin": "B00WN2BY7G"
+    }
+  ],
+  "cuidado-piel": [
+    {
+      "pos": 1,
+      "name": "d'alba Doble Sérum Multi bálsamo con Trufas Blan",
+      "asin": "B09SZ5JX2Y"
+    },
+    {
+      "pos": 2,
+      "name": "NIVEA SUN Protege & Hidrata - Leche Solar FP50+",
+      "asin": "B01DS2WBVM"
+    },
+    {
+      "pos": 3,
+      "name": "La Roche Posay Cicaplast Baume B5",
+      "asin": "B00ST2GSRK"
+    }
+  ],
+  "discos-duros-externos": [
+    {
+      "pos": 1,
+      "name": "SanDisk 128GB Ultra",
+      "asin": "B0B7NTY2S6"
+    },
+    {
+      "pos": 2,
+      "name": "SanDisk Extreme PRO Tarjeta SD 128 GB SDXC",
+      "asin": "B09X7FXHVJ"
+    },
+    {
+      "pos": 3,
+      "name": "SANDISK Ultra Dual Drive Go",
+      "asin": "B07YYJRXQR"
+    }
+  ],
+  "equipamiento-fitness": [
+    {
+      "pos": 1,
+      "name": "Joma - Camiseta Deportiva Manga Corta Hombre",
+      "asin": "B07H299DK5"
+    },
+    {
+      "pos": 2,
+      "name": "Joma Pantalón Corto Deportivo Hombre- Cintura El",
+      "asin": "B06Y63CN8X"
+    },
+    {
+      "pos": 3,
+      "name": "Amazon Basics Par de mancuernas de neopreno",
+      "asin": "B078XXP3RH"
+    }
+  ],
+  "freidoras-aire": [
+    {
+      "pos": 1,
+      "name": "Cosori Freidora de Aire 5",
+      "asin": "B07N8N6C85"
+    },
+    {
+      "pos": 2,
+      "name": "Cecotec Freidora sin Aceite de 5",
+      "asin": "B0BFB3Q7SD"
+    },
+    {
+      "pos": 3,
+      "name": "Cecotec Freidora de Aire sin Aceite 6",
+      "asin": "B0G7HSS6JP"
+    }
+  ],
+  "impresoras": [
+    {
+      "pos": 1,
+      "name": "HP 305 6ZD17AE Pack de 2 Cartuchos de Tinta Negr",
+      "asin": "B08T1HR5CS"
+    },
+    {
+      "pos": 2,
+      "name": "HP 305XL Negro",
+      "asin": "B087DH9GT3"
+    },
+    {
+      "pos": 3,
+      "name": "HP 305 3YM61AE",
+      "asin": "B087DKRSH1"
+    }
+  ],
+  "juegos-ps5": [
+    {
+      "pos": 1,
+      "name": "007 First Light Specialist Edition - PS",
+      "asin": "B0FPMMTJZM"
+    },
+    {
+      "pos": 2,
+      "name": "Assassin's Creed Shadows Limited Edition (Exclus",
+      "asin": "B0D362WFCC"
+    },
+    {
+      "pos": 3,
+      "name": "PlayStation 5-Ghost of Yotei - Edición Estándar",
+      "asin": "B0F6D5BS17"
+    }
+  ],
+  "juegos-switch-2": [
+    {
+      "pos": 1,
+      "name": "Tomodachi Life - Switch",
+      "asin": "B0GLHNN1NK"
+    },
+    {
+      "pos": 2,
+      "name": "Donkey Kong Bananza- Switch 2",
+      "asin": "B0F2N91DQ8"
+    },
+    {
+      "pos": 3,
+      "name": "Mario Kart World- Nintendo Switch 2",
+      "asin": "B0F2N6V24N"
+    }
+  ],
+  "juegos-switch": [
+    {
+      "pos": 1,
+      "name": "Minecraft: Nintendo Switch Edition",
+      "asin": "B07D1L22SD"
+    },
+    {
+      "pos": 2,
+      "name": "Meridiem Games - Ori - The Collection",
+      "asin": "B09BBWTPP2"
+    },
+    {
+      "pos": 3,
+      "name": "Super Mario Galaxy + Super Mario Galaxy 2 - Swit",
+      "asin": "B0FQWBD5MT"
+    }
+  ],
+  "juegos-xbox": [
+    {
+      "pos": 1,
+      "name": "007 First Light Specialist Edition - XSRX",
+      "asin": "B0FPMNXV7V"
+    },
+    {
+      "pos": 2,
+      "name": "Forza Horizon 6 – Xbox Series X",
+      "asin": "B0GGCJRXSX"
+    },
+    {
+      "pos": 3,
+      "name": "Hollow Knight: Silksong - Xbox",
+      "asin": "B0H342QF4Z"
+    }
+  ],
+  "lectores-ebook": [
+    {
+      "pos": 1,
+      "name": "reMarkable Pack Esencial Paper Pro | Tableta de",
+      "asin": "B0DG9ZXWMK"
+    },
+    {
+      "pos": 2,
+      "name": "Kindle Scribe (2022)",
+      "asin": "B09BS5XWNS"
+    },
+    {
+      "pos": 3,
+      "name": "Pizarra LCD de Escritura",
+      "asin": "B0D6GKS2CN"
+    }
+  ],
+  "mandos-gaming": [
+    {
+      "pos": 1,
+      "name": "EasySMX D05 Mando PC Inalambrico con Base de Car",
+      "asin": "B0F1TBQ9FQ"
+    },
+    {
+      "pos": 2,
+      "name": "KROM KEY - Gamepad con cable",
+      "asin": "B077QQ6WF3"
+    },
+    {
+      "pos": 3,
+      "name": "8Bitdo Ultimate 2C Wireless Controller for Windo",
+      "asin": "B0D736BCNM"
+    }
+  ],
+  "maquillaje": [
+    {
+      "pos": 1,
+      "name": "Maybelline New York",
+      "asin": "B00KLXFUW4"
+    },
+    {
+      "pos": 2,
+      "name": "Erborian - CC Crème con Centella Asiática - Crem",
+      "asin": "B0FHBJXX9M"
+    },
+    {
+      "pos": 3,
+      "name": "L'Oréal Paris Spray Fijador de Maquillaje Infail",
+      "asin": "B0CNQ4DJRV"
+    }
+  ],
+  "microfonos-gaming": [
+    {
+      "pos": 1,
+      "name": "TONOR PC Microfono Dinámico Gaming con Brazo Sop",
+      "asin": "B0CCVBQRFX"
+    },
+    {
+      "pos": 2,
+      "name": "Micrófono USB para Conferencias",
+      "asin": "B0FY38DKFD"
+    },
+    {
+      "pos": 3,
+      "name": "Trust Primo Micrófono PC con Cable 180 cm",
+      "asin": "B01LWYIDDN"
+    }
+  ],
+  "microondas": [
+    {
+      "pos": 1,
+      "name": "Cecotec Microondas ProClean 2010. 700 W de Poten",
+      "asin": "B07YFPZTY6"
+    },
+    {
+      "pos": 2,
+      "name": "Midea Microondas 20 litros y 700 W de potencia |",
+      "asin": "B0GFX58XMH"
+    },
+    {
+      "pos": 3,
+      "name": "Cecotec Microondas de 20 Litros ProClean 3050. 7",
+      "asin": "B07JZD2KGH"
+    }
+  ],
+  "monitores": [
+    {
+      "pos": 1,
+      "name": "Philips 24E1N1100A Monitor 23.8 Pulgadas FHD",
+      "asin": "B0CX9CT3ZF"
+    },
+    {
+      "pos": 2,
+      "name": "LG 24G411A-B - Monitor Gaming Ultragear 23",
+      "asin": "B0FL32LSR5"
+    },
+    {
+      "pos": 3,
+      "name": "Yodoit Monitor Portátil Pantalla Portatil de 15",
+      "asin": "B0BYJ79PHH"
+    }
+  ],
+  "moviles": [
+    {
+      "pos": 1,
+      "name": "XIAOMI Redmi Note 14 - Smartphone de 8+256GB",
+      "asin": "B0DRCX34LQ"
+    },
+    {
+      "pos": 2,
+      "name": "XIAOMI REDMI Note 15 - Smartphone de 8+256GB",
+      "asin": "B0FX9Y2PBR"
+    },
+    {
+      "pos": 3,
+      "name": "XIAOMI POCO C85 - Smartphone de 8+256GB",
+      "asin": "B0FHQCYCNW"
+    }
+  ],
+  "ollas-programables": [
+    {
+      "pos": 1,
+      "name": "Crockpot Olla de Cocción Lenta Digital 7",
+      "asin": "B082BG5229"
+    },
+    {
+      "pos": 2,
+      "name": "Crockpot Olla de Cocción Lenta | 4.7 Litros (has",
+      "asin": "B007XEJ4G2"
+    },
+    {
+      "pos": 3,
+      "name": "Cecotec Olla de Cocción Lenta 5",
+      "asin": "B0FKNKH8YS"
+    }
+  ],
+  "padel": [
+    {
+      "pos": 1,
+      "name": "Head Tube 3 Pelotas de Padel",
+      "asin": "B076TGJ7JZ"
+    },
+    {
+      "pos": 2,
+      "name": "Palbea Grip Padel Extra Adherente - Overgrips Pa",
+      "asin": "B0C71M5GYN"
+    },
+    {
+      "pos": 3,
+      "name": "PALBEA Protector Pala de Padel Transparente - Pa",
+      "asin": "B0C7C6LC84"
+    }
+  ],
+  "planchas-pelo": [
+    {
+      "pos": 1,
+      "name": "ghd Gold - Plancha de Pelo Profesional Para un C",
+      "asin": "B0CCYPDLCQ"
+    },
+    {
+      "pos": 2,
+      "name": "Remington Plancha Pelo pantalla digital",
+      "asin": "B09RN8Q4CW"
+    },
+    {
+      "pos": 3,
+      "name": "Cecotec Plancha de Pelo de Ondas RitualCare 1000",
+      "asin": "B0FKT75FS5"
+    }
+  ],
+  "portatiles": [
+    {
+      "pos": 1,
+      "name": "Apple MacBook Neo de 13 Pulgadas con Chip A18 Pr",
+      "asin": "B0GR6M1GK1"
+    },
+    {
+      "pos": 2,
+      "name": "HP 15-fc0241ns - Ordenador portátil de 15.6\" FHD",
+      "asin": "B0FCG4XQQT"
+    },
+    {
+      "pos": 3,
+      "name": "Lenovo IdeaPad Slim 3 Gen 8 – Ordenador Portátil",
+      "asin": "B0FVYGKQ8Z"
+    }
+  ],
+  "purificadores-aire": [
+    {
+      "pos": 1,
+      "name": "Cecotec Ventilador de Torre Digital con Temporiz",
+      "asin": "B092JB4Z7J"
+    },
+    {
+      "pos": 2,
+      "name": "Orbegozo SF 0147",
+      "asin": "B01D4YVY80"
+    },
+    {
+      "pos": 3,
+      "name": "Ventilador de techo con luz con mando 3 aspas",
+      "asin": "B0DVRGD6M1"
+    }
+  ],
+  "ratones-gaming": [
+    {
+      "pos": 1,
+      "name": "Logitech G G203 LIGHTSYNC Ratón Gaming con Ilumi",
+      "asin": "B07W5JKFQC"
+    },
+    {
+      "pos": 2,
+      "name": "Logitech G305 Lightspeed Ratón Gaming Inalámbric",
+      "asin": "B07CGNDZR3"
+    },
+    {
+      "pos": 3,
+      "name": "Logitech G G502 X Plus Lightspeed Ratón inalámbr",
+      "asin": "B07W6JHVG8"
+    }
+  ],
+  "realidad-virtual": [
+    {
+      "pos": 1,
+      "name": "INIU Cable Link de 5m",
+      "asin": "B0BRQMVCXL"
+    },
+    {
+      "pos": 2,
+      "name": "Meta Quest 3 512 GB — Las Quest más potentes — V",
+      "asin": "B09N24BHKQ"
+    },
+    {
+      "pos": 3,
+      "name": "Cableguys Sony Astro BOT Soporte Mando y Movil",
+      "asin": "B0FHWBK77M"
+    }
+  ],
+  "robots-aspirador": [
+    {
+      "pos": 1,
+      "name": "Cecotec Robot Aspirador con Navegación Láser y A",
+      "asin": "B0FL2NVQ8S"
+    },
+    {
+      "pos": 2,
+      "name": "DREAME L10s Ultra Gen 2 Robot Aspirador y Fregas",
+      "asin": "B0DCVYS9FQ"
+    },
+    {
+      "pos": 3,
+      "name": "XIAOMI S40 Pro Robot Vacuum Cleaner - Brazos Ext",
+      "asin": "B0FX5MSQFH"
+    }
+  ],
+  "routers-wifi": [
+    {
+      "pos": 1,
+      "name": "TP-Link TL-WA850RE Repetidor WiFi N300 (300 Mbps",
+      "asin": "B00A0VCJPI"
+    },
+    {
+      "pos": 2,
+      "name": "TP-Link RE330 WiFi Repeater",
+      "asin": "B08X19VZN8"
+    },
+    {
+      "pos": 3,
+      "name": "[Nuevo] TP-Link Deco X1500 (3-Pack) - Sistema Wi",
+      "asin": "B0CL573PRH"
+    }
+  ],
+  "secadores-pelo": [
+    {
+      "pos": 1,
+      "name": "Cecotec Secador de Pelo Ionico Bamba IoniCare 54",
+      "asin": "B0814YP958"
+    },
+    {
+      "pos": 2,
+      "name": "Cecotec Secador de Pelo Compacto y Ligero DryNov",
+      "asin": "B0FKT56T2R"
+    },
+    {
+      "pos": 3,
+      "name": "Remington Secador Pelo 2400 W",
+      "asin": "B01KLXFBVI"
+    }
+  ],
+  "smartwatches": [
+    {
+      "pos": 1,
+      "name": "XIAOMI Redmi Watch 5 Active",
+      "asin": "B0DFHFM1X9"
+    },
+    {
+      "pos": 2,
+      "name": "Reloj Inteligente Hombre con Linterna",
+      "asin": "B0GTV6TK4J"
+    },
+    {
+      "pos": 3,
+      "name": "Amazfit Active 2",
+      "asin": "B0DSPVK9QJ"
+    }
+  ],
+  "tablets": [
+    {
+      "pos": 1,
+      "name": "Apple iPad de 11 Pulgadas: Chip A16",
+      "asin": "B0DZ75RKZH"
+    },
+    {
+      "pos": 2,
+      "name": "Lenovo Idea Tab – Tablet 11\" 2.5K (MediaTek Dime",
+      "asin": "B0FKH7MNLW"
+    },
+    {
+      "pos": 3,
+      "name": "XIAOMI REDMI Pad 2 Pro - Tablet de 12.1\" 2.5K (S",
+      "asin": "B0FJ9234ZX"
+    }
+  ],
+  "teclados-gaming": [
+    {
+      "pos": 1,
+      "name": "KROM KASIC – Teclado mecánico Gaming RGB con swi",
+      "asin": "B09B413RB7"
+    },
+    {
+      "pos": 2,
+      "name": "Logitech G G413 TKL SE Teclado Mecánico Gaming",
+      "asin": "B07W7KMK4W"
+    },
+    {
+      "pos": 3,
+      "name": "RedThunder K10 Teclado Gaming Sensación Mecánico",
+      "asin": "B0BV2TQYSW"
+    }
+  ],
+  "televisores": [
+    {
+      "pos": 1,
+      "name": "XIAOMI TV F 43",
+      "asin": "B0F4548TCQ"
+    },
+    {
+      "pos": 2,
+      "name": "TD Systems - Smart TV 40 Pulgadas con Tizen OS 8",
+      "asin": "B0GQHRLGY8"
+    },
+    {
+      "pos": 3,
+      "name": "LG 43UA73006LA - TV 43\"",
+      "asin": "B0F2GH8L49"
+    }
+  ],
+  "webcams": [
+    {
+      "pos": 1,
+      "name": "Logitech Brio 100",
+      "asin": "B0CDGHRV61"
+    },
+    {
+      "pos": 2,
+      "name": "UGREEN Webcam Full HD 1080P 30FPS USB A PC Cámar",
+      "asin": "B0C76ZD7KV"
+    },
+    {
+      "pos": 3,
+      "name": "EMEET Webcam 1080P con Micrófono C960 Cámara Web",
+      "asin": "B0002HAHUY"
+    }
+  ],
+  "zapatillas-running": [
+    {
+      "pos": 1,
+      "name": "Xiaomi Smartband 10",
+      "asin": "B0DYF82545"
+    },
+    {
+      "pos": 2,
+      "name": "XIAOMI Redmi Watch 5 Active",
+      "asin": "B0DFZPR9Z4"
+    },
+    {
+      "pos": 3,
+      "name": "Adidas Hombre Galaxy 7 Zapatillas de Correr",
+      "asin": "B0CKXQYTGZ"
+    }
+  ]
+}

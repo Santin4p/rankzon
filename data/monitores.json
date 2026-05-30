@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 1554,
       "affiliate_url": "https://www.amazon.es/dp/B0CX9CT3ZF?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Panel IPS 1080p con colores fieles y amplios ángulos de visión",
+        "Tecnología antirreflejo que reduce la fatiga visual en sesiones largas",
+        "Diseño delgado sin marcos laterales con soporte ergonómico ajustable"
+      ],
+      "cons": [
+        "Sin altavoces integrados, requiere altavoces externos",
+        "Resolución Full HD puede quedarse corta para diseño gráfico profesional"
+      ],
+      "user_summary": "Los compradores lo valoran como monitor de oficina fiable con imagen nítida y cómoda para jornadas largas. La mayoría lo usan para teletrabajo y estudios, destacando la calidad del panel IPS a un precio muy competitivo."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 84,
       "affiliate_url": "https://www.amazon.es/dp/B0FL32LSR5?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Panel IPS de 165Hz ideal para juegos competitivos fluidos",
+        "Compatible con FreeSync Premium para eliminar el tearing en gaming",
+        "Diseño gaming con bajo consumo y tiempo de respuesta de 1ms"
+      ],
+      "cons": [
+        "Los altavoces integrados tienen una calidad básica",
+        "El soporte no permite ajustar la altura, solo la inclinación"
+      ],
+      "user_summary": "Los compradores que buscan un monitor gaming asequible destacan la fluidez de 165Hz y la compatibilidad con FreeSync. La mayoría lo recomiendan como primer monitor gaming por su relación precio-prestaciones."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 4405,
       "affiliate_url": "https://www.amazon.es/dp/B0BYJ79PHH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Monitor portátil ultradelgado perfecto para trabajar en cualquier lugar",
+        "Conectividad USB-C con carga pass-through para portátiles modernos",
+        "Pantalla de 15.6\" que extiende el escritorio del portátil fácilmente"
+      ],
+      "cons": [
+        "La resolución y brillo puede ser inferior a monitores de escritorio fijos",
+        "Requiere soporte externo o funda para mantenerse en pie correctamente"
+      ],
+      "user_summary": "Los compradores lo eligen como segunda pantalla portátil para trabajar en viajes, cafeterías o en casa con el portátil. La mayoría valoran la comodidad de tener un segundo monitor sin cables complicados gracias al USB-C."
     },
     {
       "position": 4,

@@ -4,132 +4,132 @@
   "productos": [
     {
       "position": 1,
-      "name": "Casio F-91W Reloj Digital Clásico",
-      "image": "/images/relojes-hombre/casio-f-91w-reloj-digital-clasico.jpg",
-      "price": 13.9,
-      "rating": 4.7,
-      "reviews": 94200,
-      "affiliate_url": "https://www.amazon.es/dp/B000GAWSDG?tag=rankzon-21",
-      "badge": "Icónico",
+      "name": "Xiaomi Smartband 10",
+      "image": "/images/relojes-hombre/xiaomi-smartband-10.jpg",
+      "price": 35.1,
+      "rating": 4,
+      "reviews": 9845,
+      "affiliate_url": "https://www.amazon.es/dp/B0DYF82545?tag=rankzon-21",
+      "badge": "Más vendido",
       "pros": [
-        "El más vendido de la historia, desde 1991",
-        "Batería de 7 años incluida",
-        "Resistente al agua 30m"
+        "Pantalla AMOLED clara y legible con notificaciones de salud en tiempo real",
+        "Batería de hasta 20 días sin necesidad de carga frecuente",
+        "Ligera y cómoda para llevar día y noche incluyendo durante el sueño"
       ],
       "cons": [
-        "Sin funciones inteligentes",
-        "Pantalla pequeña para quien no está acostumbrado"
+        "Sin GPS autónomo integrado, requiere el móvil para seguimiento de rutas",
+        "La pantalla táctil puede activarse involuntariamente durante el sueño"
       ],
-      "user_summary": "Los compradores lo llaman el reloj perfecto por lo que cuesta. Muchos lo compran como segundo reloj para deporte, playa o uso diario sin preocupaciones."
+      "user_summary": "Los compradores buscan una pulsera de actividad de Xiaomi con seguimiento de salud a precio asequible. La mayoría la recomiendan para monitorizar pasos, sueño y frecuencia cardíaca sin complicaciones."
     },
     {
       "position": 2,
-      "name": "Seiko SKX007 Diver Automático 200m",
-      "image": "/images/relojes-hombre/seiko-skx007.jpg",
-      "price": 289,
-      "rating": 4.7,
-      "reviews": 22400,
-      "affiliate_url": "https://www.amazon.es/dp/B0002Y6MTC?tag=rankzon-21",
+      "name": "XIAOMI Redmi Watch 5 Active",
+      "image": "/images/relojes-hombre/xiaomi-redmi-watch-5-active.jpg",
+      "price": 29.49,
+      "rating": 4,
+      "reviews": 24211,
+      "affiliate_url": "https://www.amazon.es/dp/B0DFZPR9Z4?tag=rankzon-21",
       "badge": null,
       "pros": [
-        "Mecánico automático, sin batería nunca",
-        "Icono del reloj de buceo asequible",
-        "Movimiento Seiko 7S26, fiable y duradero"
+        "Pantalla LCD de 2\" grande y muy legible incluso bajo el sol directo",
+        "Llamadas Bluetooth para hablar sin sacar el móvil del bolsillo",
+        "Más de 140 modos deportivos con monitorización de salud completa"
       ],
       "cons": [
-        "Precisión de ±15 seg/día, normal en automáticos",
-        "El bisel de rosca requiere cierta fuerza"
+        "La caja grande puede resultar prominente en muñecas finas",
+        "El GPS requiere el móvil para el seguimiento preciso de rutas largas"
       ],
-      "user_summary": "Los compradores lo consideran el mejor reloj mecánico por debajo de 300€. Muchos lo heredan como primer reloj serio después de los digitales."
+      "user_summary": "Los compradores lo eligen por la pantalla grande, las llamadas Bluetooth y la larga batería a precio muy competitivo. La mayoría están sorprendidos de las prestaciones que ofrece Xiaomi por menos de 40€."
     },
     {
       "position": 3,
-      "name": "Tissot T-Classic Everytime 40mm",
-      "image": "/images/relojes-hombre/tissot-everytime-40mm.jpg",
-      "price": 249,
-      "rating": 4.6,
-      "reviews": 14800,
-      "affiliate_url": "https://www.amazon.es/dp/B00LHRKYTK?tag=rankzon-21",
-      "badge": "Elegante",
+      "name": "XIAOMI Smart Band 9 Active - Pulsera de Activida",
+      "image": "/images/relojes-hombre/xiaomi-smart-band-9-active-pulsera-de-activida.jpg",
+      "price": 19.8,
+      "rating": 4,
+      "reviews": 8173,
+      "affiliate_url": "https://www.amazon.es/dp/B0DK6ZC5ZC?tag=rankzon-21",
+      "badge": null,
       "pros": [
-        "Diseño minimalista atemporal",
-        "Cristal de zafiro en gama 300€",
-        "Ideal como regalo por su presentación"
+        "Pulsera de actividad compacta y ligera con pantalla AMOLED clara",
+        "Seguimiento de actividad física y sueño con datos precisos y detallados",
+        "Resistencia al agua para uso en la ducha y actividades acuáticas"
       ],
       "cons": [
-        "Movimiento de cuarzo a este precio",
-        "La correa de cuero original se desgasta"
+        "Sin pantalla táctil completa, la interacción es limitada respecto a un smartwatch",
+        "Sin GPS independiente para deportes al aire libre con seguimiento de rutas"
       ],
-      "user_summary": "Los compradores lo eligen como primer reloj de calidad o regalo. La presentación en caja Tissot recibe elogios constantes."
+      "user_summary": "Los compradores buscan una pulsera de actividad básica y fiable de Xiaomi para el seguimiento de salud diario. La mayoría la recomiendan para quienes quieren monitorizar su actividad sin complicarse con funciones de smartwatch completo."
     },
     {
       "position": 4,
-      "name": "Casio G-Shock GA-2100 CasiOak",
-      "image": "/images/relojes-hombre/casio-g-shock-ga2100.jpg",
-      "price": 99,
-      "rating": 4.7,
-      "reviews": 38700,
-      "affiliate_url": "https://www.amazon.es/dp/B07W84BGLT?tag=rankzon-21",
+      "name": "Google Fitbit Air - Pulsera de Actividad con mon",
+      "image": "/images/relojes-hombre/google-fitbit-air-pulsera-de-actividad-con-mon.jpg",
+      "price": 99.99,
+      "rating": 4,
+      "reviews": 29,
+      "affiliate_url": "https://www.amazon.es/dp/B0GHSNQKXX?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 5,
-      "name": "Fossil Gen 6 Smartwatch 44mm",
-      "image": "/images/relojes-hombre/fossil-gen-6-44mm.jpg",
-      "price": 159,
-      "rating": 4.2,
-      "reviews": 12400,
-      "affiliate_url": "https://www.amazon.es/dp/B09HHCQK2N?tag=rankzon-21",
+      "name": "XIAOMI Smart Band 9 Pro - Pulsera de Actividad",
+      "image": "/images/relojes-hombre/xiaomi-smart-band-9-pro-pulsera-de-actividad.jpg",
+      "price": 44.1,
+      "rating": 4,
+      "reviews": 4772,
+      "affiliate_url": "https://www.amazon.es/dp/B0DK71CTCK?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 6,
-      "name": "Orient Bambino Version 6 Automático",
-      "image": "/images/relojes-hombre/orient-bambino-v6.jpg",
-      "price": 129,
-      "rating": 4.5,
-      "reviews": 9800,
-      "affiliate_url": "https://www.amazon.es/dp/B09JGBN1CG?tag=rankzon-21",
+      "name": "HOVVIDA Compresor Aire Portatil",
+      "image": "/images/relojes-hombre/hovvida-compresor-aire-portatil.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "reviews": 2568,
+      "affiliate_url": "https://www.amazon.es/dp/B0DGH2GWDK?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 7,
-      "name": "Hamilton Khaki Field Auto 38mm",
-      "image": "/images/relojes-hombre/hamilton-khaki-field-38mm.jpg",
-      "price": 495,
-      "rating": 4.7,
-      "reviews": 5600,
-      "affiliate_url": "https://www.amazon.es/dp/B00CBZPYMK?tag=rankzon-21",
+      "name": "Garmin Forerunner 165",
+      "image": "/images/relojes-hombre/garmin-forerunner-165.jpg",
+      "price": 199.99,
+      "rating": 4,
+      "reviews": 2622,
+      "affiliate_url": "https://www.amazon.es/dp/B0CT3SGHXL?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 8,
-      "name": "Citizen Eco-Drive Promaster Diver BN0157",
-      "image": "/images/relojes-hombre/citizen-promaster-bn0157.jpg",
-      "price": 239,
-      "rating": 4.6,
-      "reviews": 7400,
-      "affiliate_url": "https://www.amazon.es/dp/B01N5ARC3G?tag=rankzon-21",
+      "name": "Pack para Creadores dji Osmo Pocket 4",
+      "image": "/images/relojes-hombre/pack-para-creadores-dji-osmo-pocket-4.jpg",
+      "price": 614.74,
+      "rating": 4,
+      "reviews": 182,
+      "affiliate_url": "https://www.amazon.es/dp/B0FKT9K6CB?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 9,
-      "name": "Casio Edifice EFR-303L Cronógrafo",
-      "image": "/images/relojes-hombre/casio-edifice-efr303l.jpg",
-      "price": 69,
-      "rating": 4.5,
-      "reviews": 18200,
-      "affiliate_url": "https://www.amazon.es/dp/B06XVHDDWR?tag=rankzon-21",
+      "name": "XIAOMI Smart Band 10 Pro",
+      "image": "/images/relojes-hombre/xiaomi-smart-band-10-pro.jpg",
+      "price": 79.99,
+      "rating": null,
+      "reviews": null,
+      "affiliate_url": "https://www.amazon.es/dp/B0GQ3FYM27?tag=rankzon-21",
       "badge": null
     },
     {
       "position": 10,
-      "name": "Garmin Instinct 2 Tactical Edition",
-      "image": "/images/relojes-hombre/garmin-instinct-2-tactical.jpg",
-      "price": 279.99,
-      "rating": 4.6,
-      "reviews": 9100,
-      "affiliate_url": "https://www.amazon.es/dp/B09TG8MVHK?tag=rankzon-21",
+      "name": "HUAWEI Band 9",
+      "image": "/images/relojes-hombre/huawei-band-9.jpg",
+      "price": 40.41,
+      "rating": 4,
+      "reviews": 2703,
+      "affiliate_url": "https://www.amazon.es/dp/B0CYCCTP5Y?tag=rankzon-21",
       "badge": null
     }
   ]

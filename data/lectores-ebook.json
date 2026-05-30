@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 973,
       "affiliate_url": "https://www.amazon.es/dp/B0DG9ZXWMK?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Tableta e-paper que simula perfectamente la escritura a mano sobre papel real",
+        "Sin distracciones de notificaciones, dedicada exclusivamente a lectura y notas",
+        "Sincronización de notas y documentos en la nube de reMarkable"
+      ],
+      "cons": [
+        "Precio muy elevado para un dispositivo de un solo propósito",
+        "No tiene acceso a tienda de ebooks ni apps adicionales"
+      ],
+      "user_summary": "Los compradores son profesionales y estudiantes que quieren dejar el papel pero no renunciar a la experiencia de escribir a mano. La mayoría lo consideran transformador para reuniones y estudio, aunque reconocen que el precio es elevado para lo que hace."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 1472,
       "affiliate_url": "https://www.amazon.es/dp/B09BS5XWNS?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla e-ink de gran tamaño para leer documentos PDF y ebooks cómodamente",
+        "Stylus incluido para tomar notas directamente sobre los documentos",
+        "Integración con el ecosistema Kindle y Amazon Books para comprar contenido"
+      ],
+      "cons": [
+        "El precio es elevado para ser un ebook reader, más cercano a una tablet especializada",
+        "El peso es mayor que el de los Kindle de lectura convencionales"
+      ],
+      "user_summary": "Los compradores que quieren combinar la lectura de libros con la toma de notas a mano lo eligen como dispositivo todo en uno. La mayoría lo recomiendan para quien ya usa Kindle y quiere añadir la funcionalidad de escritura."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 230,
       "affiliate_url": "https://www.amazon.es/dp/B0D6GKS2CN?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Precio ultrabásico como pizarra LCD para apuntes rápidos sin gastar papel",
+        "Sin batería que cargar, borrado instantáneo con el botón lateral",
+        "Tamaño compacto perfecto para la nevera, mesa de estudio o bolsillo"
+      ],
+      "cons": [
+        "Solo tiene capacidad de escritura básica, sin funciones inteligentes ni sincronización",
+        "La resolución LCD es muy inferior a los dispositivos e-paper de calidad"
+      ],
+      "user_summary": "Los compradores la usan como sustituto del papel para listas, recordatorios y bocetos rápidos sin gastar hojas. La mayoría la recomiendan para niños o uso doméstico casual como alternativa ecológica y económica al papel."
     },
     {
       "position": 4,

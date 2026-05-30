@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2516,
       "affiliate_url": "https://www.amazon.es/dp/B0BRQMVCXL?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Cable de 5m de fibra óptica para VR PC sin restricción de movimiento",
+        "Transmisión de datos rápida con mínima latencia para VR de alta calidad",
+        "Compatible con Meta Quest 2, 3 y Quest Pro para Air Link"
+      ],
+      "cons": [
+        "Cable de 5m puede enredarse durante sesiones de VR muy activas",
+        "Requiere PC con USB compatible y drivers correctos para funcionar"
+      ],
+      "user_summary": "Los compradores lo adquieren para aprovechar el PC VR de su Meta Quest sin limitaciones de batería ni calidad de imagen. La mayoría lo recomiendan como accesorio imprescindible para quienes tienen un PC gaming potente."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 4087,
       "affiliate_url": "https://www.amazon.es/dp/B09N24BHKQ?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "512GB de almacenamiento para una biblioteca de juegos VR completa sin ordenador",
+        "Chip Snapdragon XR2 Gen 2 con el mejor rendimiento autónomo del mercado VR",
+        "Biblioteca de juegos VR más completa con títulos exclusivos de alto nivel"
+      ],
+      "cons": [
+        "Precio muy elevado respecto a la versión de 128GB que ya ofrece buenas prestaciones",
+        "El peso puede cansar el cuello tras sesiones largas de realidad virtual"
+      ],
+      "user_summary": "Los compradores que quieren la mejor experiencia de VR standalone sin necesitar un PC potente invierten en el Meta Quest 3. La mayoría lo consideran el salto definitivo a la realidad virtual de calidad, aunque señalan que el peso puede cansar en sesiones largas."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 246,
       "affiliate_url": "https://www.amazon.es/dp/B0FHWBK77M?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Soporte decorativo temático de Astro Bot para organizar el escritorio gaming",
+        "Compatible con mando DualSense y smartphones de cualquier tamaño",
+        "Diseño exclusivo perfecto para coleccionistas y fans de PlayStation"
+      ],
+      "cons": [
+        "Es un soporte decorativo, funcionalidad básica sin prestaciones adicionales",
+        "El precio puede ser elevado para lo que ofrece funcionalmente"
+      ],
+      "user_summary": "Los compradores que son fans de PlayStation y Astro Bot lo adquieren principalmente por su valor decorativo y de coleccionismo. La mayoría lo valoran como regalo o detalle para el setup gaming, cumpliendo su función con un toque de personalidad."
     },
     {
       "position": 4,

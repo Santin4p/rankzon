@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 2648,
       "affiliate_url": "https://www.amazon.es/dp/B076TGJ7JZ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Bote de 3 pelotas homologadas para torneos y uso competitivo",
+        "Presión regulada para rebote consistente y duración superior",
+        "Marca Head de referencia para los jugadores más exigentes del padel"
+      ],
+      "cons": [
+        "El precio es algo superior a las pelotas de marcas blancas pero la calidad lo justifica",
+        "Las pelotas pierden presión gradualmente con el uso, como cualquier pelota de padel"
+      ],
+      "user_summary": "Los jugadores de padel las eligen como la referencia de calidad para partidos y torneos. La mayoría confían en la marca Head para sus partidos habituales, destacando la consistencia del rebote y la durabilidad respecto a marcas blancas."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2836,
       "affiliate_url": "https://www.amazon.es/dp/B0C71M5GYN?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Overgrip de alta adherencia para un agarre firme incluso con sudor en la mano",
+        "Pack múltiple que ofrece un precio por unidad muy competitivo",
+        "Compatible con todas las palas de padel del mercado"
+      ],
+      "cons": [
+        "El overgrip se desgasta con el uso intensivo y requiere reposición frecuente",
+        "El grosor puede aumentar ligeramente el diámetro del mango según el gusto del jugador"
+      ],
+      "user_summary": "Los jugadores los adquieren para renovar el agarre de su pala y mejorar el control durante el juego. La mayoría los recomiendan especialmente para jugadores que sudan mucho o juegan con frecuencia y necesitan máximo agarre."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2145,
       "affiliate_url": "https://www.amazon.es/dp/B0C7C6LC84?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Protector transparente que no altera la estética de la pala",
+        "Adhesivo de alta resistencia que aguanta golpes contra la pared y el suelo",
+        "Protege la zona más vulnerable de la pala evitando desportillamientos"
+      ],
+      "cons": [
+        "La instalación requiere práctica para evitar burbujas de aire",
+        "Puede necesitar reemplazarse después de muchos golpes fuertes contra la pared"
+      ],
+      "user_summary": "Los jugadores lo instalan en sus palas para protegerlas de los golpes inevitables durante el juego. La mayoría lo consideran imprescindible para proteger la inversión en una buena pala de padel y prolongar su vida útil."
     },
     {
       "position": 4,

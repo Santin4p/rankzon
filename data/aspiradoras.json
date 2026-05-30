@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 5017,
       "affiliate_url": "https://www.amazon.es/dp/B0D1KCLVPX?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Potencia de succión sin cable para todo tipo de suelos y alfombras",
+        "Diseño versátil que funciona como escoba y aspiradora de mano",
+        "Cabezal con luz LED para ver el polvo en zonas oscuras"
+      ],
+      "cons": [
+        "El peso puede cansar el brazo en sesiones largas de limpieza",
+        "La batería dura menos en el modo de máxima potencia"
+      ],
+      "user_summary": "Los compradores valoran la potencia de succión y la versatilidad de la escoba sin cable. La mayoría la usan como única aspiradora del hogar y destacan que la calidad de limpieza es comparable a aspiradoras con cable."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2064,
       "affiliate_url": "https://www.amazon.es/dp/B0D15GDCMY?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "18kPa de succión con filtro HEPA para alérgicos",
+        "Diseño ultraligero de menos de 1.5kg fácil de manejar",
+        "Precio competitivo con la calidad reconocida de Xiaomi"
+      ],
+      "cons": [
+        "La potencia puede ser insuficiente para alfombras de pelo largo",
+        "La batería no es tan duradera como en modelos Xiaomi de gama superior"
+      ],
+      "user_summary": "Los compradores la eligen como aspiradora de mantenimiento diario por su ligereza y precio. La mayoría la recomiendan para pisos con suelos duros, señalando que la ligereza facilita la limpieza diaria rápida."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 9195,
       "affiliate_url": "https://www.amazon.es/dp/B0D9PPV1YY?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Aspiradora escoba versátil con múltiples accesorios incluidos",
+        "Filtro HEPA certificado para retener el polvo fino y alérgenos",
+        "Marca Rowenta reconocida por su durabilidad y rendimiento"
+      ],
+      "cons": [
+        "Precio más elevado que alternativas chinas con potencia similar",
+        "La batería puede necesitar recambio tras 2-3 años de uso intensivo"
+      ],
+      "user_summary": "Los compradores que buscan una aspiradora escoba de marca fiable con filtro HEPA la eligen especialmente para hogares con mascotas o personas con alergias. La mayoría valoran la calidad de construcción y el filtrado superior de Rowenta."
     },
     {
       "position": 4,

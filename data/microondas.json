@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 4859,
       "affiliate_url": "https://www.amazon.es/dp/B07YFPZTY6?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "700W de potencia con 5 niveles para calentar cualquier tipo de alimento",
+        "Diseño compacto de 20L que se integra perfectamente en cocinas pequeñas",
+        "Panel sencillo e intuitivo sin funciones innecesarias que compliquen el uso"
+      ],
+      "cons": [
+        "Sin función grill, solo calentamiento y descongelado básico",
+        "El panel táctil puede acumular marcas de dedos con facilidad"
+      ],
+      "user_summary": "Los compradores lo eligen para calentar y descongelar alimentos sin complicaciones en hogares pequeños. La mayoría están satisfechos con la sencillez de uso y destacan que la relación precio-calidad de Cecotec es muy buena en este segmento."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2193,
       "affiliate_url": "https://www.amazon.es/dp/B0GFX58XMH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño blanco elegante que combina con cocinas modernas",
+        "Capacidad de 20L con plato girante apto para recipientes estándar",
+        "Precio muy competitivo con garantía europea incluida"
+      ],
+      "cons": [
+        "Sin función grill o combinada, solo microondas convencional",
+        "El temporizador puede ser menos preciso que los digitales modernos"
+      ],
+      "user_summary": "Los compradores buscan un microondas básico y fiable a buen precio para el uso diario. La mayoría valoran el diseño limpio en blanco y la sencillez de uso sin funciones innecesarias."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 2363,
       "affiliate_url": "https://www.amazon.es/dp/B07JZD2KGH?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Mayor capacidad de 20L con 700W para calentar platos de tamaño familiar",
+        "Función grill integrada para gratinar y dorar alimentos sin horno",
+        "Panel digital con 8 programas automáticos para los alimentos más comunes"
+      ],
+      "cons": [
+        "Ocupa algo más de espacio en la encimera que modelos sin grill",
+        "La función grill requiere práctica para obtener resultados óptimos"
+      ],
+      "user_summary": "Los compradores que quieren algo más versátil que el básico lo eligen por la función grill y los programas automáticos. La mayoría lo usan para calentar, descongelar y preparar platos gratinados, valorando la versatilidad adicional."
     },
     {
       "position": 4,

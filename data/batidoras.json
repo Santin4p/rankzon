@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 1208,
       "affiliate_url": "https://www.amazon.es/dp/B08P3Q3566?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "1500W de potencia para triturar hielo, frutas congeladas y verduras duras",
+        "Cuerpo de titanio muy resistente para uso intensivo y prolongado",
+        "Accesorio picador incluido para picar cebolla, ajo y hierbas"
+      ],
+      "cons": [
+        "La potencia puede ser excesiva para batidos suaves o salsas delicadas",
+        "El ruido a máxima potencia es considerable"
+      ],
+      "user_summary": "Los compradores que preparan smoothies diariamente con frutas congeladas y verduras duras valoran especialmente la potencia del motor. La mayoría la usan para todo tipo de elaboraciones y destacan que no se atasca ni con los ingredientes más duros."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 330,
       "affiliate_url": "https://www.amazon.es/dp/B0BPYX2KMP?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Vaso de alta capacidad perfecto para batidos y gazpachos familiares",
+        "Función turbo para triturado rápido de ingredientes duros",
+        "Material libre de BPA apto para contacto con alimentos"
+      ],
+      "cons": [
+        "El vaso grande puede ser excesivo para porciones individuales",
+        "La limpieza manual del vaso puede resultar incómoda por el tamaño"
+      ],
+      "user_summary": "Los compradores que preparan grandes cantidades de gazpacho, sopas y batidos familiares valoran la capacidad y la potencia. La mayoría la recomiendan para cocinas donde se cocina en cantidad para grupos o familias numerosas."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 1710,
       "affiliate_url": "https://www.amazon.es/dp/B0DQXQML6M?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Picadora manual sin electricidad perfecta para cantidades pequeñas",
+        "Tritura cebollas, ajos y hierbas en segundos con una sola mano",
+        "Sin cables ni baterías, siempre lista para usar"
+      ],
+      "cons": [
+        "Capacidad muy limitada, solo para pequeñas cantidades de ingredientes",
+        "Requiere esfuerzo manual repetitivo para ingredientes muy duros"
+      ],
+      "user_summary": "Los compradores la eligen para picar pequeñas cantidades de ajo, cebolla y hierbas sin ensuciar una picadora eléctrica. La mayoría la consideran un utensilio de cocina imprescindible por su sencillez y rapidez en los preparativos."
     },
     {
       "position": 4,

@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 19165,
       "affiliate_url": "https://www.amazon.es/dp/B0CCYPDLCQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Tecnología de planchas profesionales ghd usada en las mejores peluquerías",
+        "Sensor de temperatura preciso que mantiene el calor constante para resultados uniformes",
+        "Acabado brillante y duradero que aguanta todo el día"
+      ],
+      "cons": [
+        "Precio elevado que puede disuadir a compradores ocasionales",
+        "Requiere cable y es más voluminosa que las planchas básicas sin cable"
+      ],
+      "user_summary": "Los compradores que invierten en la ghd Gold lo hacen buscando resultados profesionales en casa. La mayoría consideran que el precio se amortiza rápidamente al no tener que ir a la peluquería tan frecuentemente."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 13085,
       "affiliate_url": "https://www.amazon.es/dp/B09RN8Q4CW?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Pantalla digital que muestra la temperatura exacta de trabajo",
+        "Placas flotantes que se adaptan al grosor del mechón para un planchado uniforme",
+        "Calentamiento rápido en menos de 15 segundos lista para usar"
+      ],
+      "cons": [
+        "Las placas cerámicas básicas no son tan deslizantes como las de titanio premium",
+        "La temperatura máxima puede ser insuficiente para cabellos muy gruesos o resistentes"
+      ],
+      "user_summary": "Las compradoras valoran la pantalla digital que permite controlar la temperatura exacta según el tipo de cabello. La mayoría la recomiendan como plancha completa y funcional a precio razonable, perfecta para el uso doméstico diario."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 374,
       "affiliate_url": "https://www.amazon.es/dp/B0FKT75FS5?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Diseño de ondas que permite planchado y ondulado con la misma herramienta",
+        "Cerámica de alta calidad que desliza perfectamente sin tirones en el cabello",
+        "Temperatura ajustable para adaptarse a distintos tipos de cabello"
+      ],
+      "cons": [
+        "Las ondas resultantes son de un tipo específico, no para rizos muy cerrados",
+        "El mango puede calentarse ligeramente con un uso muy prolongado"
+      ],
+      "user_summary": "Las compradoras la eligen para tener versatilidad entre el planchado liso y las ondas con una sola herramienta. La mayoría la recomiendan para el uso de fin de semana para eventos o salidas donde se quiere un look con onda natural."
     },
     {
       "position": 4,

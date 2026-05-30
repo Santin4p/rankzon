@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 5578,
       "affiliate_url": "https://www.amazon.es/dp/B0F4548TCQ?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Fire TV integrado con Alexa y acceso directo a todas las apps de streaming",
+        "Compatible con Apple AirPlay para enviar contenido desde iPhone sin cables",
+        "Dolby Audio y DTS Virtual:X para sonido más envolvente en su gama"
+      ],
+      "cons": [
+        "Resolución HD 720p, no Full HD ni 4K en este modelo de 32\"",
+        "El sonido interno puede resultar algo flojo, se recomienda añadir barra de sonido"
+      ],
+      "user_summary": "Los compradores la eligen para habitaciones o cocinas donde quieren una Smart TV completa sin gastar mucho. La mayoría destacan la facilidad del sistema Fire TV y la compatibilidad con AirPlay para usuarios de iPhone."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2295,
       "affiliate_url": "https://www.amazon.es/dp/B0GQHRLGY8?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Sistema Tizen OS 8.0 con la experiencia intuitiva de Samsung en marca propia",
+        "Sintonizador triple DVB-T2/C/S2 para TDT, cable y satélite integrado",
+        "Diseño elegante a precio muy ajustado para uso como segunda televisión"
+      ],
+      "cons": [
+        "La interfaz puede resultar algo lenta al cambiar entre apps",
+        "El servicio técnico de TD Systems puede ser más limitado que el de marcas premium"
+      ],
+      "user_summary": "Los compradores buscan una Smart TV funcional con Tizen OS a precio mínimo para habitaciones secundarias. La mayoría están satisfechos con la imagen y la facilidad del sistema Tizen, aunque señalan que la respuesta de los menús puede ser algo lenta."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 699,
       "affiliate_url": "https://www.amazon.es/dp/B0F2GH8L49?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Panel 4K UHD de 43\" con procesador de LG para imagen nítida y detallada",
+        "webOS 25 muy fluido e intuitivo con apps de streaming preinstaladas",
+        "Compatibilidad con HDR10 Pro y Dolby Vision para contenido de alto rango dinámico"
+      ],
+      "cons": [
+        "El mando básico puede no incluir micrófono de voz según la versión",
+        "Ocasionalmente puede ralentizarse al cambiar entre muchas apps abiertas"
+      ],
+      "user_summary": "Los compradores buscan un salto a 4K de marca reconocida en la gama asequible. La mayoría valoran la calidad del panel LG y el webOS intuitivo, recomendándolo como televisor principal en salones y dormitorios medianos."
     },
     {
       "position": 4,

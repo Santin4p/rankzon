@@ -10,7 +10,17 @@
       "rating": 4,
       "reviews": 5619,
       "affiliate_url": "https://www.amazon.es/dp/B09SZ5JX2Y?tag=rankzon-21",
-      "badge": "Más vendido"
+      "badge": "Más vendido",
+      "pros": [
+        "Suero y bálsamo 2 en 1 con extracto de trufa blanca para nutrición intensa",
+        "Textura bálsamo rica que se convierte en aceite al aplicarse",
+        "Piel más luminosa y nutrida tras pocas semanas de uso regular"
+      ],
+      "cons": [
+        "Textura más densa, puede resultar pesada para pieles mixtas o grasas",
+        "Precio elevado para un suero de cuidado facial de lujo"
+      ],
+      "user_summary": "Las compradoras con piel seca o necesitada de nutrición intensa lo eligen como tratamiento nocturno estrella. La mayoría destacan el cambio en la luminosidad y suavidad de la piel tras usarlo regularmente, justificando el precio."
     },
     {
       "position": 2,
@@ -20,7 +30,17 @@
       "rating": 4,
       "reviews": 2673,
       "affiliate_url": "https://www.amazon.es/dp/B01DS2WBVM?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "FPS50+ con alta protección solar para uso diario todo el año",
+        "Textura ligera no grasa que no deja manchas blancas en la piel",
+        "Fórmula hidratante que actúa como crema y protector solar en un solo paso"
+      ],
+      "cons": [
+        "El olor puede resultar algo fuerte para quienes son sensibles a los aromas",
+        "Puede dejar algo de brillo en pieles mixtas durante las horas de más calor"
+      ],
+      "user_summary": "Los compradores lo eligen como protector solar diario que también hidrata sin necesitar dos productos. La mayoría lo recomiendan especialmente para el verano y viajes, valorando la practicidad de combinar hidratación y protección solar."
     },
     {
       "position": 3,
@@ -30,7 +50,17 @@
       "rating": 4,
       "reviews": 15932,
       "affiliate_url": "https://www.amazon.es/dp/B00ST2GSRK?tag=rankzon-21",
-      "badge": null
+      "badge": null,
+      "pros": [
+        "Bálsamo reparador multipropósito para pieles muy secas, irritadas o dañadas",
+        "Sin perfume ni irritantes, apto para pieles sensibles y bebés",
+        "Acelera la recuperación de rojeces, rozaduras y piel dañada por el frío"
+      ],
+      "cons": [
+        "Textura densa que puede resultar pesada para uso en la cara de día",
+        "Tarda en absorberse completamente, recomiendan aplicarlo de noche"
+      ],
+      "user_summary": "Los compradores lo adquieren como el tratamiento de emergencia para piel muy seca o irritada de La Roche-Posay. La mayoría lo tienen como imprescindible en el botiquín para rozaduras, labios cortados y pieles castigadas por el frío o el sol."
     },
     {
       "position": 4,
