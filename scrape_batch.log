@@ -1,0 +1,960 @@
+[Sat May 30 08:59:50     2026] Starting batch scrape
+[Sat May 30 08:59:50     2026] Scraping: smartwatches
+
+Updating Smartwatches (smartwatches)
+Source: https://www.amazon.es/gp/bestsellers/electronics/3457446031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 40 adult products → taking top 10
+  Downloaded image: reloj-inteligente-hombre-con-linterna.jpg
+  Downloaded image: cascho-smartwatch-mujer-elegante-1-85-hd-con-ll.jpg
+  Downloaded image: ruimen-reloj-inteligente-mujer-hombre-con-llamad.jpg
+  Downloaded image: huawei-watch-fit-3.jpg
+  Downloaded image: huawei-watch-fit-5-pro-smartwatch.jpg
+
+Done. Updated D:\projects\active\rankzon\data\smartwatches.json
+Products: 
+  1. XIAOMI Redmi Watch 5 Active — 29.49€
+  2. Reloj Inteligente Hombre con Linterna — 129.99€
+  3. Amazfit Active 2 — 109€
+  4. Apple Watch SE 3 GPS con Caja de Aluminio en Bla — 249€
+  5. Tensky Reloj Inteligente Mujer con Llamadas y Vo — 49.99€
+  6. Samsung Galaxy Fit3 — 39.46€
+  7. CASCHO Smartwatch Mujer Elegante 1.85" HD con Ll — 35.98€
+  8. RUIMEN Reloj Inteligente Mujer Hombre con Llamad — 28.49€
+  9. HUAWEI Watch FIT 3 — 89€
+  10. HUAWEI WATCH FIT 5 Pro Smartwatch — 298.98€
+[Sat May 30 09:00:02     2026] Done: smartwatches
+[Sat May 30 09:00:02     2026] Scraping: auriculares
+
+Updating Auriculares (auriculares)
+Source: https://www.amazon.es/gp/bestsellers/electronics/934056031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 44 adult products → taking top 10
+  Downloaded image: soundcore-p20i-auriculares-inalambricos-bluetoot.jpg
+
+Done. Updated D:\projects\active\rankzon\data\auriculares.json
+Products: 
+  1. XIAOMI Redmi Buds 6 Play - Auriculares inalámbri — 9.99€
+  2. XIAOMI REDMI Buds 8 Active - TWS Bluetooth Semi — 16.04€
+  3. Apple EarPods (USB-C) ​​​​​​​ — 18.98€
+  4. Auriculares Inalámbricos Bluetooth — 22.79€
+  5. Apple AirPods 4 cancelación Activa de Ruido — 169€
+  6. Soundcore Q20i Cascos Inalámbricos Bluetooth con — 39.9€
+  7. Btootos Auriculares Inalámbricos — 24.69€
+  8. Soundcore P30i Auriculares Inalámbricos Bluetoot — 31.99€
+  9. Sony WH-CH520 Auriculares Bluetooth con 50 h de — 29.99€
+  10. Soundcore P20i Auriculares inalámbricos Bluetoot — 22.99€
+[Sat May 30 09:00:14     2026] Done: auriculares
+[Sat May 30 09:00:14     2026] Scraping: altavoces-bluetooth
+
+Updating Altavoces Bluetooth (altavoces-bluetooth)
+Source: https://www.amazon.es/gp/bestsellers/electronics/16725714031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: altavoz-bluetooth-portatil-potente-inalambrico-c.jpg
+
+Done. Updated D:\projects\active\rankzon\data\altavoces-bluetooth.json
+Products: 
+  1. JBL GO 4 — 35.99€
+  2. JBL Charge 6 — 133€
+  3. Soundcore Anker 2 Altavoz Bluetooth Portátil con — 31.99€
+  4. UOHHBOE Altavoz Bluetooth 5.3 — 17.99€
+  5. JBL Flip 7 — 109€
+  6. Soundcore Select 4 Go Altavoz Bluetooth Portátil — 24.99€
+  7. JBL GO 5 Altavoz Bluetooth ultraportátil con Son — 49.9€
+  8. Altavoz Bluetooth Portátil Potente Inalámbrico c — 19.99€
+  9. Sony Altavoz Bluetooth SRS-XB100 — 36.7€
+  10. JBL Grip — 79.9€
+[Sat May 30 09:00:26     2026] Done: altavoces-bluetooth
+[Sat May 30 09:00:26     2026] Scraping: tablets
+
+Updating Tablets (tablets)
+Source: https://www.amazon.es/gp/bestsellers/computers/938010031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 42 adult products → taking top 10
+  Downloaded image: xiaomi-redmi-pad-2-pro-tablet-de-12-1-2-5k-s.jpg
+  Downloaded image: samsung-galaxy-tab-a11-128gb.jpg
+  Downloaded image: biegedy-2026-tablet-10-pulgadas-android-15.jpg
+  Downloaded image: samsung-galaxy-tab-s10-lite-128-gb-tablet-con.jpg
+
+Done. Updated D:\projects\active\rankzon\data\tablets.json
+Products: 
+  1. Apple iPad de 11 Pulgadas: Chip A16 — 349€
+  2. Lenovo Idea Tab – Tablet 11" 2.5K (MediaTek Dime — 188.5€
+  3. XIAOMI REDMI Pad 2 Pro - Tablet de 12.1" 2.5K (S — 209.99€
+  4. Lenovo Tab – Tablet 10.1" WUXGA (MediaTek Helio — 139€
+  5. Samsung Galaxy Tab A11+ 128GB — 249€
+  6. Biegedy 2026 Tablet 10 Pulgadas Android 15 — 99.99€
+  7. BIEGEDY 2026 último Tablet 10 Pulgadas Android 1 — 109.99€
+  8. XIAOMI Redmi Pad 2 - Tablet de 11" 2.5K (MediaTe — 156.99€
+  9. Lenovo Idea Tab Pro – Tablet 12.7" 3K (MediaTek — 299€
+  10. Samsung Galaxy Tab S10 Lite 128 GB - Tablet con — 269€
+[Sat May 30 09:00:37     2026] Done: tablets
+[Sat May 30 09:00:37     2026] Scraping: freidoras-aire
+
+Updating Freidoras de Aire (freidoras-aire)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/26956509031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: philips-airfryer-2000-series-freidora-clasica.jpg
+  Downloaded image: narvi-freidora-de-aire-doble-resistencia-8l-22.jpg
+
+Done. Updated D:\projects\active\rankzon\data\freidoras-aire.json
+Products: 
+  1. Cosori Freidora de Aire 5 — 84.99€
+  2. Cecotec Freidora sin Aceite de 5 — 44.9€
+  3. Cecotec Freidora de Aire sin Aceite 6 — 59.9€
+  4. Cecotec Freidora de Aire sin Aceite de 8 L Cecof — 59.9€
+  5. Ninja CRISPi Freidora de Aire portátil — 129€
+  6. Moulinex Freidora de Aire Easy Fry XL Surface — 119€
+  7. Cecotec Freidora de Aire 8 — 74.9€
+  8. Philips Airfryer 2000 Series – Freidora Clásica — 79€
+  9. Narvi Freidora de Aire Doble Resistencia 8L - 22 — 56.03€
+  10. Cosori Air Fryer Dual Blaze Twinfry 10 Litros — 183€
+[Sat May 30 09:00:49     2026] Done: freidoras-aire
+[Sat May 30 09:00:49     2026] Scraping: robots-aspirador
+
+Updating Robots Aspirador (robots-aspirador)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/2165706031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: cecotec-robot-aspirador-conga-m20-navegacion-gi.jpg
+  Downloaded image: irobot-roomba-105-combo-y-base-autoempty-con-aut.jpg
+  Downloaded image: lefant-m210-robot-aspirador.jpg
+  Downloaded image: cecotec-robot-aspirador-y-friegasuelos-con-base.jpg
+  Downloaded image: cecotec-robot-aspirador-conga-m70-genesis-naveg.jpg
+
+Done. Updated D:\projects\active\rankzon\data\robots-aspirador.json
+Products: 
+  1. Cecotec Robot Aspirador con Navegación Láser y A — 119€
+  2. DREAME L10s Ultra Gen 2 Robot Aspirador y Fregas — 301€
+  3. XIAOMI S40 Pro Robot Vacuum Cleaner - Brazos Ext — 215€
+  4. Cecotec Robot Aspirador Conga M20. Navegación Gi — 94.32€
+  5. DREAME D10 Plus Gen 2 Robot Aspirador y Fregasue — 189€
+  6. iRobot Roomba 105 Combo y Base AutoEmpty con aut — 169€
+  7. Lefant M210 Robot Aspirador — 89.96€
+  8. roborock Robot Aspirador QV 35A Set — 329.99€
+  9. Cecotec Robot Aspirador y Friegasuelos con Base — 169€
+  10. Cecotec Robot Aspirador Conga M70 Genesis. Naveg — 129€
+[Sat May 30 09:01:01     2026] Done: robots-aspirador
+[Sat May 30 09:01:01     2026] Scraping: cafeteras
+
+Updating Cafeteras (cafeteras)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/13713554031
+Running Apify actor.. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: krups-nescafe-dolce-gusto-mini-me-cafetera.jpg
+  Downloaded image: orbegozo-kfn-1210-cafetera-italiana.jpg
+  Downloaded image: orbegozo-kf-900.jpg
+
+Done. Updated D:\projects\active\rankzon\data\cafeteras.json
+Products: 
+  1. Nespresso De'Longhi Inissia EN80.B - Cafetera mo — 79€
+  2. Cecotec Cafetera de Goteo Coffee 66 Heat. 950 W — 29.89€
+  3. Cecotec Cafetera Express Manual Power Espresso 2 — 65.48€
+  4. Krups Nescafé Dolce Gusto Piccolo XS — 54€
+  5. De'Longhi Dedica - Cafetera de Bomba de Acero In — 139€
+  6. Krups Nescafé Dolce Gusto Mini Me Cafetera — 50.45€
+  7. Orbegozo KFN 1210 Cafetera Italiana — 12.9€
+  8. De'Longhi Nescafé Dolce Gusto Piccolo XS EDG110. — 53.99€
+  9. Krups Nescafé Dolce Gusto Piccolo XS - Cafetera — 44.39€
+  10. Orbegozo KF 900 — 7.34€
+[Sat May 30 09:01:18     2026] Done: cafeteras
+[Sat May 30 09:01:18     2026] Scraping: aspiradoras
+
+Updating Aspiradoras (aspiradoras)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/2165707031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 47 adult products → taking top 10
+  Downloaded image: aspiradora-inalambrica-con-bateria.jpg
+  Downloaded image: proscenic-p20-aspiradora-sin-cable-70mins-70kpa.jpg
+
+Done. Updated D:\projects\active\rankzon\data\aspiradoras.json
+Products: 
+  1. VACTechPro Aspiradora sin Cable — 93.45€
+  2. XIAOMI G20 Lite Potencia 18 kPa — 79€
+  3. Rowenta XPert 6.60 - Aspiradora escoba versátil — 99.99€
+  4. VACTechPro 55KPa/600W/70Min Aspiradora sin Cable — 99.73€
+  5. VACTechPro 550W/50Min/50KPA Aspiradora sin Cable — 76.96€
+  6. Ultenic U18Pro Aspiradora sin Cable 55Kpa/80Mins — 159.99€
+  7. 55Kpa/650W/65Mins Aspiradora sin Cable — 132.99€
+  8. Aspiradora inalámbrica con batería — 66.49€
+  9. Proscenic P20+ Aspiradora sin Cable 70Mins/70kPa — 149.99€
+  10. Cecotec Aspiradora Escoba sin Cable Conga Rockst — 89.9€
+[Sat May 30 09:01:30     2026] Done: aspiradoras
+[Sat May 30 09:01:30     2026] Scraping: moviles
+
+Updating Móviles (moviles)
+Source: https://www.amazon.es/gp/bestsellers/electronics/934197031
+Running Apify actor.. done
+Fetched 50 items from Amazon.es
+After filtering kids: 47 adult products → taking top 10
+  Downloaded image: xiaomi-poco-m8-pro-5g-smartphone-de-12-512gb.jpg
+  Downloaded image: apple-iphone-17-pro-de-256-gb-pantalla-de-6.jpg
+
+Done. Updated D:\projects\active\rankzon\data\moviles.json
+Products: 
+  1. XIAOMI Redmi Note 14 - Smartphone de 8+256GB — 148€
+  2. XIAOMI REDMI Note 15 - Smartphone de 8+256GB — 199€
+  3. XIAOMI POCO C85 - Smartphone de 8+256GB — 139.99€
+  4. XIAOMI Redmi 15C - Smartphone de 4+128GB — 105.98€
+  5. Samsung Galaxy A36 5G 256GB Teléfono Móvil — 279€
+  6. Apple iPhone 17 de 256 GB: Pantalla de 6 — 899€
+  7. XIAOMI POCO M8 Pro 5G - Smartphone de 12+512GB — 309.99€
+  8. iPhone 14 — 319€
+  9. Apple iPhone 17 Pro de 256 GB: Pantalla de 6 — 1309€
+  10. Google Pixel 9a – Smartphone Android Libre con c — 379€
+[Sat May 30 09:01:47     2026] Done: moviles
+[Sat May 30 09:01:47     2026] Scraping: portatiles
+
+Updating Portátiles (portatiles)
+Source: https://www.amazon.es/gp/bestsellers/computers/938008031
+Running Apify actor.. done
+Fetched 50 items from Amazon.es
+After filtering kids: 46 adult products → taking top 10
+  Downloaded image: hp-15-fc0241ns-ordenador-portatil-de-15-6-fhd.jpg
+  Downloaded image: asus-vivobook-go-15-e1504fa-ordenador-portatil.jpg
+  Downloaded image: hp-15-fd0404ns-ordenador-portatil-de-15-6-fhd.jpg
+  Downloaded image: hp-15-fc0240ns-ordenador-portatil-de-15-6-fhd.jpg
+
+Done. Updated D:\projects\active\rankzon\data\portatiles.json
+Products: 
+  1. Apple MacBook Neo de 13 Pulgadas con Chip A18 Pr — 699€
+  2. HP 15-fc0241ns - Ordenador portátil de 15.6" FHD — 629€
+  3. Lenovo IdeaPad Slim 3 Gen 8 – Ordenador Portátil — 449€
+  4. Apple MacBook Air de 13 — null€
+  5. Apple 2025 MacBook Air de 13 Pulgadas con Chip M — 1261€
+  6. Lenovo IdeaPad Slim 3 Gen 10 – Ordenador Portáti — 629€
+  7. ASUS Vivobook Go 15 E1504FA - Ordenador Portátil — 529.99€
+  8. ASUS Chromebook CX1505CTA - 15.6" Full HD Laptop — 259€
+  9. HP 15-fd0404ns - Ordenador portátil de 15.6" FHD — 519€
+  10. HP 15-fc0240ns - Ordenador portátil de 15.6" FHD — 649€
+[Sat May 30 09:02:04     2026] Done: portatiles
+[Sat May 30 09:02:04     2026] Scraping: mandos-gaming
+
+Updating Mandos Gaming (mandos-gaming)
+Source: https://www.amazon.es/gp/bestsellers/videogames/911109031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 44 adult products → taking top 10
+  Downloaded image: thrustmaster-t98-ferrari-296-gtb-edition-volan.jpg
+
+Done. Updated D:\projects\active\rankzon\data\mandos-gaming.json
+Products: 
+  1. EasySMX D05 Mando PC Inalambrico con Base de Car — 30.87€
+  2. KROM KEY - Gamepad con cable — 14.99€
+  3. 8Bitdo Ultimate 2C Wireless Controller for Windo — 29.99€
+  4. GameSir Nova Lite Controlador Inalámbrico — 28.99€
+  5. Mars Gaming MGPX — 32.54€
+  6. The G-Lab K-Pad Thorium Mando Gaming PC & PS3 co — 18.61€
+  7. AceGamer Aurora 2.4G Mando inalámbrico para PC W — 22.99€
+  8. EasySMX X05 Pro Mando Inalámbrico para PC – Gati — 35.99€
+  9. GameSir G7 SE Mando con Cable para Xbox Series X — 52.04€
+  10. Thrustmaster T98 Ferrari 296 GTB Edition - Volan — 89.99€
+[Sat May 30 09:02:16     2026] Done: mandos-gaming
+[Sat May 30 09:02:16     2026] Scraping: auriculares-gaming
+
+Updating Auriculares Gaming (auriculares-gaming)
+Source: https://www.amazon.es/gp/bestsellers/videogames/911106031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: logitech-g432-auriculares-gaming-con-cable.jpg
+
+Done. Updated D:\projects\active\rankzon\data\auriculares-gaming.json
+Products: 
+  1. JBL Quantum 100M2 cascos circumaurales para gami — 29.99€
+  2. Logitech G Pro X SE Auriculares Gaming con Cable — 59.99€
+  3. JBL Quantum 100 Auriculares para gamers con soni — 29.99€
+  4. Ozeino Cascos Gaming Inalámbricos para PC/Ps5/Ps — 35.14€
+  5. Mars Gaming MH122 — 15.94€
+  6. Tatybo Cascos Gaming Inalámbricos 7.1 para Ps5/P — 32.99€
+  7. Corsair Void v2 Auriculares Inalámbricos para Ju — 117€
+  8. Tatybo Cascos Gaming Inalámbricos para PC/Ps5/Ps — 31.99€
+  9. Razer Barracuda X - Auriculares Inalámbricos Mul — 89.99€
+  10. Logitech G432 Auriculares Gaming con Cable — 50.95€
+[Sat May 30 09:02:28     2026] Done: auriculares-gaming
+[Sat May 30 09:02:28     2026] Scraping: ratones-gaming
+
+Updating Ratones Gaming (ratones-gaming)
+Source: https://www.amazon.es/gp/bestsellers/videogames/911111031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: razer-basilisk-v3-x-hyperspeed-mouse-da-gioco.jpg
+  Downloaded image: redragon-m908-impact-raton-gaming-rgb-led-mmo.jpg
+
+Done. Updated D:\projects\active\rankzon\data\ratones-gaming.json
+Products: 
+  1. Logitech G G203 LIGHTSYNC Ratón Gaming con Ilumi — 21.95€
+  2. Logitech G305 Lightspeed Ratón Gaming Inalámbric — 35.99€
+  3. Logitech G G502 X Plus Lightspeed Ratón inalámbr — 89.99€
+  4. Logitech G G305 Lightspeed Ratón Gaming Inalámbr — 34.99€
+  5. Razer DeathAdder Essential - Ratón Gaming con se — 19.99€
+  6. Mars Gaming MMW3 — 12.99€
+  7. Logitech G Pro X Superlight 2 — 99.9€
+  8. Razer Basilisk V3 X HyperSpeed - Mouse da gioco — 57.99€
+  9. Razer Viper V3 HyperSpeed - Ratón inalámbrico pa — 59.99€
+  10. Redragon M908 Impact Ratón Gaming RGB LED MMO — 28.62€
+[Sat May 30 09:02:40     2026] Done: ratones-gaming
+[Sat May 30 09:02:40     2026] Scraping: teclados-gaming
+
+Updating Teclados Gaming (teclados-gaming)
+Source: https://www.amazon.es/gp/bestsellers/videogames/911112031
+Running Apify actor done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: krom-kasic-teclado-mecanico-gaming-rgb-con-swi.jpg
+  Downloaded image: attack-shark-x68-he-teclado-8000hz-rapid-trigger.jpg
+  Downloaded image: corsair-k70-rgb-pro-teclado-mecanico-con-cable-p.jpg
+  Downloaded image: gxtrust-871-zora-teclado-mecanico-espanol-qwerty.jpg
+
+Done. Updated D:\projects\active\rankzon\data\teclados-gaming.json
+Products: 
+  1. KROM KASIC – Teclado mecánico Gaming RGB con swi — 29.9€
+  2. Logitech G G413 TKL SE Teclado Mecánico Gaming — 49.99€
+  3. RedThunder K10 Teclado Gaming Sensación Mecánico — 59.99€
+  4. ATTACK SHARK X68 HE Teclado 8000Hz Rapid Trigger — 55.43€
+  5. Logitech MX Keys S Combo — 169€
+  6. CORSAIR K70 RGB PRO Teclado Mecánico con Cable p — 101.19€
+  7. Redragon K668 RGB Teclado Gaming Mecánico Cablea — 59.99€
+  8. Mars Gaming MCPTKL — 16.99€
+  9. Mars Gaming MKPRO — 35.01€
+  10. GXTrust 871 Zora Teclado Mecánico Español QWERTY — 41.99€
+[Sat May 30 09:02:46     2026] Done: teclados-gaming
+[Sat May 30 09:02:46     2026] Scraping: juegos-ps5
+
+Updating Juegos PS5 (juegos-ps5)
+Source: https://www.amazon.es/gp/bestsellers/videogames/20938003031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: assassin-s-creed-shadows-limited-edition-exclus.jpg
+  Downloaded image: playstation-5-ghost-of-yotei-edicion-estandar.jpg
+  Downloaded image: alan-wake-2-deluxe-edition-ps5.jpg
+  Downloaded image: ghost-of-tsushima-director-s-cut-ps5-videojueg.jpg
+  Downloaded image: juego-ps5-horizon-zero-dawn-remastered.jpg
+  Downloaded image: prince-of-persia-the-lost-crown-ps5.jpg
+  Downloaded image: lego-batman-el-legado-del-caballero-oscuro-ps.jpg
+  Downloaded image: playstation-sackboy-una-aventura-a-lo-grande.jpg
+  Downloaded image: playstation-5-stellar-blade.jpg
+
+Done. Updated D:\projects\active\rankzon\data\juegos-ps5.json
+Products: 
+  1. 007 First Light Specialist Edition - PS — 69.99€
+  2. Assassin's Creed Shadows Limited Edition (Exclus — 29.99€
+  3. PlayStation 5-Ghost of Yotei - Edición Estándar — 68.4€
+  4. Alan Wake 2 Deluxe Edition - PS5 — 24.9€
+  5. Ghost of Tsushima Director's Cut PS5 | Videojueg — 38.3€
+  6. Juego PS5 Horizon Zero Dawn Remastered — 27.6€
+  7. Prince of Persia: The Lost Crown (PS5) — 14.99€
+  8. LEGO Batman: El Legado del Caballero Oscuro - PS — 59.9€
+  9. Playstation Sackboy: Una Aventura a lo Grande — 31.94€
+  10. PlayStation 5- Stellar Blade™ — 56.95€
+[Sat May 30 09:02:58     2026] Done: juegos-ps5
+[Sat May 30 09:02:58     2026] Scraping: juegos-switch
+
+Updating Juegos Nintendo Switch (juegos-switch)
+Source: https://www.amazon.es/gp/bestsellers/videogames/12366200031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: super-mario-galaxy-super-mario-galaxy-2-swit.jpg
+  Downloaded image: endless-ocean-luminous.jpg
+
+Done. Updated D:\projects\active\rankzon\data\juegos-switch.json
+Products: 
+  1. Minecraft: Nintendo Switch Edition — 26.69€
+  2. Meridiem Games - Ori - The Collection — 24.9€
+  3. Super Mario Galaxy + Super Mario Galaxy 2 - Swit — 58.88€
+  4. Endless Ocean Luminous — 44.96€
+  5. Tomodachi Life: Una vida de ensueño Standard | N — 59.99€
+  6. Hollow Knight — 27.8€
+  7. Kirby y la Tierra Olvidada — 49.99€
+  8. Super Mario Bros. Wonder — 47.99€
+  9. NINTENDO Switch Sports — 47.52€
+  10. Mario Kart 8 Deluxe — 49.99€
+[Sat May 30 09:03:10     2026] Done: juegos-switch
+[Sat May 30 09:03:10     2026] Scraping: juegos-xbox
+
+Updating Juegos Xbox (juegos-xbox)
+Source: https://www.amazon.es/gp/bestsellers/videogames/20938020031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 48 adult products → taking top 10
+  Downloaded image: hollow-knight-silksong-xbox.jpg
+  Downloaded image: halloween-ash-vs-evil-dead-retro-realms-xbox.jpg
+  Downloaded image: assassin-s-creed-shadows-xbox-series-x.jpg
+  Downloaded image: metal-gear-solid-master-collection-volume-2-d.jpg
+  Downloaded image: mafia-the-old-country-xbs.jpg
+
+Done. Updated D:\projects\active\rankzon\data\juegos-xbox.json
+Products: 
+  1. 007 First Light Specialist Edition - XSRX — 69.99€
+  2. Forza Horizon 6 – Xbox Series X — 69.9€
+  3. Hollow Knight: Silksong - Xbox — 44.99€
+  4. EA SPORTS FC 25 Standard Edition XBOX Series X / — 29.99€
+  5. Halloween & Ash vs Evil Dead Retro Realms - Xbox — 24.3€
+  6. Clair Obscur: Expedition 33 — 37.9€
+  7. Assassin's Creed Shadows (Xbox Series X) — 69.99€
+  8. Beast of Reincarnation - XSRX — 52.9€
+  9. Metal Gear Solid: Master Collection Volume 2 – D — 42.9€
+  10. Mafia: The Old Country XBS — 38.29€
+[Sat May 30 09:03:22     2026] Done: juegos-xbox
+[Sat May 30 09:03:22     2026] Scraping: juegos-switch-2
+
+Updating Juegos Nintendo Switch 2 (juegos-switch-2)
+Source: https://www.amazon.es/gp/bestsellers/videogames/206234155031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 47 adult products → taking top 10
+  Downloaded image: splatoon-raiders.jpg
+  Downloaded image: zelda-tears-of-the-kingdom-nintendo-switch-2-e.jpg
+  Downloaded image: bravely-default-flying-fairy.jpg
+  Downloaded image: star-wars-outlaws-gold-edition-switch-2.jpg
+
+Done. Updated D:\projects\active\rankzon\data\juegos-switch-2.json
+Products: 
+  1. Tomodachi Life - Switch — 54.99€
+  2. Donkey Kong Bananza- Switch 2 — 69.9€
+  3. Mario Kart World- Nintendo Switch 2 — 74.99€
+  4. Tomodachi Life: Una vida de ensueño Standard | N — 59.99€
+  5. Splatoon Raiders — 49.9€
+  6. Zelda Tears of the Kingdom - Nintendo Switch 2 E — 63.99€
+  7. Bravely Default Flying Fairy — 39.99€
+  8. Animal Crossing New Horizons - Nintendo Switch 2 — 56.99€
+  9. Assassin's Creed Shadows (Switch 2) — 37.99€
+  10. Star Wars Outlaws Gold Edition (Switch 2) — 34.99€
+[Sat May 30 09:03:34     2026] Done: juegos-switch-2
+[Sat May 30 09:03:34     2026] Scraping: televisores
+
+Updating Televisores (televisores)
+Source: https://www.amazon.es/gp/bestsellers/electronics/934359031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: xiaomi-tv-f-43.jpg
+  Downloaded image: toshiba-40lv3563dg-smart-tv-de-40.jpg
+  Downloaded image: samsung-tv-65-pulgadas-crystal-uhd-u8075f-4k-sma.jpg
+  Downloaded image: metz-tv-40-pulgadas-smart-tv.jpg
+
+Done. Updated D:\projects\active\rankzon\data\televisores.json
+Products: 
+  1. XIAOMI TV F 43 — 129€
+  2. TD Systems - Smart TV 40 Pulgadas con Tizen OS 8 — 169.89€
+  3. LG 43UA73006LA - TV 43" — 269€
+  4. TCL 65Q6C Televisor 65 Pulgadas QD-Mini LED 4K S — 579€
+  5. Telefunken 40FTV825 — 159.99€
+  6. TCL 50V6C Televisor 50 Pulgadas 4K Smart TV LED — 310.38€
+  7. Toshiba 40LV3563DG Smart TV de 40" — 199€
+  8. Hisense 50E7Q - QLED Smart TV 50 Pulgadas — 319€
+  9. Samsung TV 65 Pulgadas Crystal UHD U8075F 4K Sma — null€
+  10. Metz TV 40 Pulgadas Smart TV — 184.99€
+[Sat May 30 09:03:45     2026] Done: televisores
+[Sat May 30 09:03:45     2026] Scraping: monitores
+
+Updating Monitores (monitores)
+Source: https://www.amazon.es/gp/bestsellers/computers/937992031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+
+Done. Updated D:\projects\active\rankzon\data\monitores.json
+Products: 
+  1. Philips 24E1N1100A Monitor 23.8 Pulgadas FHD — 79€
+  2. LG 24G411A-B - Monitor Gaming Ultragear 23 — 79€
+  3. Yodoit Monitor Portátil Pantalla Portatil de 15 — 66.49€
+  4. LG 32MR50C-B - Monitor Curvo 32" — 139€
+  5. ASUS VY249HGR - Monitor Eye Care Gaming de 23 — 78.95€
+  6. MSI Pro MP242L Monitor de 23 — 69€
+  7. ASUS VY279HGR - Monitor Eye Care Gaming de 27" F — 99€
+  8. ARZOPA Monitor portátil — 85.99€
+  9. Amazon Basics Monitor de Ordenador de 68 — 89€
+  10. MSI mag 27C6F Monitor Curvo Gaming FHD de 27" — 104€
+[Sat May 30 09:03:57     2026] Done: monitores
+[Sat May 30 09:03:57     2026] Scraping: realidad-virtual
+
+Updating Realidad Virtual (realidad-virtual)
+Source: https://www.amazon.es/gp/bestsellers/videogames/22649661031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: juego-de-protectores-para-lentes-amvr-compatible.jpg
+
+Done. Updated D:\projects\active\rankzon\data\realidad-virtual.json
+Products: 
+  1. INIU Cable Link de 5m — 22.99€
+  2. Meta Quest 3 512 GB — Las Quest más potentes — V — 599€
+  3. Cableguys Sony Astro BOT Soporte Mando y Movil — 14.99€
+  4. Meta Quest 3S 128 GB — Sumérgete en la Realidad — 348.19€
+  5. BOBOVR M3 Pro Batería Correa para la Cabeza Comp — 65.99€
+  6. BOBOVR S3 Pro Batería Correa para la Cabez — 113.96€
+  7. BoboVR S3 Pro Battery Relief Strap for Meta Ques — 88.9€
+  8. KIWI design K4 Correa para la Cabeza Cómoda Comp — 39.99€
+  9. Juego de Protectores para Lentes AMVR compatible — 27.99€
+  10. Funda para Meta Quest 3S/Quest 3/Quest 2/Vision — 35.99€
+[Sat May 30 09:04:09     2026] Done: realidad-virtual
+[Sat May 30 09:04:09     2026] Scraping: alfombrillas-gaming
+
+Updating Alfombrillas Gaming (alfombrillas-gaming)
+Source: https://www.amazon.es/gp/bestsellers/computers/937818031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+
+Done. Updated D:\projects\active\rankzon\data\alfombrillas-gaming.json
+Products: 
+  1. Logitech Mouse Pad - Studio Series — 6.69€
+  2. Amazon Basics Irregular Alfombrilla para ratón c — 7.19€
+  3. EooCoo Alfombrilla Ratón Ergonómico con Reposamu — 9.59€
+  4. TECKNET Alfombrilla Ratón con Reposamuñecas — 7.99€
+  5. DOBAOJIA Alfombrilla de Escritorio XXL — 18.99€
+  6. Logitech G G240 Cloth Gaming Mouse Pad — 9.39€
+  7. Logitech Desk Mat - Studio Series — 11.35€
+  8. cimetech Alfombrilla Ratón — 6.49€
+  9. Gimars Reposamuñecas Teclado y Ratón — 13.91€
+  10. Mars Gaming MMP224 — 8.29€
+[Sat May 30 09:04:20     2026] Done: alfombrillas-gaming
+[Sat May 30 09:04:20     2026] Scraping: webcams
+
+Updating Webcams (webcams)
+Source: https://www.amazon.es/gp/bestsellers/computers/28133665031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 48 adult products → taking top 10
+  Downloaded image: ugreen-finecam-lite-4k-webcam-30fps-ultra-hd-usb.jpg
+  Downloaded image: ankerwork-powerconf-c200-2k-usb-webcam-de-portat.jpg
+  Downloaded image: ugreen-webcam-2k-30fps-full-hd-usb-webcam-para-o.jpg
+
+Done. Updated D:\projects\active\rankzon\data\webcams.json
+Products: 
+  1. Logitech Brio 100 — 36.95€
+  2. UGREEN Webcam Full HD 1080P 30FPS USB A PC Cámar — 20.59€
+  3. EMEET Webcam 1080P con Micrófono C960 Cámara Web — 29.99€
+  4. VIZOLINK W2N Webcam HD 1080P/30FPS 2 Micrófono C — 10.99€
+  5. Webcam PC Camara Web — 11.99€
+  6. UGREEN FineCam Lite 4K Webcam 30FPS Ultra HD USB — 49.99€
+  7. AnkerWork PowerConf C200 2K USB Webcam de Portát — 59.99€
+  8. Logitech C920 HD Pro Webcam — 61.65€
+  9. UGREEN Webcam 2K 30FPS Full HD USB Webcam para O — 27.99€
+  10. VIZOLINK W8GS Webcam 4K Full HD Webcam con Micro — 29.99€
+[Sat May 30 09:04:32     2026] Done: webcams
+[Sat May 30 09:04:32     2026] Scraping: microfonos-gaming
+
+Updating Micrófonos Gaming (microfonos-gaming)
+Source: https://www.amazon.es/gp/bestsellers/computers/938013031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: logitech-g-yeti-gx.jpg
+  Downloaded image: amazon-basics-microfono-condensador-mini-usb-par.jpg
+
+Done. Updated D:\projects\active\rankzon\data\microfonos-gaming.json
+Products: 
+  1. TONOR PC Microfono Dinámico Gaming con Brazo Sop — 59.99€
+  2. Micrófono USB para Conferencias — 14.59€
+  3. Trust Primo Micrófono PC con Cable 180 cm — 4.95€
+  4. Mars Gaming MMIC-SC — 30€
+  5. Ewent EW3550 - Micrófono multimedia — 2.95€
+  6. Logitech G Yeti GX — 89€
+  7. Audio-Technica 2020 Micrófono de Condensador Car — 88€
+  8. Amazon Basics Micrófono condensador mini-USB par — 27.29€
+  9. KLIM Talk - Micrófono USB para PC y Mac - Amplia — 22.97€
+  10. GXTrust 236 Yami Micrófono PC USB para Streaming — 24.99€
+[Sat May 30 09:04:44     2026] Done: microfonos-gaming
+[Sat May 30 09:04:44     2026] Scraping: microondas
+
+Updating Microondas (microondas)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/2165413031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 47 adult products → taking top 10
+  Downloaded image: cecotec-microondas-digital-proclean-5005-silver.jpg
+  Downloaded image: cecotec-microondas-proclean-3010-700-w.jpg
+
+Done. Updated D:\projects\active\rankzon\data\microondas.json
+Products: 
+  1. Cecotec Microondas ProClean 2010. 700 W de Poten — 49.9€
+  2. Midea Microondas 20 litros y 700 W de potencia | — 49.99€
+  3. Cecotec Microondas de 20 Litros ProClean 3050. 7 — 54.9€
+  4. Corberó CMICM4020W Microondas 20L 700W Blanco — 47.29€
+  5. Cecotec Microondas Digital Proclean 5005 Silver. — 59.9€
+  6. Orbegozo MI 2115 — 53.59€
+  7. Cecotec Microondas Mecánico de 20 L Proclean 301 — 59.9€
+  8. Cecotec Microondas ProClean 5010. 700 W — 64.9€
+  9. Cecotec Microondas ProClean 3010. 700 W — 52.9€
+  10. Cecotec Microondas ProClean 3160 Mirror. 700W co — 59.9€
+[Sat May 30 09:04:56     2026] Done: microondas
+[Sat May 30 09:04:56     2026] Scraping: batidoras
+
+Updating Batidoras (batidoras)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/3578779031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: moulinex-blendforce-essential.jpg
+  Downloaded image: taurus-batidora-de-vaso-magnum-1500.jpg
+  Downloaded image: cecotec-batidora-de-vaso-con-jarra-de-1.jpg
+
+Done. Updated D:\projects\active\rankzon\data\batidoras.json
+Products: 
+  1. Cecotec Batidora de mano Power TitanBlack 1500 X — 34.99€
+  2. Cecotec Batidora de Vaso Power Black Titanium 20 — 32.99€
+  3. Ibergrif Manual Chopper with Rope — 7.99€
+  4. Moulinex Quickchef — 39.99€
+  5. Braun MultiQuick 5 MQ 50001 M — 32.57€
+  6. H.Koenig Mini batidora Smoothie maker Compacto 5 — 34.9€
+  7. Moulinex Blendforce Essential — 29.99€
+  8. Taurus - Batidora de Vaso Magnum 1500 — 39.99€
+  9. Bonsenkitchen batidora de mano multifunción 4 en — 29.99€
+  10. Cecotec Batidora de Vaso con Jarra de 1 — 33.99€
+[Sat May 30 09:05:07     2026] Done: batidoras
+[Sat May 30 09:05:07     2026] Scraping: purificadores-aire
+
+Updating Purificadores de Aire (purificadores-aire)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/3605952031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 46 adult products → taking top 10
+  Downloaded image: cecotec-aire-acondicionado-portatil-con-mando-a.jpg
+  Downloaded image: orbegozo-sf-0149.jpg
+  Downloaded image: rowenta-turbo-silence-extreme.jpg
+  Downloaded image: midea-ventilador-de-pie-silencioso-con-mando-a-d.jpg
+  Downloaded image: midea-climatizador-evaporativo-portatil-3-en-1-c.jpg
+
+Done. Updated D:\projects\active\rankzon\data\purificadores-aire.json
+Products: 
+  1. Cecotec Ventilador de Torre Digital con Temporiz — 37.9€
+  2. Orbegozo SF 0147 — 24.59€
+  3. Ventilador de techo con luz con mando 3 aspas — 48.5€
+  4. Cecotec Aire Acondicionado Portátil con Mando a — 179€
+  5. Orbegozo SF 0149 — 28.01€
+  6. Dreo 20dB Ventilador de Pie Silencioso — 89.99€
+  7. Rowenta Turbo Silence Extreme — 83.99€
+  8. Midea Ventilador de Pie silencioso con Mando a D — 43.99€
+  9. MIDEA Climatizador Evaporativo Portátil 3 en 1 C — 132.99€
+  10. Mellerware - Ventilador de Techo con Mando a Dis — 119.99€
+[Sat May 30 09:05:19     2026] Done: purificadores-aire
+[Sat May 30 09:05:19     2026] Scraping: ollas-programables
+
+Updating Ollas Programables (ollas-programables)
+Source: https://www.amazon.es/gp/bestsellers/kitchen/2165428031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: tower-t16043blk-olla-de-coccion-lenta-de-6-5-lit.jpg
+  Downloaded image: saaf-multicooker-set-11-piezas-12-programas.jpg
+  Downloaded image: swan-retro-sf17031gneu-olla-coccion-lenta-6.jpg
+
+Done. Updated D:\projects\active\rankzon\data\ollas-programables.json
+Products: 
+  1. Crockpot Olla de Cocción Lenta Digital 7 — 88.96€
+  2. Crockpot Olla de Cocción Lenta | 4.7 Litros (has — 50.63€
+  3. Cecotec Olla de Cocción Lenta 5 — 49.9€
+  4. Swan Retro SF17021YELNEU Olla Cocción Lenta 3 — 44.48€
+  5. Crock-Pot Turbo Express olla a presión y olla mu — 139€
+  6. Tower T16043BLK Olla de Cocción Lenta de 6.5 Lit — 50.55€
+  7. Elite Gourmet MST-900RXT Olla eléctrica de cerám — null€
+  8. Saaf Multicooker – Set 11 Piezas – 12 Programas — 81.99€
+  9. Swan Retro SF17031GNEU Olla Cocción Lenta 6 — 56.45€
+  10. Russell Hobbs Good To Go Multi Cooker - Capacida — 69.99€
+[Sat May 30 09:05:31     2026] Done: ollas-programables
+[Sat May 30 09:05:31     2026] Scraping: impresoras
+
+Updating Impresoras (impresoras)
+Source: https://www.amazon.es/gp/bestsellers/computers/17482570031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: hp-305xl-3ym62ae.jpg
+
+Done. Updated D:\projects\active\rankzon\data\impresoras.json
+Products: 
+  1. HP 305 6ZD17AE Pack de 2 Cartuchos de Tinta Negr — 27€
+  2. HP 305XL Negro — 25.99€
+  3. HP 305 3YM61AE — 13.99€
+  4. HP 305 Negro — 13.99€
+  5. HP 304 3JB05AE - Pack de 2 Cartuchos de Tinta Or — 33.99€
+  6. HP 305XL 3YM63AE - Cartucho de Tinta de Alta Cap — 22.99€
+  7. HP 304 N9K06AE — 19.99€
+  8. HP 301 - Cartucho de Tinta Deskjet — 22.45€
+  9. HP 302 F6U66AE — 21.99€
+  10. HP 305XL 3YM62AE — 25.99€
+[Sat May 30 09:05:43     2026] Done: impresoras
+[Sat May 30 09:05:43     2026] Scraping: routers-wifi
+
+Updating Routers WiFi (routers-wifi)
+Source: https://www.amazon.es/gp/bestsellers/computers/937958031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: tp-link-archer-ax58-router-wifi-6-ax3000.jpg
+  Downloaded image: tp-link-eh210-switch-ethernet.jpg
+  Downloaded image: tp-link-ub500-adaptador-bluetooth-5-3-usb.jpg
+
+Done. Updated D:\projects\active\rankzon\data\routers-wifi.json
+Products: 
+  1. TP-Link TL-WA850RE Repetidor WiFi N300 (300 Mbps — 17.29€
+  2. TP-Link RE330 WiFi Repeater — 32.99€
+  3. [Nuevo] TP-Link Deco X1500 (3-Pack) - Sistema Wi — 109.73€
+  4. TP-Link Archer AX58 - Router WiFi 6 AX3000 — 49.99€
+  5. TP-Link LS1005G - Switch Ethernet Gigabit de 5 P — 12.95€
+  6. TP-Link EH210 - Switch ethernet — 10.99€
+  7. TP-Link Archer T3U Plus AC1300 — 18.98€
+  8. TP-Link TL-SG108 V3.0 — 24.99€
+  9. TP-Link UB500 Adaptador Bluetooth 5.3 USB — 9.99€
+  10. UGREEN USB Bluetooth 6.0 Adaptador para PC Windo — 8.39€
+[Sat May 30 09:05:54     2026] Done: routers-wifi
+[Sat May 30 09:05:54     2026] Scraping: discos-duros-externos
+
+Updating Discos Duros Externos (discos-duros-externos)
+Source: https://www.amazon.es/gp/bestsellers/computers/17478027031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: samsung-portable-ssd-t9.jpg
+
+Done. Updated D:\projects\active\rankzon\data\discos-duros-externos.json
+Products: 
+  1. SanDisk 128GB Ultra — 20.69€
+  2. SanDisk Extreme PRO Tarjeta SD 128 GB SDXC — 45€
+  3. SANDISK Ultra Dual Drive Go — 22.49€
+  4. SANDISK Extreme SSD Externo Portátil 1TB (Disco — 174.34€
+  5. Samsung Portable SSD T9 — 305.51€
+  6. SanDisk Ultra 128 GB — 16.95€
+  7. SanDisk Ultra Flair Pendrive 128 GB Memoria USB — 19.95€
+  8. SanDisk Extreme PRO 128GB tarjeta microSDXC + ad — 36.99€
+  9. WD 5TB My Passport Disco Duro Externo Portátil — 139€
+  10. SanDisk High Endurance 128 GB Tarjeta microSD pa — 28.49€
+[Sat May 30 09:06:06     2026] Done: discos-duros-externos
+[Sat May 30 09:06:06     2026] Scraping: lectores-ebook
+
+Updating Lectores eBook (lectores-ebook)
+Source: https://www.amazon.es/gp/bestsellers/computers/15424901031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 19 adult products → taking top 10
+  Downloaded image: homestec-tableta-escritura-lcd-color.jpg
+  Downloaded image: musnap-ocean-lector-de-libros-electronicos-de.jpg
+
+Done. Updated D:\projects\active\rankzon\data\lectores-ebook.json
+Products: 
+  1. reMarkable Pack Esencial Paper Pro | Tableta de — 629.9€
+  2. Kindle Scribe (2022) — 369.99€
+  3. Pizarra LCD de Escritura — 25.99€
+  4. Xiaomi Tableta de escritura Mi LCD de 13 — 20.67€
+  5. HOMESTEC Tableta Escritura LCD Color — 9.99€
+  6. Tableta Escritura LCD para Adultos — 12.99€
+  7. reMarkable Pack Avanzado Paper Pro Move | Tablet — 599€
+  8. Color LCD Tablet — 18.98€
+  9. Musnap Ocean - Lector de libros electrónicos de — 259€
+  10. reMarkable Pack Avanzado reMarkable 2 | Tableta — 616.87€
+[Sat May 30 09:06:18     2026] Done: lectores-ebook
+[Sat May 30 09:06:18     2026] Scraping: afeitadoras-electricas
+
+Updating Afeitadoras Eléctricas (afeitadoras-electricas)
+Source: https://www.amazon.es/gp/bestsellers/beauty/4346891031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 47 adult products → taking top 10
+  Downloaded image: philips-oneblade.jpg
+  Downloaded image: one-blade-cuchilla-nariz-y-orejas-compatible-con.jpg
+  Downloaded image: gleamtrim-afeitadora-electrica-mujer-2-en-1.jpg
+  Downloaded image: philips-oneblade-360.jpg
+
+Done. Updated D:\projects\active\rankzon\data\afeitadoras-electricas.json
+Products: 
+  1. Philips OneBlade Original 360 cuchillas — 30.29€
+  2. afeitadora eléctrica para mujer cortapelos corpo — 24.99€
+  3. Philips TT2000/43 — 9.9€
+  4. Philips OneBlade First Shave cuchillas — 20.23€
+  5. Philips Serie X3000 Afeitadora Eléctrica Hombre — 45.9€
+  6. Philips OneBlade — 58€
+  7. One Blade Cuchilla Nariz y Orejas compatible con — 9.99€
+  8. GleamTrim Afeitadora Electrica Mujer 2 en 1 — 29.99€
+  9. Philips SH71/50 — 17.5€
+  10. Philips OneBlade 360 — 27.99€
+[Sat May 30 09:06:30     2026] Done: afeitadoras-electricas
+[Sat May 30 09:06:30     2026] Scraping: secadores-pelo
+
+Updating Secadores de Pelo (secadores-pelo)
+Source: https://www.amazon.es/gp/bestsellers/beauty/4347755031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: bellissima-imetec-my-pro-diffon-ceramic.jpg
+  Downloaded image: cecotec-secador-difusor-pelo-rizado-xxl-drywave.jpg
+  Downloaded image: rowenta-studio-dry-cv5830-secador-de-pelo-2300-w.jpg
+
+Done. Updated D:\projects\active\rankzon\data\secadores-pelo.json
+Products: 
+  1. Cecotec Secador de Pelo Ionico Bamba IoniCare 54 — 15.13€
+  2. Cecotec Secador de Pelo Compacto y Ligero DryNov — 19.77€
+  3. Remington Secador Pelo 2400 W — 30€
+  4. Bellissima Imetec My Pro Diffon Ceramic — 54.29€
+  5. Cecotec Secador de Pelo Iónico Bamba IoniCare 52 — 29.9€
+  6. Remington Secador de Pelo Pequeño Compacto — 12.61€
+  7. Secador de Pelo Profesional Iónico Motor AC 3500 — 51.68€
+  8. Cecotec Secador Difusor Pelo Rizado XXL DryWave — 49.9€
+  9. Remington Secador de Pelo Ionic Dry 2200 — 29.14€
+  10. Rowenta Studio Dry CV5830 Secador de pelo 2300 W — 26€
+[Sat May 30 09:06:42     2026] Done: secadores-pelo
+[Sat May 30 09:06:42     2026] Scraping: planchas-pelo
+
+Updating Planchas de Pelo (planchas-pelo)
+Source: https://www.amazon.es/gp/bestsellers/beauty/27064681031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: cecotec-plancha-de-pelo-estrecha-con-cable-lisse.jpg
+  Downloaded image: tymo-curlpro-rizador-de-pelo-automatico-portat.jpg
+
+Done. Updated D:\projects\active\rankzon\data\planchas-pelo.json
+Products: 
+  1. ghd Gold - Plancha de Pelo Profesional Para un C — 157€
+  2. Remington Plancha Pelo pantalla digital — 44.99€
+  3. Cecotec Plancha de Pelo de Ondas RitualCare 1000 — 19.9€
+  4. BaByliss Tenacilla 32 mm - Rizador de pelo — 29.88€
+  5. Cecotec Plancha de Pelo Estrecha con Cable Lisse — 16.9€
+  6. Rizador de Pelo Automatico - TYMO Curlpro Plus R — 89.99€
+  7. Rowenta Tenacilla rizadora de 16 mm para el pelo — 18.99€
+  8. Remington Plancha Pelo tecnología iónica triple: — 25.86€
+  9. TYMO CURLPRO Rizador de Pelo Automático - Portát — 79.99€
+  10. BaByliss Plancha de Pelo Super Smooth - Tecnolog — 61.17€
+[Sat May 30 09:06:53     2026] Done: planchas-pelo
+[Sat May 30 09:06:53     2026] Scraping: cuidado-piel
+
+Updating Cuidado de Piel (cuidado-piel)
+Source: https://www.amazon.es/gp/bestsellers/beauty/6397934031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 48 adult products → taking top 10
+  Downloaded image: ziaja-cupuazu-locion-corporal-bronceadora-300-ml.jpg
+  Downloaded image: isdin-fotoproteccion-fusion-water-magic-spf-50.jpg
+  Downloaded image: the-ordinary-glycolic-acid-7-exfoliating-toner.jpg
+  Downloaded image: cerave.jpg
+
+Done. Updated D:\projects\active\rankzon\data\cuidado-piel.json
+Products: 
+  1. d'alba Doble Sérum Multi bálsamo con Trufas Blan — 18.99€
+  2. NIVEA SUN Protege & Hidrata - Leche Solar FP50+ — 11.98€
+  3. La Roche Posay Cicaplast Baume B5 — 9.94€
+  4. d'alba First Spray Serum con Trufas Blancas Ital — 21.99€
+  5. Ziaja Cupuazú Loción Corporal Bronceadora 300 ml — 4.98€
+  6. ISDIN Fotoprotección Fusion Water MAGIC SPF 50 — 22.13€
+  7. CeraVe - Blemish Control — 10.9€
+  8. The Ordinary Glycolic Acid 7% Exfoliating Toner — 13€
+  9. BIODANCE Bio-Collagen Real Deep Mask - Mascarill — 14.69€
+  10. CeraVe — 12.94€
+[Sat May 30 09:07:05     2026] Done: cuidado-piel
+[Sat May 30 09:07:05     2026] Scraping: maquillaje
+
+Updating Maquillaje (maquillaje)
+Source: https://www.amazon.es/gp/bestsellers/beauty/6397823031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 45 adult products → taking top 10
+  Downloaded image: kiko-milano-smart-fusion-lipstick-416.jpg
+  Downloaded image: rimmel-london-lasting-finish-lip-liner.jpg
+  Downloaded image: erborian-bb-creme-au-ginseng-5-en-1-cuidado.jpg
+  Downloaded image: essence-i-love-extreme-ma-scara-de-pestan-as-cra.jpg
+
+Done. Updated D:\projects\active\rankzon\data\maquillaje.json
+Products: 
+  1. Maybelline New York — 9.99€
+  2. Erborian - CC Crème con Centella Asiática - Crem — 18.99€
+  3. L'Oréal Paris Spray Fijador de Maquillaje Infail — 8€
+  4. Erborian - CC Red Correct Crema Tinte Antirojece — 18.99€
+  5. KIKO Milano Smart Fusion Lipstick 416 — 4.99€
+  6. L'Oréal Paris Máscara de pestañas Panorama — 10.35€
+  7. Rimmel London Scandaleyes Waterproof Khol Kajal — 2.9€
+  8. Rimmel London Lasting Finish lip liner — 1.9€
+  9. Erborian - BB Crème au Ginseng 5-en-1 - Cuidado — 18.39€
+  10. ESSENCE I LOVE EXTREME MÁSCARA DE PESTAÑAS Cra — 2.57€
+[Sat May 30 09:07:17     2026] Done: maquillaje
+[Sat May 30 09:07:17     2026] Scraping: cuidado-pelo
+
+Updating Cuidado de Pelo (cuidado-pelo)
+Source: https://www.amazon.es/gp/bestsellers/beauty/4347698031
+Running Apify actor done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: ziaja-leche-de-cabra-mascarilla-para-el-cabello.jpg
+  Downloaded image: salerm-acondicionador-de-pelo-instantaneo-sa.jpg
+  Downloaded image: olivia-garden-fingerbrush-care-iconic-talla-me.jpg
+
+Done. Updated D:\projects\active\rankzon\data\cuidado-pelo.json
+Products: 
+  1. REVLON PROFESSIONAL UniqOne All in One Protector — 6.94€
+  2. Alpecin Caffeine Shampoo C1 2x 375ml | Champu an — 21.99€
+  3. Vichy Champú Anticaspa — 16.96€
+  4. L'Oréal Paris Aceite Tratamiento Sublimador Para — 7.94€
+  5. VALQUER Agua Oxigenada en Crema Estabilizada 20 — 5.35€
+  6. Ziaja Leche De Cabra Mascarilla Para El Cabello — 1.96€
+  7. SALERM - Acondicionador de Pelo Instantáneo - Sa — 19.5€
+  8. Just For Men Control GX Champú Reductor de Canas — 8.95€
+  9. Olivia Garden Fingerbrush Care Iconic - Talla Me — 13.2€
+  10. Beter - Cepillo de pelo esqueleto antitirones Na — 4.9€
+[Sat May 30 09:07:23     2026] Done: cuidado-pelo
+[Sat May 30 09:07:24     2026] Scraping: equipamiento-fitness
+
+Updating Equipamiento de Fitness (equipamiento-fitness)
+Source: https://www.amazon.es/gp/bestsellers/sports/2928495031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 48 adult products → taking top 10
+  Downloaded image: joma-camiseta-deportiva-manga-corta-hombre.jpg
+  Downloaded image: joma-pantalon-corto-deportivo-hombre-cintura-el.jpg
+  Downloaded image: amazon-basics-par-de-mancuernas-de-neopreno.jpg
+  Downloaded image: joma-nobel-pantalones-cortos.jpg
+  Downloaded image: joma-camiseta-deportiva-sin-mangas-hombre.jpg
+  Downloaded image: joma-camiseta-deportiva-manga-corta-mujer.jpg
+  Downloaded image: joma-polo-manga-corta-hombre.jpg
+  Downloaded image: fokky-bandas-elasticas-musculacion-set-of-5.jpg
+  Downloaded image: under-armour-global-foundation-short-sleeve-t-sh.jpg
+  Downloaded image: unycos-pesas-y-mancuernas-antideslizantes-hier.jpg
+
+Done. Updated D:\projects\active\rankzon\data\equipamiento-fitness.json
+Products: 
+  1. Joma - Camiseta Deportiva Manga Corta Hombre — 6.99€
+  2. Joma Pantalón Corto Deportivo Hombre- Cintura El — 6.95€
+  3. Amazon Basics Par de mancuernas de neopreno — 16.19€
+  4. Joma Nobel Pantalones Cortos — 6.99€
+  5. Joma - Camiseta Deportiva Sin Mangas Hombre — 7.99€
+  6. Joma Camiseta Deportiva Manga Corta Mujer — 5.95€
+  7. Joma - Polo Manga Corta Hombre — 9.99€
+  8. Fokky Bandas Elasticas Musculacion [Set of 5] — 6.99€
+  9. Under Armour Global Foundation Short Sleeve T Sh — 21.95€
+  10. unycos - Pesas y Mancuernas Antideslizantes【Hier — 22.7€
+[Sat May 30 09:07:35     2026] Done: equipamiento-fitness
+[Sat May 30 09:07:35     2026] Scraping: padel
+
+Updating Pádel (padel)
+Source: https://www.amazon.es/gp/bestsellers/sports/2928518031
+Running Apify actor done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: wilson-premier-padel-pelotas-de-padel-unisex-a.jpg
+
+Done. Updated D:\projects\active\rankzon\data\padel.json
+Products: 
+  1. Head Tube 3 Pelotas de Padel — 4.4€
+  2. Palbea Grip Padel Extra Adherente - Overgrips Pa — 9.99€
+  3. PALBEA Protector Pala de Padel Transparente - Pa — 6.99€
+  4. 4on TotalGrip Spray - Antideslizante para Mejora — 24.9€
+  5. Tripack De Botes De 3 Bolas Bullpadel Premium Pr — 13.9€
+  6. MOVEMATE Dispositivo de Entrenamiento de Pádel/T — 29.9€
+  7. Wilson Premier Padel - Pelotas de pádel Unisex A — 4.49€
+  8. Protector de Pala de Pádel Transparente y Rugoso — 4.99€
+  9. TALAFIT OverGrips Padel Ultra ADHERENTES - Grip — 7.99€
+  10. TALAFIT OverGrips Padel - Grip Padel Modelo Pro — 7.99€
+[Sat May 30 09:07:42     2026] Done: padel
+[Sat May 30 09:07:42     2026] ALL DONE

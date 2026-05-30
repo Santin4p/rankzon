@@ -1,0 +1,63 @@
+[Sat May 30 09:51:26     2026] Scraping zapatillas-running
+
+Updating Zapatillas Running (zapatillas-running)
+Source: https://www.amazon.es/gp/bestsellers/sports/2928523031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 48 adult products → taking top 10
+  Downloaded image: xiaomi-smartband-10.jpg
+  Downloaded image: xiaomi-redmi-watch-5-active.jpg
+  Downloaded image: adidas-hombre-galaxy-7-zapatillas-de-correr.jpg
+  Downloaded image: xiaomi-smart-band-9-active-pulsera-de-activida.jpg
+  Downloaded image: adidas-women-s-zapatilla-galaxy-7-running.jpg
+  Downloaded image: tca-pantalones-cortos-hombre-deporte-con-bolsill.jpg
+  Downloaded image: adidas-hombre-runfalcon-5-zapatillas-de-correr.jpg
+  Downloaded image: google-fitbit-air-pulsera-de-actividad-con-mon.jpg
+  Downloaded image: xiaomi-smart-band-9-pro-pulsera-de-actividad.jpg
+  Downloaded image: sinophant-leggins-cortos-mujer-cintura-alta-3-4.jpg
+
+Done. Updated D:\projects\active\rankzon\data\zapatillas-running.json
+Products: 
+  1. Xiaomi Smartband 10 — 35.1€
+  2. XIAOMI Redmi Watch 5 Active — 29.49€
+  3. Adidas Hombre Galaxy 7 Zapatillas de Correr — 35.74€
+  4. XIAOMI Smart Band 9 Active - Pulsera de Activida — 19.8€
+  5. adidas Women's Zapatilla Galaxy 7 Running — 36.99€
+  6. TCA Pantalones Cortos Hombre Deporte con Bolsill — 17.09€
+  7. Adidas Hombre Runfalcon 5 Zapatillas de Correr — 38.99€
+  8. Google Fitbit Air - Pulsera de Actividad con mon — 99.99€
+  9. XIAOMI Smart Band 9 Pro - Pulsera de Actividad — 44.1€
+  10. SINOPHANT Leggins Cortos Mujer Cintura Alta 3/4 — 9.99€
+[Sat May 30 09:51:38     2026] Done zapatillas-running
+[Sat May 30 09:51:38     2026] Scraping cables-usb-c
+
+Updating Cables USB-C (cables-usb-c)
+Source: https://www.amazon.es/gp/bestsellers/electronics/683279031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 50 adult products → taking top 10
+  Downloaded image: sandisk-128gb-ultra.jpg
+  Downloaded image: hp-305-6zd17ae-pack-de-2-cartuchos-de-tinta-negr.jpg
+  Downloaded image: iniu-cable-usb-a-usb-c.jpg
+  Downloaded image: jsdoin-ventilador-de-mano-portatil.jpg
+  Downloaded image: logitech-m185-raton-inalambrico.jpg
+  Downloaded image: apple-adaptador-de-corriente-usb-c-de-20-w.jpg
+  Downloaded image: aioneus-cable-cargador-iphone-2m-cable-iphone-ca.jpg
+  Downloaded image: anker-cargador-usb-c-carga-rapida-65w-nano-ii.jpg
+  Downloaded image: tefloty-cable-hdmi-2-1.jpg
+  Downloaded image: logitech-mk295-silent-combinacion-de-teclado-y-r.jpg
+
+Done. Updated D:\projects\active\rankzon\data\cables-usb-c.json
+Products: 
+  1. SanDisk 128GB Ultra — 20.69€
+  2. HP 305 6ZD17AE Pack de 2 Cartuchos de Tinta Negr — 27€
+  3. INIU Cable USB A USB C — 6.99€
+  4. Jsdoin Ventilador de mano portátil — 13.99€
+  5. Logitech M185 Ratón Inalámbrico — 8.95€
+  6. Apple Adaptador de Corriente USB-C de 20 W ​​​​​ — 21€
+  7. Aioneus Cable Cargador iPhone 2M Cable iPhone Ca — 5.99€
+  8. Anker Cargador USB C Carga Rapida 65W (Nano II) — 26.99€
+  9. TEFLOTY Cable HDMI 2.1 — 5.99€
+  10. Logitech MK295 Silent Combinación de Teclado y R — 30€
+[Sat May 30 09:51:50     2026] Done cables-usb-c
+[Sat May 30 09:51:50     2026] ALL DONE

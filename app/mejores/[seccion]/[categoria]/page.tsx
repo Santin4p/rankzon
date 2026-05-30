@@ -3,6 +3,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { getAllCategories, getCategoryBySlug, getSectionBySlug } from "@/lib/categories"
 import { guides } from "@/lib/guides"
+import { articles } from "@/lib/articles"
 import type { Metadata } from "next"
 import StarRating from "@/components/StarRating"
 import ProductTop3Card from "@/components/ProductTop3Card"
@@ -45,6 +46,17 @@ import cuidadoPiel from "@/data/cuidado-piel.json"
 import maquillaje from "@/data/maquillaje.json"
 import cuidadoPelo from "@/data/cuidado-pelo.json"
 import padel from "@/data/padel.json"
+import memoriasRam from "@/data/memorias-ram.json"
+import tirasLed from "@/data/tiras-led.json"
+import cablesUsbC from "@/data/cables-usb-c.json"
+import cargadoresInalámbricos from "@/data/cargadores-inalambricos.json"
+import powerbanks from "@/data/powerbanks.json"
+import sillasGaming from "@/data/sillas-gaming.json"
+import cepillosDentalesElectricos from "@/data/cepillos-dentales-electricos.json"
+import zapatillasRunning from "@/data/zapatillas-running.json"
+import relojesHombre from "@/data/relojes-hombre.json"
+import equipamientoFitness from "@/data/equipamiento-fitness.json"
+import mochilas from "@/data/mochilas.json"
 
 interface Producto {
   position: number
@@ -106,6 +118,17 @@ const rankingMap: Record<string, RankingData> = {
   maquillaje: maquillaje as unknown as RankingData,
   "cuidado-pelo": cuidadoPelo as unknown as RankingData,
   padel: padel as unknown as RankingData,
+  "memorias-ram": memoriasRam as unknown as RankingData,
+  "tiras-led": tirasLed as unknown as RankingData,
+  "cables-usb-c": cablesUsbC as unknown as RankingData,
+  "cargadores-inalambricos": cargadoresInalámbricos as unknown as RankingData,
+  powerbanks: powerbanks as unknown as RankingData,
+  "sillas-gaming": sillasGaming as unknown as RankingData,
+  "cepillos-dentales-electricos": cepillosDentalesElectricos as unknown as RankingData,
+  "zapatillas-running": zapatillasRunning as unknown as RankingData,
+  "relojes-hombre": relojesHombre as unknown as RankingData,
+  "equipamiento-fitness": equipamientoFitness as unknown as RankingData,
+  mochilas: mochilas as unknown as RankingData,
 }
 
 export function generateStaticParams() {
@@ -149,6 +172,14 @@ export default async function CategoryPage({
   const top3 = data.productos.slice(0, 3)
   const rest = data.productos.slice(3)
   const guide = guides.find((g) => g.categorySlug === categoria)
+  const relatedArticles = articles.filter(
+    (a) => a.categorySlug === categoria || a.sectionSlug === seccion
+  ).slice(0, 2)
+
+  const formattedDate = (() => {
+    const [y, m, d] = data.updated_at.split("-").map(Number)
+    return new Date(y, m - 1, d).toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" })
+  })()
 
   const valuePickPosition = (() => {
     const eligible = top3.filter((p) => p.price != null && p.rating != null)
@@ -171,6 +202,15 @@ export default async function CategoryPage({
         "@type": "Product",
         name: p.name,
         image: `https://rankzon.es${p.image}`,
+        ...(p.rating != null && p.reviews != null && p.reviews > 0 && {
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: p.rating,
+            reviewCount: p.reviews,
+            bestRating: 5,
+            worstRating: 1,
+          },
+        }),
         ...(p.price != null && {
           offers: {
             "@type": "Offer",
@@ -215,7 +255,7 @@ export default async function CategoryPage({
         Los 10 Mejores {category.name} de Amazon en 2026
       </h1>
       <p className="mt-3 text-muted">
-        {category.description}. Selección actualizada el {data.updated_at}, sin publicidad de pago.
+        {category.description}. Selección actualizada el {formattedDate}, sin publicidad de pago.
       </p>
 
       <div className="mt-8 space-y-4">
@@ -224,6 +264,7 @@ export default async function CategoryPage({
             key={producto.position}
             producto={producto}
             valuePick={producto.position === valuePickPosition}
+            categoryName={category.name}
           />
         ))}
       </div>
@@ -241,7 +282,7 @@ export default async function CategoryPage({
               {producto.position}
             </span>
             <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-card rounded-lg overflow-hidden">
-              <Image src={producto.image} alt={producto.name} fill className="object-contain" sizes="56px" loading="lazy" />
+              <Image src={producto.image} alt={`${producto.name} — ${category.name.toLowerCase()} nº${producto.position} en Amazon España`} fill className="object-contain" sizes="56px" loading="lazy" />
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-semibold text-foreground text-sm sm:text-base">{producto.name}</p>
@@ -277,6 +318,30 @@ export default async function CategoryPage({
           >
             {guide.shortTitle}: guía de compra →
           </Link>
+        </div>
+      )}
+
+      {relatedArticles.length > 0 && (
+        <div className="mt-10">
+          <p className="text-sm font-semibold text-foreground mb-3">Artículos relacionados</p>
+          <div className="space-y-2">
+            {relatedArticles.map((article) => (
+              <Link key={article.slug} href={`/blog/${article.slug}`} className="block group">
+                <div className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors flex items-center gap-3">
+                  <svg className="w-4 h-4 text-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  <div className="flex-1 min-w-0">
+                    <p className="text-sm font-medium text-foreground group-hover:text-primary transition-colors">{article.title}</p>
+                    <p className="text-xs text-muted mt-0.5">{article.readingTime} min de lectura</p>
+                  </div>
+                  <svg className="w-4 h-4 text-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </div>
+              </Link>
+            ))}
+          </div>
         </div>
       )}
 

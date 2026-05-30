@@ -1,0 +1,143 @@
+[Sat May 30 09:44:16     2026] Starting new categories scrape
+
+[Sat May 30 09:44:16     2026] === Scraping: memorias-ram ===
+
+Updating Memorias RAM (memorias-ram)
+Source: https://www.amazon.es/gp/bestsellers/computers/937978031
+Running Apify actor. done
+Fetched 50 items from Amazon.es
+After filtering kids: 49 adult products → taking top 10
+  Downloaded image: canon-canoscan-lide-400-escaner-plano.jpg
+  Downloaded image: woxter-lector-dni-electronico-azul-lector-de-d.jpg
+  Downloaded image: kodak-slide-n-scan-con-gran-pantalla-lcd-de-5-pu.jpg
+  Downloaded image: brother-ds640-escaner-portatil-de-documentos-a4.jpg
+  Downloaded image: brother-ads4500w-escaner-de-sobremesa-con-red-ca.jpg
+  Downloaded image: epson-perfection-v39ii-escaner-fotografico-y-d.jpg
+  Downloaded image: hp-scanjet-pro-2000-s2.jpg
+  Downloaded image: munbyn-2026-nuevo-escaner-portatil.jpg
+  Downloaded image: czur-lens-1200-pro-escaner-de-documentos-portati.jpg
+  Downloaded image: kodak-escaner-de-pelicula-digital-slide-n-scan-m.jpg
+
+Done. Updated D:\projects\active\rankzon\data\memorias-ram.json
+Products: 
+  1. Canon CanoScan LiDE 400 Escáner Plano — 88.9€
+  2. Woxter Lector DNI Electrónico Azul - Lector de D — 14.9€
+  3. Kodak Slide N SCAN con Gran Pantalla LCD de 5 Pu — 173€
+  4. Brother DS640- Escáner portátil de documentos A4 — 110.9€
+  5. Brother ADS4500W Escáner de sobremesa con red ca — 405.82€
+  6. Epson Perfection V39II - Escáner fotográfico y d — 99.99€
+  7. HP ScanJet Pro 2000 s2 — 205€
+  8. MUNBYN 2026 Nuevo Escáner Portátil — 69.99€
+  9. CZUR Lens 1200 Pro Escáner de Documentos Portáti — 119€
+  10. Kodak Escáner de película Digital Slide N SCAN M — 192.01€
+[Sat May 30 09:44:28     2026] OK: memorias-ram
+
+[Sat May 30 09:44:28     2026] === Scraping: tiras-led ===
+
+Updating Tiras LED (tiras-led)
+Source: https://www.amazon.es/gp/bestsellers/lighting/15262699031
+Running Apify actor.. done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\tiras-led.json
+Products: 
+[Sat May 30 09:44:45     2026] OK: tiras-led
+
+[Sat May 30 09:44:45     2026] === Scraping: cables-usb-c ===
+
+Updating Cables USB-C (cables-usb-c)
+Source: https://www.amazon.es/gp/bestsellers/electronics/935646031
+Running Apify actor done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\cables-usb-c.json
+Products: 
+[Sat May 30 09:44:51     2026] OK: cables-usb-c
+
+[Sat May 30 09:44:51     2026] === Scraping: cargadores-inalambricos ===
+
+Updating Cargadores Inalámbricos (cargadores-inalambricos)
+Source: https://www.amazon.es/gp/bestsellers/electronics/16490901031
+Running Apify actor done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\cargadores-inalambricos.json
+Products: 
+[Sat May 30 09:44:57     2026] OK: cargadores-inalambricos
+
+[Sat May 30 09:44:57     2026] === Scraping: powerbanks ===
+
+Updating Powerbanks (powerbanks)
+Source: https://www.amazon.es/gp/bestsellers/electronics/16490891031
+Running Apify actor. done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\powerbanks.json
+Products: 
+[Sat May 30 09:45:09     2026] OK: powerbanks
+
+[Sat May 30 09:45:09     2026] === Scraping: sillas-gaming ===
+
+Updating Sillas Gaming (sillas-gaming)
+Source: https://www.amazon.es/gp/bestsellers/furniture/16671011031
+Running Apify actor. done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\sillas-gaming.json
+Products: 
+[Sat May 30 09:45:20     2026] OK: sillas-gaming
+
+[Sat May 30 09:45:21     2026] === Scraping: cepillos-dentales-electricos ===
+
+Updating Cepillos Dentales Eléctricos (cepillos-dentales-electricos)
+Source: https://www.amazon.es/gp/bestsellers/beauty/14974241031
+Running Apify actor done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\cepillos-dentales-electricos.json
+Products: 
+[Sat May 30 09:45:27     2026] OK: cepillos-dentales-electricos
+
+[Sat May 30 09:45:27     2026] === Scraping: zapatillas-running ===
+
+Updating Zapatillas Running (zapatillas-running)
+Source: https://www.amazon.es/gp/bestsellers/shoes/2482186031
+Running Apify actor.. done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\zapatillas-running.json
+Products: 
+[Sat May 30 09:45:44     2026] OK: zapatillas-running
+
+[Sat May 30 09:45:44     2026] === Scraping: relojes-hombre ===
+
+Updating Relojes de Hombre (relojes-hombre)
+Source: https://www.amazon.es/gp/bestsellers/watches/2227895031
+Running Apify actor... done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\relojes-hombre.json
+Products: 
+[Sat May 30 09:46:06     2026] OK: relojes-hombre
+
+[Sat May 30 09:46:06     2026] === Scraping: mochilas ===
+
+Updating Mochilas (mochilas)
+Source: https://www.amazon.es/gp/bestsellers/luggage/2454148031
+Running Apify actor. done
+Fetched 1 items from Amazon.es
+After filtering kids: 0 adult products → taking top 0
+
+Done. Updated D:\projects\active\rankzon\data\mochilas.json
+Products: 
+[Sat May 30 09:46:18     2026] OK: mochilas
+
+[Sat May 30 09:46:18     2026] ALL NEW CATS DONE
