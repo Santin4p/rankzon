@@ -1,9 +1,9 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"
 import Link from "next/link"
 import StarRating from "@/components/StarRating"
+import SafeProductImage from "@/components/SafeProductImage"
 
 interface Producto {
   position: number
@@ -91,7 +91,7 @@ export default function ProductTop3Card({
         </div>
 
         <div className="relative w-24 h-24 sm:w-28 sm:h-28 shrink-0 bg-card rounded-xl overflow-hidden">
-          <Image
+          <SafeProductImage
             src={producto.image}
             alt={categoryName ? `${producto.name} — mejor ${categoryName.toLowerCase()} ${producto.position === 1 ? "más vendido" : `nº${producto.position}`} en Amazon España` : producto.name}
             fill

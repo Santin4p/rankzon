@@ -1,5 +1,4 @@
 import { notFound } from "next/navigation"
-import Image from "next/image"
 import Link from "next/link"
 import { getAllCategories, getCategoryBySlug, getSectionBySlug } from "@/lib/categories"
 import { guides } from "@/lib/guides"
@@ -7,6 +6,7 @@ import { articles } from "@/lib/articles"
 import type { Metadata } from "next"
 import StarRating from "@/components/StarRating"
 import ProductTop3Card from "@/components/ProductTop3Card"
+import SafeProductImage from "@/components/SafeProductImage"
 import auriculares from "@/data/auriculares.json"
 import smartwatches from "@/data/smartwatches.json"
 import altavoces from "@/data/altavoces-bluetooth.json"
@@ -282,7 +282,7 @@ export default async function CategoryPage({
               {producto.position}
             </span>
             <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 bg-card rounded-lg overflow-hidden">
-              <Image src={producto.image} alt={`${producto.name} — ${category.name.toLowerCase()} nº${producto.position} en Amazon España`} fill className="object-contain" sizes="56px" loading="lazy" />
+              <SafeProductImage src={producto.image} alt={`${producto.name} — ${category.name.toLowerCase()} nº${producto.position} en Amazon España`} fill className="object-contain" sizes="56px" loading="lazy" />
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-semibold text-foreground text-sm sm:text-base">{producto.name}</p>
