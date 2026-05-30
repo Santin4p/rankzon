@@ -725,39 +725,39 @@ ENRICHMENTS = {
       "user_summary": "Los compradores que pasan muchas horas frente al ordenador la eligen principalmente por el reposamuñecas ergonómico que reduce la fatiga. La mayoría la recomiendan para uso de oficina prolongado destacando que ha reducido su dolor de muñeca."
     }
   },
-  # --- Categorías re-scrapeadas 2026-05-30 (productos actuales de Amazon.es) ---
+  # --- Categorías re-scrapeadas 2026-05-30 (productos correctos — datos verificados con Apify) ---
   "cables-usb-c": {
     1: {
-      "pros": ["Precio imbatible por GB en memorias flash SanDisk de confianza", "Velocidades de lectura USB 3.0 rápidas para transferencias cotidianas", "Más de 165.000 reseñas avalan su fiabilidad y durabilidad contrastada"],
-      "cons": ["La capacidad de 128GB puede quedarse corta para almacenar grandes colecciones", "La tapa de protección puede perderse con el tiempo"],
-      "user_summary": "Los compradores la eligen como memoria flash de confianza para almacenamiento portátil cotidiano. La mayoría valoran la marca SanDisk y la velocidad de transferencia para documentos, fotos y vídeos."
+      "pros": ["Más de 90.000 reseñas avalan su durabilidad contrastada", "2m de longitud para cargar con libertad de movimiento", "Carga rápida 3.1A QC compatible con casi todos los dispositivos", "Construcción de aleación de aluminio y nylon trenzado resistente"],
+      "cons": ["USB-A no compatible con portátiles que solo tienen USB-C", "Velocidad limitada al máximo del puerto USB-A del cargador"],
+      "user_summary": "Los compradores lo eligen como cable USB-C de confianza para carga diaria de smartphones y tablets. La mayoría lo destacan por la durabilidad del nylon trenzado y la longitud de 2m que permite cargar desde cualquier posición."
     },
     2: {
-      "pros": ["Pack de cartuchos originales HP con calidad de impresión garantizada", "Precio por página muy competitivo para cartuchos originales de marca", "Compatibilidad total con todas las impresoras HP que aceptan la serie 305"],
-      "cons": ["Los cartuchos estándar 305 tienen menor capacidad que los XL", "Requiere comprar negro y color por separado para impresión completa"],
-      "user_summary": "Los compradores los adquieren para tener cartuchos originales HP de repuesto siempre disponibles. La mayoría prefieren el pack de dos por la comodidad de tener siempre uno de reserva."
+      "pros": ["Certificado Apple MFi para carga segura sin mensajes de error", "Nylon trenzado resistente a dobleces en puntos de estrés", "Compatible con todos los iPhone anteriores al 15 con Lightning", "Precio asequible para un cable certificado Apple de 2m"],
+      "cons": ["Solo compatible con dispositivos Apple con conector Lightning", "Los iPhone 15 y posteriores necesitan cable USB-C, no Lightning"],
+      "user_summary": "Los compradores lo eligen para reponer el cable de carga de sus iPhone más antiguos con garantía de compatibilidad Apple. La mayoría valoran la certificación MFi que evita los mensajes de error de cables no certificados."
     },
     3: {
-      "pros": ["Cable USB-A a USB-C de carga rápida 3.1A compatible con la mayoría de dispositivos", "Longitud de 2m para cargar con total libertad de movimiento", "Construcción reforzada en los conectores para mayor durabilidad"],
-      "cons": ["Velocidad de carga limitada al máximo del puerto USB-A del cargador", "El conector USB-A solo es compatible con equipos que tienen ese puerto"],
-      "user_summary": "Los compradores lo adquieren para cargar sus dispositivos Android e iOS desde puertos USB-A estándar. La mayoría valoran la longitud de 2m y la compatibilidad universal con smartphones y tablets."
+      "pros": ["60W USB-C a USB-C para portátiles, iPad y smartphones modernos", "Compatible con iPhone 15+, MacBook, Galaxy y USB4 dispositivos", "45.000 reseñas positivas de la marca UGREEN de confianza", "Nylon trenzado y conectores de aluminio muy resistentes al uso"],
+      "cons": ["1m de longitud puede quedarse corta para algunas configuraciones", "No llega a los 100W necesarios para portátiles de alta potencia"],
+      "user_summary": "Los compradores lo eligen como cable USB-C universal para cargar iPhone 15, portátiles ligeros y tablets con un solo cable. La mayoría lo recomiendan por la fiabilidad de UGREEN y la amplia compatibilidad con dispositivos modernos."
     }
   },
   "cargadores-inalambricos": {
     1: {
-      "pros": ["Protector de cristal templado 3 en 1 con instalación sin burbujas garantizada", "Protege la pantalla del iPhone de arañazos y golpes cotidianos", "Pack de 3 unidades para tener siempre un repuesto disponible"],
-      "cons": ["Solo compatible con modelos de iPhone específicos, verificar compatibilidad", "El borde puede levantarse en fundas muy gruesas"],
-      "user_summary": "Los compradores los adquieren para proteger la pantalla de su iPhone desde el primer día. La mayoría valoran el pack de 3 unidades que permite tener repuestos para toda la familia o posibles roturas."
+      "pros": ["Base vertical para ver el móvil mientras carga sin levantarlo", "Carga rápida Qi 15W compatible con iPhone y 10W para Android", "Superficie antideslizante que mantiene el móvil bien posicionado", "Compatible con fundas finas sin necesidad de quitarlas"],
+      "cons": ["Requiere cargador PD compatible no incluido para 15W máximos", "No funciona con dispositivos sin tecnología de carga Qi"],
+      "user_summary": "Los compradores la eligen para tener el móvil visible y cargando en el escritorio sin desenchufar cables constantemente. La mayoría valoran la posición vertical que permite usar el móvil durante la carga."
     },
     2: {
-      "pros": ["Memoria flash SanDisk con 165.000+ reseñas que avalan su fiabilidad", "Velocidades USB 3.0 para transferencias rápidas en cualquier dispositivo", "Disponible en varios colores y tamaños según necesidades"],
-      "cons": ["La tapa protectora puede perderse con el uso frecuente", "Velocidad de escritura inferior a la de lectura"],
-      "user_summary": "Los compradores la eligen como opción de almacenamiento portátil de confianza y reconocida fiabilidad. La mayoría la usan para transportar documentos, fotos y vídeos entre equipos."
+      "pros": ["Carga simultánea de iPhone y AirPods con un solo punto de carga", "Compatible MagSafe para iPhone 12 en adelante por adherencia magnética", "Precio muy asequible para un cargador 2 en 1 multidispositivo", "Cable USB-C incluido para conectar directamente a cualquier adaptador"],
+      "cons": ["Potencia de carga inferior al MagSafe oficial de Apple 15W", "La posición del iPhone puede no quedar perfectamente vertical en todos los modelos"],
+      "user_summary": "Los compradores usuarios de iPhone y AirPods lo eligen para reducir los cables del escritorio con un único punto de carga. La mayoría destacan la comodidad de cargar dos dispositivos a la vez."
     },
     3: {
-      "pros": ["Funda para iPhone con protección reforzada en las esquinas ante caídas", "Material flexible que absorbe impactos sin añadir volumen excesivo", "Compatible con carga inalámbrica MagSafe sin necesidad de quitar la funda"],
-      "cons": ["El perfil delgado puede resultar insuficiente para caídas desde altura", "Solo compatible con el modelo de iPhone especificado"],
-      "user_summary": "Los compradores la adquieren para proteger su iPhone sin sacrificar el diseño delgado. La mayoría valoran la compatibilidad con carga inalámbrica y el equilibrio entre protección y perfil."
+      "pros": ["Precio mínimo para un cargador inalámbrico compatible MagSafe", "Funciona con iPhone 12 en adelante por adherencia magnética", "Diseño fino y ligero fácil de llevar de viaje", "Cable USB-C incluido compatible con cualquier adaptador estándar"],
+      "cons": ["7.5W de velocidad, inferior al MagSafe oficial de 15W", "Materiales básicos acordes al precio ultra-económico"],
+      "user_summary": "Los compradores lo eligen como cargador inalámbrico de segunda unidad o de viaje a precio mínimo. La mayoría lo recomiendan para quienes quieren tener uno de reserva sin gastar en el oficial de Apple."
     }
   },
   "cepillos-dentales-electricos": {
@@ -779,19 +779,19 @@ ENRICHMENTS = {
   },
   "memorias-ram": {
     1: {
-      "pros": ["SSD portátil con velocidades de hasta 800 MB/s para transferencias ultrarrápidas", "Diseño ultracompacto y resistente a golpes sin cables adicionales", "Compatible con PC, Mac, consolas y televisores vía USB-C"],
-      "cons": ["Precio más elevado por GB respecto a los HDD externos convencionales", "La carcasa puede calentarse en transferencias de archivos muy grandes"],
-      "user_summary": "Los compradores que necesitan almacenamiento rápido y portátil lo eligen para fotógrafos, videógrafos y trabajo en movimiento. La mayoría valoran la velocidad SSD que hace las transferencias de archivos grandes mucho más ágiles."
+      "pros": ["SODIMM DDR3L para dar nueva vida a portátiles y PCs de 2012-2018", "1.35V de bajo voltaje para mayor eficiencia energética y menos calor", "Paso de 4GB a 8GB con mejora real en multitarea y fluidez del sistema", "Precio muy asequible para ampliar equipos con DDR3 de segunda vida"],
+      "cons": ["Solo compatible con equipos DDR3L, no sirve para DDR4 ni DDR5", "8GB puede quedarse corto para usos profesionales muy exigentes"],
+      "user_summary": "Los compradores la eligen para actualizar y dar nueva vida a portátiles y PCs con DDR3L. La mayoría notan una mejora notable en la velocidad de respuesta y la fluidez al abrir varias aplicaciones a la vez."
     },
     2: {
-      "pros": ["Pasta térmica de alta conductividad para procesadores y tarjetas gráficas", "Fácil aplicación con jeringa incluida para una cantidad precisa", "Compatible con CPUs Intel, AMD y GPUs de cualquier fabricante"],
-      "cons": ["Requiere limpieza del procesador antes de aplicar una nueva capa", "La cantidad de 4g puede ser insuficiente para varios cambios de pasta"],
-      "user_summary": "Los compradores que hacen mantenimiento de sus PCs o sustituyen el sistema de refrigeración la eligen como pasta térmica de referencia. La mayoría están satisfechos con la mejora de temperatura que consiguen en sus procesadores."
+      "pros": ["Kit 2x16GB en dual channel para rendimiento máximo en gaming y trabajo", "Perfil XMP 2.0 para activar los 3200MHz automáticamente desde BIOS", "Perfil bajo compatible con refrigeración por aire y torres compactas", "Compatible con AMD AM4/AM5 e Intel de última generación"],
+      "cons": ["El precio de 32GB puede ser excesivo para ofimática básica", "Requiere activar XMP en BIOS para alcanzar los 3200MHz reales"],
+      "user_summary": "Los compradores que montan o amplían PC gaming y workstations la eligen como la opción de referencia de Corsair para 32GB DDR4. La mayoría la recomiendan para gaming, edición de vídeo y trabajo con múltiples aplicaciones."
     },
     3: {
-      "pros": ["5TB de capacidad para backup completo del ordenador y archivos multimedia", "Tecnología de compresión automática para optimizar el espacio disponible", "Compatible con Windows Backup, Time Machine de Mac y cualquier software"],
-      "cons": ["El disco mecánico es más lento que un SSD para acceso aleatorio a archivos", "Requiere USB 3.0 para velocidades máximas, más lento en puertos 2.0"],
-      "user_summary": "Los compradores lo adquieren para hacer backup de toda su colección digital con amplio margen de espacio. La mayoría lo recomiendan para almacenar fotos, vídeos y backups donde la capacidad importa más que la velocidad."
+      "pros": ["DDR5 5600MHz para portátiles de última generación con Intel o AMD", "Rendimiento superior al DDR4 en tareas de edición y desarrollo", "Marca Crucial reconocida por fiabilidad y garantía de larga duración", "Actualización directa en portátiles que ya soportan DDR5 nativamente"],
+      "cons": ["Solo compatible con portátiles con ranuras DDR5, no sustituye DDR4", "Precio más elevado que DDR4 equivalente por ser tecnología reciente"],
+      "user_summary": "Los compradores que amplían portátiles con Intel Meteor Lake o AMD Ryzen 8000 la eligen para maximizar el rendimiento. La mayoría confirman la mejora de velocidad en edición, desarrollo y gaming portátil frente a DDR4."
     }
   },
   "mochilas": {
@@ -813,19 +813,19 @@ ENRICHMENTS = {
   },
   "powerbanks": {
     1: {
-      "pros": ["Protector de pantalla 3 en 1 con instalación garantizada sin burbujas", "Material de cristal templado 9H resistente a arañazos cotidianos", "Pack económico con unidades de repuesto para toda la familia"],
-      "cons": ["Solo compatible con modelos de iPhone específicos", "La instalación requiere paciencia para quedar perfectamente colocado"],
-      "user_summary": "Los compradores los adquieren para proteger la pantalla de su iPhone desde el primer momento. La mayoría valoran el pack múltiple que garantiza tener siempre un protector nuevo a mano."
+      "pros": ["Diseño ultradelgado de los más finos del mercado a 10000mAh", "75.000 reseñas avalan su fiabilidad en viajes y uso diario", "3 salidas USB simultáneas para cargar varios dispositivos a la vez", "Linterna LED integrada y entrada USB-C para recarga rápida"],
+      "cons": ["Sin pantalla que muestre el porcentaje exacto de batería restante", "La carga propia de la powerbank puede ser lenta sin cargador rápido"],
+      "user_summary": "Los compradores la eligen por la combinación única de potencia y finura que la hace ideal para bolsillo y viajes. La mayoría se sorprenden de lo delgada que es para 10000mAh y la recomiendan como la mejor opción para llevar a diario."
     },
     2: {
-      "pros": ["SanDisk con 165.000 reseñas que avalan años de fiabilidad contrastada", "Velocidades USB 3.0 rápidas para transferir fotos y documentos", "Tamaño ultracompacto que cabe en cualquier bolsillo o cartera"],
-      "cons": ["La carcasa de plástico puede sufrir arañazos con el uso prolongado", "La tapa de protección del conector puede perderse con facilidad"],
-      "user_summary": "Los compradores la eligen como memoria flash de referencia por su fiabilidad probada. La mayoría la usan para llevar documentos importantes y fotos entre el ordenador, el trabajo y casa."
+      "pros": ["20000mAh para cargar un smartphone hasta 7 veces de media en viaje", "Pantalla LCD con porcentaje exacto de batería restante en todo momento", "Carga rápida 22.5W PD3.0 para smartphones de última generación", "Precio muy competitivo para una powerbank de 20000mAh con pantalla"],
+      "cons": ["El tamaño y peso de 20000mAh la hacen menos cómoda para el bolsillo", "La recarga completa de la propia powerbank tarda varias horas"],
+      "user_summary": "Los compradores que viajan y necesitan cargar varios dispositivos la eligen por la gran capacidad y la pantalla informativa. La mayoría la usan en viajes largos y zonas sin corriente donde saber la batería restante es clave."
     },
     3: {
-      "pros": ["Funda de TPU flexible que protege el iPhone sin añadir volumen excesivo", "Material suave que no raya la pantalla al guardarse en el bolsillo", "Compatible con carga inalámbrica MagSafe y todas las funciones del iPhone"],
-      "cons": ["Protección limitada ante caídas severas por su delgadez", "El material puede acumular polvo en los laterales con el tiempo"],
-      "user_summary": "Los compradores la adquieren como funda fina para quienes quieren proteger el iPhone sin perder la sensación táctil del dispositivo. La mayoría la recomiendan para uso diario cuidadoso donde el estilo importa tanto como la protección."
+      "pros": ["Carga inalámbrica MagSafe para iPhone 12-17 sin cables de ningún tipo", "Salida USB-C 20W para carga con cable además de inalámbrica Qi", "Se adhiere magnéticamente al iPhone mientras lo usas en movimiento", "10000mAh para cargas completas del iPhone con carga inalámbrica integrada"],
+      "cons": ["Carga inalámbrica más lenta que la opción cableada USB-C 20W", "Precio algo superior a powerbanks equivalentes sin carga inalámbrica"],
+      "user_summary": "Los compradores con iPhone que quieren cargar sin cables en movimiento la eligen por la combinación de MagSafe y 10000mAh. La mayoría valoran poder adherirla magnéticamente al iPhone sin enchufar ningún cable."
     }
   },
   "relojes-hombre": {
@@ -847,36 +847,36 @@ ENRICHMENTS = {
   },
   "sillas-gaming": {
     1: {
-      "pros": ["Cartuchos originales HP con calidad de impresión garantizada por la marca", "Pack con negro y color para tener siempre los dos tipos disponibles", "Precio competitivo para cartuchos originales HP con garantía oficial"],
-      "cons": ["Capacidad estándar, no XL, menor rendimiento por cartucho que los XL", "Solo compatibles con impresoras HP que aceptan el modelo 305"],
-      "user_summary": "Los compradores los adquieren para reponer sus impresoras HP con cartuchos originales garantizados. La mayoría prefieren el pack de dos para tener siempre un repuesto y evitar quedarse sin tinta en momentos críticos."
+      "pros": ["Masaje con 6 puntos de vibración para aliviar tensión en largas sesiones", "Reclinación hasta 150° para descansar entre partidas o en el trabajo", "Altura regulable y reposabrazos acolchados adaptativos a cada usuario", "Precio muy competitivo para una silla gaming ergonómica con masaje"],
+      "cons": ["El masaje puede resultar algo ruidoso en sesiones silenciosas de noche", "Los materiales PU de bajo coste pueden desgastarse antes que cuero real"],
+      "user_summary": "Los compradores valoran la combinación de precio y funciones, especialmente el masaje para largas sesiones de gaming y teletrabajo. La mayoría la recomiendan como primera silla gaming ergonómica con masaje por su relación calidad-precio."
     },
     2: {
-      "pros": ["Cable USB-A a USB-C de carga rápida 3.1A con conector reforzado", "Longitud suficiente para cargar cómodamente desde cualquier posición", "Compatible con todos los smartphones Android e iOS con conector USB-C"],
-      "cons": ["La velocidad está limitada por el puerto USB-A del cargador utilizado", "El conector USB-A no es compatible con equipos que solo tienen USB-C"],
-      "user_summary": "Los compradores lo adquieren para cargar sus dispositivos Android desde cargadores y ordenadores con puerto USB-A. La mayoría lo recomiendan por la construcción robusta y la compatibilidad universal."
+      "pros": ["Reposapiés extensible para descanso completo en sesiones largas", "Cojín lumbar con vibración para soporte lumbar activo en el escritorio", "Estructura robusta que soporta hasta 180kg con ruedas silenciosas", "Apoyabrazos 3D regulables en altura, profundidad y anchura"],
+      "cons": ["El montaje puede llevar más de 30 minutos y requiere herramientas", "Ocupa bastante espacio de habitación al reclinarse completamente"],
+      "user_summary": "Los compradores que pasan muchas horas sentados trabajando o jugando la eligen por el reposapiés y el soporte lumbar activo. La mayoría la recomiendan para quienes buscan una silla que cubra tanto trabajo como gaming intensivo."
     },
     3: {
-      "pros": ["Ventilador de mano portátil y recargable para el calor del verano", "Batería USB recargable con autonomía para horas de uso continuo", "Diseño compacto que cabe en el bolso o mochila para llevar a cualquier parte"],
-      "cons": ["La potencia del aire es limitada para ambientes muy calurosos al exterior", "La batería se descarga más rápido en la velocidad máxima"],
-      "user_summary": "Los compradores lo adquieren para combatir el calor en transporte público, oficina o exteriores sin depender de aire acondicionado. La mayoría lo usan en verano y lo consideran imprescindible para viajes y días de mucho calor."
+      "pros": ["Tejido de lino transpirable y fresco para sesiones largas de verano", "Reclinación hasta 155° para posiciones de descanso casi horizontales", "Masaje lumbar y cervical para reducir la tensión acumulada en el cuello", "Ruedas silenciosas de poliuretano que no rayan suelos de madera o parqué"],
+      "cons": ["El tejido de lino puede mancharse con más facilidad que el PU estándar", "Precio algo más elevado que el modelo básico de PU equivalente"],
+      "user_summary": "Los compradores que buscan mayor comodidad térmica respecto al PU estándar la eligen por el tejido de lino transpirable. La mayoría valoran la combinación de transpiración y masaje para sesiones largas de trabajo o gaming."
     }
   },
   "tiras-led": {
     1: {
-      "pros": ["Auriculares TWS Xiaomi con batería total de 36 horas con estuche de carga", "Bluetooth 5.4 con conexión instantánea y sin cortes durante el uso", "Cancelación de ruido pasiva con ajuste cómodo para uso prolongado"],
-      "cons": ["Sin cancelación activa de ruido (ANC) en este modelo de gama entrada", "El volumen máximo podría ser algo más elevado para entornos ruidosos"],
-      "user_summary": "Los compradores los eligen como auriculares TWS de entrada a precio mínimo con excelente relación calidad-precio Xiaomi. La mayoría se sorprenden de la calidad de sonido y la autonomía que ofrecen a su precio."
+      "pros": ["10 metros RGB para decorar habitaciones enteras de una sola tirada", "Modo música sincroniza las luces con el ritmo en tiempo real via micrófono", "Alimentación 24V para colores más uniformes y sin parpadeo visible", "App y mando a distancia incluidos para control sin levantarse del sofá"],
+      "cons": ["La app requiere Bluetooth activo constantemente para control remoto", "La intensidad no es suficiente como iluminación principal de habitación"],
+      "user_summary": "Los compradores la eligen para decorar habitaciones, salones y setups gaming con luz de ambiente RGB controlada por app. La mayoría valoran los 10m que permiten rodear una habitación completa y el modo música que anima el espacio."
     },
     2: {
-      "pros": ["Driver de titanio de 14.2mm con bajos potentes y graves más profundos", "Batería de 37 horas total con estuche USB-C y conexión dual a 2 dispositivos", "Resistencia IP54 al agua y al sudor para deporte y uso en exteriores"],
-      "cons": ["Sin detector de presencia para pausa automática al quitarlos del oído", "Cambiar entre varios dispositivos requiere resetear los auriculares"],
-      "user_summary": "Los compradores los adquieren como upgrade de los modelos anteriores Xiaomi, notando especialmente la mejora en graves y la resistencia al agua IP54. La mayoría los recomiendan para deporte y uso diario exigente."
+      "pros": ["15 metros para cubrir habitaciones grandes o instalaciones perimetrales", "Control Bluetooth sin necesidad de configurar ni usar el WiFi doméstico", "Millones de colores personalizables y modos de efectos predefinidos", "Precio muy asequible para 15 metros con control inteligente por app"],
+      "cons": ["Marca nueva con menos historial de soporte que Govee o TP-Link", "El Bluetooth puede ser menos estable que WiFi en zonas con interferencias"],
+      "user_summary": "Los compradores que necesitan más longitud que la estándar de 10m la eligen para habitaciones grandes o instalaciones largas. La mayoría destacan la facilidad de instalación y el control por app sin necesidad de configurar el WiFi."
     },
     3: {
-      "pros": ["Auriculares Apple con cable USB-C para dispositivos sin jack de 3.5mm", "Micrófono de alta calidad con cancelación de ruido para llamadas nítidas", "Sin problemas de batería ni emparejamiento al ser cableados"],
-      "cons": ["Cableados: sin la libertad de movimiento de unos auriculares inalámbricos", "El ajuste en el oído puede no ser perfecto para todas las anatomías"],
-      "user_summary": "Los compradores los adquieren como solución cableada fiable para iPhone 15, iPad y MacBook con USB-C. La mayoría los valoran por el micrófono excelente para llamadas y la ausencia total de problemas de batería o conexión."
+      "pros": ["Retroiluminación para TV de 50-75 pulgadas que reduce la fatiga ocular", "16 millones de colores con modos gaming, cine y sincronización musical", "Instalación en 5 minutos con adhesivo 3M sin herramientas ni perforar", "Mando 2.4G sin latencia para cambiar colores al instante durante el uso"],
+      "cons": ["Actualmente sin stock disponible en Amazon.es", "La sincronización de color con la TV requiere micrófono, no es automática"],
+      "user_summary": "Los compradores la instalan detrás del televisor para crear una experiencia inmersiva en gaming y películas reduciendo la fatiga ocular. La mayoría destacan el bajo precio para retroiluminar una TV grande y la instalación sin obras ni herramientas."
     }
   },
 }
